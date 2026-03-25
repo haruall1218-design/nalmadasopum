@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+
+<html class="light" lang="ko"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&amp;family=Manrope:wght@300;400;500;600;800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "surface-container-lowest": "#ffffff",
+              "background": "#fffcf7",
+              "on-tertiary-container": "#635445",
+              "inverse-primary": "#ecccab",
+              "tertiary-fixed": "#fde7d3",
+              "on-primary-fixed-variant": "#634d33",
+              "error-container": "#fd795a",
+              "on-error": "#ffffff",
+              "primary-fixed": "#ecccab",
+              "on-primary": "#ffffff",
+              "primary": "#786045",
+              "secondary-dim": "#4c5d46",
+              "surface-container": "#f6f3ed",
+              "on-error-container": "#6e1400",
+              "tertiary-container": "#fde7d3",
+              "surface-tint": "#786045",
+              "inverse-surface": "#0e0e0c",
+              "tertiary": "#716252",
+              "on-primary-fixed": "#443119",
+              "outline-variant": "#bbb9b2",
+              "surface-dim": "#e4e3da",
+              "on-secondary-container": "#465640",
+              "secondary": "#586952",
+              "secondary-fixed": "#d5e8cb",
+              "on-tertiary": "#ffffff",
+              "error-dim": "#791903",
+              "primary-fixed-dim": "#ddbf9e",
+              "on-secondary-fixed": "#34442f",
+              "on-tertiary-fixed-variant": "#6d5e4f",
+              "inverse-on-surface": "#9e9d98",
+              "on-surface-variant": "#65655e",
+              "secondary-fixed-dim": "#c7dabd",
+              "surface": "#fffcf7",
+              "surface-container-highest": "#eae8e0",
+              "primary-container": "#ecccab",
+              "surface-variant": "#eae8e0",
+              "surface-bright": "#fffcf7",
+              "surface-container-high": "#f0eee6",
+              "error": "#ae4025",
+              "on-secondary-fixed-variant": "#4f6049",
+              "surface-container-low": "#fcf9f3",
+              "primary-dim": "#6b543a",
+              "tertiary-fixed-dim": "#eed9c6",
+              "on-primary-container": "#59432a",
+              "tertiary-dim": "#645647",
+              "on-tertiary-fixed": "#504234",
+              "secondary-container": "#d5e8cb",
+              "on-secondary": "#ffffff",
+              "on-surface": "#383833",
+              "on-background": "#383833",
+              "outline": "#81817a"
+            },
+            fontFamily: {
+              "headline": ["Noto Serif"],
+              "body": ["Manrope"],
+              "label": ["Manrope"]
+            },
+            borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+          },
+        },
+      }
+    </script>
+<style>
+        body { font-family: 'Manrope', sans-serif; background-color: #fffcf7; color: #383833; }
+        .font-serif { font-family: 'Noto Serif', serif; }
+        .material-symbols-outlined { font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24; }
+    </style>
+</head>
+<body class="bg-background text-on-surface">
+<!-- Top Navigation Bar -->
+<nav class="fixed top-0 w-full z-50 bg-white/80 backdrop-blur-md transition-opacity duration-300">
+<div class="flex justify-between items-center w-full px-8 py-6 max-w-screen-2xl mx-auto">
+<div class="text-2xl font-serif italic text-stone-900">날마다소품</div>
+<div class="hidden md:flex space-x-12 items-center">
+<a class="text-stone-900 font-semibold border-b border-stone-900 pb-1 font-serif tracking-tight" href="#">Philosophy</a>
+<a class="text-stone-500 font-medium hover:text-stone-800 transition-colors font-serif tracking-tight" href="#">Collections</a>
+<a class="text-stone-500 font-medium hover:text-stone-800 transition-colors font-serif tracking-tight" href="#">Artisans</a>
+<a class="text-stone-500 font-medium hover:text-stone-800 transition-colors font-serif tracking-tight" href="#">Journal</a>
+</div>
+<div class="flex items-center space-x-6">
+<button class="hover:opacity-70 transition-opacity active:scale-95">
+<span class="material-symbols-outlined text-stone-800" data-icon="shopping_bag">shopping_bag</span>
+</button>
+<button class="md:hidden">
+<span class="material-symbols-outlined text-stone-800" data-icon="menu">menu</span>
+</button>
+</div>
+</div>
+</nav>
+<main class="pt-32 pb-24">
+<!-- Hero Section -->
+<section class="max-w-screen-2xl mx-auto px-8 mb-24 md:mb-40">
+<div class="grid grid-cols-1 md:grid-cols-12 gap-12 items-end">
+<div class="md:col-span-7">
+<span class="font-label uppercase tracking-widest text-xs text-primary font-bold mb-6 block">Our Ethos</span>
+<h1 class="font-headline text-5xl md:text-7xl lg:text-8xl leading-tight text-on-surface mb-8">
+                        Finding Beauty in the <span class="italic">Quiet Moments</span>
+</h1>
+</div>
+<div class="md:col-span-5 pb-4">
+<p class="font-body text-lg text-on-surface-variant leading-relaxed max-w-md">
+                        We believe that the objects we surround ourselves with define the pace of our lives. '날마다소품' is a curated sanctuary for items that encourage a slower, more intentional rhythm.
+                    </p>
+</div>
+</div>
+</section>
+<!-- Asymmetric Narrative Section 1: Slow Living -->
+<section class="mb-32 md:mb-56">
+<div class="max-w-screen-2xl mx-auto px-8">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-16 md:gap-32 items-center">
+<div class="relative order-2 md:order-1">
+<div class="aspect-[4/5] bg-surface-container-highest overflow-hidden rounded-lg">
+<img alt="Quiet interior" class="w-full h-full object-cover hover:scale-105 transition-transform duration-700" data-alt="Soft afternoon sunlight filtering through a linen curtain onto a minimalist wooden table with a single ceramic vase and dried flowers" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBtXLrLj0qsRX-GZClTYiqV5u6nDonb2bkCqcx1gEZnrNyYSYFC6YhAPttG4BtnFn55Tf2f_PL6Aw7ld9UdkX-MFnSbnqxbRdkZHuNUfWxpQFohQxrfLV9dXZxFjAmx62MS6DFFCxclEyH3kKTmtDqJVMOD14CZMtHKsJ47aDJ6CXCCV5zQS5nZPaSLpBi8pGqKYj-a8s-Fcqt8OKPOenprrAleQffPFGxIDMG6_NS3W_BKWLhz9c4ktiLl1bDIq7436USScYNeWOY"/>
+</div>
+<div class="absolute -bottom-12 -right-8 hidden lg:block w-64 h-80 bg-surface-container-low p-4 rounded-lg shadow-sm">
+<img alt="Detail shot" class="w-full h-full object-cover rounded-sm" data-alt="Close-up of a hand pouring tea into a small textured ceramic cup with steam rising in a dimly lit room" src="https://lh3.googleusercontent.com/aida-public/AB6AXuA52zY_a_RcDhSLhDhNk9nT3QhCp73D3c7HIK5lWhPMTAyn3UziXTLLNVlc6EkQpwO9_psT9PLaC06dDgM1VcdMpatRqL7uPY9cTNnzLC5yVX31RZZEDWbknbJgVs5C1vvDhEmCViTg4J5W4dqWXNdLhMyhbAqW55VnqjYNQwGxtg0Jwhq34dRTxmdYJBut7z9KdKh-2Evaia2iH9K_BE1xvnbsVdPfGdzZGkZcMU2oXqjXUvO1GvEAl-RS2yLo3fQElp8AaW3URjM"/>
+</div>
+</div>
+<div class="order-1 md:order-2">
+<h2 class="font-headline text-3xl md:text-4xl mb-8 leading-snug">The Ritual of the Everyday</h2>
+<div class="space-y-6 font-body text-on-surface-variant leading-loose">
+<p>Luxury isn't found in excess, but in the quality of our attention. A morning tea ritual, the weight of a hand-thrown bowl, the texture of raw linen—these are the small anchors that keep us present in an increasingly fast-paced world.</p>
+<p>Our collection is a rejection of the disposable. We seek out objects that grow more beautiful with use, developing a patina that tells the story of your life within your home.</p>
+</div>
+<div class="mt-12">
+<a class="inline-flex items-center gap-2 font-label uppercase tracking-widest text-sm font-bold text-primary group" href="#">
+                                Explore Our Journal
+                                <span class="material-symbols-outlined group-hover:translate-x-1 transition-transform" data-icon="arrow_right_alt">arrow_right_alt</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Artisanal Values Grid -->
+<section class="bg-surface-container-low py-24 md:py-40">
+<div class="max-w-screen-2xl mx-auto px-8">
+<div class="text-center mb-24">
+<h2 class="font-headline text-4xl md:text-5xl mb-6">Our Three Pillars</h2>
+<p class="font-body text-on-surface-variant max-w-xl mx-auto">The principles that guide every collaboration and every product we bring into our shop.</p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-12 lg:gap-20">
+<!-- Pillar 1 -->
+<div class="group">
+<div class="mb-8 overflow-hidden rounded-lg bg-surface-container">
+<img alt="Craftsmanship" class="w-full aspect-square object-cover grayscale group-hover:grayscale-0 transition-all duration-500" data-alt="Artisan potter hands covered in wet clay shaping a bowl on a spinning pottery wheel in a sunlit studio" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCGhOmcdxUfehELFySrDd9ZCQA168nlLR-A1y-6qeO-4uMz4EXh206RcuVIxH-HQda_bEBgcAxvjFKdgnsNOG6Otb9CvEN58TC5B_Kh0n1Y6YFJZi8tZ4tWdEUDugeU_qF2_UYjiS5a-YC6DNSBpxmnU96xEOk1lmZgPS6_jdBC1F_w9cOM7b8zBYpjSGKkBfSRXrRKTwj887c-BCAMWuwWhPOnTjxszRwc5guzMkw8BGPhO02cEp4v6vG5BY6F3mvnWAHTIs-O8r4"/>
+</div>
+<h3 class="font-headline text-2xl mb-4">Honest Craft</h3>
+<p class="font-body text-on-surface-variant leading-relaxed">We partner with artisans who honor traditional methods. Every piece carries the visible signature of the human hand, celebrating imperfections as marks of authenticity.</p>
+</div>
+<!-- Pillar 2 -->
+<div class="group mt-8 md:mt-16">
+<div class="mb-8 overflow-hidden rounded-lg bg-surface-container">
+<img alt="Sustainability" class="w-full aspect-square object-cover grayscale group-hover:grayscale-0 transition-all duration-500" data-alt="Stack of high quality natural linen textiles in earthy tones like oatmeal, moss green and charcoal" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCy1AryuVs2pBRZCyEbXI1Sx_ciKlP7BxXNTiPxhSJpNNKajVzVuqwo_b2H-B3XoYC7doJlHA2IHxLHfVPJQdRS6eREtc-V9rqZQgDdtQMLR6--qlqEgDGKoBwYXPe1R0W9SbPzDBcRPh_d6Um9vyOlRs7CDn43hloZqVHc33wezu6UM5KJEAEF_rTF6JI39U3_Jy06z8LPKywQ2ijc1JXutK35fTgnSDFWYbtIGjwvJwhziO3b99wSoA5z70zk6UDcku01rvT0NPc"/>
+</div>
+<h3 class="font-headline text-2xl mb-4">Timeless Material</h3>
+<p class="font-body text-on-surface-variant leading-relaxed">Natural materials breathe. We prioritize wood, clay, stone, and fiber—earthly elements that connect us back to the environment we inhabit.</p>
+</div>
+<!-- Pillar 3 -->
+<div class="group mt-8 md:mt-0">
+<div class="mb-8 overflow-hidden rounded-lg bg-surface-container">
+<img alt="Intentionality" class="w-full aspect-square object-cover grayscale group-hover:grayscale-0 transition-all duration-500" data-alt="Minimalist still life of a single glass carafe with clear water and a green leaf casting soft shadows on a beige wall" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBcELzt1AZfDXdf_xwF0DA1zd6mB99RzlSR5BPabto4M3h7Y_vVnZEz-_7Nqm2oecMXoAlN2UMXpj3bkWLCu77GVqRHjv1XinuFkK59eJl5FcYyNFFEfh9Sn0AsDhZFmm8_PRDeGEUOhN0Lit_2uFJVNGb-OjURV4XDggMl6vsMEwhy4kMqZQppG7mVXvoKdUPoexJ0k6DNmTl_PZO5er0CBHA28gYlFGQy2If3ftqYHPdqcFbQodDvUpvJR-_-Xs_7QvAG3vVQewA"/>
+</div>
+<h3 class="font-headline text-2xl mb-4">Quiet Intent</h3>
+<p class="font-body text-on-surface-variant leading-relaxed">Functionality is a prerequisite, but soul is our standard. We only select items that serve a purpose while bringing a sense of calm to the space they occupy.</p>
+</div>
+</div>
+</div>
+</section>
+<!-- Quote Section -->
+<section class="py-32 md:py-56 overflow-hidden">
+<div class="max-w-screen-xl mx-auto px-8 relative">
+<div class="absolute -top-12 -left-4 text-9xl font-headline text-surface-container-highest opacity-50 select-none">“</div>
+<blockquote class="text-center relative z-10">
+<p class="font-headline text-3xl md:text-5xl lg:text-6xl leading-tight text-on-surface italic mb-12">
+                        The art of living well is simply the art of noticing.
+                    </p>
+<cite class="font-label uppercase tracking-widest text-sm text-primary not-italic">— Brand Philosophy, 2024</cite>
+</blockquote>
+</div>
+</section>
+<!-- Final Narrative: Artisan Spotlight -->
+<section class="max-w-screen-2xl mx-auto px-8 mb-40">
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-16 items-start">
+<div class="lg:col-span-4 sticky top-32">
+<h2 class="font-headline text-4xl mb-8">Meet the Hands</h2>
+<p class="font-body text-on-surface-variant leading-relaxed mb-8">
+                        Behind every object in our collection is a person who spent years mastering their craft. We don't just sell products; we share the legacy of these makers.
+                    </p>
+<button class="bg-primary text-on-primary px-8 py-4 rounded-md font-label uppercase tracking-widest text-sm hover:bg-primary-dim transition-all active:scale-95">
+                        Meet Our Artisans
+                    </button>
+</div>
+<div class="lg:col-span-8 space-y-24">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+<div class="rounded-lg overflow-hidden h-[500px]">
+<img alt="Carpenter workspace" class="w-full h-full object-cover" data-alt="Close up of a carpenter's workspace with wood shavings, a hand plane, and a half-finished oak chair" src="https://lh3.googleusercontent.com/aida-public/AB6AXuB81xzrxBqZyxplvQrWacEBRP_VcsnA6NQKEH5bn85JragxIoMFmjHb8SooW-vcXhkHmgjsUiqw_TmR9BwKn0RXWn7YQLD6xnjxKdmSSZFWNqKd_vQLabXYWdqKYC0U4ZiKqOrdyVrq2eZH4heX0ZjHyla8sHue0GnY0dAGblxG2Ib77VXGZhG5fxI6tNrwfQY2lBsAYklKCiDImOv8_YMVHhr7eQq5XasE0h96bg-iwna6W6m3R_6xVFqFz41w1U586D0alZDjQsQ"/>
+</div>
+<div class="p-4">
+<span class="font-label text-xs uppercase text-primary tracking-widest mb-4 block">Woodworking</span>
+<h4 class="font-headline text-2xl mb-4">The Wood-shaper's Workshop</h4>
+<p class="font-body text-on-surface-variant text-sm leading-relaxed">Our wooden spoons and trays are crafted from sustainably sourced oak in a small workshop in the outskirts of Seoul, where the grain of the wood dictates the final form.</p>
+</div>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+<div class="order-2 md:order-1 p-4 text-right">
+<span class="font-label text-xs uppercase text-primary tracking-widest mb-4 block">Ceramics</span>
+<h4 class="font-headline text-2xl mb-4">Earth and Fire</h4>
+<p class="font-body text-on-surface-variant text-sm leading-relaxed">Fired at high temperatures for durability, our ceramic series features glazes inspired by the colors of the Korean landscape—misty mountains, deep seas, and sun-baked earth.</p>
+</div>
+<div class="order-1 md:order-2 rounded-lg overflow-hidden h-[500px]">
+<img alt="Kiln firing" class="w-full h-full object-cover" data-alt="Artistic blurry shot of a ceramic kiln being opened, revealing glowing orange heat and silhouettes of pottery" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCfzVqRn9cgGeKJGegx8nJs-7Y_UEM3qgbNXa-Moi1esrvmQiyygV4Jb-P-LR4qssE1MgGzt9xicmUW2cCkbD1heOh5P-oWQtOKnPNjYamJ7LHoU73xxFhHs0xCJyD0o6KGEjN317inBtgmQCDouf03G2OUM4zc4ONG_4c2IBX2W_rHntWghXrUcxYqB-Y1EWF7SwEhMntPPxtv_i11Wm6AhTnyP671GrX2yqkU6a-H1AOcjlBTdvCrfQBk22ign_4O8R_O3EVZrrc"/>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+<!-- Footer -->
+<footer class="bg-stone-100 dark:bg-stone-950 w-full py-16 px-8 border-t border-stone-200">
+<div class="grid grid-cols-1 md:grid-cols-3 gap-12 max-w-screen-2xl mx-auto">
+<div>
+<span class="font-serif text-lg mb-4 block">날마다소품</span>
+<p class="font-body text-xs text-stone-500 max-w-xs leading-relaxed">
+                    A curated collection of small things for everyday life. Rooted in the philosophy of slow living and artisanal excellence.
+                </p>
+</div>
+<div class="flex flex-col space-y-4">
+<span class="font-sans uppercase tracking-widest text-[10px] text-stone-700 font-bold mb-2">Connect</span>
+<a class="font-sans uppercase tracking-widest text-[10px] text-stone-500 hover:underline underline-offset-4 transition-all" href="#">Instagram</a>
+<a class="font-sans uppercase tracking-widest text-[10px] text-stone-500 hover:underline underline-offset-4 transition-all" href="#">Pinterest</a>
+</div>
+<div class="flex flex-col space-y-4">
+<span class="font-sans uppercase tracking-widest text-[10px] text-stone-700 font-bold mb-2">Inquiry</span>
+<a class="font-sans uppercase tracking-widest text-[10px] text-stone-500 hover:underline underline-offset-4 transition-all" href="#">Contact</a>
+<a class="font-sans uppercase tracking-widest text-[10px] text-stone-500 hover:underline underline-offset-4 transition-all" href="#">Privacy</a>
+<p class="font-sans uppercase tracking-widest text-[10px] text-stone-500 mt-8">© 2024 날마다소품. All rights reserved.</p>
+</div>
+</div>
+</footer>
+<!-- FAB (Suppressed on this page as per guidelines) -->
+</body></html>
