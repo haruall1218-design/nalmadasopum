@@ -39,7 +39,7 @@ a:hover {
 .header-wrapper,
 .wrapper,
 .footer-wrapper {
-  max-width: 800px; /* 사이트 전체의 최대 너비를 제한하여 PC에서도 글이 예쁘게 모여 보이게 합니다 */
+  max-width: 1300px; /* 사이트 전체의 최대 너비를 제한하여 PC에서도 글이 예쁘게 모여 보이게 합니다 */
   margin: 0 auto;   /* 가운데 정렬 */
   padding: 0 20px;  /* 모바일 화면에서 양옆이 화면에 딱 붙지 않게 여백 주기 */
 }
