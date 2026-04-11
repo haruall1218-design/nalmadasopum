@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "자투리 천으로 만드는 실용적인 미니 파우치"
-date: 2026-004-11
+date: 2026-04-11
 categories: making-note
 ---
 
