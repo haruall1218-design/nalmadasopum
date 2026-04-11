@@ -1,0 +1,26 @@
+---
+layout: default
+title: 브랜드 이야기
+permalink: /category/about/
+---
+
+<section class="category-page">
+  <header class="post-header">
+    <h2 class="post-title">✂️ 브랜드 이야기</h2>
+    <p class="post-meta">브랜드 이야기를 올립니다.</p>
+  </header>
+
+  <br>
+
+  <ul class="post-list">
+    {% for post in site.categories["about"] %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% else %}
+      <p>아직 브랜드 이야기가 없습니다.</p>
+    {% endfor %}
+  </ul>
+
+</section>

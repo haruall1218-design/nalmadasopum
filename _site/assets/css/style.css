@@ -48,14 +48,23 @@ a:hover {
    3. 상단 머리말 (Header & Nav)
 ========================================= */
 .site-header {
+  background-color: #f4f1ea; /* 상단 메뉴 배경색 (따뜻한 오트밀 베이지) */
   border-bottom: 1px solid var(--border-color);
   padding: 20px 0;
-  background-color: #ffffff;
+}
+
+.header-wrapper {
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;                  /* 가로 배치 마법 시작 */
+  align-items: center;            /* 로고와 메뉴의 위아래 중앙 맞춤 */
+  justify-content: space-between; /* 양쪽 끝으로 쫙 밀어내어 예쁜 여백 만들기 */
+  flex-wrap: wrap;                /* 모바일에서 좁으면 자연스럽게 줄바꿈 */
 }
 
 .site-title {
   font-size: 1.5rem;
-  margin-bottom: 10px;
+  margin-bottom: 0; /* 가로 배치이므로 하단 여백 제거 */
 }
 
 .site-title a {
@@ -66,9 +75,9 @@ a:hover {
 
 .site-nav ul {
   list-style: none;
-  display: flex;       /* 메뉴들을 가로로 나란히 배치 */
-  gap: 20px;           /* 메뉴 사이의 간격 */
-  flex-wrap: wrap;     /* 모바일에서 자리가 좁으면 알아서 아랫줄로 넘어가게 함 */
+  display: flex;
+  gap: 20px;
+  margin-bottom: 0;
 }
 
 .site-nav a {
@@ -84,17 +93,30 @@ a:hover {
   font-size: 0.9rem;
 }
 
-.site-nav .shop-link:hover {
-  text-decoration: none;
-  opacity: 0.8;
-}
-
 /* =========================================
    4. 본문 영역 (Main Content & Posts)
 ========================================= */
+body {
+  /* 본문 하얀색 상자가 눈에 띄도록 전체 배경을 아주 살짝 톤다운 */
+  background-color: #ffffff; 
+  font-family: 'Pretendard', -apple-system, sans-serif;
+  color: var(--text-color);
+  line-height: 1.6;
+}
+
 .page-content {
   padding: 40px 0;
-  min-height: 60vh; /* 본문 내용이 적어도 꼬리말이 너무 위로 올라오지 않게 방어 */
+  min-height: 60vh;
+}
+
+/* 본문을 하얀색 둥근 상자(A4 용지 느낌)로 만들어주는 핵심 마법 */
+.page-content .wrapper {
+  background-color: #ffffff; 
+  padding: 40px; 
+  border-radius: 12px; /* 모서리를 부드럽게 */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03); /* 아주 연한 그림자 */
+  margin-top: 20px;
+  margin-bottom: 40px;
 }
 
 .home-intro {
@@ -169,25 +191,59 @@ a:hover {
 .site-footer {
   border-top: 1px solid var(--border-color);
   padding: 40px 0;
-  background-color: #ffffff;
+  background-color: #f4f1ea; /* 상단과 통일감 있게 베이지색으로 맞춤 (원하시면 #fff로 변경 가능) */
   color: #666;
   font-size: 0.9rem;
 }
 
+.footer-wrapper {
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  justify-content: space-between; /* 브랜드 정보는 왼쪽, 링크는 오른쪽 끝으로 밀어내기 */
+  align-items: flex-start;
+  flex-wrap: wrap; 
+}
+
 .footer-info {
-  margin-bottom: 20px;
+  margin-bottom: 0;
 }
 
 .footer-links {
-  margin-bottom: 15px;
+  text-align: right; /* 우측 정렬 */
 }
 
 .footer-links a {
-  margin-right: 15px;
+  margin-left: 20px; /* 링크들 사이의 간격 */
   color: #666;
+  display: inline-block;
+  font-weight: 500;
 }
 
 .copyright {
+  width: 100%; /* 혼자 가로 전체를 차지해서 강제로 아랫줄로 내려가게 만듦 */
+  margin-top: 10px;
   font-size: 0.8rem;
   color: #999;
+  text-align: left; /* 저작권은 중앙 정렬 */
+}
+
+/* =========================================
+   7. 유튜브 영상 반응형 처리
+========================================= */
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 황금비율 */
+  height: 0;
+  overflow: hidden;
+  margin: 30px 0;
+  border-radius: 8px; /* 모서리 둥글게 */
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }

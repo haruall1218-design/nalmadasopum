@@ -26,8 +26,13 @@ layout: default
     <p>[본문 하단 애드센스 광고가 들어갈 자리]</p>
   </div>
 
-  <footer class="post-footer">
-    <a href="/" class="back-to-list">← 목록으로 돌아가기</a>
+  <footer class="post-footer" style="display: flex; gap: 15px; justify-content: center; margin-top: 20px;">
+    
+    {% if page.categories.size > 0 %}
+      <a href="/category/{{ page.categories | first }}/" class="back-to-list">← 카테고리 목록으로</a>
+    {% endif %}
+
+    <a href="/" class="back-to-list">🏠 전체 메인으로</a>
   </footer>
 
 </article>

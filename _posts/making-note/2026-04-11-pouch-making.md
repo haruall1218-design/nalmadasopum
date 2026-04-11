@@ -16,3 +16,17 @@ categories: making-note
 ## 2단계: 꼼꼼하게 재봉틀로 박음질하기
 
 창구멍을 남기고 테두리를 박아줍니다. 모서리 부분은 가위집을 내주어야 뒤집었을 때 모양이 예쁘게 잡힙니다.
+
+## 완성된 미니 파우치 모습입니다!
+
+![파우치 완성 사진](/assets/images/making-note/pouch-001.jpg)
+
+![파우치 완성 사진](/assets/images/making-note/pouch-002.jpg)
+
+
+
+파우치 모서리를 뒤집는 꿀팁은 아래 영상으로 확인해 보세요!
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://youtube.com/shorts/-ZSZLjjos_0?si=jDrfrRjLedkMqSgD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

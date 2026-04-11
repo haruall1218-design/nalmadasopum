@@ -1,0 +1,79 @@
+---
+layout: default
+title: 소소한 일상
+permalink: /category/daily/
+---
+
+<section class="category-page">
+  <header class="post-header">
+    <h2 class="post-title">✂️ 소소한 일상</h2>
+    <p class="post-meta">소소한 일상을 모아둔 공간입니다.</p>
+  </header>
+  <br>
+
+  <ul class="post-list" id="paginated-list">
+    {% for post in site.categories["daily"] %}
+      <li class="post-item">
+        <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% else %}
+      <p>아직 작성된 소소한 일상이 없습니다.</p>
+    {% endfor %}
+  </ul>
+
+  <div class="pagination-container" style="text-align: center; margin-top: 40px; margin-bottom: 20px;">
+    <div id="pagination-numbers"></div>
+  </div>
+
+</section>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+$(document).ready(function() {
+  const limitPerPage = 15; // 한 화면에 보여줄 글의 개수 (원하시면 숫자를 변경하세요)
+  const $postItems = $("#paginated-list .post-item");
+  const totalItems = $postItems.length;
+  const totalPages = Math.ceil(totalItems / limitPerPage);
+
+  // 글이 15개 이하라면 페이지 번호 영역을 아예 숨깁니다.
+  if (totalPages <= 1) {
+    $(".pagination-container").hide();
+    return;
+  }
+
+  // 필요한 만큼 페이지 번호(버튼)를 알아서 생성합니다.
+  for (let i = 1; i <= totalPages; i++) {
+    $("#pagination-numbers").append(
+      $("<button>").addClass("page-num").text(i).attr("data-page", i).css({
+        "margin": "0 5px",
+        "padding": "5px 12px",
+        "border": "1px solid var(--border-color)",
+        "background-color": "#fff",
+        "cursor": "pointer",
+        "border-radius": "4px",
+        "font-family": "inherit"
+      })
+    );
+  }
+
+  // 초기 화면 설정: 첫 번째 페이지(1~15번째 글)만 보여주고 나머지는 숨깁니다.
+  $postItems.hide().slice(0, limitPerPage).show();
+  $(".page-num").first().css({ "background-color": "var(--point-color)", "color": "#fff" });
+
+  // 사용자가 페이지 번호를 클릭했을 때의 부드러운 전환 효과
+  $(".page-num").on("click", function() {
+    // 클릭된 버튼 색상 강조
+    $(".page-num").css({ "background-color": "#fff", "color": "var(--text-color)" });
+    $(this).css({ "background-color": "var(--point-color)", "color": "#fff" });
+
+    // 클릭한 번호에 맞춰서 보여줄 글의 순서를 계산합니다.
+    const currentPage = $(this).data("page");
+    const startIndex = (currentPage - 1) * limitPerPage;
+    const endIndex = startIndex + limitPerPage;
+
+    // 기존 글을 숨기고, 새 글을 자연스럽게(fadeIn) 띄워줍니다.
+    $postItems.hide().slice(startIndex, endIndex).fadeIn(300);
+  });
+});
+</script>
