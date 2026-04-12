@@ -16,10 +16,23 @@
   {% include header.html %}
 
   <main class="page-content" aria-label="Content">
-    <div class="wrapper">
+  {% assign current_cat = page.url %}
+  <div class="wrapper {% if current_cat contains 'making-note' or current_cat contains 'brand-story' or current_cat contains 'daily-life' %}with-sidebar{% endif %}">
+    
+    {% if current_cat contains 'making-note' %}
+      {% include sidebar-making.html %}
+    {% elsif current_cat contains 'brand-story' %}
+      {% include sidebar-brand.html %}
+    {% elsif current_cat contains 'daily-life' %}
+      {% include sidebar-daily.html %}
+    {% endif %}
+
+    <div class="content-area">
       {{ content }}
     </div>
-  </main>
+    
+  </div>
+</main>
 
   {% include footer.html %}
 
