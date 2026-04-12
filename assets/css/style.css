@@ -413,3 +413,36 @@ body {
 #scroll-top-btn:hover {
   background-color: #6b4421; /* 마우스 올렸을 때 조금 더 진해지는 효과 */
 }
+
+/* =========================================
+   언어 선택 스위치 (Language Selector)
+========================================= */
+.lang-selector {
+  display: inline-block;
+  margin: 0 10px;
+  vertical-align: middle;
+  font-family: 'Arial', sans-serif; /* 영문이 깔끔하게 보이도록 */
+}
+
+.lang-selector a {
+  color: #b0a8a0; /* 선택되지 않은 언어는 연한 회색 */
+  font-size: 0.85rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.lang-selector a:hover {
+  color: #8b5a2b; /* 마우스 올리면 갈색으로 진해짐 */
+}
+
+/* 현재 보고 있는 언어 강조 (KOR) */
+.lang-selector a.active {
+  color: #8b5a2b; /* 날마다 소품 포인트 컬러 */
+  font-weight: bold;
+}
+
+.lang-selector .divider {
+  color: #e0d8d0;
+  margin: 0 4px;
+  font-size: 0.8rem;
+}
