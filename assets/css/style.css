@@ -312,3 +312,77 @@ body {
     width: 100%;
   }
 }
+
+/* =========================================
+   상단 검색창 디자인
+========================================= */
+.search-box {
+  position: relative;
+  display: inline-block;
+  margin: 0 15px; /* 양옆 여백 */
+  vertical-align: middle;
+}
+
+#search-input {
+  padding: 8px 15px;
+  border: 1px solid #e0d8d0;
+  border-radius: 20px; /* 둥근 모서리 */
+  outline: none;
+  font-size: 0.9rem;
+  background-color: #fcfbf9;
+  transition: all 0.3s ease;
+  width: 150px; /* 기본 너비 */
+}
+
+#search-input:focus {
+  border-color: #8b5a2b; /* 클릭 시 포인트 컬러 */
+  width: 200px; /* 클릭 시 스르륵 길어지는 효과 */
+  background-color: #fff;
+}
+
+/* 검색 결과 드롭다운 창 */
+#search-results {
+  position: absolute;
+  top: 130%;
+  right: 0;
+  width: 280px;
+  background: #fff;
+  border-radius: 8px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: none; /* 평소엔 숨김 */
+  z-index: 1000;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1); /* 은은한 그림자 */
+  overflow: hidden;
+}
+
+#search-results li {
+  border-bottom: 1px solid #f0f0f0;
+}
+
+#search-results li:last-child {
+  border-bottom: none;
+}
+
+#search-results li a {
+  text-decoration: none;
+  color: #555;
+  display: block;
+  padding: 12px 15px;
+  font-size: 0.9rem;
+  transition: background 0.2s;
+}
+
+#search-results li a:hover {
+  background-color: #fdfaf7;
+  color: #8b5a2b;
+  font-weight: bold;
+}
+
+.no-result {
+  padding: 15px;
+  color: #999;
+  font-size: 0.9rem;
+  text-align: center;
+}

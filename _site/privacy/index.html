@@ -25,6 +25,10 @@
         <li><a href="/category/about/">브랜드 이야기</a></li>
         <li><a href="/category/making-note/">제작 노트</a></li>
         <li><a href="/category/daily/">소소한 일상</a></li>
+
+        <div class="search-box"><input type="text" id="search-input" placeholder="Search">
+          <ul id="search-results"></ul></div>
+
         <li><a href="https://nalmadasopum.kr" target="_blank" class="shop-link">쇼핑몰 구경하기</a></li>
       </ul>
     </nav>
@@ -95,28 +99,52 @@
   </div>
 </footer>
 
-  <script>
+ <script>
 $(document).ready(function() {
+  
+  /* ====================================
+     1. 왼쪽 메뉴 필터링 기능 (제작 노트 등)
+  ==================================== */
   $('.filter-btn').on('click', function(e) {
-    e.preventDefault(); // 링크 클릭 시 화면이 맨 위로 튕기는 현상 방지
-
+    e.preventDefault(); // 링크 클릭 시 화면 위로 튕기는 현상 방지
+    
     var filterValue = $(this).data('filter'); // 클릭한 메뉴의 분류값(파우치, 가방 등) 가져오기
-
-    // 1. 메뉴 스타일 변경 (클릭한 메뉴만 굵게 표시)
+    
+    // 메뉴 스타일 변경 (클릭한 메뉴만 굵게, 날마다 소품 포인트 컬러 적용)
     $('.filter-btn').css({'font-weight': 'normal', 'color': '#666'});
-    $(this).css({'font-weight': 'bold', 'color': '#8b5a2b'}); // 날마다 소품 포인트 컬러
+    $(this).css({'font-weight': 'bold', 'color': '#8b5a2b'});
 
-    // 2. 글 필터링 기능
+    // 글 필터링 작동
     if(filterValue === 'all') {
-      // '전체 보기'를 누르면 모든 글이 서서히 나타남
-      $('.post-item').fadeIn(300); 
+      // '전체 보기' 클릭 시 모든 글 표시
+      $('.post-item').fadeIn(300);
     } else {
-      // 다른 메뉴를 누르면 일단 모든 글을 숨기고
-      $('.post-item').hide(); 
-      // 클릭한 메뉴의 단어(파우치)를 이름표(data-tag)로 가진 글만 서서히 나타남
-      $('.post-item[data-tag*="' + filterValue + '"]').fadeIn(300); 
+      // 다른 메뉴 클릭 시 일치하는 태그(data-tag)를 가진 글만 표시
+      $('.post-item').hide();
+      $('.post-item[data-tag*="' + filterValue + '"]').fadeIn(300);
     }
   });
+
+  /* ====================================
+     2. 상단 검색창 엔터키 기능 (검색 페이지로 이동)
+  ==================================== */
+  $('#search-input').on('keypress', function(e) {
+    // 키보드에서 누른 버튼이 '엔터(번호 13번)'일 때 작동
+    if (e.which == 13) { 
+      e.preventDefault(); // 엔터 쳤을 때 화면이 위로 튕기는 기본 증상 방지
+      
+      var keyword = $(this).val(); // 검색창에 적힌 글자 가져오기
+      
+      if (keyword.length > 0) {
+        // 검색어가 있으면 '/search/' 주소로 검색어를 달고 이동
+        window.location.href = '/search/?keyword=' + encodeURIComponent(keyword);
+      } else {
+        // 검색어가 없으면 경고창 띄우기
+        alert("검색어를 입력해 주세요!");
+      }
+    }
+  });
+
 });
 </script>
 

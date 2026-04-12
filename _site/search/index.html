@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>소소한 일상 - 날마다 소품 Story</title>
+  <title>Search결과 - 날마다 소품 Story</title>
   
   <meta name="description" content="정성스럽게 지은 패브릭 소품과 따뜻한 일상을 기록합니다.">
   
@@ -38,87 +38,54 @@
 
   <main class="page-content" aria-label="Content">
   
-  <div class="wrapper with-sidebar">
+  <div class="wrapper ">
     
-    
-      <aside class="sidebar">
-  <h3 class="sidebar-title">☕ 소소한 일상</h3>
-  <ul class="sidebar-menu">
-    <li><a href="/category/daily/" class="filter-btn" data-filter="all">전체 보기</a></li>
-    <li><a href="#" class="filter-btn" data-filter="오늘의 단상">오늘의 단상</a></li>
-    <li><a href="#" class="filter-btn" data-filter="맛있는 레시피">맛있는 레시피</a></li>
-    <li><a href="#" class="filter-btn" data-filter="어울리는 식단">어울리는 식단</a></li>
-  </ul>
-</aside>
     
 
     <div class="content-area">
-      <section class="category-page">
-  <header class="post-header">
-    <h2 class="post-title">✂️ 소소한 일상</h2>
-    <p class="post-meta">소소한 일상을 모아둔 공간입니다.</p>
-  </header>
-  <br>
+      <div class="search-page-container" style="padding: 40px 20px;">
+  <h2 style="color: #8b5a2b; margin-bottom: 30px; border-bottom: 2px solid #f4ece4; padding-bottom: 10px;">
+    🔍 "<span id="search-keyword"></span>" Search결과
+  </h2>
+  
+  <ul id="search-page-results" class="post-list" style="list-style: none; padding: 0;">
+    </ul>
+</div>
 
-  <ul class="post-list" id="paginated-list">
-    
-      <p>아직 작성된 소소한 일상이 없습니다.</p>
-    
-  </ul>
-
-  <div class="pagination-container" style="text-align: center; margin-top: 40px; margin-bottom: 20px;">
-    <div id="pagination-numbers"></div>
-  </div>
-
-</section>
-
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
 $(document).ready(function() {
-  const limitPerPage = 15; // 한 화면에 보여줄 글의 개수 (원하시면 숫자를 변경하세요)
-  const $postItems = $("#paginated-list .post-item");
-  const totalItems = $postItems.length;
-  const totalPages = Math.ceil(totalItems / limitPerPage);
+  // 1. 주소창에서 방문자가 친 검색어(keyword) 뽑아내기
+  var urlParams = new URLSearchParams(window.location.search);
+  var keyword = urlParams.get('keyword');
 
-  // 글이 15개 이하라면 페이지 번호 영역을 아예 숨깁니다.
-  if (totalPages <= 1) {
-    $(".pagination-container").hide();
-    return;
+  if (keyword) {
+    $('#search-keyword').text(keyword); // 화면 제목에 검색어 표시
+
+    // 2. 장부(search.json) 불러와서 일치하는 글 찾기
+    $.getJSON('/search.json', function(data) {
+      var resultsBox = $('#search-page-results');
+      var query = keyword.toLowerCase();
+
+      var results = data.filter(function(post) {
+        var titleMatch = post.title ? post.title.toLowerCase().indexOf(query) !== -1 : false;
+        var tagMatch = post.tags ? post.tags.toLowerCase().indexOf(query) !== -1 : false;
+        return titleMatch || tagMatch;
+      });
+
+      // 3. 찾은 결과를 본문 화면에 리스트로 뿌려주기
+      if (results.length > 0) {
+        $.each(results, function(index, post) {
+          // 기존 블로그 글 목록 스타일 그대로 적용
+          resultsBox.append('<li style="margin-bottom: 15px;"><a href="' + post.url + '" style="text-decoration: none; color: #555; font-size: 1.1rem; transition: color 0.3s;">' + post.title + '</a></li>');
+        });
+      } else {
+        resultsBox.append('<li style="color: #999;">일치하는 글이 없습니다. 다른 검색어를 입력해 보세요.</li>');
+      }
+    });
+  } else {
+    $('#search-keyword').text("입력없음");
+    $('#search-page-results').append('<li style="color: #999;">검색어를 입력해 주세요.</li>');
   }
-
-  // 필요한 만큼 페이지 번호(버튼)를 알아서 생성합니다.
-  for (let i = 1; i <= totalPages; i++) {
-    $("#pagination-numbers").append(
-      $("<button>").addClass("page-num").text(i).attr("data-page", i).css({
-        "margin": "0 5px",
-        "padding": "5px 12px",
-        "border": "1px solid var(--border-color)",
-        "background-color": "#fff",
-        "cursor": "pointer",
-        "border-radius": "4px",
-        "font-family": "inherit"
-      })
-    );
-  }
-
-  // 초기 화면 설정: 첫 번째 페이지(1~15번째 글)만 보여주고 나머지는 숨깁니다.
-  $postItems.hide().slice(0, limitPerPage).show();
-  $(".page-num").first().css({ "background-color": "var(--point-color)", "color": "#fff" });
-
-  // 사용자가 페이지 번호를 클릭했을 때의 부드러운 전환 효과
-  $(".page-num").on("click", function() {
-    // 클릭된 버튼 색상 강조
-    $(".page-num").css({ "background-color": "#fff", "color": "var(--text-color)" });
-    $(this).css({ "background-color": "var(--point-color)", "color": "#fff" });
-
-    // 클릭한 번호에 맞춰서 보여줄 글의 순서를 계산합니다.
-    const currentPage = $(this).data("page");
-    const startIndex = (currentPage - 1) * limitPerPage;
-    const endIndex = startIndex + limitPerPage;
-
-    // 기존 글을 숨기고, 새 글을 자연스럽게(fadeIn) 띄워줍니다.
-    $postItems.hide().slice(startIndex, endIndex).fadeIn(300);
-  });
 });
 </script>
     </div>
