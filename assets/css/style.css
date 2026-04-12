@@ -112,9 +112,7 @@ body {
 /* 본문을 하얀색 둥근 상자(A4 용지 느낌)로 만들어주는 핵심 마법 */
 .page-content .wrapper {
   background-color: #ffffff; 
-  padding: 40px; 
   border-radius: 12px; /* 모서리를 부드럽게 */
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03); /* 아주 연한 그림자 */
   margin-top: 20px;
   margin-bottom: 40px;
 }

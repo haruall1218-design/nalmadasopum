@@ -12,14 +12,15 @@ permalink: /category/about/
 
   <br>
 
-  <ul class="post-list">
+
+  <ul class="post-list" id="paginated-list">
     {% for post in site.categories["about"] %}
-      <li>
+      <li class="post-item" data-tag="{{ post.tags | join: ' ' }}">
         <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
     {% else %}
-      <p>아직 브랜드 이야기가 없습니다.</p>
+      <p>아직 작성된 소소한 일상이 없습니다.</p>
     {% endfor %}
   </ul>
 

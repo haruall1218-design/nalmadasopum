@@ -17,7 +17,7 @@
   <div class="header-wrapper">
     
     <h1 class="site-title">
-      <a href="/">날마다 소품 Story</a>
+      <a href="/">날마다 소품 Story</a> </h1>
     </h1>
 
     <nav class="site-nav">
@@ -25,8 +25,7 @@
         <li><a href="/category/about/">브랜드 이야기</a></li>
         <li><a href="/category/making-note/">제작 노트</a></li>
         <li><a href="/category/daily/">소소한 일상</a></li>
-        
-        <li><a href="https://nalmadasopum.kr/" target="_blank" class="shop-link">쇼핑몰 구경하기</a></li>
+        <li><a href="https://nalmadasopum.kr" target="_blank" class="shop-link">쇼핑몰 구경하기</a></li>
       </ul>
     </nav>
     
@@ -34,7 +33,12 @@
 </header>
 
   <main class="page-content" aria-label="Content">
-    <div class="wrapper">
+  
+  <div class="wrapper ">
+    
+    
+
+    <div class="content-area">
       <section class="page-container" style="padding: 40px 20px; max-width: 800px; margin: 0 auto;">
   <header class="post-header" style="margin-bottom: 30px; border-bottom: 2px solid var(--border-color); padding-bottom: 10px;">
     <h2 class="post-title" style="color: var(--point-color);">개인정보처리방침</h2>
@@ -66,7 +70,9 @@
   </div>
 </section>
     </div>
-  </main>
+    
+  </div>
+</main>
 
   <footer class="site-footer">
   <div class="footer-wrapper">
@@ -88,6 +94,31 @@
 
   </div>
 </footer>
+
+  <script>
+$(document).ready(function() {
+  $('.filter-btn').on('click', function(e) {
+    e.preventDefault(); // 링크 클릭 시 화면이 맨 위로 튕기는 현상 방지
+
+    var filterValue = $(this).data('filter'); // 클릭한 메뉴의 분류값(파우치, 가방 등) 가져오기
+
+    // 1. 메뉴 스타일 변경 (클릭한 메뉴만 굵게 표시)
+    $('.filter-btn').css({'font-weight': 'normal', 'color': '#666'});
+    $(this).css({'font-weight': 'bold', 'color': '#8b5a2b'}); // 날마다 소품 포인트 컬러
+
+    // 2. 글 필터링 기능
+    if(filterValue === 'all') {
+      // '전체 보기'를 누르면 모든 글이 서서히 나타남
+      $('.post-item').fadeIn(300); 
+    } else {
+      // 다른 메뉴를 누르면 일단 모든 글을 숨기고
+      $('.post-item').hide(); 
+      // 클릭한 메뉴의 단어(파우치)를 이름표(data-tag)로 가진 글만 서서히 나타남
+      $('.post-item[data-tag*="' + filterValue + '"]').fadeIn(300); 
+    }
+  });
+});
+</script>
 
 </body>
 </html>

@@ -3,6 +3,7 @@ layout: post
 title: "자투리 천으로 만드는 실용적인 미니 파우치"
 date: 2026-04-11
 categories: making-note
+tags: [파우치]
 ---
 
 날씨가 쌀쌀해지면 가장 먼저 생각나는 것이 도톰하고 포근한 누빔 원단이죠. 
