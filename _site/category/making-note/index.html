@@ -129,6 +129,7 @@ $(document).ready(function() {
     
   </div>
 </main>
+  <a href="#" id="scroll-top-btn" title="맨 위로 가기">↑</a>
 
   <footer class="site-footer">
   <div class="footer-wrapper">
@@ -195,6 +196,28 @@ $(document).ready(function() {
         alert("검색어를 입력해 주세요!");
       }
     }
+  });
+
+  /* ====================================
+     3. 위로 가기 버튼 (Scroll to Top) 기능
+  ==================================== */
+  // 화면을 스크롤할 때마다 실행
+  $(window).scroll(function() {
+    // 위에서부터 300px 이상 스크롤을 내리면
+    if ($(this).scrollTop() > 300) {
+      $('#scroll-top-btn').fadeIn(300); // 버튼 스르륵 나타남
+    } else {
+      $('#scroll-top-btn').fadeOut(300); // 다시 맨 위로 가면 스르륵 사라짐
+    }
+  });
+
+  // 버튼을 클릭했을 때 실행
+  $('#scroll-top-btn').click(function(e) {
+    e.preventDefault(); // 링크 기본 성질(위로 튕김) 방지
+    
+    // 0.4초(400ms) 동안 화면 맨 위(scrollTop: 0)로 부드럽게 올라가기
+    $('html, body').animate({scrollTop: 0}, 400); 
+    return false;
   });
 
 });
