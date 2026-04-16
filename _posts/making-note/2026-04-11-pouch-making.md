@@ -29,5 +29,11 @@ Leave a window hole and put a frame in it. You have to give out scissors to make
 Check out the video below for tips on turning the corner of the pouch upside down!
 
 <div class="video-container">
-  <iframe width="560" height="315" src="https://youtube.com/shorts/-ZSZLjjos_0?si=jDrfrRjLedkMqSgD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/-ZSZLjjos_0" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
 </div>
