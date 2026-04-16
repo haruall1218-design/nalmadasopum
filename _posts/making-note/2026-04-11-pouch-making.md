@@ -1,24 +1,23 @@
 ---
 layout: post
-title: "a practical mini pouch made from scraps of cloth"
+title: "자투리 천으로 만드는 실용적인 미니 파우치"
 date: 2026-04-11
-categories: making-note
+categories: 
 tags: [pouch]
 ---
 
-When the weather gets chilly, the first thing that comes to mind is thick and cozy quilted fabric.
-Today, I'm going to make a practical pouch that fits in a bag using a piece of cloth.
 
-## Step 1: Cut the lining and outer layers
+날씨가 쌀쌀해지면 가장 먼저 생각나는 것이 도톰하고 포근한 누빔 원단이죠. 
+오늘은 자투리 천을 활용해서 가방 속에 쏙 들어가는 실용적인 파우치를 만들어보려고 합니다.
 
-Cut it with about 1cm more spare than you want.
-It is important to match the texture so that the pattern of the fabric is not distorted.
+## 1단계: 안감과 겉감 재단하기
 
-## Step 2: Sewing meticulously with a sewing machine
+원하는 크기보다 시접을 1cm 정도 여유 있게 남기고 잘라주세요. 
+원단의 무늬가 삐뚤어지지 않게 결을 맞추는 것이 중요합니다.
 
-Leave a window hole and put a frame in it. You have to give out scissors to make the corners look pretty when turned upside down.
+## 2단계: 꼼꼼하게 재봉틀로 박음질하기
 
-## This is the complete mini pouch look!
+창구멍을 남기고 테두리를 박아줍니다. 모서리 부분은 가위집을 내주어야 뒤집었을 때 
 
 ![A picture of the pouch]({{ site.kor_url }}/assets/images/making-note/pouch-001.jpg)
 
@@ -26,7 +25,6 @@ Leave a window hole and put a frame in it. You have to give out scissors to make
 
 
 
-Check out the video below for tips on turning the corner of the pouch upside down!
 
 <div class="video-container">
   <iframe width="560" height="315" 
