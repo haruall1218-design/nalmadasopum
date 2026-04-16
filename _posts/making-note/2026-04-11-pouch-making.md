@@ -20,9 +20,9 @@ tags: [파우치]
 
 ## 완성된 미니 파우치 모습입니다!
 
-![파우치 완성 사진](/assets/images/making-note/pouch-001.jpg)
+![A picture of the pouch]({{ site.kor_url }}/assets/images/making-note/pouch-001.jpg)
 
-![파우치 완성 사진](/assets/images/making-note/pouch-002.jpg)
+![A picture of the pouch]({{ site.kor_url }}/assets/images/making-note/pouch-002.jpg)
 
 
 
