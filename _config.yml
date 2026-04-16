@@ -1,5 +1,5 @@
 # 블로그 환경설정 (이 파일을 수정하면 터미널에서 jekyll serve를 껐다가 켜야 적용됩니다)
-title: 날마다 소품 Story
+title: Nalmada Sopum Story (Everyday prop story)
 url: "https://haruall1218-design.github.io/" # 본인의 깃허브 아이디로 변경하세요!
 baseurl: "" # 본인의 깃허브 저장소 이름이 맞는지 확인하세요!
 
