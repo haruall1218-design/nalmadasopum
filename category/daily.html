@@ -11,8 +11,34 @@ permalink: /category/daily/
   </header>
   <br>
 
+<!--상단 이미지 3개 나오는 부분-->
+<section class="recent-stories">
+  <div class="section-header">
+    <h2>소소한 일상 최근 이야기</h2>
+  </div>
+
+  
+  <div class="stories-grid">
+    {% assign daily_posts = site.categories['daily'] %}
+    {% for post in daily_posts limit:3 %}
+    <article class="story-card">
+      <a href="{{ post.url }}" class="card-image">
+        <img src="{{ site.kor_url }}{{ post.image | default: '/assets/images/default.jpg' }}" alt="{{ post.title }}">
+      </a>
+      <div class="card-meta">
+        <span class="date">{{ post.date | date: "%Y년 %m월 %d일" }}</span>
+      </div>
+      <h3 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <p class="card-excerpt">{{ post.excerpt | strip_html | truncate: 60 }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<br><br>
+ <!--최근 글 리스트 부분-->
   <ul class="post-list" id="paginated-list">
-    {% for post in site.categories["daily"] %}
+    {% for post in site.categories["daily"] offset:3 %}
       <li class="post-item" data-tag="{{ post.tags | join: ' ' }}">
         <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
         <a href="{{ post.url }}">{{ post.title }}</a>

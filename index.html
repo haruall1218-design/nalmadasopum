@@ -27,3 +27,46 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
   </ul>
   
 </section>
+
+<div class="home-wrapper">
+  {% assign latest_post = site.posts[0] %}
+  <section class="hero-section">
+    <div class="hero-image-wrap">
+      <img src="{{ site.kor_url }}{{ latest_post.image | default: '/assets/images/default.jpg' }}" alt="{{ latest_post.title }}">
+      <div class="hero-quote">
+        "The warmth of a handmade moment remains in the texture of the fabric."
+      </div>
+    </div>
+    
+    <div class="hero-content">
+      <span class="hero-label">ATELIER NOTES</span>
+      <h1 class="hero-title"><a href="{{ latest_post.url }}">{{ latest_post.title }}</a></h1>
+      <p class="hero-desc">{{ latest_post.excerpt | strip_html | truncatewords: 20 }}</p>
+      <a href="{{ latest_post.url }}" class="hero-btn">EXPLORE STORIES &rarr;</a>
+    </div>
+  </section>
+
+  <section class="recent-stories">
+    <div class="section-header">
+      <h2>Recently Posted Stories</h2>
+      <a href="/archive" class="view-all">VIEW ALL ARCHIVE</a>
+    </div>
+
+    <div class="stories-grid">
+      {% for post in site.posts limit:3 offset:1 %}
+      <article class="story-card">
+        <a href="{{ post.url }}" class="card-image">
+          <img src="{{ site.kor_url }}{{ post.image | default: '/assets/images/default.jpg' }}" alt="{{ post.title }}">
+        </a>
+        <div class="card-meta">
+          <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+          <span class="divider">-</span>
+          <span class="category">{{ post.categories | first | upcase }}</span>
+        </div>
+        <h3 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p class="card-excerpt">{{ post.excerpt | strip_html | truncate: 60 }}</p>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+</div>

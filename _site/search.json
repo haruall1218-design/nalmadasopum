@@ -1,10 +1,17 @@
 [
   
   {
+    "title"    : "비 오는 금요일 저녁, 따뜻한 한 상",
+    "category" : null,
+    "tags"     : "오늘의 단상",
+    "url"      : "/daily/2026/04/17/rainy-day.html"
+  },
+  
+  {
     "title"    : "자투리 천으로 만드는 실용적인 미니 파우치",
     "category" : null,
     "tags"     : "pouch",
-    "url"      : "/2026/04/11/pouch-making.html"
+    "url"      : "/making-note/2026/04/11/pouch-making.html"
   }
   
 ]
