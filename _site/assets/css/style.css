@@ -143,6 +143,10 @@ body {
   margin-right: 15px;
 }
 
+.post-category {
+  color: #845df1; font-size: 0.9em; margin-right: 5px; 
+}
+
 /* 개별 포스팅 화면 디자인 */
 .post-header {
   margin-bottom: 30px;

@@ -3,8 +3,9 @@ layout: post
 title: "자투리 천으로 만드는 실용적인 미니 파우치"
 date: 2026-04-11
 categories: making-note
-tags: [pouch]
-image: "/assets/images/making-note/pouch-001.jpg"
+main_menu: "제작 노트"    # 화면에 표시될 대분류 한글 메뉴명
+tags: [파우치]            # 2차 메뉴의 메뉴명이 아닌 tags명
+image: "/assets/images/making-note/pouch-001.jpg"      # 최근 글보기에 보여줄 이미지
 ---
 
 

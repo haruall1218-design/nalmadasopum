@@ -61,20 +61,151 @@
     <div class="content-area">
       <section class="category-page">
   <header class="post-header">
-    <h2 class="post-title">✂️ Brnad story</h2>
-    <p class="post-meta">브랜드 이야기를 올립니다.</p>
+    <h2 class="post-title">브랜드 스토리</h2>
+    <p class="post-meta">브랜드 스토리을 모아둔 공간입니다.</p>
   </header>
-
   <br>
 
+  <section class="recent-stories"> <!--이미지 3개-->
+    <div class="section-header">
+      <h2>브랜드 스토리 최근 이야기</h2>
+    </div>
+    
+    <div class="stories-grid"> 
+      
+      
+    </div>
+  </section>
 
-  <ul class="post-list" id="paginated-list">
+  <br><br>
+
+  <ul class="post-list" id="paginated-list"> <!--리스트 15개-->
     
       <p>Nothing has been written yet.</p>
     
   </ul>
 
+  <div class="pagination-container" style="text-align: center; margin-top: 40px; margin-bottom: 20px;">
+    <div id="pagination-numbers"></div>
+  </div>
+
 </section>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+$(document).ready(function() {
+  const limitPerPage = 15; // 텍스트 리스트 한 페이지에 보여줄 개수
+
+  // 1. 핵심 필터링 함수
+  function applyFilter(rawTargetTag) {
+    // 💡 핵심 해결책: 메뉴에서 넘어온 띄어쓰기를 하이픈(-)으로 강제 변환하여 짝을 맞춰줍니다!
+    const targetTag = rawTargetTag === 'all' ? 'all' : rawTargetTag.replace(/\s+/g, '-');
+
+    let topGridCount = 0;
+    let bottomListItems = [];
+
+    // [상단 이미지 3개 처리]
+    $('.stories-grid .story-card').each(function() {
+      const tag = $(this).attr('data-tag');
+      
+      if (targetTag === 'all' || tag === targetTag) {
+        if (topGridCount < 3) {
+          $(this).show(); 
+          topGridCount++;
+        } else {
+          $(this).hide();
+        }
+      } else {
+        $(this).hide();
+      }
+    });
+
+    // [하단 텍스트 리스트 처리]
+    let bottomCount = 0;
+    $('.post-list .post-item').each(function() {
+      const tag = $(this).attr('data-tag');
+
+      if (targetTag === 'all' || tag === targetTag) {
+        if (bottomCount < 3) {
+          // 처음 3개는 상단 이미지로 보여줬으니 텍스트 리스트에서는 숨김
+          $(this).hide();
+          $(this).removeClass('active-item');
+        } else {
+          // 4번째 글부터 텍스트 리스트 바구니에 담기
+          $(this).addClass('active-item');
+          bottomListItems.push(this);
+        }
+        bottomCount++;
+      } else {
+        $(this).hide();
+        $(this).removeClass('active-item');
+      }
+    });
+
+    updatePagination(bottomListItems);
+  }
+
+  // 2. 페이지 번호 생성 및 동작 함수
+  function updatePagination(items) {
+    const totalItems = items.length;
+    const totalPages = Math.ceil(totalItems / limitPerPage);
+    const $paginationContainer = $(".pagination-container");
+    const $paginationNumbers = $("#pagination-numbers");
+
+    $paginationNumbers.empty();
+
+    if (totalPages <= 1) {
+      $paginationContainer.hide();
+      $(items).show();
+      return;
+    }
+
+    $paginationContainer.show();
+
+    for (let i = 1; i <= totalPages; i++) {
+      $paginationNumbers.append(
+        $("<button>").addClass("page-num").text(i).attr("data-page", i).css({
+          "margin": "0 5px",
+          "padding": "5px 12px",
+          "border": "1px solid var(--border-color)",
+          "background-color": "#fff",
+          "cursor": "pointer",
+          "border-radius": "4px",
+          "font-family": "inherit"
+        })
+      );
+    }
+
+    $(items).hide().slice(0, limitPerPage).show();
+    $(".page-num").first().css({ "background-color": "var(--point-color)", "color": "#fff" });
+
+    $(".page-num").on("click", function() {
+      $(".page-num").css({ "background-color": "#fff", "color": "var(--text-color)" });
+      $(this).css({ "background-color": "var(--point-color)", "color": "#fff" });
+
+      const currentPage = $(this).data("page");
+      const startIndex = (currentPage - 1) * limitPerPage;
+      const endIndex = startIndex + limitPerPage;
+
+      $(items).hide().slice(startIndex, endIndex).fadeIn(300);
+    });
+  }
+
+  // 처음에 화면이 열릴 때 자동으로 '전체(all)' 기준으로 세팅
+  applyFilter('all');
+
+  // 왼쪽 메뉴 버튼을 눌렀을 때 작동
+  $('.filter-btn').on('click', function(e) {
+    const targetTag = $(this).attr('data-filter');
+    if(targetTag) {
+        e.preventDefault();
+        applyFilter(targetTag);
+    }
+  });
+
+});
+</script>
     </div>
     
   </div>

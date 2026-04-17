@@ -6,15 +6,43 @@ permalink: /category/making-note/
 
 <section class="category-page">
   <header class="post-header">
-    <h2 class="post-title">✂️ Making Note</h2>
-    <p class="post-meta">패브릭 소품을 만드는 과정과 소소한 팁을 모아둔 공간입니다.</p>
+    <h2 class="post-title">제작 노트</h2>
+    <p class="post-meta">제작 노트을 모아둔 공간입니다.</p>
   </header>
   <br>
 
-  <ul class="post-list" id="paginated-list">
+  <section class="recent-stories"> <!--이미지 3개-->
+    <div class="section-header">
+      <h2>제작노트 최근 이야기</h2>
+    </div>
+    
+    <div class="stories-grid">
+      {% assign daily_posts = site.categories['making-note'] %}
+      {% for post in daily_posts %}
+      <article class="story-card" data-tag="{{ post.tags.first | replace: ' ', '-' }}" style="display: none;">
+        <a href="{{ post.url }}" class="card-image">
+          <img src="{{ site.kor_url }}{{ post.image | default: '/assets/images/default.jpg' }}" alt="{{ post.title }}">
+        </a>
+        <div class="card-meta">
+          <span class="date">{{ post.date | date: "%Y년 %m월 %d일" }}</span>
+        </div>
+        <h3 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <br><br>
+
+  <ul class="post-list" id="paginated-list"> <!--리스트 15개-->
     {% for post in site.categories["making-note"] %}
-      <li class="post-item" data-tag="{{ post.tags | join: ' ' }}">
+      <li class="post-item" data-tag="{{ post.tags.first | replace: ' ', '-' }}" style="display: none;">
         <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+
+        <span class="post-category">
+          [{{ post.main_menu }}
+          {% if post.tags.size > 0 %} - {{ post.tags.first }}{% endif %}]
+        </span>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
     {% else %}
@@ -29,51 +57,117 @@ permalink: /category/making-note/
 </section>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
 <script>
 $(document).ready(function() {
-  const limitPerPage = 15; // 한 화면에 보여줄 글의 개수 (원하시면 숫자를 변경하세요)
-  const $postItems = $("#paginated-list .post-item");
-  const totalItems = $postItems.length;
-  const totalPages = Math.ceil(totalItems / limitPerPage);
+  const limitPerPage = 15; // 텍스트 리스트 한 페이지에 보여줄 개수
 
-  // 글이 15개 이하라면 페이지 번호 영역을 아예 숨깁니다.
-  if (totalPages <= 1) {
-    $(".pagination-container").hide();
-    return;
+  // 1. 핵심 필터링 함수
+  function applyFilter(rawTargetTag) {
+    // 💡 핵심 해결책: 메뉴에서 넘어온 띄어쓰기를 하이픈(-)으로 강제 변환하여 짝을 맞춰줍니다!
+    const targetTag = rawTargetTag === 'all' ? 'all' : rawTargetTag.replace(/\s+/g, '-');
+
+    let topGridCount = 0;
+    let bottomListItems = [];
+
+    // [상단 이미지 3개 처리]
+    $('.stories-grid .story-card').each(function() {
+      const tag = $(this).attr('data-tag');
+      
+      if (targetTag === 'all' || tag === targetTag) {
+        if (topGridCount < 3) {
+          $(this).show(); 
+          topGridCount++;
+        } else {
+          $(this).hide();
+        }
+      } else {
+        $(this).hide();
+      }
+    });
+
+    // [하단 텍스트 리스트 처리]
+    let bottomCount = 0;
+    $('.post-list .post-item').each(function() {
+      const tag = $(this).attr('data-tag');
+
+      if (targetTag === 'all' || tag === targetTag) {
+        if (bottomCount < 3) {
+          // 처음 3개는 상단 이미지로 보여줬으니 텍스트 리스트에서는 숨김
+          $(this).hide();
+          $(this).removeClass('active-item');
+        } else {
+          // 4번째 글부터 텍스트 리스트 바구니에 담기
+          $(this).addClass('active-item');
+          bottomListItems.push(this);
+        }
+        bottomCount++;
+      } else {
+        $(this).hide();
+        $(this).removeClass('active-item');
+      }
+    });
+
+    updatePagination(bottomListItems);
   }
 
-  // 필요한 만큼 페이지 번호(버튼)를 알아서 생성합니다.
-  for (let i = 1; i <= totalPages; i++) {
-    $("#pagination-numbers").append(
-      $("<button>").addClass("page-num").text(i).attr("data-page", i).css({
-        "margin": "0 5px",
-        "padding": "5px 12px",
-        "border": "1px solid var(--border-color)",
-        "background-color": "#fff",
-        "cursor": "pointer",
-        "border-radius": "4px",
-        "font-family": "inherit"
-      })
-    );
+  // 2. 페이지 번호 생성 및 동작 함수
+  function updatePagination(items) {
+    const totalItems = items.length;
+    const totalPages = Math.ceil(totalItems / limitPerPage);
+    const $paginationContainer = $(".pagination-container");
+    const $paginationNumbers = $("#pagination-numbers");
+
+    $paginationNumbers.empty();
+
+    if (totalPages <= 1) {
+      $paginationContainer.hide();
+      $(items).show();
+      return;
+    }
+
+    $paginationContainer.show();
+
+    for (let i = 1; i <= totalPages; i++) {
+      $paginationNumbers.append(
+        $("<button>").addClass("page-num").text(i).attr("data-page", i).css({
+          "margin": "0 5px",
+          "padding": "5px 12px",
+          "border": "1px solid var(--border-color)",
+          "background-color": "#fff",
+          "cursor": "pointer",
+          "border-radius": "4px",
+          "font-family": "inherit"
+        })
+      );
+    }
+
+    $(items).hide().slice(0, limitPerPage).show();
+    $(".page-num").first().css({ "background-color": "var(--point-color)", "color": "#fff" });
+
+    $(".page-num").on("click", function() {
+      $(".page-num").css({ "background-color": "#fff", "color": "var(--text-color)" });
+      $(this).css({ "background-color": "var(--point-color)", "color": "#fff" });
+
+      const currentPage = $(this).data("page");
+      const startIndex = (currentPage - 1) * limitPerPage;
+      const endIndex = startIndex + limitPerPage;
+
+      $(items).hide().slice(startIndex, endIndex).fadeIn(300);
+    });
   }
 
-  // 초기 화면 설정: 첫 번째 페이지(1~15번째 글)만 보여주고 나머지는 숨깁니다.
-  $postItems.hide().slice(0, limitPerPage).show();
-  $(".page-num").first().css({ "background-color": "var(--point-color)", "color": "#fff" });
+  // 처음에 화면이 열릴 때 자동으로 '전체(all)' 기준으로 세팅
+  applyFilter('all');
 
-  // 사용자가 페이지 번호를 클릭했을 때의 부드러운 전환 효과
-  $(".page-num").on("click", function() {
-    // 클릭된 버튼 색상 강조
-    $(".page-num").css({ "background-color": "#fff", "color": "var(--text-color)" });
-    $(this).css({ "background-color": "var(--point-color)", "color": "#fff" });
-
-    // 클릭한 번호에 맞춰서 보여줄 글의 순서를 계산합니다.
-    const currentPage = $(this).data("page");
-    const startIndex = (currentPage - 1) * limitPerPage;
-    const endIndex = startIndex + limitPerPage;
-
-    // 기존 글을 숨기고, 새 글을 자연스럽게(fadeIn) 띄워줍니다.
-    $postItems.hide().slice(startIndex, endIndex).fadeIn(300);
+  // 왼쪽 메뉴 버튼을 눌렀을 때 작동
+  $('.filter-btn').on('click', function(e) {
+    const targetTag = $(this).attr('data-filter');
+    if(targetTag) {
+        e.preventDefault();
+        applyFilter(targetTag);
+    }
   });
+
 });
 </script>

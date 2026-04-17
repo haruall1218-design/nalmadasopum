@@ -14,19 +14,7 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
   <p>[애드센스 디스플레이 광고가 들어갈 자리]</p>
 </div>
 
-<section class="recent-posts">
-  <h3>최근 올라온 이야기</h3>
-  
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-  
-</section>
+
 
 <div class="home-wrapper">
   {% assign latest_post = site.posts[0] %}
@@ -70,3 +58,24 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
     </div>
   </section>
 </div>
+
+
+<section class="recent-posts">
+  <h3>최근 올라온 이야기</h3>
+  
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+
+        <span class="post-category" > <!--대분류-소분류 나타내기-->
+          [{{ post.main_menu }}
+          {% if post.tags.size > 0 %} - {{ post.tags.first }}{% endif %}]
+        </span>
+
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+  
+</section>

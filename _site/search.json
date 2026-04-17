@@ -8,9 +8,23 @@
   },
   
   {
+    "title"    : "비지찌개 만들기",
+    "category" : null,
+    "tags"     : "맛있는 레시피",
+    "url"      : "/daily/2026/04/17/bizi.html"
+  },
+  
+  {
+    "title"    : "베스트 식단",
+    "category" : null,
+    "tags"     : "어울리는 식단",
+    "url"      : "/daily/2026/04/17/best.html"
+  },
+  
+  {
     "title"    : "자투리 천으로 만드는 실용적인 미니 파우치",
     "category" : null,
-    "tags"     : "pouch",
+    "tags"     : "파우치",
     "url"      : "/making-note/2026/04/11/pouch-making.html"
   }
   
