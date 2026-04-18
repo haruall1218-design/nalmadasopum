@@ -4,25 +4,14 @@ title: 환영합니다
 description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 일상 이야기를 나눕니다.
 ---
 
-<section class="home-intro">
-  <h2>손끝에서 피어나는 따뜻한 이야기  🧵</h2>
-  <p>안녕하세요! '날마다 소품 Story'에 오신 것을 환영합니다.</p>
-  <p>이곳에서는 저희가 정성껏 만드는 패브릭 소품의 제작 과정, 원단 고르는 팁, 그리고 소소한 일상을 기록합니다.</p>
-</section>
-
-<div class="ad-space ad-home-middle">
-  <p>[애드센스 디스플레이 광고가 들어갈 자리]</p>
-</div>
-
-
-
 <div class="home-wrapper">
+
   {% assign latest_post = site.posts[0] %}
   <section class="hero-section">
     <div class="hero-image-wrap">
       <img src="{{ site.kor_url }}{{ latest_post.image | default: '/assets/images/default.jpg' }}" alt="{{ latest_post.title }}">
       <div class="hero-quote">
-        "The warmth of a handmade moment remains in the texture of the fabric."
+        "The warmth of a handmade moment<br>remains in the texture of the fabric."
       </div>
     </div>
     
@@ -30,9 +19,10 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
       <span class="hero-label">ATELIER NOTES</span>
       <h1 class="hero-title"><a href="{{ latest_post.url }}">{{ latest_post.title }}</a></h1>
       <p class="hero-desc">{{ latest_post.excerpt | strip_html | truncatewords: 20 }}</p>
-      <a href="{{ latest_post.url }}" class="hero-btn">EXPLORE STORIES &rarr;</a>
+      <a href="{{ latest_post.url }}" class="btn-primary">EXPLORE STORIES &rarr;</a>
     </div>
   </section>
+
 
   <section class="recent-stories">
     <div class="section-header">
@@ -48,8 +38,8 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
         </a>
         <div class="card-meta">
           <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
-          <span class="divider">-</span>
-          <span class="category">{{ post.categories | first | upcase }}</span>
+          <span class="divider">·</span>
+          <span class="category">{{ post.categories.first | upcase }}</span>
         </div>
         <h3 class="card-title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <p class="card-excerpt">{{ post.excerpt | strip_html | truncate: 60 }}</p>
@@ -57,25 +47,51 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
       {% endfor %}
     </div>
   </section>
+
+  <section class="recent-posts">
+    <h3>최근 올라온 이야기</h3>
+    
+    <ul class="post-list">
+      {% for post in site.posts %}
+        <li>
+          <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+
+          <span class="post-category" > <!--대분류-소분류 나타내기-->
+            [{{ post.main_menu }}
+            {% if post.tags.size > 0 %} - {{ post.tags.first }}{% endif %}]
+          </span>
+
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  
+  </section>
+
+  <section class="bottom-action-banners">
+    
+    <div class="action-box newsletter-box">
+      <h2 class="action-title">Monthly Prop Story</h2>
+      <p class="action-desc">
+        매달 한 번, 우리의 취향과 작업실 소식을 메일함으로 보내드립니다.<br>
+        물건의 이야기와 계절의 변화를 함께 나누어보세요.
+      </p>
+      <form class="newsletter-form" action="여기에_폼스프리_주소를_넣으세요" method="POST">
+        <input type="email" name="email" placeholder="Your email address" required>
+        <button type="submit" class="btn-primary">JOIN</button>
+      </form>
+    </div>
+
+    <div class="action-box archive-box">
+      <div class="archive-icon">📖</div>
+      <h2 class="archive-title">Our Archive</h2>
+      <p class="archive-desc">
+        다양한 소품 이야기와 기록이 담긴<br>
+        아카이브를 탐색해보세요.
+      </p>
+      <a href="/archive" class="btn-underline">ENTER ARCHIVE</a>
+    </div>
+
+  </section>
+
 </div>
-
-
-<section class="recent-posts">
-  <h3>최근 올라온 이야기</h3>
-  
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
-
-        <span class="post-category" > <!--대분류-소분류 나타내기-->
-          [{{ post.main_menu }}
-          {% if post.tags.size > 0 %} - {{ post.tags.first }}{% endif %}]
-        </span>
-
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-  
-</section>
