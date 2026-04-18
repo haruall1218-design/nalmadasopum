@@ -53,7 +53,7 @@
   <ul class="sidebar-menu">
     <li><a href="/category/daily/?filter=all" class="smart-filter-btn" data-filter="all">전체 보기</a></li>
     <li><a href="/category/daily/?filter=오늘의-단상" class="smart-filter-btn" data-filter="오늘의 단상">오늘의 단상</a></li>
-    <li><a href="/category/dailye/?filter=맛있는-레시피" class="smart-filter-btn" data-filter="맛있는 레시피">맛있는 레시피</a></li>
+    <li><a href="/category/daily/?filter=맛있는-레시피" class="smart-filter-btn" data-filter="맛있는 레시피">맛있는 레시피</a></li>
     <li><a href="/category/daily/?filter=어울리는-식단" class="smart-filter-btn" data-filter="어울리는 식단">어울리는 식단</a></li>
   </ul>
 </aside>
@@ -69,7 +69,7 @@
 
   <section class="recent-stories"> <!--이미지 3개-->
     <div class="section-header">
-      <h2>소소한 일상 최근 이야기</h2>
+      <h2 id="dynamic-title">소소한 일상 최근 이야기</h2>
     </div>
     
     <div class="stories-grid">
@@ -178,6 +178,9 @@ $(document).ready(function() {
 
   function applyFilter(rawTargetTag) {
     const targetTag = rawTargetTag === 'all' ? 'all' : rawTargetTag.replace(/\s+/g, '-');
+    const displayTitle = targetTag === 'all' ? '소소한 일상' : targetTag.replace(/-/g, ' ');
+    // 화면의 h2 태그 글자를 실시간으로 바꿔치기 합니다.
+    $('#dynamic-title').text(displayTitle + ' 최근 이야기');
     let topGridCount = 0;
     let bottomListItems = [];
 

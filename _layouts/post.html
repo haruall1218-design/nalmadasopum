@@ -26,13 +26,25 @@ layout: default
     <p>[본문 하단 애드센스 광고가 들어갈 자리]</p>
   </div>
 
-  <footer class="post-footer" style="display: flex; gap: 15px; justify-content: center; margin-top: 20px;">
+  <footer class="post-footer" style="display: flex; gap: 15px; justify-content: center; margin-top: 20px; flex-wrap: wrap;">
     
-    {% if page.categories.size > 0 %}
-      <a href="{{ '/category/' | append: page.categories.first | append: '/' }}" class="back-to-list">← 카테고리 목록으로</a>
+  {% if page.categories.size > 0 %}
+    {% assign base_url = '/category/' | append: page.categories.first | append: '/' %}
+    
+    {% if page.tags.size > 0 %}
+      {% assign tag_filter = page.tags.first | replace: ' ', '-' %}
+      <a href="{{ base_url | append: '?filter=' | append: tag_filter | relative_url }}" class="back-to-list">
+        ← <b>{{ page.tags.first }}</b> 목록으로
+      </a>
     {% endif %}
 
-    <a href="{{ '/' }}" class="back-to-list">🏠 전체 메인으로</a>
-  </footer>
+    <a href="{{ base_url | relative_url }}" class="back-to-list">
+      ← <b>전체 {{ page.main_menu | default: '카테고리' }}</b> 보기
+    </a>
+  {% endif %}
+
+  <a href="{{ '/' | relative_url }}" class="back-to-list">🏠 Home</a>
+  
+</footer>
 
 </article>

@@ -68,7 +68,7 @@
 
   <section class="recent-stories"> <!--이미지 3개-->
     <div class="section-header">
-      <h2>브랜드 스토리 최근 이야기</h2>
+      <h2 id="dynamic-title">브랜드 스토리 최근 이야기</h2>
     </div>
     
     <div class="stories-grid">
@@ -99,6 +99,9 @@ $(document).ready(function() {
 
   function applyFilter(rawTargetTag) {
     const targetTag = rawTargetTag === 'all' ? 'all' : rawTargetTag.replace(/\s+/g, '-');
+    const displayTitle = targetTag === 'all' ? '브랜드 스토리' : targetTag.replace(/-/g, ' ');
+    // 화면의 h2 태그 글자를 실시간으로 바꿔치기 합니다.
+    $('#dynamic-title').text(displayTitle + ' 최근 이야기');
     let topGridCount = 0;
     let bottomListItems = [];
 
