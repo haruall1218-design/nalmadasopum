@@ -51,10 +51,10 @@
       <aside class="sidebar">
   <h3 class="sidebar-title">☕ 소소한 일상</h3>
   <ul class="sidebar-menu">
-    <li><a href="/category/daily/" class="filter-btn" data-filter="all">전체 보기</a></li>
-    <li><a href="#" class="filter-btn" data-filter="오늘의 단상">오늘의 단상</a></li>
-    <li><a href="#" class="filter-btn" data-filter="맛있는 레시피">맛있는 레시피</a></li>
-    <li><a href="#" class="filter-btn" data-filter="어울리는 식단">어울리는 식단</a></li>
+    <li><a href="/category/daily/?filter=all" class="smart-filter-btn" data-filter="all">전체 보기</a></li>
+    <li><a href="/category/daily/?filter=오늘의-단상" class="smart-filter-btn" data-filter="오늘의 단상">오늘의 단상</a></li>
+    <li><a href="/category/dailye/?filter=맛있는-레시피" class="smart-filter-btn" data-filter="맛있는 레시피">맛있는 레시피</a></li>
+    <li><a href="/category/daily/?filter=어울리는-식단" class="smart-filter-btn" data-filter="어울리는 식단">어울리는 식단</a></li>
   </ul>
 </aside>
     
@@ -67,7 +67,7 @@
   </header>
   <br>
 
-  <section class="recent-stories">
+  <section class="recent-stories"> <!--이미지 3개-->
     <div class="section-header">
       <h2>소소한 일상 최근 이야기</h2>
     </div>
@@ -154,58 +154,39 @@
 
 <script>
 $(document).ready(function() {
-  const limitPerPage = 15; // 텍스트 리스트 한 페이지에 보여줄 개수
+  const limitPerPage = 15; 
 
-  // 1. 핵심 필터링 함수
   function applyFilter(rawTargetTag) {
-    // 💡 핵심 해결책: 메뉴에서 넘어온 띄어쓰기를 하이픈(-)으로 강제 변환하여 짝을 맞춰줍니다!
     const targetTag = rawTargetTag === 'all' ? 'all' : rawTargetTag.replace(/\s+/g, '-');
-
     let topGridCount = 0;
     let bottomListItems = [];
 
-    // [상단 이미지 3개 처리]
     $('.stories-grid .story-card').each(function() {
       const tag = $(this).attr('data-tag');
-      
       if (targetTag === 'all' || tag === targetTag) {
-        if (topGridCount < 3) {
-          $(this).show(); 
-          topGridCount++;
-        } else {
-          $(this).hide();
-        }
-      } else {
-        $(this).hide();
-      }
+        if (topGridCount < 3) { $(this).show(); topGridCount++; }
+        else { $(this).hide(); }
+      } else { $(this).hide(); }
     });
 
-    // [하단 텍스트 리스트 처리]
     let bottomCount = 0;
     $('.post-list .post-item').each(function() {
       const tag = $(this).attr('data-tag');
-
       if (targetTag === 'all' || tag === targetTag) {
         if (bottomCount < 3) {
-          // 처음 3개는 상단 이미지로 보여줬으니 텍스트 리스트에서는 숨김
-          $(this).hide();
-          $(this).removeClass('active-item');
+          $(this).hide(); $(this).removeClass('active-item');
         } else {
-          // 4번째 글부터 텍스트 리스트 바구니에 담기
-          $(this).addClass('active-item');
-          bottomListItems.push(this);
+          $(this).addClass('active-item'); bottomListItems.push(this);
         }
         bottomCount++;
       } else {
-        $(this).hide();
-        $(this).removeClass('active-item');
+        $(this).hide(); $(this).removeClass('active-item');
       }
     });
 
     updatePagination(bottomListItems);
   }
 
-  // 2. 페이지 번호 생성 및 동작 함수
   function updatePagination(items) {
     const totalItems = items.length;
     const totalPages = Math.ceil(totalItems / limitPerPage);
@@ -225,13 +206,9 @@ $(document).ready(function() {
     for (let i = 1; i <= totalPages; i++) {
       $paginationNumbers.append(
         $("<button>").addClass("page-num").text(i).attr("data-page", i).css({
-          "margin": "0 5px",
-          "padding": "5px 12px",
-          "border": "1px solid var(--border-color)",
-          "background-color": "#fff",
-          "cursor": "pointer",
-          "border-radius": "4px",
-          "font-family": "inherit"
+          "margin": "0 5px", "padding": "5px 12px",
+          "border": "1px solid var(--border-color)", "background-color": "#fff",
+          "cursor": "pointer", "border-radius": "4px", "font-family": "inherit"
         })
       );
     }
@@ -251,18 +228,32 @@ $(document).ready(function() {
     });
   }
 
-  // 처음에 화면이 열릴 때 자동으로 '전체(all)' 기준으로 세팅
-  applyFilter('all');
+  // [핵심 1] 화면이 처음 켜질 때 주소창의 쪽지(?filter=)를 확인합니다.
+  const urlParams = new URLSearchParams(window.location.search);
+  const urlFilter = urlParams.get('filter');
 
-  // 왼쪽 메뉴 버튼을 눌렀을 때 작동
-  $('.filter-btn').on('click', function(e) {
-    const targetTag = $(this).attr('data-filter');
-    if(targetTag) {
-        e.preventDefault();
-        applyFilter(targetTag);
+  if (urlFilter) {
+    applyFilter(urlFilter);
+  } else {
+    applyFilter('all');
+  }
+
+  // [핵심 2] 왼쪽 메뉴를 클릭했을 때의 동작
+  $('.smart-filter-btn').on('click', function(e) {
+    // 현재 접속해 있는 곳이 '소소한 일상' 메인 화면일 때만 부드러운 필터링 작동
+    if (window.location.pathname.includes('/category/daily')) {
+      e.preventDefault(); // 새로고침 방지
+      const targetTag = $(this).attr('data-filter');
+      
+      if(targetTag) {
+          applyFilter(targetTag);
+          // 새로고침 없이 주소창 URL만 예쁘게 바꿔줍니다.
+          window.history.pushState({}, '', '?filter=' + targetTag);
+      }
     }
+    // 만약 개별 포스트(티슈 커버 만들기 등) 화면이라면?
+    // 자바스크립트가 개입하지 않고 HTML의 주소(href)를 따라 자연스럽게 메인 화면으로 이동합니다!
   });
-
 });
 </script>
     </div>
