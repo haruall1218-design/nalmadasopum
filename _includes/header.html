@@ -1,28 +1,37 @@
-<header class="site-header">
-  <div class="header-wrapper">
-    
-    <h1 class="site-title">
-      <a href="{{ '/' }}">날마다 소품 한글판</a> </h1>
-    </h1>
+   
+    <nav class="nav">
+        <div class="nav-inner">
+            <div class="nav-left">
+                <h1 class="site-title">
+                  <a href="{{ '/' }}">날마다 소품 Story</a>
+                </h1>
+                <div class="desktop-menu">
+                    <a href="{{ '/category/about/' }}">브랜드 스토리</a>
+                    <a href="{{ '/category/making-note/' }}">제작 노트</a>
+                    <a href="{{ '/category/daily/' }}">소소한 일상</a>
+                </div>
+            </div>
+            <div class="nav-right">
+                <div class="search-box">
+                  <input type="text" id="search-input" placeholder="Search">
+                </div>
+                  <div class="lang-switch">
+                    <a href="https://nalmadasopum.kr" target="_blank" class="shop-link">SHOP</a>
+                    <span>|</span>
+                    <a href="https://nalmadasopum.com" class="active"  title="한국어"><button>KOR</button></a>
+                    <span>|</span>
+                    <a href="https://en.nalmadasopum.com" title="English"><button>ENG</button></a>
+                  </div>
 
-    <nav class="site-nav">
-      <ul>
-        <li><a href="{{ '/category/about/' }}">브랜드 스토리</a></li>
-        <li><a href="{{ '/category/making-note/' }}">제작 노트</a></li>
-        <li><a href="{{ '/category/daily/' }}">소소한 일상</a></li>
-
-        <li class="search-box"><input type="text" id="search-input" placeholder="Search">
-          <ul id="search-results"></ul>
-        </ii>
-
-        <li class="lang-selector">
-          <a href="https://nalmadasopum.com"  class="active"  title="한국어">KOR</a>
-          <span class="divider">|</span>
-          <a href="https://en.nalmadasopum.com"title="English">ENG</a>
-        </li>
-        <li><a href="https://nalmadasopum.kr" target="_blank" class="shop-link">SHOP</a></li>
-      </ul>
+                <!--<span class="material-symbols-outlined lang-icon" data-icon="language">language</span>
+                <button class="hamburger material-symbols-outlined">menu</button>-->
+            </div>
+        </div>
+        
+        <div class="mobile-menu">
+            <a href="{{ '/category/about/' }}">브랜드 스토리</a>
+            <a href="{{ '/category/making-note/' }}">제작 노트</a>
+            <a href="{{ '/category/daily/' }}">소소한 일상</a>
+        </div>
     </nav>
-    
-  </div>
-</header> 
+

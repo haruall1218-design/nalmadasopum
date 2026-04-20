@@ -5,6 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   <title>Making Note - 날마다 소품 Story</title>
+
+   <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,300..800&family=Manrope:wght@200..800&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=storefront" />
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   
   <meta name="description" content="정성스럽게 지은 패브릭 소품과 따뜻한 일상을 기록합니다.">
@@ -14,34 +18,44 @@
   </head>
 <body>
 
-  <header class="site-header">
-  <div class="header-wrapper">
-    
-    <h1 class="site-title">
-      <a href="/">날마다 소품 한글판</a> </h1>
-    </h1>
+     
+    <nav class="nav">
+        <div class="nav-inner">
+            <div class="nav-left">
+                <h1 class="site-title">
+                  <a href="/">날마다 소품 Story</a>
+                </h1>
+                <div class="desktop-menu">
+                    <a href="/category/about/">브랜드 스토리</a>
+                    <a href="/category/making-note/">제작 노트</a>
+                    <a href="/category/daily/">소소한 일상</a>
+                </div>
+            </div>
+            <div class="nav-right">
+                <div class="search-box">
+                  <input type="text" id="search-input" placeholder="Search">
+                </div>
+                  <div class="lang-switch">
+                    <a href="https://nalmadasopum.kr" target="_blank" class="shop-link">SHOP</a>
+                    <span>|</span>
+                    <a href="https://nalmadasopum.com" class="active"  title="한국어"><button>KOR</button></a>
+                    <span>|</span>
+                    <a href="https://en.nalmadasopum.com" title="English"><button>ENG</button></a>
+                  </div>
 
-    <nav class="site-nav">
-      <ul>
-        <li><a href="/category/about/">브랜드 스토리</a></li>
-        <li><a href="/category/making-note/">제작 노트</a></li>
-        <li><a href="/category/daily/">소소한 일상</a></li>
-
-        <li class="search-box"><input type="text" id="search-input" placeholder="Search">
-          <ul id="search-results"></ul>
-        </ii>
-
-        <li class="lang-selector">
-          <a href="https://nalmadasopum.com"  class="active"  title="한국어">KOR</a>
-          <span class="divider">|</span>
-          <a href="https://en.nalmadasopum.com"title="English">ENG</a>
-        </li>
-        <li><a href="https://nalmadasopum.kr" target="_blank" class="shop-link">SHOP</a></li>
-      </ul>
+                <!--<span class="material-symbols-outlined lang-icon" data-icon="language">language</span>
+                <button class="hamburger material-symbols-outlined">menu</button>-->
+            </div>
+        </div>
+        
+        <div class="mobile-menu">
+            <a href="/category/about/">브랜드 스토리</a>
+            <a href="/category/making-note/">제작 노트</a>
+            <a href="/category/daily/">소소한 일상</a>
+        </div>
     </nav>
-    
-  </div>
-</header> 
+
+
 
   <main class="page-content" aria-label="Content">
   
@@ -49,8 +63,10 @@
     
     
       <aside class="sidebar">
-  <h3 class="sidebar-title">✂️ 제작 노트</h3>
+  <h3 class="sidebar-title">Atelier Categories</h3>
+  <p class="sidebar-subtitle">Crafting the Everyday</p>
   <ul class="sidebar-menu">
+    <li class="active">Making Note</li>
     <li><a href="/category/making-note/?filter=all" class="smart-filter-btn" data-filter="all">전체 보기</a></li>
     <li><a href="/category/making-note/?filter=파우치-만들기" class="smart-filter-btn" data-filter="파우치 만들기">파우치 만들기</a></li>
     <li><a href="/category/making-note/?filter=가방-만들기" class="smart-filter-btn" data-filter="가방 만들기">가방 만들기</a></li>
@@ -61,16 +77,13 @@
 
     <div class="content-area">
       <section class="category-page">
-  <header class="post-header">
-    <h2 class="post-title">제작 노트</h2>
-    <p class="post-meta">제작 노트를 모아둔 공간입니다.</p>
-  </header>
-  <br>
 
   <section class="recent-stories"> <!--이미지 3개-->
     <div class="section-header">
       <h2 id="dynamic-title">제작노트 최근 이야기</h2>
+      <a href="/category/making-note/?filter=all" class="view-all">VIEW ALL ARCHIVE</a>
     </div>
+    <div class="stories-divider"></div>
     
     <div class="stories-grid">
       
