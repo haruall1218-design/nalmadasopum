@@ -2,7 +2,7 @@
    1. 전체 기본 설정 (색상표 및 폰트)
 ========================================= */
 :root { 
---bg-color: #fdfbf8;
+--bg-color: #fdfcfb;
 --text-color: #333333; 
 --menu-color: #ffffff; 
 --logo-color: #ffffff;
@@ -62,25 +62,102 @@ body { background-color: #FEF8F4; font-family: 'Pretendard', -apple-system, sans
 .recent-posts h3 { padding: 10px 0; }
 .post-list { list-style: none; }
 .post-list li { margin-bottom: 15px; border-bottom: 1px dashed var(--border-color); padding-bottom: 10px; }
-.post-date { /*color: #888; font-size: 13.6px; margin-right: 15px; */
-       
-    color: #83513d;
+.post-date { color: #83513d;
     font-size: 13px;
     font-weight: 500; padding-right: 30px; }
-.post-category { color: #926d1c; font-size: 14.4px; margin-right: 5px; }
+.post-category { color: #695937; font-size: 14.4px; margin-right: 15px; }
+.post-categories {
+font-family: 'Manrope', sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+    color: #4a5d4a;
+    font-weight: 700; }
 .post-list a {  
-    color: #4d2a07;}
-.post-header { margin-bottom: 30px; text-align: center; }
-.post-title { font-size: 32px; margin-bottom: 10px; color: var(--point-color); }
-.post-meta { color: #888; font-size: 14.4px; }
-.post-content h2 { margin: 30px 0 15px; border-bottom: 2px solid var(--border-color); padding-bottom: 5px; }
-.post-content p { margin-bottom: 15px; }
-.post-content img { max-width: 1050px; width: auto; height: auto; border-radius: 10px; width: 100%; max-width: min(1050px, 100%); }
+    color: #463f38;}
+.post-header { margin-bottom: 30px; /*text-align: center; */}
+.post-title { /*font-size: 32px; margin-bottom: 10px; color: var(--point-color);*/
+    font-family: 'Newsreader', serif;
+    font-size: 72px;
+    line-height: 1.05;
+    color: #1b3022;
+    font-weight: 500;
+    margin-bottom: 48px;
+    margin-top: 0;
+    letter-spacing: -0.025em; width: 70%;}
 
+.post-meta { /*color: #888; font-size: 14.4px; margin-bottom: 40px;*/
+    font-family: 'Manrope', sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+    color: rgba(74, 93, 74, 0.6);
+    margin-bottom: 30px;
+}
+.meta-divider {
+    width: 40px;
+    height: 1px;
+    background-color: #d6d0c4;
+}
+.post-content h2 {/* margin: 30px 0 15px; border-bottom: 2px solid var(--border-color); padding-bottom: 5px;*/
+    font-family: 'Newsreader', serif;
+    font-size: 36px;
+    color: #1b3022;
+    border-left: 3px solid rgba(27, 48, 34, 0.2);
+    padding-left: 40px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin: 0;
+    letter-spacing: -0.025em; margin: 100px 0 30px 0; }
+.post-content p {     font-size: 18px;
+    color: rgba(27, 48, 34, 0.8);
+    padding: 15px 0; }
+.post-content img { max-width: 1050px; width: auto; height: auto; border-radius: 10px; width: 100%; max-width: min(1050px, 100%); }
+.back-to-list { display: inline-block;
+  padding: 10px 20px;
+  background-color: #2C4A35;
+  color: white;
+  text-decoration: none; /* 밑줄 제거 */
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;}
+  .back-to-list1 { display: inline-block;
+  padding: 10px 20px;
+  background-color: #52492d;
+  color: white;
+  text-decoration: none; /* 밑줄 제거 */
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;}
+.back-to-list:hover {
+  background-color: #615f0c;
+  text-decoration: none;
+}
+.back-to-list1:hover {
+  background-color: #615f0c;
+  text-decoration: none;
+}
 /* =========================================
    5. 애드센스 광고 영역 (명당 표시용)
 ========================================= */
-.ad-space { background-color: #f1efec; border: 1px dashed #ccc; text-align: center; padding: 20px; margin: 30px 0; color: #999; font-size: 14.4px; }
+.ad-space { /*background-color: #f1efec; border: 1px dashed #ccc; text-align: center; padding: 20px; margin: 30px 0; color: #999; font-size: 14.4px; */
+    width: 100%;
+    height: 144px;
+    background-color: #f8f5f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 96px;
+    border-radius: 2px;
+    border: 1px solid rgba(214, 208, 196, 0.3);
+}
+.ad-text {
+    font-family: 'Manrope', sans-serif;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+    color: rgba(74, 93, 74, 0.4);
+}
 
 /* =========================================
    6. 하단 꼬리말 (Footer)
@@ -106,7 +183,7 @@ body { background-color: #FEF8F4; font-family: 'Pretendard', -apple-system, sans
    왼쪽 사이드바 레이아웃 (제작 노트 전용)
 ========================================= */
 .wrapper.with-sidebar { display: flex; gap: 40px; align-items: flex-start; }
-.sidebar { width: 300px; flex-shrink: 0; padding: 20px; border-radius: 10px; }
+.sidebar { width: 300px; flex-shrink: 0; padding: 10px 20px 0 5px; border-radius: 10px; }
 .content-area { flex-grow: 1; width: 100%; }
 .sidebar-title {font-family: 'Newsreader', serif;
     font-size: 24px;
@@ -116,28 +193,28 @@ body { background-color: #FEF8F4; font-family: 'Pretendard', -apple-system, sans
     font-family: 'Manrope', sans-serif;
     text-transform: uppercase;
     letter-spacing: 0.2em;
-    font-size: 9px;
+    font-size: 11px;
     color: rgba(74, 93, 74, 0.6);
     margin: 0;
 }
 .sidebar-menu { list-style: none; padding: 0; margin: 0; }
 .sidebar-menu li { margin-bottom: 12px; }
-.sidebar-menu a { /*text-decoration: none; color: #666; font-size: 15.2px; display: block; transition: all 0.3s ease;*/
+.sidebar-menu a {  
     display: block;
     width: 100%;
     text-align: left;
     font-family: 'Manrope', sans-serif;
     text-transform: uppercase;
     letter-spacing: 0.15em;
-    font-size: 12px;
-    color: rgba(74, 93, 74, 0.5);
+    font-size: 13px;
+    color: rgba(92, 93, 74, 0.8);
     transition: all 0.3s;
 } 
 .sidebar-menu .active {
     color: #1b3022;
     font-weight: 700; padding: 50px 0 30px 0; font-family: 'Manrope', sans-serif; text-transform: uppercase;
     letter-spacing: 0.15em;
-    font-size: 12px;
+    font-size: 14px;
 }
 .sidebar-menu a:hover { color: var(--point-color, #8b5a2b); font-weight: bold; transform: translateX(5px); }
 
@@ -145,8 +222,7 @@ body { background-color: #FEF8F4; font-family: 'Pretendard', -apple-system, sans
    상단 검색창 디자인
 ========================================= */
 .search-box { position: relative; display: inline-block; margin: 0 15px; vertical-align: middle; }
-#search-input { /*padding: 8px 15px; border: 1px solid #e0d8d0; border-radius: 20px; outline: none; font-size: 14.4px; background-color: #fcfbf9; transition: all 0.3s ease; width: 150px;*/
-    background-color: rgba(41, 37, 36, 0.9);
+#search-input {  background-color: rgba(65, 62, 61, 0.5);
     border: none;
     color: #f5f5f4;
     padding: 6px 16px;
@@ -154,7 +230,7 @@ body { background-color: #FEF8F4; font-family: 'Pretendard', -apple-system, sans
     font-size: 14px;
     width: 192px;
     outline: none; }
-#search-input:focus { border-color: #8b5a2b; width: 200px; /*background-color: #fff;*/ }
+#search-input:focus { border-color: #8b5a2b; width: 200px;  }
 #search-results { position: absolute; top: 130%; right: 0; width: 280px; background: #fff; border-radius: 8px; list-style: none; padding: 0; margin: 0; display: none; z-index: 1000; box-shadow: 0 4px 12px rgba(0,0,0,0.1); overflow: hidden; }
 #search-results li { border-bottom: 1px solid #f0f0f0; }
 #search-results li:last-child { border-bottom: none; }
