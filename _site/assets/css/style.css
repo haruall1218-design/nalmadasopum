@@ -183,7 +183,16 @@ font-family: 'Manrope', sans-serif;
    왼쪽 사이드바 레이아웃 (제작 노트 전용)
 ========================================= */
 .wrapper.with-sidebar { display: flex; gap: 40px; align-items: flex-start; }
-.sidebar { width: 300px; flex-shrink: 0; padding: 10px 20px 0 5px; border-radius: 10px; }
+.sidebar { width: 300px; flex-shrink: 0; padding: 10px 20px 0 5px; border-radius: 10px; position: sticky; 
+  top: 160px;}
+  @media screen and (max-width: 768px) { 
+  .wrapper.with-sidebar { flex-direction: column; gap: 20px; } 
+  .sidebar { 
+    width: 100%; 
+    position: relative; /* 모바일에서는 스티키 기능 해제 */
+    top: 0;
+  } 
+}
 .content-area { flex-grow: 1; width: 100%; }
 .sidebar-title {font-family: 'Newsreader', serif;
     font-size: 24px;
