@@ -23,15 +23,28 @@
                     <a href="https://en.nalmadasopum.com" title="English"><button>ENG</button></a>
                   </div>
 
-                <!--<span class="material-symbols-outlined lang-icon" data-icon="language">language</span>
-                <button class="hamburger material-symbols-outlined">menu</button>-->
+                <!--<span class="material-symbols-outlined lang-icon" data-icon="language">language</span>-->
+                <button class="hamburger" id="hamburger-btn">
+                    <span class="material-symbols-outlined">menu</span>
+                </button>
             </div>
         </div>
         
-        <div class="mobile-menu">
+        <div class="mobile-menu" id="mobile-menu-overlay">
+            <a href="https://nalmadasopum.kr" target="_blank" class="mobile-shop-link">SHOP</a>
             <a href="{{ '/category/about/' }}">브랜드 스토리</a>
             <a href="{{ '/category/making-note/' }}">제작 노트</a>
             <a href="{{ '/category/daily/' }}">소소한 일상</a>
         </div>
     </nav>
 
+
+    <script>
+    $(document).ready(function() {
+        // 햄버거 버튼(.hamburger)을 클릭했을 때 할 일
+        $('.hamburger').on('click', function() {
+        // 모바일 메뉴(.mobile-menu)를 스르륵 열었다가 닫아줍니다.
+        $('.mobile-menu').slideToggle(300);
+        });
+    });
+    </script>

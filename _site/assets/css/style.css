@@ -1,299 +1,13 @@
 /* =========================================
-   1. 전체 기본 설정 (색상표 및 폰트)
-========================================= */
-:root { 
---bg-color: #fdfcfb;
---text-color: #333333; 
---menu-color: #ffffff; 
---logo-color: #ffffff;
---point-color: #8b6d5c; 
---border-color: #e5e0d8;
---link-color: #6b503f;
-}
-* { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background-color: var(--bg-color); color: var(--text-color); line-height: 1.6; font-size: 16px; }
-a { color: var(--link-color); text-decoration: none; }
-a:hover { text-decoration: underline; }
-
-/* =========================================
-   2. 레이아웃 (공통 너비 및 여백)
-========================================= */
-.header-wrapper, .wrapper, .footer-wrapper { max-width: 1300px; margin: 0 auto; padding: 0 20px; }
-
-/* =========================================
-   3. 상단 머리말 (Header & Nav)
-========================================= */
-
-.nav { position: fixed; top: 0; width: 100%; z-index: 50; background-color: #1c1917; height: 80px;  }
-.nav-inner { display: flex; justify-content: space-between; align-items: center; height: 100%; max-width: 1300px; margin: 0 auto; padding: 0 20px; }
-.nav-left { display: flex; align-items: center; gap: 48px; }
-.site-title { font-size: 24px; margin-bottom: 0;     font-family: 'Newsreader', serif; }
-.site-title a { color: var(--logo-color); text-decoration: none; font-weight: 700; }
-.desktop-menu { display: flex; gap: 32px; }
-.desktop-menu a { color: #a8a29e; font-weight: 500; font-family:  'Noto Sans KR', 'Newsreader', serif; font-size: 18px; transition: color 0.3s; cursor: pointer; }
-.desktop-menu a:active { opacity: 0.7; }
-.desktop-menu a:hover { color: #ffffff; }
-.desktop-menu a.active { color: #ffffff; border-bottom: 1px solid rgba(255,255,255,0.3); padding-bottom: 4px; }
-.nav-right { display: flex; align-items: center; gap: 24px; }
-.search-box { position: relative; display: block; }
-.search-input { background-color: rgba(41, 37, 36, 0.5); border: none; color: #f5f5f4; padding: 6px 16px; border-radius: 6px; font-size: 14px; width: 192px; outline: none; }
-.search-input:focus { box-shadow: 0 0 0 1px #78716c; }
-.lang-switch { display: flex; align-items: center; gap: 12px; color: #a8a29e; font-size: 12px; font-weight: 500; letter-spacing: 2px; text-transform: uppercase; }
-.lang-switch button { background: none; border: none; color: inherit; cursor: pointer; font-size: inherit; font-weight: inherit; padding: 0; transition: color 0.3s; }
-.lang-switch button:hover { color: #ffffff; }
-.lang-switch span { color: #57534e; }
-.lang-switch .active { color: #ffffff; }
-.lang-switch a { color: #a8a29e;; }
-.lang-icon { color: #f5f5f4; cursor: pointer; }
-.hamburger { display: none; color: #ffffff; cursor: pointer; background: none; border: none; padding: 0; }
-.mobile-menu { display: none; position: absolute; top: 80px; left: 0; width: 100%; background-color: #1c1917; padding: 24px 32px; border-top: 1px solid #292524; }
-.mobile-menu a { display: block; color: #ffffff; font-family: 'Newsreader', serif; font-size: 18px; padding: 12px 0; }
-
-
-/* =========================================
-   4. 본문 영역 (Main Content & Posts)
-========================================= */
-body { background-color: #FEF8F4; font-family: 'Pretendard', -apple-system, sans-serif; color: var(--text-color); line-height: 1.6; }
-.page-content { padding: 140px 0 40px 0; min-height: 80vh; }
-.page-content .wrapper { border-radius: 12px; margin-top: 20px; margin-bottom: 40px; }
-.home-intro { margin-bottom: 40px; text-align: center; }
-.home-intro h2 { color: var(--point-color); margin-bottom: 15px; }
-.recent-posts { padding: 80px 0; }
-.recent-posts h3 { padding: 10px 0; }
-.post-list { list-style: none; }
-.post-list li { margin-bottom: 15px; border-bottom: 1px dashed var(--border-color); padding-bottom: 10px; }
-.post-date { color: #83513d;
-    font-size: 13px;
-    font-weight: 500; padding-right: 30px; }
-.post-category { color: #695937; font-size: 14.4px; margin-right: 15px; }
-.post-categories {
-font-family: 'Manrope', sans-serif;
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 0.25em;
-    color: #4a5d4a;
-    font-weight: 700; }
-.post-list a {  
-    color: #463f38;}
-.post-header { margin-bottom: 30px; /*text-align: center; */}
-.post-title { /*font-size: 32px; margin-bottom: 10px; color: var(--point-color);*/
-    font-family: 'Newsreader', serif;
-    font-size: 72px;
-    line-height: 1.05;
-    color: #1b3022;
-    font-weight: 500;
-    margin-bottom: 48px;
-    margin-top: 0;
-    letter-spacing: -0.025em; width: 70%;}
-
-.post-meta { /*color: #888; font-size: 14.4px; margin-bottom: 40px;*/
-    font-family: 'Manrope', sans-serif;
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 0.25em;
-    color: rgba(74, 93, 74, 0.6);
-    margin-bottom: 30px;
-}
-.meta-divider {
-    width: 40px;
-    height: 1px;
-    background-color: #d6d0c4;
-}
-.post-content h2 {/* margin: 30px 0 15px; border-bottom: 2px solid var(--border-color); padding-bottom: 5px;*/
-    font-family: 'Newsreader', serif;
-    font-size: 36px;
-    color: #1b3022;
-    border-left: 3px solid rgba(27, 48, 34, 0.2);
-    padding-left: 40px;
-    padding-top: 8px;
-    padding-bottom: 8px;
-    margin: 0;
-    letter-spacing: -0.025em; margin: 100px 0 30px 0; }
-.post-content p {     font-size: 18px;
-    color: rgba(27, 48, 34, 0.8);
-    padding: 15px 0; }
-.post-content img { max-width: 1050px; width: auto; height: auto; border-radius: 10px; width: 100%; max-width: min(1050px, 100%); }
-.back-to-list { display: inline-block;
-  padding: 10px 20px;
-  background-color: #2C4A35;
-  color: white;
-  text-decoration: none; /* 밑줄 제거 */
-  border-radius: 5px;
-  font-size: 14px;
-  cursor: pointer;}
-  .back-to-list1 { display: inline-block;
-  padding: 10px 20px;
-  background-color: #52492d;
-  color: white;
-  text-decoration: none; /* 밑줄 제거 */
-  border-radius: 5px;
-  font-size: 14px;
-  cursor: pointer;}
-.back-to-list:hover {
-  background-color: #615f0c;
-  text-decoration: none;
-}
-.back-to-list1:hover {
-  background-color: #615f0c;
-  text-decoration: none;
-}
-/* =========================================
-   5. 애드센스 광고 영역 (명당 표시용)
-========================================= */
-.ad-space { /*background-color: #f1efec; border: 1px dashed #ccc; text-align: center; padding: 20px; margin: 30px 0; color: #999; font-size: 14.4px; */
-    width: 100%;
-    height: 144px;
-    background-color: #f8f5f0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 96px;
-    border-radius: 2px;
-    border: 1px solid rgba(214, 208, 196, 0.3);
-}
-.ad-text {
-    font-family: 'Manrope', sans-serif;
-    font-size: 10px;
-    text-transform: uppercase;
-    letter-spacing: 0.25em;
-    color: rgba(74, 93, 74, 0.4);
-}
-
-/* =========================================
-   6. 하단 꼬리말 (Footer)
-========================================= */
-.site-footer { border-top: 1px solid var(--border-color); padding: 60px 0; background-color: #1c1917; color: #78716c; font-size: 14.4px; }
-.footer-wrapper { margin: 0 auto; padding: 0 20px; display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; }
-.brand-name {    font-size: 25px;
-    font-weight: 500;
-    color: #ffffff;
-    font-family: 'Newsreader', serif; padding-bottom: 20px; }
-.footer-info { margin-bottom: 0; }
-.footer-links { text-align: right; }
-.footer-links a { margin-left: 20px; color: #666; display: inline-block; font-weight: 500; }
-.copyright { width: 100%; margin-top: 10px; font-size: 12.8px; color: #999; text-align: left; }
-
-/* =========================================
-   7. 유튜브 영상 반응형 처리
-========================================= */
-.video-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 30px 0; border-radius: 8px; }
-.video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-
-/* =========================================
-   왼쪽 사이드바 레이아웃 (제작 노트 전용)
-========================================= */
-.wrapper.with-sidebar { display: flex; gap: 40px; align-items: flex-start; }
-.sidebar { width: 300px; flex-shrink: 0; padding: 10px 20px 0 5px; border-radius: 10px; position: sticky; 
-  top: 160px;}
-  @media screen and (max-width: 768px) { 
-  .wrapper.with-sidebar { flex-direction: column; gap: 20px; } 
-  .sidebar { 
-    width: 100%; 
-    position: relative; /* 모바일에서는 스티키 기능 해제 */
-    top: 0;
-  } 
-}
-.content-area { flex-grow: 1; width: 100%; }
-.sidebar-title {font-family: 'Newsreader', serif;
-    font-size: 24px;
-    color: #1b3022;
-    margin-top: 0; }
-.sidebar-subtitle {
-    font-family: 'Manrope', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 0.2em;
-    font-size: 11px;
-    color: rgba(74, 93, 74, 0.6);
-    margin: 0;
-}
-.sidebar-menu { list-style: none; padding: 0; margin: 0; }
-.sidebar-menu li { margin-bottom: 12px; }
-.sidebar-menu a {  
-    display: block;
-    width: 100%;
-    text-align: left;
-    font-family: 'Manrope', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 0.15em;
-    font-size: 13px;
-    color: rgba(92, 93, 74, 0.8);
-    transition: all 0.3s;
-} 
-.sidebar-menu .active {
-    color: #1b3022;
-    font-weight: 700; padding: 50px 0 30px 0; font-family: 'Manrope', sans-serif; text-transform: uppercase;
-    letter-spacing: 0.15em;
-    font-size: 14px;
-}
-.sidebar-menu a:hover { color: var(--point-color, #8b5a2b); font-weight: bold; transform: translateX(5px); }
-
-/* =========================================
-   상단 검색창 디자인
-========================================= */
-.search-box { position: relative; display: inline-block; margin: 0 15px; vertical-align: middle; }
-#search-input {  background-color: rgba(65, 62, 61, 0.5);
-    border: none;
-    color: #f5f5f4;
-    padding: 6px 16px;
-    border-radius: 6px;
-    font-size: 14px;
-    width: 192px;
-    outline: none; }
-#search-input:focus { border-color: #8b5a2b; width: 200px;  }
-#search-results { position: absolute; top: 130%; right: 0; width: 280px; background: #fff; border-radius: 8px; list-style: none; padding: 0; margin: 0; display: none; z-index: 1000; box-shadow: 0 4px 12px rgba(0,0,0,0.1); overflow: hidden; }
-#search-results li { border-bottom: 1px solid #f0f0f0; }
-#search-results li:last-child { border-bottom: none; }
-#search-results li a { text-decoration: none; color: #555; display: block; padding: 12px 15px; font-size: 14.4px; transition: background 0.2s; }
-#search-results li a:hover { background-color: #fdfaf7; color: #8b5a2b; font-weight: bold; }
-.no-result { padding: 15px; color: #999; font-size: 14.4px; text-align: center; }
-
-/* =========================================
-   위로 가기 버튼 (Scroll to Top)
-========================================= */
-#scroll-top-btn { position: fixed; bottom: 30px; right: 30px; width: 50px; height: 50px; background-color: #52362D; color: #ffffff; text-align: center; line-height: 45px; border-radius: 50%; font-size: 24px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 10px rgba(0,0,0,0.2); display: none; z-index: 9999; transition: background-color 0.3s; }
-#scroll-top-btn:hover { background-color: #d87c2b; }
-
-/* =========================================
-   언어 선택 스위치 (Language Selector)
-========================================= */
-.lang-selector {     display: flex;
-    align-items: center;
-    gap: 12px;
-    color: #a8a29e;
-    font-size: 12px;
-    font-weight: 700;
-    letter-spacing: 2px;
-    text-transform: uppercase; }
-.lang-selector a {     background: none;
-    border: none;
-    color: inherit;
-    cursor: pointer;
-    font-size: inherit;
-    font-weight: inherit;
-    padding: 0;
-    transition: color 0.3s; }
-.lang-selector a:hover { color: #ffffff; }
-.lang-selector a.active { color: #ffffff; font-weight: bold; }
-.lang-selector .divider { color: #57534e; }
-
-/* =========================================
-   인덱스의 최근상품 나열
+   1. 인덱스 관련 CSS (메인 홈, 히어로, 최근 스토리, 뉴스레터 등)
 ========================================= */
 .home-wrapper { margin: 0 auto; }
-.hero-section { display: flex; align-items:flex-start; /*center;*/ gap: 70px; margin-bottom: 100px; }
-.hero-image-wrap { flex: 1.6; position: relative; aspect-ratio: 16 / 10;
-    align-self: flex-start; 
-    border-radius: 8px;}
+.hero-section { display: flex; align-items: flex-start; gap: 70px; margin-bottom: 100px; }
+.hero-image-wrap { flex: 1.6; position: relative; aspect-ratio: 16 / 10; align-self: flex-start; border-radius: 8px; }
 .hero-image-wrap img { width: 100%; height: 450px; object-fit: cover; border-radius: 8px; overflow: hidden; }
-.hero-quote { position: absolute; bottom: -20px; right: -40px; background: white; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); font-style: italic; color: #666;  }
+.hero-quote { position: absolute; bottom: -20px; right: -40px; background: white; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); font-style: italic; color: #666; }
 .hero-content { flex: 1; }
-.hero-label { /*font-size: 13.6px; color: #888; letter-spacing: 2px; */
-    font-family: 'Manrope', sans-serif;
-    font-size: 12px;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    color: #6f5a52;
-    margin-bottom: 24px;}
+.hero-label { font-family: 'Manrope', sans-serif; font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase; color: #6f5a52; margin-bottom: 24px; }
 .hero-title { font-size: 75px; line-height: 1.2; margin: 15px 0; font-weight: normal; word-break: keep-all; }
 .hero-title a { text-decoration: none; color: #222; }
 .hero-desc { font-size: 18px; color: #555; line-height: 1.6; margin-bottom: 30px; }
@@ -302,44 +16,202 @@ font-family: 'Manrope', sans-serif;
 .section-header h2 { font-family: 'Times New Roman', serif; margin: 0; font-size: 35.2px; color: #111; }
 .view-all { font-size: 13.6px; text-decoration: none; color: #666; letter-spacing: 1px; }
 .stories-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px; }
-.stories-divider {
-    width: 48px;
-    height: 4px;
-    background-color: #52362d; margin-bottom: 40px; }
+.stories-divider { width: 48px; height: 4px; background-color: #52362d; margin-bottom: 40px; }
 .story-card img { width: 100%; aspect-ratio: 1 / 0.7; object-fit: cover; border-radius: 6px; margin-bottom: 15px; transition: transform 0.5s; }
-.story-card:hover img {
-  transform: scale(1.05); /* 원하는 효과로 조절 */
-}
-.card-meta {/* font-size: 13.6px; color: #888; margin-bottom: 10px;*/    font-family: 'Newsreader', serif;
-    color: #52362d;
-    font-size: 14px;
-    font-style: italic;
-    font-weight: 500;  }
-.card-title { /*font-size: 20.8px; margin: 0 0 10px 0; font-weight: normal;*/
-font-size: 24px;
-    line-height: 1.25;
-    color: #1d1b19;
-    margin: 0;
-    transition: color 0.3s;
-    font-family: 'Newsreader', serif; padding: 16px 0; }
+.story-card:hover img { transform: scale(1.05); }
+.card-meta { font-family: 'Newsreader', serif; color: #52362d; font-size: 14px; font-style: italic; font-weight: 500; }
+.card-title { font-size: 24px; line-height: 1.25; color: #1d1b19; margin: 0; transition: color 0.3s; font-family: 'Newsreader', serif; padding: 16px 0; }
 .card-title a { text-decoration: none; color: #222; }
-.card-excerpt { font-size: 15.2px; color: #504440;; line-height: 1.5; }
-
-/* =========================================
-   메인 하단 액션 배너 (뉴스레터 & 아카이브)
-========================================= */
+.card-excerpt { font-size: 15.2px; color: #504440; line-height: 1.5; }
 .bottom-action-banners { display: grid; grid-template-columns: 1.6fr 1fr; gap: 30px; margin-bottom: 60px; }
 .action-box { padding: 30px 40px; border-radius: 4px; display: flex; flex-direction: column; justify-content: center; }
 .newsletter-box { background-color: #f5f2eb; }
 .action-title { font-family: 'Times New Roman', serif; font-size: 35.2px; color: #111; margin: 0 0 15px 0; }
 .action-desc { font-size: 15.2px; color: #555; line-height: 1.6; margin-bottom: 30px; }
 .newsletter-form { display: flex; gap: 10px; }
-.newsletter-form input { flex: 1; padding: 15px; border: none; border-radius: 4px; font-size: 16px;     background-color: #fef8f4;}
+.newsletter-form input { flex: 1; padding: 15px; border: none; border-radius: 4px; font-size: 16px; background-color: #fef8f4; }
 .archive-box { background-color: #52362D; color: #fff; align-items: center; text-align: center; }
 .archive-icon { font-size: 32px; }
 .archive-title { font-family: 'Times New Roman', serif; font-size: 28.8px; font-style: italic; font-weight: normal; margin: 0 0 15px 0; }
 .archive-desc { font-size: 14.4px; color: #ccc; line-height: 1.6; margin-bottom: 30px; }
 .btn-underline { color: #fff; text-decoration: none; font-size: 13.6px; font-weight: bold; letter-spacing: 2px; padding-bottom: 5px; border-bottom: 1px solid rgba(255,255,255,0.5); transition: border-color 0.3s; }
 .btn-underline:hover { border-bottom-color: #fff; }
-.btn-primary { display: inline-block; background-color: #52362d;; color: #fff; padding: 14px 30px; text-decoration: none; font-size: 15px; font-weight: 600; letter-spacing: 1px; border: none; cursor: pointer; border-radius: 4px; }
+.btn-primary { display: inline-block; background-color: #52362d; color: #fff; padding: 14px 30px; text-decoration: none; font-size: 15px; font-weight: 600; letter-spacing: 1px; border: none; cursor: pointer; border-radius: 4px; }
 .btn-primary:hover { background-color: #33211b; color: #fff; }
+
+/* --- 미디어쿼리 (인덱스) --- */
+@media screen and (max-width: 1024px) { 
+    .hero-section { gap: 40px; } 
+    .hero-title { font-size: 56px; } 
+    .stories-grid { gap: 20px; } 
+}
+@media screen and (max-width: 768px) { 
+    .hero-section { flex-direction: column; gap: 30px; } 
+    .hero-quote { display: none; } 
+    .hero-image-wrap { width: 100%; aspect-ratio: auto; } 
+    .hero-image-wrap img { height: auto; aspect-ratio: 16/10; } 
+    .stories-grid { grid-template-columns: 1fr;  } 
+    .story-card { margin-bottom: 30px; }
+    .bottom-action-banners { grid-template-columns: 1fr; } 
+    .newsletter-form { flex-direction: column; } 
+    .action-box { padding: 30px 20px; } 
+    .section-header h2 {font-size: 26px; }
+    .section-header a { display: none;}
+    .hero-title { font-size: 36px; } 
+    .action-title { font-size: 25px; }
+}
+
+
+/* =========================================
+   2. 인클루드 된 부분 CSS (헤더, 푸터, 네비게이션, 사이드바, 언어/검색창)
+========================================= */
+.nav { position: fixed; top: 0; width: 100%; z-index: 50; background-color: #1c1917; height: 80px; }
+.nav-inner { display: flex; justify-content: space-between; align-items: center; height: 100%; max-width: 1300px; margin: 0 auto; padding: 0 20px; }
+.nav-left { display: flex; align-items: center; gap: 70px; }
+.site-title { font-size: 24px; margin-bottom: 0; font-family: 'Newsreader', serif; }
+.site-title a { color: var(--logo-color); text-decoration: none; font-weight: 700; }
+.desktop-menu { display: flex; gap: 32px; }
+.desktop-menu a { color: #a8a29e; font-weight: 500; font-family: 'Noto Sans KR', 'Newsreader', serif; font-size: 18px; transition: color 0.3s; cursor: pointer; }
+.desktop-menu a:active { opacity: 0.7; }
+.desktop-menu a:hover { color: #ffffff; }
+.desktop-menu a.active { color: #ffffff; border-bottom: 1px solid rgba(255,255,255,0.3); padding-bottom: 4px; }
+.nav-right { display: flex; align-items: center; gap: 24px; }
+.search-box { position: relative; display: inline-block; margin: 0 15px; vertical-align: middle; }
+.search-input { background-color: rgba(65, 62, 61, 0.5); border: none; color: #f5f5f4; padding: 6px 16px; border-radius: 6px; font-size: 14px; width: 192px; outline: none; }
+.search-input:focus { border-color: #8b5a2b; width: 200px; }
+#search-results { position: absolute; top: 130%; right: 0; width: 280px; background: #fff; border-radius: 8px; list-style: none; padding: 0; margin: 0; display: none; z-index: 1000; box-shadow: 0 4px 12px rgba(0,0,0,0.1); overflow: hidden; }
+#search-results li { border-bottom: 1px solid #f0f0f0; }
+#search-results li:last-child { border-bottom: none; }
+#search-results li a { text-decoration: none; color: #555; display: block; padding: 12px 15px; font-size: 14.4px; transition: background 0.2s; }
+#search-results li a:hover { background-color: #fdfaf7; color: #8b5a2b; font-weight: bold; }
+.no-result { padding: 15px; color: #999; font-size: 14.4px; text-align: center; }
+.lang-switch { display: flex; align-items: center; gap: 12px; color: #a8a29e; font-size: 12px; font-weight: 500; letter-spacing: 2px; text-transform: uppercase; }
+.lang-switch button { background: none; border: none; color: inherit; cursor: pointer; font-size: inherit; font-weight: inherit; padding: 0; transition: color 0.3s; }
+.lang-switch button:hover { color: #ffffff; }
+.lang-switch span { color: #57534e; }
+.lang-switch .active { color: #ffffff; }
+.lang-switch a { color: #a8a29e; }
+.lang-icon { color: #f5f5f4; cursor: pointer; }
+.lang-selector { display: flex; align-items: center; gap: 12px; color: #a8a29e; font-size: 12px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; }
+.lang-selector a { background: none; border: none; color: inherit; cursor: pointer; font-size: inherit; font-weight: inherit; padding: 0; transition: color 0.3s; }
+.lang-selector a:hover { color: #ffffff; }
+.lang-selector a.active { color: #ffffff; font-weight: bold; }
+.lang-selector .divider { color: #57534e; }
+.hamburger { display: none; color: #ffffff; cursor: pointer; background: none; border: none; padding: 0; font-size: 24px; }
+.mobile-menu { display: none; position: absolute; top: 80px; left: 0; width: 100%; background-color: #1c1917; padding: 24px 32px; border-top: 1px solid #292524; z-index: 40; }
+.mobile-menu a { display: block; color: #ffffff; font-family: 'Newsreader', serif; font-size: 18px; padding: 12px 0; }
+.wrapper.with-sidebar { display: flex; gap: 40px; align-items: flex-start; }
+.sidebar { width: 300px; flex-shrink: 0; padding: 10px 20px 0 5px; border-radius: 10px; position: sticky; top: 160px; }
+.content-area { flex-grow: 1; width: 100%; }
+.sidebar-title { font-family: 'Newsreader', serif; font-size: 24px; color: #1b3022; margin-top: 0; }
+.sidebar-subtitle { font-family: 'Manrope', sans-serif; text-transform: uppercase; letter-spacing: 0.2em; font-size: 11px; color: rgba(74, 93, 74, 0.6); margin: 0; }
+.sidebar-menu { list-style: none; padding: 0; margin: 0; }
+.sidebar-menu li { margin-bottom: 12px; }
+.sidebar-menu a { display: block; width: 100%; text-align: left; font-family: 'Manrope', sans-serif; text-transform: uppercase; letter-spacing: 0.15em; font-size: 13px; color: rgba(92, 93, 74, 0.8); transition: all 0.3s; }
+.sidebar-menu .active { color: #1b3022; font-weight: 700; padding: 50px 0 30px 0; font-family: 'Manrope', sans-serif; text-transform: uppercase; letter-spacing: 0.15em; font-size: 14px; }
+.sidebar-menu a:hover { color: var(--point-color, #8b5a2b); font-weight: bold; transform: translateX(5px); }
+.site-footer { border-top: 1px solid var(--border-color); padding: 60px 0; background-color: #1c1917; color: #78716c; font-size: 14.4px; }
+.footer-wrapper { margin: 0 auto; padding: 0 20px; display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; }
+.brand-name { font-size: 25px; font-weight: 500; color: #ffffff; font-family: 'Newsreader', serif; padding-bottom: 20px; }
+.footer-info { margin-bottom: 0; }
+.footer-links { text-align: right; }
+.footer-links a { margin-left: 20px; color: #666; display: inline-block; font-weight: 500; }
+.copyright { width: 100%; margin-top: 10px; font-size: 12.8px; color: #999; text-align: left; }
+
+/* --- 미디어쿼리 (인클루드) --- */
+@media screen and (max-width: 1024px) { 
+   .sidebar { width: 210px; }
+}
+@media screen and (max-width: 912px) {  
+.sidebar { width: 180px; }
+  .desktop-menu { display: none; } 
+  .search-box { display: none; }
+  .hamburger { display: flex; align-items: center; background: none; border: none; color: #ffffff; cursor: pointer; padding: 0; }
+  .hamburger .material-symbols-outlined { font-size: 26px; font-weight: 300; }
+  .site-title { font-size: 20px; } 
+  .site-title a { white-space: nowrap; }  
+  .nav-left { gap: 10px; }  
+  .nav-right { gap: 15px; }
+  .mobile-shop-link { display: block; color: #d87c2b !important; font-weight: bold; border-bottom: 1px solid rgba(255,255,255,0.1); margin-bottom: 10px; }
+}
+@media screen and (max-width: 768px) { 
+  .header-wrapper, .wrapper, .footer-wrapper { padding: 0 10px; }
+  .wrapper.with-sidebar { flex-direction: column; gap: 20px; } 
+  .sidebar { width: 100%; position: relative; top: -20px; border: 1px solid #e5e0d8; padding: 20px;   border-radius: 10px;  background-color: #fffdfb; } 
+  .sidebar-menu .active { padding: 10px 0; }
+  .sidebar .sidebar-title   { display: none;}
+  .sidebar .sidebar-subtitle { display: none;}
+  .site-title { font-size: 18px; }
+  .nav-right .shop-link { display: none; }
+  .footer-wrapper { flex-direction: column; align-items: center; text-align: center; gap: 30px; } 
+  .footer-links { text-align: center; margin-top: 20px; } 
+  .footer-links a { margin: 0 10px; } 
+  .copyright { text-align: center; } 
+}
+
+
+/* =========================================
+   3. 레이아웃 관련 CSS (전체 기본 설정 및 공통 여백)
+========================================= */
+:root { --bg-color: #fdfcfb; --text-color: #333333; --menu-color: #ffffff; --logo-color: #ffffff; --point-color: #8b6d5c; --border-color: #e5e0d8; --link-color: #6b503f; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background-color: #FEF8F4; color: var(--text-color); line-height: 1.6; font-size: 16px; }
+a { color: var(--link-color); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.header-wrapper, .wrapper, .footer-wrapper { max-width: 1300px; margin: 0 auto; padding: 0 20px; }
+
+
+/* =========================================
+   4. 카테고리 및 본문 상세 CSS (글 목록, 상세 페이지, 광고 등)
+========================================= */
+.page-content { padding: 140px 0 40px 0; min-height: 80vh; }
+.page-content .wrapper { border-radius: 12px; margin-top: 20px; margin-bottom: 40px; }
+.home-intro { margin-bottom: 40px; text-align: center; }
+.home-intro h2 { color: var(--point-color); margin-bottom: 15px; }
+.recent-posts { padding: 80px 0 40px 0; }
+.recent-posts h3 { padding: 10px 0; }
+.post-list { list-style: none; margin-bottom: 60px; }
+.post-list li { margin-bottom: 15px; border-bottom: 1px dashed var(--border-color); padding-bottom: 10px; }
+.post-date { color: #83513d; font-size: 13px; font-weight: 500; padding-right: 30px; }
+.post-category { color: #695937; font-size: 14.4px; margin-right: 15px; }
+.post-categories { font-family: 'Manrope', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; color: #4a5d4a; font-weight: 700; }
+.post-list a { color: #463f38; }
+.post-header { margin-bottom: 30px; }
+.post-title { font-family: 'Newsreader', serif; font-size: 72px; line-height: 1.05; color: #1b3022; font-weight: 500; margin-bottom: 48px; margin-top: 0; letter-spacing: -0.025em; width: 70%; }
+.post-meta { font-family: 'Manrope', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; color: rgba(74, 93, 74, 0.6); margin-bottom: 30px; }
+.meta-divider { width: 40px; height: 1px; background-color: #d6d0c4; }
+.post-content h2 { font-family: 'Newsreader', serif; font-size: 36px; color: #1b3022; border-left: 3px solid rgba(27, 48, 34, 0.2); padding-left: 40px; padding-top: 8px; padding-bottom: 8px; margin: 100px 0 30px 0; letter-spacing: -0.025em; }
+.post-content p { font-size: 18px; color: rgba(27, 48, 34, 0.8); padding: 15px 0; }
+.post-content img { max-width: 1050px; width: auto; height: auto; border-radius: 10px; width: 100%; max-width: min(1050px, 100%); }
+.back-to-list { display: inline-block; padding: 10px 20px; background-color: #2C4A35; color: white; text-decoration: none; border-radius: 5px; font-size: 14px; cursor: pointer; }
+.back-to-list1 { display: inline-block; padding: 10px 20px; background-color: #52492d; color: white; text-decoration: none; border-radius: 5px; font-size: 14px; cursor: pointer; }
+.back-to-list:hover { background-color: #615f0c; text-decoration: none; }
+.back-to-list1:hover { background-color: #615f0c; text-decoration: none; }
+.ad-space { width: 100%; height: 144px; background-color: #f8f5f0; display: flex; align-items: center; justify-content: center; margin: 50px 0 96px 0; border-radius: 2px; border: 1px solid rgba(214, 208, 196, 0.3); }
+.ad-text { font-family: 'Manrope', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; color: rgba(74, 93, 74, 0.4); }
+
+/* --- 미디어쿼리 (카테고리 & 포스트) --- */
+@media screen and (max-width: 1024px) { 
+    .post-title { font-size: 56px; width: 90%; } 
+}
+@media screen and (max-width: 768px) { 
+    .post-title { font-size: 40px; width: 100%; margin-bottom: 24px; } 
+    .page-content { padding: 100px 0 30px 0; }
+    .post-content h2 { font-size: 25px; margin-top: 60px; padding-left: 20px; } 
+    .post-content p { font-size: 16px; } 
+    .post-list li { display: flex; flex-wrap: wrap; align-items: center; border-bottom: 1px dashed var(--border-color); padding-bottom: 10px; } /* 날짜 윗줄제목 아랫줄 */
+    .post-date { font-size: 12px; }
+    .post-category { display: none; }
+    .post-list li a { width: 100%; font-size: 16px; }
+    .back-to-list  { width: 150px; font-size: 12px; padding: 10px; }
+    .back-to-list1 { width: 150px; font-size: 12px; padding: 10px; }
+    .ad-space { margin-bottom: 30px; }
+
+
+/* =========================================
+   5. 그 외 CSS (유튜브 반응형, 스크롤탑 버튼 등)
+========================================= */
+.video-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 30px 0; border-radius: 8px; }
+.video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+#scroll-top-btn { position: fixed; bottom: 30px; right: 30px; width: 50px; height: 50px; background-color: #52362D; color: #ffffff; text-align: center; line-height: 45px; border-radius: 50%; font-size: 24px; font-weight: bold; text-decoration: none; box-shadow: 0 4px 10px rgba(0,0,0,0.2); display: none; z-index: 9999; transition: background-color 0.3s; }
+#scroll-top-btn:hover { background-color: #d87c2b; }

@@ -6,9 +6,11 @@
   
   <title>Making Note - 날마다 소품 Story</title>
 
-   <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,300..800&family=Manrope:wght@200..800&display=swap" rel="stylesheet" />
+   <!--<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,300..800&family=Manrope:wght@200..800&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=storefront" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=storefront" />-->
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   
   <meta name="description" content="정성스럽게 지은 패브릭 소품과 따뜻한 일상을 기록합니다.">
@@ -43,18 +45,31 @@
                     <a href="https://en.nalmadasopum.com" title="English"><button>ENG</button></a>
                   </div>
 
-                <!--<span class="material-symbols-outlined lang-icon" data-icon="language">language</span>
-                <button class="hamburger material-symbols-outlined">menu</button>-->
+                <!--<span class="material-symbols-outlined lang-icon" data-icon="language">language</span>-->
+                <button class="hamburger" id="hamburger-btn">
+                    <span class="material-symbols-outlined">menu</span>
+                </button>
             </div>
         </div>
         
-        <div class="mobile-menu">
+        <div class="mobile-menu" id="mobile-menu-overlay">
+            <a href="https://nalmadasopum.kr" target="_blank" class="mobile-shop-link">SHOP</a>
             <a href="/category/about/">브랜드 스토리</a>
             <a href="/category/making-note/">제작 노트</a>
             <a href="/category/daily/">소소한 일상</a>
         </div>
     </nav>
 
+
+    <script>
+    $(document).ready(function() {
+        // 햄버거 버튼(.hamburger)을 클릭했을 때 할 일
+        $('.hamburger').on('click', function() {
+        // 모바일 메뉴(.mobile-menu)를 스르륵 열었다가 닫아줍니다.
+        $('.mobile-menu').slideToggle(300);
+        });
+    });
+    </script>
 
 
   <main class="page-content" aria-label="Content">
@@ -174,6 +189,10 @@
   </div>
 
 </section>
+
+<div class="ad-space ad-bottom"><!--광고-->
+  <span class="ad-text">Advertisement</span>
+</div>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
