@@ -203,8 +203,8 @@ a:hover { text-decoration: underline; }
     .post-date { font-size: 12px; }
     .post-category { display: none; }
     .post-list li a { width: 100%; font-size: 16px; }
-    .back-to-list  { width: 150px; font-size: 12px; padding: 10px; }
-    .back-to-list1 { width: 150px; font-size: 12px; padding: 10px; }
+    .back-to-list  { width: 160px; font-size: 12px; padding: 8px; text-align: center; }
+    .back-to-list1 { width: 160px; font-size: 12px; padding: 8px; text-align: center; }
     .ad-space { margin-bottom: 30px; }
 }
 
