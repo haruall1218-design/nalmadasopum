@@ -226,6 +226,7 @@ a:hover { text-decoration: underline; }
 .post-tags .tag-badge {     background-color: #f5f2eb;   color: #695937;   padding: 6px 14px;  border-radius: 20px;
   font-size: 14px;  text-decoration: none;  transition: all 0.2s ease;}
 .post-tags .tag-badge:hover {  background-color: #52362d;   color: #ffffff;}
+.tag-archives h2 {  scroll-margin-top: 100px; /* 80px 헤더 두께 + 20px 여유 공간 */}
 
 /* --- 미디어쿼리 (카테고리 & 포스트) --- */
 @media screen and (max-width: 1024px) { 
