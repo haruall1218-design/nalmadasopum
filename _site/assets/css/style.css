@@ -221,6 +221,11 @@ a:hover { text-decoration: underline; }
   font-family: 'Material Symbols Outlined'; /* 구글 아이콘 폰트 불러오기 */
   font-size: 24px;  font-weight: normal;}
 
+/************************* 해시태그 ******************************/
+.post-tags {  margin-top: 50px;  padding-top: 20px;  border-top: 1px dashed var(--border-color);  display: flex;  flex-wrap: wrap;   gap: 10px; }
+.post-tags .tag-badge {     background-color: #f5f2eb;   color: #695937;   padding: 6px 14px;  border-radius: 20px;
+  font-size: 14px;  text-decoration: none;  transition: all 0.2s ease;}
+.post-tags .tag-badge:hover {  background-color: #52362d;   color: #ffffff;}
 
 /* --- 미디어쿼리 (카테고리 & 포스트) --- */
 @media screen and (max-width: 1024px) { 

@@ -23,6 +23,14 @@ layout: default
 
   <div class="post-content">
     {{ content }}
+    
+    <div class="post-tags"> <!--해시태그-->
+      {% if page.tags.size > 0 %}
+        {% for tag in page.tags %}
+          <a href="/tags/#{{ tag | cgi_escape }}" class="tag-badge">#{{ tag }}</a>
+        {% endfor %}
+      {% endif %}
+    </div>
   </div>
 
   <div class="ad-space ad-bottom"><!--광고-->
