@@ -9,7 +9,8 @@
 .hero-content { flex: 1; }
 .hero-label { font-family: 'Manrope', sans-serif; font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase; color: #6f5a52; margin-bottom: 24px; }
 .hero-title { font-size: 75px; line-height: 1.2; margin: 15px 0; font-weight: normal; word-break: keep-all; }
-.hero-title a { text-decoration: none; color: #222; }
+.hero-title a { font-family: 'Times New Roman', serif; text-decoration: none; color: #222; letter-spacing: -1px; }
+.hero-title a:hover { text-decoration: underline;  text-decoration-thickness: 1px; text-underline-offset: 13px; text-decoration-color: #8cb330; color: #58770e; }
 .hero-desc { font-size: 18px; color: #555; line-height: 1.6; margin-bottom: 30px; }
 .hero-btn { display: inline-block; background-color: #5a403d; color: #fff; padding: 12px 24px; text-decoration: none; font-size: 14.4px; letter-spacing: 1px; }
 .section-header { display: flex; justify-content: space-between; align-items: baseline; padding-bottom: 10px; }
@@ -20,7 +21,7 @@
 .story-card img { width: 100%; aspect-ratio: 1 / 0.7; object-fit: cover; border-radius: 6px; margin-bottom: 15px; transition: transform 0.5s; }
 .story-card:hover img { transform: scale(1.05); }
 .card-meta { font-family: 'Newsreader', serif; color: #52362d; font-size: 14px; font-style: italic; font-weight: 500; }
-.card-title { font-size: 24px; line-height: 1.25; color: #1d1b19; margin: 0; transition: color 0.3s; font-family: 'Newsreader', serif; padding: 16px 0; }
+.card-title { font-size: 24px; line-height: 1.25; color: #1d1b19; margin: 0; transition: color 0.3s; font-family: 'Newsreader', serif; padding: 16px 0; letter-spacing: -1.5px;}
 .card-title a { text-decoration: none; color: #222; }
 .card-excerpt { font-size: 15.2px; color: #504440; line-height: 1.5; }
 .bottom-action-banners { display: grid; grid-template-columns: 1.6fr 1fr; gap: 30px; margin-bottom: 60px; }
@@ -69,8 +70,9 @@
 .nav { position: fixed; top: 0; width: 100%; z-index: 50; background-color: #1c1917; height: 80px; }
 .nav-inner { display: flex; justify-content: space-between; align-items: center; height: 100%; max-width: 1300px; margin: 0 auto; padding: 0 20px; }
 .nav-left { display: flex; align-items: center; gap: 70px; }
-.site-title { font-size: 24px; margin-bottom: 0; font-family: 'Newsreader', serif; }
+.site-title { font-size: 24px; margin-bottom: 0; font-family: 'Newsreader', serif;  letter-spacing: -1.0px; }
 .site-title a { color: var(--logo-color); text-decoration: none; font-weight: 700; }
+.site-title a:hover {  text-decoration: none;   color:#58770e; }
 .desktop-menu { display: flex; gap: 32px; }
 .desktop-menu a { color: #a8a29e; font-weight: 500; font-family: 'Noto Sans KR', 'Newsreader', serif; font-size: 18px; transition: color 0.3s; cursor: pointer; }
 .desktop-menu a:active { opacity: 0.7; }
@@ -155,9 +157,9 @@
 /* =========================================
    3. 레이아웃 관련 CSS (전체 기본 설정 및 공통 여백)
 ========================================= */
-:root { --bg-color: #fdfcfb; --text-color: #333333; --menu-color: #ffffff; --logo-color: #ffffff; --point-color: #8b6d5c; --border-color: #e5e0d8; --link-color: #6b503f; }
+:root { --bg-color: #fffdfb; --text-color: #333333; --menu-color: #ffffff; --logo-color: #ffffff; --point-color: #8b6d5c; --border-color: #e5e0d8; --link-color: #6b503f; }
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background-color: #FEF8F4; color: var(--text-color); line-height: 1.6; font-size: 16px; }
+body { font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background-color: #fffdfb; color: var(--text-color); line-height: 1.6; font-size: 16px; }
 a { color: var(--link-color); text-decoration: none; }
 a:hover { text-decoration: underline; }
 .header-wrapper, .wrapper, .footer-wrapper { max-width: 1300px; margin: 0 auto; padding: 0 20px; }
@@ -179,10 +181,10 @@ a:hover { text-decoration: underline; }
 .post-categories { font-family: 'Manrope', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; color: #4a5d4a; font-weight: 700; }
 .post-list a { color: #463f38; }
 .post-header { margin-bottom: 30px; }
-.post-title { font-family: 'Newsreader', serif; font-size: 72px; line-height: 1.05; color: #1b3022; font-weight: 500; margin-bottom: 48px; margin-top: 0; letter-spacing: -0.025em; width: 70%; }
+.post-title { font-family: 'Newsreader', serif; font-size: 72px; line-height: 1.1; color: #1b3022; font-weight: 500; margin-bottom: 48px; margin-top: 0; letter-spacing: -1.5px; width: 70%; }
 .post-meta { font-family: 'Manrope', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; color: rgba(74, 93, 74, 0.6); margin-bottom: 30px; }
 .meta-divider { width: 40px; height: 1px; background-color: #d6d0c4; }
-.post-content h2 { font-family: 'Newsreader', serif; font-size: 36px; color: #1b3022; border-left: 3px solid rgba(27, 48, 34, 0.2); padding-left: 40px; padding-top: 8px; padding-bottom: 8px; margin: 100px 0 30px 0; letter-spacing: -0.025em; }
+.post-content h2 { font-family: 'Newsreader', serif; font-size: 36px; color: #1b3022; border-left: 3px solid rgba(27, 48, 34, 0.2); padding-left: 40px; padding-top: 8px; padding-bottom: 8px; margin: 100px 0 30px 0; letter-spacing: -1.5px; }
 .post-content p { font-size: 18px; color: rgba(27, 48, 34, 0.8); padding: 15px 0; }
 .post-content img { max-width: 1050px; width: auto; height: auto; border-radius: 10px; width: 100%; max-width: min(1050px, 100%); }
 .back-to-list { display: inline-block; padding: 10px 20px; background-color: #2C4A35; color: white; text-decoration: none; border-radius: 5px; font-size: 14px; cursor: pointer; }
