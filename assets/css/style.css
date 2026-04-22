@@ -208,11 +208,18 @@ a:hover { text-decoration: underline; }
 .post-content h3 { font-size: 22px; font-weight: 700; margin-top: 15px; }
 /* (## 글자) 디자인 */
 .post-content h2 { font-family: 'Newsreader', serif; font-size: 36px; color: #1b3022; border-left: 3px solid rgba(27, 48, 34, 0.2); padding-left: 40px; padding-top: 8px; padding-bottom: 8px; margin: 100px 0 30px 0; letter-spacing: -1.5px; }
-
 .post-content p { font-size: 18px; color: rgba(27, 48, 34, 0.8); padding: 15px 0; }
 .post-content img { max-width: 1050px; width: auto; height: auto; border-radius: 10px; width: 100%; max-width: min(1050px, 100%); }
 
-
+/* #### (h4) 기호를 이용한 마크다운 전용 박스 버튼 */
+.post-content h4 {  margin: 40px 0 20px 0;  padding: 0;  border: none; }
+.post-content h4 a {  display: flex;  justify-content: space-between;  align-items: center;  background-color: #52362d;   color: #ffffff !important; 
+  padding: 18px 24px;  border-radius: 8px;  text-decoration: none;  font-weight: 600;  font-size: 18px;  transition: all 0.3s ease; box-shadow: 0 4px 10px rgba(0,0,0,0.05);}
+.post-content h4 a:hover {  background-color: #d87c2b;   transform: translateY(-3px);  box-shadow: 0 6px 15px rgba(216,124,43,0.2);}
+.post-content h4 a::after { /* 💡 핵심: 마크다운에 화살표를 안 적어도 CSS가 자동으로 화살표 아이콘을 붙여줍니다! */
+  content: "\e5c8"; /* 구글 머티리얼 아이콘 'arrow_forward'의 암호 */
+  font-family: 'Material Symbols Outlined'; /* 구글 아이콘 폰트 불러오기 */
+  font-size: 24px;  font-weight: normal;}
 
 
 /* --- 미디어쿼리 (카테고리 & 포스트) --- */

@@ -142,4 +142,4 @@ image: "/assets/images/making-note/260421-sewing-tools-01.jpg"      # 최근 글
 
 이제 도구가 준비되셨나요? 초보자도 10분 만에 만드는 티코스터 레시피를 확인해 보세요!
 
-[**초보자도 10분 완성! 티코스터 만들기 바로가기**]({{ site.kor_url }}/making-note/2026/04/22/tea-coaster.html)
+#### [☕ 초보자도 10분 완성! 티코스터 만들기 바로가기](/making-note/2026/04/22/tea-coaster.html)
