@@ -21,7 +21,7 @@ image: "/assets/images/making-note/260421-sewing-tools-01.jpg"      # 최근 글
 
 ## 절대 종이를 자르면 안 되는  가위 !
 
-![바느질 기초 도구 모음]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-02.jpg)
+![다이소 재단 가위와 잠자리표 원단 가위 비교]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-02.jpg)
 
 ### 재단 가위 
 원단 자를 때 나는 '사각사각' 소리, 정말 힐링되거든요. 재단 가위는 오직 원단을 자를 때만 사용하시기 바랍니다.
@@ -45,13 +45,15 @@ image: "/assets/images/making-note/260421-sewing-tools-01.jpg"      # 최근 글
 
 분홍색 커터칼은 중국산인데 알리에서 구입했어요. 손잡이가 영 엉성하지만, 칼날은 잘 들어서 저렴한 가격에 쓰기는 좋습니다.
 
+특히 여러 장의 원단을 똑같은 크기로 자를 때 가위보다 손목에 무리도 덜 가고 시간도 3배는 단축된답니다
+
 > 주의 : 로터리 커터는 아주 날이 잘 들기 때문에 사용하실  때 손을 조심하셔야 합니다. ^^
 
 
 ---
 ## 다양한 눈금자들
 
-![바느질 기초 도구 모음]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-03.jpg)
+![미싱 초보를 위한 투명 방안자와 줄자]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-03.jpg)
 
 ### 방안 자 (투명 자)
 15cm, 30cm, 60cm 등 길이가 다양한데, 원단의 크기에 따라 사용하시면 됩니다.
@@ -66,7 +68,7 @@ image: "/assets/images/making-note/260421-sewing-tools-01.jpg"      # 최근 글
 ---
 ## 마법처럼 스르륵 지워지는 스케치 도구
 
-![바느질 기초 도구 모음]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-04.jpg)
+![초크와 스스륵 지워지는 열펜의 비교]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-04.jpg)
 
 원단 위에 스케치를 해야 가위질도 하고 미싱도 박을 수 있겠죠?
 
@@ -78,7 +80,7 @@ image: "/assets/images/making-note/260421-sewing-tools-01.jpg"      # 최근 글
 간혹 초크로 그은 부분을 문지르거나 하면 좀 연해지거나 없어질 수도 있습니다.
 
 ### 기화펜
-도안이나 글자를 그리고 난 후 칙칙 물을 뿌리면 마법처럼 사라지는 펜이에요.
+**초크펜 지우는 법** 도안이나 글자를 그리고 난 후 초크칙칙 물을 뿌리면 마법처럼 사라지는 펜이에요.
 펜을 사두고 오랫동안 쓰지 않으면 기화되어 나오지 않을 수도 있어요 ^^;
 
 ### 열펜
@@ -88,9 +90,10 @@ image: "/assets/images/making-note/260421-sewing-tools-01.jpg"      # 최근 글
 단, 열에 약한 원단은 자투리에 테스트 해 보시고 사용하시기 바랍니다.
 
 ---
+
 ## 미싱에서 빠질 수 없는 고정 도구
 
-![바느질 기초 도구 모음]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-05.jpg)
+![시침핀 고르기와 고정도구]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-05.jpg)
 
 ### 시침핀
 원단을 2장 겹쳐 고정할 때 제일 많이 쓰이는 게 시침핀입니다.
@@ -117,7 +120,7 @@ image: "/assets/images/making-note/260421-sewing-tools-01.jpg"      # 최근 글
 ---
 ## 완성도의 절대적 강자, 다리미
 
-![바느질 기초 도구 모음]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-06.jpg)
+![다리미와 송곳의 설명]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-06.jpg)
 
 ### 다리미
 "바느질하는데 웬 다리미?" 하실 수 있지만, 사실 바느질의 절반은 다림질이에요. 중간중간 구겨진 곳을 펴주고 시접을 꾹꾹 눌러 다려주면, 퀄리티가 확 올라간답니다.
@@ -137,3 +140,6 @@ image: "/assets/images/making-note/260421-sewing-tools-01.jpg"      # 최근 글
 
 일단 잘 드는 재단 가위, 투명한 방안 자, 시침핀, 그리고 실뜯개 정도만 소박하게 준비해서 작은 파우치나 곱창밴드 하나부터 만들어 보세요. 도구는 내 실력이 늘어갈 때마다 하나씩 모으는 재미도 쏠쏠하답니다.
 
+이제 도구가 준비되셨나요? 초보자도 10분 만에 만드는 티코스터 레시피를 확인해 보세요!
+
+[**초보자도 10분 완성! 티코스터 만들기 바로가기**]({{ site.kor_url }}/making-note/2026/04/22/tea-coaster.html)
