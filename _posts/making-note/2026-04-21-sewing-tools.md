@@ -5,7 +5,7 @@ date: 2026-04-21
 categories: making-note
 main_menu: "제작 노트"    # 화면에 표시될 대분류 한글 메뉴명
 tags: [바느질 기초 도구]            # 2차 메뉴의 메뉴명이 아닌 tags명
-image: "/assets/images/making-note/pouch-001.jpg"      # 최근 글보기에 보여줄 이미지
+image: "/assets/images/making-note/260421-sewing-tools-01.jpg"      # 최근 글보기에 보여줄 이미지
 ---
 
 
@@ -15,7 +15,12 @@ image: "/assets/images/making-note/pouch-001.jpg"      # 최근 글보기에 보
 
 그래서 오늘은 제가 직접 소품들을 만들며 매일매일 손때 묻혀가며 쓰는, 진짜 알짜배기 필수 바느질 도구들을 옆집 언니처럼 편안하게 소개해 드릴게요. 처음부터 전부 다 살 필요 없어요! 딱 필요한 것만 쏙쏙 골라 드릴 테니 천천히 따라오세요.
 
+![바느질 기초 도구 모음]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-01.jpg)
+
+
 ## 절대 종이를 자르면 안 되는  가위 !
+
+![바느질 기초 도구 모음]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-02.jpg)
 
 재단 가위: 원단 자를 때 나는 '사각사각' 소리, 정말 힐링되거든요. 재단 가위는 오직 원단에게만 양보해 주세요. 택배 박스나 종이를 자르는 순간 날이 상해서 원단이 씹힐 수 있답니다.
 
@@ -26,11 +31,15 @@ image: "/assets/images/making-note/pouch-001.jpg"      # 최근 글보기에 보
 
 ## 다양한 눈금자들
 
+![바느질 기초 도구 모음]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-03.jpg)
+
 방안 자 (투명 자): 15cm, 30cm, 50cm 등 길이가 다양한데, 투명해서 원단 무늬가 훤히 비치는 게 특징이에요. 바둑판처럼 격자무늬가 그려져 있어서 시접(여유분)을 그릴 때 진짜 유용해요.
 
 줄자: 내 몸의 치수를 재거나 둥근 곡선을 잴 때 꼭 필요해요. 돌돌 말려 있어서 보관도 간편하죠.
 
 ## 마법처럼 스르륵 지워지는 스케치 도구
+
+![바느질 기초 도구 모음]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-04.jpg)
 
 원단 위에 스케치를 해야 가위질도 하고 미싱도 박을 수 있겠죠?
 
@@ -40,6 +49,8 @@ image: "/assets/images/making-note/pouch-001.jpg"      # 최근 글보기에 보
 
 ## 미싱에서 빠질 수 없는 고정 도구
 
+![바느질 기초 도구 모음]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-05.jpg)
+
 시침핀: 머리에 유리구슬이 달린 핀을 추천해요! 다리미 열에 닿아도 끄떡없거든요. 원단 두 장을 겹쳐서 미싱을 박기 전에 콕콕 찔러 고정해 줍니다.
 
 실뜯개: 초보 시절 저의 가장 든든한 위로가 되어준 친구예요. (물론 지금도 자주 씁니다만 😅) 잘못 박은 실을 토도독 뜯어낼 때 은근히 스트레스가 풀려요.
@@ -47,6 +58,8 @@ image: "/assets/images/making-note/pouch-001.jpg"      # 최근 글보기에 보
 집게: 가죽이나 라미네이트처럼 핀을 꽂으면 구멍이 뻥 뚫리는 원단을 집어둘 때 아주 딱이에요.
 
 ## 완성도의 절대적 강자, 다리미
+
+![바느질 기초 도구 모음]({{ site.kor_url }}/assets/images/making-note/260421-sewing-tools-06.jpg)
 
 다리미: "바느질하는데 웬 다리미?" 하실 수 있지만, 사실 바느질의 절반은 다림질이에요. 중간중간 구겨진 곳을 펴주고 시접을 꾹꾹 눌러 다려주면, 공방에서 산 것처럼 퀄리티가 확 올라간답니다.
 
@@ -58,10 +71,6 @@ image: "/assets/images/making-note/pouch-001.jpg"      # 최근 글보기에 보
 
 일단 잘 드는 재단 가위, 투명한 방안 자, 시침핀, 그리고 내 맘을 달래줄 실뜯개 정도만 소박하게 준비해서 작은 파우치나 곱창밴드 하나부터 만들어 보세요. 도구는 내 실력이 늘어갈 때마다 하나씩 모으는 재미도 쏠쏠하답니다.
 
-
-![A picture of the pouch]({{ site.kor_url }}/assets/images/making-note/pouch-001.jpg)
-
-![A picture of the pouch]({{ site.kor_url }}/assets/images/making-note/pouch-002.jpg)
 
 
 
