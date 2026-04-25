@@ -2,19 +2,19 @@
    1. 인덱스 관련 CSS (메인 홈, 히어로, 최근 스토리, 뉴스레터 등)
 ========================================= */
 .home-wrapper { margin: 0 auto; }
-.hero-section { display: flex; align-items: flex-start; gap: 60px; margin-bottom: 100px; }
-.hero-image-wrap { flex: 1.55; position: relative; aspect-ratio: 16 / 10; align-self: flex-start; border-radius: 8px; }
+.hero-section { display: flex;  gap: 80px; align-items: center; justify-content: space-between; margin-bottom: 100px; }
+.hero-image-wrap { flex: 1.55; position: relative; aspect-ratio: 16 / 10;  border-radius: 8px; }
 .hero-image-wrap img { width: 100%; height: 450px; object-fit: cover; border-radius: 8px; overflow: hidden; }
-.hero-quote { position: absolute; bottom: -20px; right: -40px; background: white; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); font-style: italic; color: #666; }
+.hero-quote { position: absolute; bottom: -20px; right: -40px; background: white; padding: 30px 70px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); border-radius: 6px;font-family: 'Newsreader', serif;    color: #52362d;    font-style: italic;    font-size: 16px; }
 .hero-content { flex: 1; }
 .hero-label { font-family: 'Manrope', sans-serif; font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase; color: #6f5a52; margin-bottom: 24px; }
 .hero-title { font-size: 70px; line-height: 1.2; margin: 15px 0; font-weight: normal; word-break: keep-all; }
-.hero-title a { font-family: 'Times New Roman', serif; text-decoration: none; color: #222; letter-spacing: -1px; }
+.hero-title a { font-family: 'Manrope', sans-serif; line-height: 1.1; font-weight: 300; color: #1d1b19; margin-bottom: 32px; margin-top: 0; }
 .hero-title a:hover { text-decoration: underline;  text-decoration-thickness: 1px; text-underline-offset: 13px; text-decoration-color: #8cb330; color: #58770e; }
 .hero-desc { font-size: 18px; color: #555; line-height: 1.6; margin-bottom: 30px; }
 .hero-btn { display: inline-block; background-color: #5a403d; color: #fff; padding: 12px 24px; text-decoration: none; font-size: 14.4px; letter-spacing: 1px; }
 .section-header { display: flex; justify-content: space-between; align-items: baseline; padding-bottom: 10px; }
-.section-header h2 { font-family: 'Times New Roman', serif; margin: 0; font-size: 35.2px; color: #111; }
+.section-header h2 {     font-family: 'Newsreader', serif; margin: 0; font-size: 35.2px; color: #111; }
 .view-all { font-size: 13.6px; text-decoration: none; color: #666; letter-spacing: 1px; }
 .stories-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px; }
 .stories-divider { width: 48px; height: 4px; background-color: #52362d; margin-bottom: 40px; }
@@ -27,13 +27,15 @@
 .bottom-action-banners { display: grid; grid-template-columns: 1.6fr 1fr; gap: 30px; margin-bottom: 60px; }
 .action-box { padding: 30px 40px; border-radius: 4px; display: flex; flex-direction: column; justify-content: center; }
 .newsletter-box { background-color: #f5f2eb; }
-.action-title { font-family: 'Times New Roman', serif; font-size: 35.2px; color: #111; margin: 0 0 15px 0; }
+.action-title {     font-family: 'Newsreader', serif;
+ font-size: 35.2px; color: #111; margin: 0 0 15px 0; }
 .action-desc { font-size: 15.2px; color: #555; line-height: 1.6; margin-bottom: 30px; }
 .newsletter-form { display: flex; gap: 10px; }
 .newsletter-form input { flex: 1; padding: 15px; border: none; border-radius: 4px; font-size: 16px; background-color: #fef8f4; }
 .archive-box { background-color: #52362D; color: #fff; align-items: center; text-align: center; }
 .archive-icon { font-size: 32px; }
-.archive-title { font-family: 'Times New Roman', serif; font-size: 28.8px; font-style: italic; font-weight: normal; margin: 0 0 15px 0; }
+.archive-title {     font-family: 'Newsreader', serif;
+ font-size: 28.8px; font-style: italic; font-weight: normal; margin: 0 0 15px 0; }
 .archive-desc { font-size: 14.4px; color: #ccc; line-height: 1.6; margin-bottom: 30px; }
 .btn-underline { color: #fff; text-decoration: none; font-size: 13.6px; font-weight: bold; letter-spacing: 2px; padding-bottom: 5px; border-bottom: 1px solid rgba(255,255,255,0.5); transition: border-color 0.3s; }
 .btn-underline:hover { border-bottom-color: #fff; }
@@ -159,7 +161,7 @@
 ========================================= */
 :root { --bg-color: #fffdfb; --text-color: #333333; --menu-color: #ffffff; --logo-color: #ffffff; --point-color: #8b6d5c; --border-color: #e5e0d8; --link-color: #6b503f; }
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background-color: #fffdfb; color: var(--text-color); line-height: 1.6; font-size: 16px; }
+body { font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background-color: #fef8f4;/*#fffdfb*/; color: var(--text-color); line-height: 1.6; font-size: 16px; }
 a { color: var(--link-color); text-decoration: none; }
 a:hover { text-decoration: underline; }
 .header-wrapper, .wrapper, .footer-wrapper { max-width: 1300px; margin: 0 auto; padding: 0 20px; }
@@ -169,6 +171,7 @@ a:hover { text-decoration: underline; }
    4. 카테고리 및 본문 상세 CSS (글 목록, 상세 페이지, 광고 등)
 ========================================= */
 .page-content { padding: 140px 0 40px 0; min-height: 80vh; }
+.page-content-tags { padding: 0 0 40px 0; min-height: 80vh; }
 .page-content .wrapper { border-radius: 12px; margin-top: 20px; margin-bottom: 40px; }
 .home-intro { margin-bottom: 40px; text-align: center; }
 .home-intro h2 { color: var(--point-color); margin-bottom: 15px; }
@@ -177,7 +180,7 @@ a:hover { text-decoration: underline; }
 .post-list { list-style: none; margin-bottom: 60px; }
 .post-list li { margin-bottom: 15px; border-bottom: 1px dashed var(--border-color); padding-bottom: 10px; }
 .post-date { color: #83513d; font-size: 13px; font-weight: 500; padding-right: 30px; }
-.post-category { color: #695937; font-size: 14.4px; margin-right: 15px; }
+.post-category { display: inline-block; background-color: #fdfaf7; color: #d87c2b; border: 1px solid #e5e0d8;  padding: 4px 12px;   border-radius: 20px;  width: 180px;  text-align: center;  font-size: 13px;  font-weight: 600;  margin : 0 10px 8px 0;}
 .post-categories { font-family: 'Manrope', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; color: #4a5d4a; font-weight: 700; }
 .post-list a { color: #463f38; }
 .post-header { margin-bottom: 30px; }

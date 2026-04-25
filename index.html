@@ -58,8 +58,8 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
           <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
 
           <span class="post-category" > <!--대분류-소분류 나타내기-->
-            [{{ post.main_menu }}
-            {% if post.tags.size > 0 %} - {{ post.tags.first }}{% endif %}]
+            {{ post.main_menu }}
+            {% if post.tags.size > 0 %} - {{ post.tags.first }}{% endif %}
           </span>
 
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>

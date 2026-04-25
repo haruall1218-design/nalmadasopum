@@ -154,3 +154,9 @@ Tip 2 : 면이나 린넨 소재가 물 흡수가 잘 되어서 좋아요. 서로
 ![세트로 완성한 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-18.jpg)
 
 ![격자무늬의 북유럽풍 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-19.jpg)
+
+다음은 무엇을 만들어 볼까요?
+
+#### [☕ 동글동글 귀여운 '스트링 파우치' 만들기 (초보자용)](/making-note/2026/04/25/pouch-making.html)
+
+#### [☕ 초보자 2단계! 티슈커버 만들기 바로가기](/making-note/2026/04/18/tissue-cover.html)

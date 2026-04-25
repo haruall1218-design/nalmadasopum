@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "동글동글 귀여운 '스트링(조리개) 파우치' 만들기 (초보자용)"
+title: "동글동글 귀여운 '스트링 파우치' 만들기 (초보자용)"
 date: 2026-04-25
 categories: making-note
 main_menu: "제작 노트"   # 화면에 표시될 대분류 한글 메뉴명
