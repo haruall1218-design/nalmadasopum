@@ -8,6 +8,7 @@ tags: [기타 소품]            # 2차 메뉴의 메뉴명이 아닌 tags명
 image: "/assets/images/making-note/260422-fabric-tea-coaster-tutorial-01.jpg"      # 최근 글보기에 보여줄 이미지
 ---
 
+![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-17.jpg)
 
 안녕하세요! 소소한 원단들로 일상에 따뜻함을 더하는 **'날마다 소품'**입니다. ☕✨
 지난번 '바느질 필수 도구 가이드'는 잘 읽어보셨나요? <a href="/making-note/2026/04/21/sewing-tools.html">[바느질 시작의 알짜배기 기초 도구 - 바로가기]</a> 
@@ -19,6 +20,9 @@ image: "/assets/images/making-note/260422-fabric-tea-coaster-tutorial-01.jpg"   
 
 ![감성 듬뿍 티코스터 완성 사진]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-01.jpg)
 
+![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-18.jpg)
+
+![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-19.jpg)
 
 ## 준비물, 이렇게 챙겨주세요!
 
@@ -130,10 +134,17 @@ image: "/assets/images/making-note/260422-fabric-tea-coaster-tutorial-01.jpg"   
 ---
 ## 💡 '날마다 소품'의 공방 꿀팁!
 티코스터 만들기에 익숙해지셨다면, 사이즈만 쓱 바꿔서 다양하게 응용해 보세요!
-가로세로 길이를 조금 더 길게 재단하면 냄비받침이 되고, 직사각형으로 길게 만들면 식탁 위를 장식하는 테이블 매트가 된답니다. 지난번에 만든 파우치나 북마크와 같은 원단 세트로 맞춰봐도 정말 예뻐요!
+<br>
+가로세로 길이를 조금 더 길게 재단하면 냄비받침이 되고, 직사각형으로 길게 만들면 식탁 위를 장식하는 테이블 매트가 된답니다. 식탁매트, 티코스터, 냄비받침 등을 어울리는 비슷한 원단으로 세트를 맞춰봐도 정말 예뻐요!
+화사한 주방이 된답니다.
 
 
-![A picture of the pouch]({{ site.kor_url }}/assets/images/making-note/pouch-001.jpg)
+![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-12.jpg)
 
-![A picture of the pouch]({{ site.kor_url }}/assets/images/making-note/pouch-002.jpg)
+![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-13.jpg)
 
+![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-14.jpg)
+
+![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-15.jpg)
+
+![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-16.jpg)
