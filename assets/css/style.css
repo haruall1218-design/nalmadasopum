@@ -2,13 +2,13 @@
    1. 인덱스 관련 CSS (메인 홈, 히어로, 최근 스토리, 뉴스레터 등)
 ========================================= */
 .home-wrapper { margin: 0 auto; }
-.hero-section { display: flex; align-items: flex-start; gap: 70px; margin-bottom: 100px; }
-.hero-image-wrap { flex: 1.6; position: relative; aspect-ratio: 16 / 10; align-self: flex-start; border-radius: 8px; }
+.hero-section { display: flex; align-items: flex-start; gap: 60px; margin-bottom: 100px; }
+.hero-image-wrap { flex: 1.55; position: relative; aspect-ratio: 16 / 10; align-self: flex-start; border-radius: 8px; }
 .hero-image-wrap img { width: 100%; height: 450px; object-fit: cover; border-radius: 8px; overflow: hidden; }
 .hero-quote { position: absolute; bottom: -20px; right: -40px; background: white; padding: 30px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); font-style: italic; color: #666; }
 .hero-content { flex: 1; }
 .hero-label { font-family: 'Manrope', sans-serif; font-size: 12px; letter-spacing: 0.2em; text-transform: uppercase; color: #6f5a52; margin-bottom: 24px; }
-.hero-title { font-size: 75px; line-height: 1.2; margin: 15px 0; font-weight: normal; word-break: keep-all; }
+.hero-title { font-size: 70px; line-height: 1.2; margin: 15px 0; font-weight: normal; word-break: keep-all; }
 .hero-title a { font-family: 'Times New Roman', serif; text-decoration: none; color: #222; letter-spacing: -1px; }
 .hero-title a:hover { text-decoration: underline;  text-decoration-thickness: 1px; text-underline-offset: 13px; text-decoration-color: #8cb330; color: #58770e; }
 .hero-desc { font-size: 18px; color: #555; line-height: 1.6; margin-bottom: 30px; }
@@ -181,7 +181,7 @@ a:hover { text-decoration: underline; }
 .post-categories { font-family: 'Manrope', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; color: #4a5d4a; font-weight: 700; }
 .post-list a { color: #463f38; }
 .post-header { margin-bottom: 30px; }
-.post-title { font-family: 'Newsreader', serif; font-size: 72px; line-height: 1.1; color: #1b3022; font-weight: 500; margin-bottom: 48px; margin-top: 0; letter-spacing: -1.5px; width: 70%; }
+.post-title { font-family: 'Newsreader', serif; font-size: 72px; line-height: 1.1; color: #1b3022; font-weight: 500; margin-bottom: 48px; margin-top: 0; letter-spacing: -1.5px; width: 75%; }
 .post-meta { font-family: 'Manrope', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; color: rgba(74, 93, 74, 0.6); margin-bottom: 30px; }
 .meta-divider { width: 40px; height: 1px; background-color: #d6d0c4; }
 .back-to-list { display: inline-block; padding: 10px 20px; background-color: #2C4A35; color: white; text-decoration: none; border-radius: 5px; font-size: 14px; cursor: pointer; }

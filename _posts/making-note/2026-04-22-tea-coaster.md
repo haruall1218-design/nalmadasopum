@@ -4,14 +4,15 @@ title: "자투리 원단으로 감성 듬뿍 '티코스터' 만들기"
 date: 2026-04-22
 categories: making-note
 main_menu: "제작 노트"    # 화면에 표시될 대분류 한글 메뉴명
-tags: [기타 소품]            # 2차 메뉴의 메뉴명이 아닌 tags명
+tags: [티코스터만들기, 자투리원단, 미싱초보, 홈카페소품, 핸드메이드]   # 해시태그
 image: "/assets/images/making-note/260422-fabric-tea-coaster-tutorial-01.jpg"      # 최근 글보기에 보여줄 이미지
 ---
 
-![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-17.jpg)
+
 
 안녕하세요! 소소한 원단들로 일상에 따뜻함을 더하는 **'날마다 소품'**입니다. ☕✨
-지난번 '바느질 필수 도구 가이드'는 잘 읽어보셨나요? <a href="/making-note/2026/04/21/sewing-tools.html">[바느질 시작의 알짜배기 기초 도구 - 바로가기]</a> 
+지난번 '바느질 필수 도구 가이드'는 잘 읽어보셨나요? 
+#### [☕ 바느질 시작의 알짜배기 기초 도구 - 바로가기](/making-note/2026/04/21/sewing-tools.html)
 
 도구들과 조금 친해지셨다면, 오늘은 드디어 실전입니다! 
 미싱이나 손바느질에 처음 입문하시는 분들이 가장 먼저, 그리고 가장 만만하게 도전하기 좋은 아이템이 바로 **'티코스터(컵받침)'**랍니다.
@@ -20,23 +21,24 @@ image: "/assets/images/making-note/260422-fabric-tea-coaster-tutorial-01.jpg"   
 
 ![감성 듬뿍 티코스터 완성 사진]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-01.jpg)
 
-![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-18.jpg)
+![줄무늬 원단으로 만든 컵받침]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-17.jpg)
 
-![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-19.jpg)
+
+
 
 ## 준비물, 이렇게 챙겨주세요!
 
 ### 원단: 겉감 1장, 안감 1장 (각 11cm x 11cm)
 
-**Tip 1** : 원단을 고르실 때는 어울리는 원단끼리 짝을 지어서 만들면 세트같은 느낌이 나서 좋답니다.
+>Tip 1 : 원단을 고르실 때는 어울리는 원단끼리 짝을 지어서 만들면 세트같은 느낌이 나서 좋답니다.
 <br>
-**Tip 2** : 면이나 린넨 소재가 물 흡수가 잘 되어서 좋아요. 서로 다른 패턴이나 색상을 매치하면 양면으로 쓸 수 있답니다!
+Tip 2 : 면이나 린넨 소재가 물 흡수가 잘 되어서 좋아요. 서로 다른 패턴이나 색상을 매치하면 양면으로 쓸 수 있답니다!
 
 ![티코스터 원단 고르기]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-02.jpg)
 
 ### 접착솜: 2온스 두께 (9.5cm x 9.5cm)
 
-**Tip** : 솜을 넣으면 컵을 놓았을 때 폭신하고 모양도 탄탄하게 잡혀요.
+>Tip : 솜을 넣으면 컵을 놓았을 때 폭신하고 모양도 탄탄하게 잡혀요.
 
 ### 지난번 소개한 바느질 도구들 
 
@@ -60,7 +62,7 @@ image: "/assets/images/making-note/260422-fabric-tea-coaster-tutorial-01.jpg"   
 
 이렇게 여러가지 원단을 재단해 보았어요. ~~
 <br>
-**Tip** : 가로, 세로의 무늬가 있는 원단은 가로줄이나 세로줄을 반듯하게 잘라야 완성도가 높아집니다.
+>Tip : 가로, 세로의 무늬가 있는 원단은 가로줄이나 세로줄을 반듯하게 잘라야 완성도가 높아집니다.
 
 
 ---
@@ -139,12 +141,16 @@ image: "/assets/images/making-note/260422-fabric-tea-coaster-tutorial-01.jpg"   
 화사한 주방이 된답니다.
 
 
-![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-12.jpg)
+![줄무늬와 체크원단으로 만든 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-12.jpg)
 
-![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-13.jpg)
+![라벨을 단 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-13.jpg)
 
-![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-14.jpg)
+![세련된 린넨원단의 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-14.jpg)
 
-![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-15.jpg)
+![세트로 완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-15.jpg)
 
-![완성된 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-16.jpg)
+![린넨으로 만든 북유럽풍 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-16.jpg)
+
+![세트로 완성한 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-18.jpg)
+
+![격자무늬의 북유럽풍 티코스터]({{ site.kor_url }}/assets/images/making-note/260422-fabric-tea-coaster-tutorial-19.jpg)
