@@ -4,7 +4,7 @@ title: "티슈 커버 만들기"
 date: 2026-04-18
 categories: making-note
 main_menu: "제작 노트"    # 화면에 표시될 대분류 한글 메뉴명
-tags: [기타 소품]            # 2차 메뉴의 메뉴명이 아닌 tags명
+tags: [기타 소품]            #첫번째는 2차메뉴명, 뒤는 해시테그
 image: "/assets/images/making-note/pouch-001.jpg"      # 최근 글보기에 보여줄 이미지
 ---
 

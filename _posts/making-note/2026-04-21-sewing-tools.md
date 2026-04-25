@@ -4,7 +4,7 @@ title: "바느질 시작의 알짜배기 기초 도구"
 date: 2026-04-21
 categories: making-note
 main_menu: "제작 노트"    # 화면에 표시될 대분류 한글 메뉴명
-tags: [바느질 기초 도구, 미싱초보, 다이소가위, 잠자리표 가위, 다리미, 실꿰기]            # 2차 메뉴의 메뉴명이 아닌 tags명
+tags: [바느질 기초 도구, 미싱초보, 다이소가위, 잠자리표 가위, 다리미, 실꿰기]      #첫번째는 2차메뉴명, 뒤는 해시테그
 image: "/assets/images/making-note/260421-sewing-tools-01.jpg"      # 최근 글보기에 보여줄 이미지
 ---
 

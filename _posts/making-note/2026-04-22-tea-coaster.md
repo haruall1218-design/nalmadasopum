@@ -4,7 +4,7 @@ title: "자투리 원단으로 감성 듬뿍 '티코스터' 만들기"
 date: 2026-04-22
 categories: making-note
 main_menu: "제작 노트"    # 화면에 표시될 대분류 한글 메뉴명
-tags: [기타 소품, 티코스터만들기, 자투리원단, 미싱초보, 홈카페소품, 핸드메이드]   # 해시태그
+tags: [기타 소품, 티코스터만들기, 자투리원단, 미싱초보, 홈카페소품, 핸드메이드]   #첫번째는 2차메뉴명, 뒤는 해시테그
 image: "/assets/images/making-note/260422-fabric-tea-coaster-tutorial-01.jpg"      # 최근 글보기에 보여줄 이미지
 ---
 
