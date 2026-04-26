@@ -9,7 +9,7 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
   {% assign latest_post = site.posts[0] %}
   <section class="hero-section">
     <div class="hero-image-wrap">
-      <img src="{{ site.kor_url }}{{ latest_post.image | default: '/assets/images/default.jpg' }}" alt="{{ latest_post.title }}">
+      <a href="{{ latest_post.url }}"><img src="{{ site.kor_url }}{{ latest_post.image | default: '/assets/images/default.jpg' }}" alt="{{ latest_post.title }}"></a>
       <div class="hero-quote">
         "The warmth of a handmade moment<br>remains in the texture of the fabric."
       </div>
