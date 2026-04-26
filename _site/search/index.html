@@ -174,49 +174,18 @@ $(document).ready(function() {
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js"></script>
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const zoomImages = document.querySelectorAll('p img, .hero-image-wrap img');
-    
-    // 1. 사진마다 돋보기 아이콘 달아주기
-    zoomImages.forEach(function(img) {
-      const wrapper = document.createElement('div');
-      wrapper.className = 'image-zoom-wrapper';
-      img.parentNode.insertBefore(wrapper, img);
-      wrapper.appendChild(img);
-
-      const icon = document.createElement('div');
-      icon.className = 'zoom-hint-icon';
-      // 깔끔한 하얀색 돋보기 그림(SVG)입니다
-      icon.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>';
-      wrapper.appendChild(icon);
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // 사이트 로고나 카운터 위젯이 확대되는 것을 방지하기 위해, 
+      // 주로 본문(p 태그 안)에 있는 사진과 상단 히어로 이미지만 확대되도록 지정합니다.
+      const zoomImages = document.querySelectorAll('p img, .hero-image-wrap img'); 
+      
+      mediumZoom(zoomImages, {
+        margin: 20, /* 확대되었을 때 화면 테두리와의 여백 */
+        background: 'rgba(253, 250, 247, 0.95)' /* 날마다 소품 감성에 맞춘 아주 연한 베이지색 반투명 배경 */
+      });
     });
-
-    // 2. 줌 기능 실행하기
-    const zoom = mediumZoom('.image-zoom-wrapper img', {
-      margin: 20,
-      background: 'rgba(253, 250, 247, 0.95)'
-    });
-
-    // 3. 화면 오른쪽 위에 X(닫기) 버튼 만들기
-    const closeBtn = document.createElement('div');
-    closeBtn.className = 'zoom-close-btn';
-    closeBtn.innerHTML = '&times;'; // X 기호
-    document.body.appendChild(closeBtn);
-
-    closeBtn.addEventListener('click', function() {
-      zoom.close();
-    });
-
-    // 사진이 커지면 X버튼을 보여주고, 작아지면 숨깁니다
-    zoom.on('open', function() {
-      closeBtn.classList.add('show');
-    });
-    zoom.on('close', function() {
-      closeBtn.classList.remove('show');
-    });
-  });
-</script>
+  </script>
 
 </footer>
 
