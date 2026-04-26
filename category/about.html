@@ -70,7 +70,7 @@ $(document).ready(function() {
     const targetTag = rawTargetTag === 'all' ? 'all' : rawTargetTag.replace(/\s+/g, '-');
     const displayTitle = targetTag === 'all' ? '브랜드 스토리' : targetTag.replace(/-/g, ' ');
     // 화면의 h2 태그 글자를 실시간으로 바꿔치기 합니다.
-    $('#dynamic-title').text(displayTitle + ' 최근 이야기');
+    $('#dynamic-title').html(displayTitle + ' <span class="title-point">최근 이야기</span>');
     let topGridCount = 0;
     let bottomListItems = [];
 
