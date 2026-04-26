@@ -194,6 +194,19 @@ a:hover { text-decoration: underline; }
 .ad-space { width: 100%; height: 144px; background-color: #f8f5f0; display: flex; align-items: center; justify-content: center; margin: 50px 0 96px 0; border-radius: 2px; border: 1px solid rgba(214, 208, 196, 0.3); }
 .ad-text { font-family: 'Manrope', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; color: rgba(74, 93, 74, 0.4); }
 
+/* 모바일에서 사진위의 돋보기 */
+.image-zoom-wrapper {  position: relative; display: block;  width: fit-content;  margin: 0 auto;  line-height: 0;  max-width: 100%; }
+.image-zoom-wrapper img {  display: block;  margin: 0;}
+.zoom-hint-icon {  position: absolute;  bottom: 15px; right: 15px;  z-index: 10; 
+  background: rgba(82, 54, 45, 0.3);   color: #ffffff;   width: 32px;  height: 32px;  border-radius: 50%;   display: flex;  align-items: center;
+  justify-content: center;  pointer-events: none;   transition: all 0.3s ease;}
+
+/* 마우스를 올리면 돋보기 아이콘이 선명해짐 */
+.image-zoom-wrapper:hover .zoom-hint-icon {
+  background: rgba(82, 54, 45, 0.9);
+  transform: scale(1.1);
+}
+
 /************************* 포스트 내 마크다운 모음 ******************************/
 /* (**글자**) 디자인 */
 .post-content strong { color: #52362d;  font-weight: 700;  background-color: rgba(216, 124, 43, 0.1);   padding: 0 4px;}
