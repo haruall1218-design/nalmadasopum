@@ -184,7 +184,7 @@ a:hover { text-decoration: underline; }
 .post-categories { font-family: 'Manrope', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; color: #4a5d4a; font-weight: 700; }
 .post-list a { color: #463f38; }
 .post-header { margin-bottom: 30px; }
-.post-title { /*font-family: 'Newsreader', serif;*/    font-family: 'Manrope', sans-serif; font-size: 72px; line-height: 1.1; color: #1b3022; font-weight: 300; margin-bottom: 48px; margin-top: 0; letter-spacing: -1.5px; width: 80%; }
+.post-title { font-family: 'Manrope', sans-serif; font-size: 70px; line-height: 1.1; color: #1b3022; font-weight: 300; margin-bottom: 48px; margin-top: 0; letter-spacing: -1.5px; width: 80%; }
 .post-meta { font-family: 'Manrope', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; color: rgba(74, 93, 74, 0.6); margin-bottom: 30px; }
 .meta-divider { width: 40px; height: 1px; background-color: #d6d0c4; }
 .back-to-list { display: inline-block; padding: 10px 20px; background-color: #2C4A35; color: white; text-decoration: none; border-radius: 5px; font-size: 14px; cursor: pointer; }
@@ -198,7 +198,7 @@ a:hover { text-decoration: underline; }
 .image-zoom-wrapper {  position: relative; display: block;  width: fit-content;  margin: 0 auto;  line-height: 0;  max-width: 100%; }
 .image-zoom-wrapper img {  display: block;  margin: 0;}
 .zoom-hint-icon {  position: absolute;  bottom: 15px; right: 15px;  z-index: 10; 
-  background: rgba(82, 54, 45, 0.3);   color: #ffffff;   width: 32px;  height: 32px;  border-radius: 50%;   display: flex;  align-items: center;
+  background: rgba(82, 54, 45, 0.5);   color: #ffffff;   width: 32px;  height: 32px;  border-radius: 50%;   display: flex;  align-items: center;
   justify-content: center;  pointer-events: none;   transition: all 0.3s ease;}
 
 /* 마우스를 올리면 돋보기 아이콘이 선명해짐 */
