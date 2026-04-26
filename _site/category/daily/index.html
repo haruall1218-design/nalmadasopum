@@ -440,11 +440,26 @@ $(document).ready(function() {
           zoom.close();
         });
 
+       // 사진이 커지면 작동하는 마법
         zoom.on('open', function() {
-          closeBtn.classList.add('show');
+          closeBtn.classList.add('show'); // X버튼 나타나기
+          
+          // 💡 수정된 코드: 화면에 있는 '모든' 돋보기 아이콘을 찾아서 한 번에 투명하게 숨깁니다.
+          const allIcons = document.querySelectorAll('.zoom-hint-icon');
+          allIcons.forEach(function(icon) {
+            icon.style.opacity = '0'; 
+          });
         });
+
+        // 사진이 원래대로 돌아가면 작동하는 마법
         zoom.on('close', function() {
-          closeBtn.classList.remove('show');
+          closeBtn.classList.remove('show'); // X버튼 숨기기
+          
+          // 💡 수정된 코드: 숨겼던 '모든' 돋보기 아이콘을 다시 나타나게 합니다.
+          const allIcons = document.querySelectorAll('.zoom-hint-icon');
+          allIcons.forEach(function(icon) {
+            icon.style.opacity = '1'; 
+          });
         });
       }
     }
