@@ -154,18 +154,55 @@
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js"></script>
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      // 사이트 로고나 카운터 위젯이 확대되는 것을 방지하기 위해, 
-      // 주로 본문(p 태그 안)에 있는 사진과 상단 히어로 이미지만 확대되도록 지정합니다.
-      const zoomImages = document.querySelectorAll('p img, .hero-image-wrap img'); 
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    
+    // 💡 1단계: 화면 너비가 768px 이하(모바일)일 때만 이 마법이 작동하도록 제한합니다.
+    if (window.innerWidth <= 768) {
       
-      mediumZoom(zoomImages, {
-        margin: 20, /* 확대되었을 때 화면 테두리와의 여백 */
-        background: 'rgba(253, 250, 247, 0.95)' /* 날마다 소품 감성에 맞춘 아주 연한 베이지색 반투명 배경 */
-      });
-    });
-  </script>
+      // 💡 2단계: 본문(p 태그 안)에 있는 이미지만 선택하되, 
+      // a 태그(링크)로 감싸져 있거나 메인 상단(hero)에 있는 이미지는 철저히 제외시킵니다.
+      const zoomImages = document.querySelectorAll('p img:not(a img)'); 
+      
+      // 확대할 이미지가 페이지에 있을 때만 기능 실행
+      if (zoomImages.length > 0) {
+        zoomImages.forEach(function(img) {
+          const wrapper = document.createElement('div');
+          wrapper.className = 'image-zoom-wrapper';
+          img.parentNode.insertBefore(wrapper, img);
+          wrapper.appendChild(img);
+
+          const icon = document.createElement('div');
+          icon.className = 'zoom-hint-icon';
+          icon.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>';
+          wrapper.appendChild(icon);
+        });
+
+        const zoom = mediumZoom('.image-zoom-wrapper img', {
+          margin: 20,
+          background: 'rgba(253, 250, 247, 0.95)'
+        });
+
+        const closeBtn = document.createElement('div');
+        closeBtn.className = 'zoom-close-btn';
+        closeBtn.innerHTML = '&times;'; 
+        document.body.appendChild(closeBtn);
+
+        closeBtn.addEventListener('click', function() {
+          zoom.close();
+        });
+
+        zoom.on('open', function() {
+          closeBtn.classList.add('show');
+        });
+        zoom.on('close', function() {
+          closeBtn.classList.remove('show');
+        });
+      }
+    }
+    
+  });
+</script>
 
 </footer>
 
