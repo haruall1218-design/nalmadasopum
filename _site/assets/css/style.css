@@ -184,7 +184,7 @@ a:hover { text-decoration: underline; }
 .post-categories { font-family: 'Manrope', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; color: #4a5d4a; font-weight: 700; }
 .post-list a { color: #463f38; }
 .post-header { margin-bottom: 30px; }
-.post-title { font-family: 'Newsreader', serif; font-size: 72px; line-height: 1.1; color: #1b3022; font-weight: 500; margin-bottom: 48px; margin-top: 0; letter-spacing: -1.5px; width: 75%; }
+.post-title { /*font-family: 'Newsreader', serif;*/    font-family: 'Manrope', sans-serif; font-size: 72px; line-height: 1.1; color: #1b3022; font-weight: 300; margin-bottom: 48px; margin-top: 0; letter-spacing: -1.5px; width: 80%; }
 .post-meta { font-family: 'Manrope', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; color: rgba(74, 93, 74, 0.6); margin-bottom: 30px; }
 .meta-divider { width: 40px; height: 1px; background-color: #d6d0c4; }
 .back-to-list { display: inline-block; padding: 10px 20px; background-color: #2C4A35; color: white; text-decoration: none; border-radius: 5px; font-size: 14px; cursor: pointer; }
