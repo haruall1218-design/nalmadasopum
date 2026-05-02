@@ -4,7 +4,7 @@ title: "[모바일 헬스케어] 대구 달서구보건소 첫 방문 및 초기
 date: 2026-04-24
 categories: daily
 main_menu: "소소한 일상"      
-tags: [모바일 헬스케어 27주 챌린지, 모바일 헬스케어, 보건소 방문, 27주 챌린지, 건강관리]           
+tags: [모바일 헬스케어 27주 챌린지, 모바일 헬스케어, 보건소 방문, 27주 챌린지, 건강관리]    #첫번째는 2차메뉴명, 뒤는 해시테그        
 image: "/assets/images/daily/260424-health-care-start-03.jpg"   
 ---
 
