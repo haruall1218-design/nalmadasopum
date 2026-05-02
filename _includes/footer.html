@@ -84,4 +84,28 @@
   });
 </script>
 
+<!-- 라이트박스 배경 (바둑판 이미지 보이기) -->
+<div id="lightbox-overlay">
+  <span id="lightbox-close">&times;</span>
+  <img id="lightbox-image" src="" alt="확대된 이미지">
+</div>
+
+<!-- 스크립트 (바둑판 이미지 보이기) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+  $(document).ready(function() {
+    $('.checkerboard-grid img').on('click', function() {
+      var imgSrc = $(this).attr('src');
+      $('#lightbox-image').attr('src', imgSrc);
+      $('#lightbox-overlay').fadeIn(300);
+    });
+    $('#lightbox-overlay, #lightbox-close').on('click', function() {
+      $('#lightbox-overlay').fadeOut(300);
+    });
+    $('#lightbox-image').on('click', function(e) {
+      e.stopPropagation();
+    });
+  });
+</script>
+
 </footer>
