@@ -271,9 +271,46 @@ a:hover { text-decoration: underline; }
 
 /* 모바일 화면에서는 화살표 크기를 살짝 줄임 */
 @media screen and (max-width: 768px) {
-  .lightbox-nav {
+  /* 1. 배경을 Flexbox로 만들어 안의 요소를 정중앙에 배치 */
+  #lightbox-overlay {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* 세로 기준 정중앙 */
+    align-items: center; /* 가로 기준 정중앙 */
+  }
+
+  /* 2. 모바일 이미지 스타일 */
+  #lightbox-overlay img {
+    margin-top: -10vh; /* 화살표가 들어갈 아래쪽 공간을 위해 살짝 위로 당김 */
+    max-width: 100%;
+    max-height: 65vh; /* 이미지가 너무 길어져 화살표를 가리지 않도록 제한 */
+    border-radius: 0; /* 모바일은 꽉 찬 사각형이 예뻐요 */
+  }
+  
+  /* 3. 닫기 버튼 우측 상단 고정 */
+  #lightbox-close {
+    top: 15px; 
+    right: 20px;
     font-size: 35px;
-    padding: 10px;
+    z-index: 10001;
+  }
+
+  /* 4. 좌우 화살표를 이미지 아래쪽으로 이동 */
+  .lightbox-nav {
+    position: absolute;
+    top: auto; /* PC 버전의 중앙 정렬을 해제 */
+    bottom: 5vh; /* 화면 맨 아래에서부터의 위치 */
+    transform: none; /* 기존 Y축 이동 효과 해제 */
+    font-size: 45px; /* 모바일에서 터치하기 쉽게 큼직하게 */
+    padding: 10px 30px; /* 넉넉한 터치 영역 확보 */
+  }
+  
+  /* 양쪽 화살표의 간격 조절 */
+  #lightbox-prev {
+    left: 15%; /* 화면 가운데를 향해 모아줌 */
+  }
+  #lightbox-next {
+    right: 15%; 
   }
 }
 
