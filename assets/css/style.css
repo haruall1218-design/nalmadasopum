@@ -231,7 +231,7 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
 
 
 /************************* 블로그 공통 지도 모듈 스타일 ******************************/
-.blog-map-container { margin: 40px 0; background-color: #f9f9f9; padding: 15px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);}
+.blog-map-container { margin: 40px 0; background-color: #ffffff; padding: 15px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);}
 .blog-map-title { font-weight: bold; margin: 0 0 10px 5px; color: #333; }
 .blog-map-title br { display: none; }
 .blog-map-place { background-color: rgb(52, 97, 221); padding: 5px 10px; color: #ffffff; }
