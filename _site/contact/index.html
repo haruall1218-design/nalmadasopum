@@ -231,41 +231,48 @@
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
   $(document).ready(function() {
-    var $images = $('.checkerboard-grid img');
-    var currentIndex = 0; // 현재 보고 있는 이미지의 순서
+    // 만약의 경우를 대비해 페이지 로드 시 팝업창을 강제로 숨김 처리
+    $('#lightbox-overlay').hide();
+
+    var $images;
+    var currentIndex = 0;
     
-    // 1. 이미지를 클릭해서 열 때
-    $(document).on('click', '.checkerboard-grid img', function(e) {
+    // 1. 이미지를 클릭해서 열 때 (감지 범위를 .diet-grid 내부로 엄격하게 제한)
+    $('.checkerboard-grid').on('click', 'img', function(e) {
       e.preventDefault();
-      currentIndex = $images.index(this); // 클릭한 이미지가 몇 번째인지 파악
-      updateImage();
-      $('#lightbox-overlay').fadeIn(200);
+      e.stopPropagation(); // 클릭 신호가 다른 곳으로 튀는 것을 완벽 차단
+
+      $images = $('.checkerboard-grid img'); 
+      currentIndex = $images.index(this);
+      
+      // 이미지를 정확히 인식했을 때만 창을 띄움
+      if (currentIndex !== -1) {
+        updateImage();
+        $('#lightbox-overlay').fadeIn(200);
+      }
     });
 
-    // 2. 이미지 변경 함수 (이전/다음)
+    // 2. 이미지 변경 함수
     function updateImage() {
-      // 첫 사진에서 왼쪽으로 가면 마지막 사진으로, 마지막에서 오른쪽으로 가면 첫 사진으로 무한 루프
       if (currentIndex < 0) {
-        currentIndex = $images.length - 1;
+        currentIndex = $images.length - 1; 
       } else if (currentIndex >= $images.length) {
-        currentIndex = 0;
+        currentIndex = 0; 
       }
-      
       var imgSrc = $images.eq(currentIndex).attr('src');
-      
-      // 이미지가 바뀔 때 살짝 깜빡이는 애니메이션으로 부드럽게 전환
-      $('#lightbox-image').fadeOut(100, function() {
-        $(this).attr('src', imgSrc).fadeIn(100);
-      });
+      $('#lightbox-image').attr('src', imgSrc);
     }
 
-    // 3. PC: 화살표 클릭 이벤트
-    $(document).on('click', '#lightbox-prev', function(e) {
-      e.stopPropagation();
+    // 3. PC: 화살표 클릭 이벤트 (이벤트 전파 차단)
+    $('#lightbox-prev').on('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation(); 
       currentIndex--;
       updateImage();
     });
-    $(document).on('click', '#lightbox-next', function(e) {
+    
+    $('#lightbox-next').on('click', function(e) {
+      e.preventDefault();
       e.stopPropagation();
       currentIndex++;
       updateImage();
@@ -275,36 +282,29 @@
     var touchstartX = 0;
     var touchendX = 0;
 
-    // 손가락이 닿았을 때의 X 좌표 기록
-    $(document).on('touchstart', '#lightbox-image', function(e) {
+    $('#lightbox-image').on('touchstart', function(e) {
       touchstartX = e.originalEvent.changedTouches[0].screenX;
     });
 
-    // 손가락이 떨어졌을 때의 X 좌표 기록 및 방향 계산
-    $(document).on('touchend', '#lightbox-image', function(e) {
+    $('#lightbox-image').on('touchend', function(e) {
       touchendX = e.originalEvent.changedTouches[0].screenX;
       handleSwipe();
     });
 
     function handleSwipe() {
-      var swipeThreshold = 50; // 이 픽셀(50px) 이상 밀어야 넘어감 (살짝 터치와 구분)
-      
+      var swipeThreshold = 50; 
       if (touchendX < touchstartX - swipeThreshold) {
-        // 왼쪽으로 밀었을 때 (다음 사진)
         currentIndex++;
         updateImage();
-      }
-      if (touchendX > touchstartX + swipeThreshold) {
-        // 오른쪽으로 밀었을 때 (이전 사진)
+      } else if (touchendX > touchstartX + swipeThreshold) {
         currentIndex--;
         updateImage();
       }
     }
 
-    // 5. 닫기 처리 (배경이나 X버튼 클릭 시에만 닫힘)
-    $(document).on('click', '#lightbox-overlay, #lightbox-close', function(e) {
-      // 클릭한 타겟이 화살표나 이미지가 아닐 때만 창을 닫음
-      if (e.target.id === 'lightbox-overlay' || e.target.id === 'lightbox-close') {
+    // 5. 닫기 처리 (클릭한 곳이 화살표나 이미지가 아닐 때만 창을 닫음)
+    $('#lightbox-overlay, #lightbox-close').on('click', function(e) {
+      if ($(e.target).closest('#lightbox-prev, #lightbox-next, #lightbox-image').length === 0) {
         $('#lightbox-overlay').fadeOut(200);
       }
     });
