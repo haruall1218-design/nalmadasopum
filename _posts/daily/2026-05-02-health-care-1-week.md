@@ -151,7 +151,7 @@ image: "/assets/images/daily/260502-health-care-week1-main.jpg"
         표고버섯 볶음 20g<br>
         돼지고기 볶음 20g<br>
         시금치 된장국 120g<br>
-        오이 파프리카 무침 50g<br>
+        오이 파프리카 무침 50g
       </div>
     </div>
   </div>
