@@ -39,7 +39,7 @@ image: "/assets/images/daily/260502-health-care-week1-main.jpg"
 <div class="diet-swipe-container">
 
   <div class="diet-card">
-    <div class="diet-date">🗓️ 5월 4일 (월)</div>
+    <div class="diet-date">🗓️ 4월 26일 (일)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-01.jpg" alt="일요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 450 kcal</div>
@@ -56,7 +56,7 @@ image: "/assets/images/daily/260502-health-care-week1-main.jpg"
   </div>
 
   <div class="diet-card">
-    <div class="diet-date">🗓️ 5월 5일 (화)</div>
+    <div class="diet-date">🗓️ 4월 27일 (월)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-02.jpg" alt="월요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 520 kcal</div>
@@ -73,7 +73,7 @@ image: "/assets/images/daily/260502-health-care-week1-main.jpg"
   </div>
 
   <div class="diet-card">
-    <div class="diet-date">🗓️ 5월 6일 (수)</div>
+    <div class="diet-date">🗓️ 4월 28일 (화)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-03.jpg" alt="화요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 780 kcal 💦</div>
@@ -88,7 +88,7 @@ image: "/assets/images/daily/260502-health-care-week1-main.jpg"
   </div>
 
   <div class="diet-card">
-    <div class="diet-date">🗓️ 5월 6일 (수)</div>
+    <div class="diet-date">🗓️ 4월 29일 (수)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-04.jpg" alt="수요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 780 kcal 💦</div>
@@ -105,7 +105,7 @@ image: "/assets/images/daily/260502-health-care-week1-main.jpg"
   </div>
 
   <div class="diet-card">
-    <div class="diet-date">🗓️ 5월 6일 (수)</div>
+    <div class="diet-date">🗓️ 4월 30일 (목)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-05.jpg" alt="목요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 780 kcal 💦</div>
@@ -123,7 +123,7 @@ image: "/assets/images/daily/260502-health-care-week1-main.jpg"
   </div>
 
   <div class="diet-card">
-    <div class="diet-date">🗓️ 5월 6일 (수)</div>
+    <div class="diet-date">🗓️ 5월 1일 (금)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-06.jpg" alt="금요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 780 kcal 💦</div>
@@ -140,7 +140,7 @@ image: "/assets/images/daily/260502-health-care-week1-main.jpg"
   </div>
 
   <div class="diet-card">
-    <div class="diet-date">🗓️ 5월 6일 (수)</div>
+    <div class="diet-date">🗓️ 5월 2일 (토)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-07.jpg" alt="토요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 780 kcal 💦</div>

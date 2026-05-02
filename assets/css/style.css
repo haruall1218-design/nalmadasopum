@@ -278,7 +278,7 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
 
 /* 식단 사진 영역 (중단) */
 .diet-card img {
-  width: 100%;
+  width: 321px;
   height: 220px; /* 모든 사진의 높이를 통일 */
   object-fit: cover; /* 사진이 찌그러지지 않고 꽉 차게 잘림 */
 }
