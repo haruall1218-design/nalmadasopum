@@ -242,30 +242,91 @@ $(document).ready(function() {
 <!-- 라이트박스 배경 (바둑판 이미지 보이기) -->
 <div id="lightbox-overlay">
   <span id="lightbox-close">&times;</span>
+  <span id="lightbox-prev" class="lightbox-nav">&#10094;</span> <!-- 왼쪽 화살표 -->
   <img id="lightbox-image" src="" alt="확대된 이미지">
+  <span id="lightbox-next" class="lightbox-nav">&#10095;</span> <!-- 오른쪽 화살표 -->
 </div>
 
 <!-- 스크립트 (바둑판 이미지 보이기) -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
   $(document).ready(function() {
-    // click과 touchend 이벤트를 동시에 걸고, 이벤트 위임(document) 방식 사용
-    $(document).on('click touchend', '.checkerboard-grid img', function(e) {
-      e.preventDefault(); // touchend 시 click이 중복 발생하지 않도록 방지
-      var imgSrc = $(this).attr('src');
-      $('#lightbox-image').attr('src', imgSrc);
+    var $images = $('.checkerboard-grid img');
+    var currentIndex = 0; // 현재 보고 있는 이미지의 순서
+    
+    // 1. 이미지를 클릭해서 열 때
+    $(document).on('click', '.checkerboard-grid img', function(e) {
+      e.preventDefault();
+      currentIndex = $images.index(this); // 클릭한 이미지가 몇 번째인지 파악
+      updateImage();
       $('#lightbox-overlay').fadeIn(200);
     });
 
-    // 닫기 버튼 및 배경 터치 시 닫힘
-    $(document).on('click touchend', '#lightbox-overlay, #lightbox-close', function(e) {
-      e.preventDefault();
-      $('#lightbox-overlay').fadeOut(200);
+    // 2. 이미지 변경 함수 (이전/다음)
+    function updateImage() {
+      // 첫 사진에서 왼쪽으로 가면 마지막 사진으로, 마지막에서 오른쪽으로 가면 첫 사진으로 무한 루프
+      if (currentIndex < 0) {
+        currentIndex = $images.length - 1;
+      } else if (currentIndex >= $images.length) {
+        currentIndex = 0;
+      }
+      
+      var imgSrc = $images.eq(currentIndex).attr('src');
+      
+      // 이미지가 바뀔 때 살짝 깜빡이는 애니메이션으로 부드럽게 전환
+      $('#lightbox-image').fadeOut(100, function() {
+        $(this).attr('src', imgSrc).fadeIn(100);
+      });
+    }
+
+    // 3. PC: 화살표 클릭 이벤트
+    $(document).on('click', '#lightbox-prev', function(e) {
+      e.stopPropagation();
+      currentIndex--;
+      updateImage();
+    });
+    $(document).on('click', '#lightbox-next', function(e) {
+      e.stopPropagation();
+      currentIndex++;
+      updateImage();
     });
 
-    // 이미지 자체를 터치했을 때는 안 닫히게 방지
-    $(document).on('click touchend', '#lightbox-image', function(e) {
-      e.stopPropagation();
+    // 4. 모바일: 스와이프(터치 슬라이드) 이벤트
+    var touchstartX = 0;
+    var touchendX = 0;
+
+    // 손가락이 닿았을 때의 X 좌표 기록
+    $(document).on('touchstart', '#lightbox-image', function(e) {
+      touchstartX = e.originalEvent.changedTouches[0].screenX;
+    });
+
+    // 손가락이 떨어졌을 때의 X 좌표 기록 및 방향 계산
+    $(document).on('touchend', '#lightbox-image', function(e) {
+      touchendX = e.originalEvent.changedTouches[0].screenX;
+      handleSwipe();
+    });
+
+    function handleSwipe() {
+      var swipeThreshold = 50; // 이 픽셀(50px) 이상 밀어야 넘어감 (살짝 터치와 구분)
+      
+      if (touchendX < touchstartX - swipeThreshold) {
+        // 왼쪽으로 밀었을 때 (다음 사진)
+        currentIndex++;
+        updateImage();
+      }
+      if (touchendX > touchstartX + swipeThreshold) {
+        // 오른쪽으로 밀었을 때 (이전 사진)
+        currentIndex--;
+        updateImage();
+      }
+    }
+
+    // 5. 닫기 처리 (배경이나 X버튼 클릭 시에만 닫힘)
+    $(document).on('click', '#lightbox-overlay, #lightbox-close', function(e) {
+      // 클릭한 타겟이 화살표나 이미지가 아닐 때만 창을 닫음
+      if (e.target.id === 'lightbox-overlay' || e.target.id === 'lightbox-close') {
+        $('#lightbox-overlay').fadeOut(200);
+      }
     });
   });
 </script>

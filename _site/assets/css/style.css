@@ -249,6 +249,33 @@ a:hover { text-decoration: underline; }
     font-weight: bold;
     cursor: pointer;
   }
+  /* 좌우 이동 화살표 스타일 */
+.lightbox-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 50px;
+  font-weight: bold;
+  cursor: pointer;
+  user-select: none; /* 클릭 시 텍스트 블록 지정 방지 */
+  padding: 20px;
+  z-index: 10000;
+  transition: color 0.3s ease;
+}
+.lightbox-nav:hover {
+  color: rgba(255, 255, 255, 1); /* 마우스 올리면 선명해짐 */
+}
+#lightbox-prev { left: 10px; }
+#lightbox-next { right: 10px; }
+
+/* 모바일 화면에서는 화살표 크기를 살짝 줄임 */
+@media screen and (max-width: 768px) {
+  .lightbox-nav {
+    font-size: 35px;
+    padding: 10px;
+  }
+}
 
 /************************* 포스트 내 마크다운 모음 ******************************/
 /* (**글자**) 디자인 */
