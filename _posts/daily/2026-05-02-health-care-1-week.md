@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[모바일 헬스케어] 27주 챌린지 1주차 기록 - 내 식단과 솔직하게 마주하기"
+title: "[모바일 헬스케어] 1주차 기록 - 내 식단과 솔직하게 마주하기"
 date: 2026-05-02
 categories: daily
 main_menu: "소소한 일상"      
@@ -36,15 +36,127 @@ image: "/assets/images/daily/260502-health-care-week1-main.jpg"
 
 재봉틀을 돌리다 보면 끼니를 놓치거나 대충 빵으로 때우는 일이 많았는데, 사진을 찍어 올려야 한다고 생각하니 젓가락이 가려던 반찬도 한 번 더 고민하게 되더라고요.
 
-<div class="checkerboard-grid">
-  <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-01.jpg" alt="건강한 저녁 식단 - 일요일 양배추찜과 저염된장">
-  <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-02.jpg" alt="보건소 모바일 헬스케어 식단 기록 - 월요일 봄나물 비빔밥과 된장국">
-  <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-03.jpg" alt="다이어트 식단 - 수요일 콩나물 불고기와 감자계란국">
-  <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-04.jpg" alt="건강한 저녁 식단 - 목요일 오징어야채볶음과 황태무국">
-  <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-05.jpg" alt="보건소 모바일 헬스케어 식단 기록 - 금요일 보리귀리밥과 된장찌개">
-  <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-06.jpg" alt="다이어트 식단 - 토요일 연어 데리야끼 구이와 양상추 요거트 드레싱 샐러드">
-  <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-07.jpg" alt="건강한 저녁 식단 - 일요일 버섯귀리밥과 오이파프리카 무침">
-</div>
+<div class="diet-swipe-container">
+
+  <div class="diet-card">
+    <div class="diet-date">🗓️ 5월 4일 (월)</div>
+    <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-01.jpg" alt="일요일 저녁 식단">
+    <div class="diet-info">
+      <div class="diet-calories">🔥 총 칼로리 : 450 kcal</div>
+      <div class="diet-menu">
+        보리귀리밥 170g<br>
+        봄나물 모듬(참나물, 미나리, 상추) 70g<br>
+        달래장<br>
+        건새우 배추 된장국 180g<br>
+        소고기 볶음 20g<br>
+        삼치구이 20g<br>
+        오이 양파 무침 50g
+      </div>
+    </div>
+  </div>
+
+  <div class="diet-card">
+    <div class="diet-date">🗓️ 5월 5일 (화)</div>
+    <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-02.jpg" alt="월요일 저녁 식단">
+    <div class="diet-info">
+      <div class="diet-calories">🔥 총 칼로리 : 520 kcal</div>
+      <div class="diet-menu">
+        보리귀리밥 170g<br>
+        봄나물 모듬(참나물, 미나리, 상추) 70g<br>
+        달래장<br>
+        건새우 배추 된장국 180g<br>
+        소고기 볶음 20g<br>
+        삼치구이 20g<br>
+        오이 양파 무침 50g
+      </div>
+    </div>
+  </div>
+
+  <div class="diet-card">
+    <div class="diet-date">🗓️ 5월 6일 (수)</div>
+    <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-03.jpg" alt="화요일 저녁 식단">
+    <div class="diet-info">
+      <div class="diet-calories">🔥 총 칼로리 : 780 kcal 💦</div>
+      <div class="diet-menu">
+        보리귀리밥 140g<br>
+        감자계란국 130g<br>
+        콩나물불고기 130g<br>
+        총각김치 70g<br>
+        물김치 130g
+      </div>
+    </div>
+  </div>
+
+  <div class="diet-card">
+    <div class="diet-date">🗓️ 5월 6일 (수)</div>
+    <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-04.jpg" alt="수요일 저녁 식단">
+    <div class="diet-info">
+      <div class="diet-calories">🔥 총 칼로리 : 780 kcal 💦</div>
+      <div class="diet-menu">
+        보리귀리밥 160g<br>
+        황태무국 120g<br>
+        오징어 야채볶음 80g<br>
+        표고버섯 볶음 20g<br>
+        건새우 마늘쫑 볶음 20g<br>
+        참나물 두부 무침 60g<br>
+        청포묵 김가루 무침 80g
+      </div>
+    </div>
+  </div>
+
+  <div class="diet-card">
+    <div class="diet-date">🗓️ 5월 6일 (수)</div>
+    <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-05.jpg" alt="목요일 저녁 식단">
+    <div class="diet-info">
+      <div class="diet-calories">🔥 총 칼로리 : 780 kcal 💦</div>
+      <div class="diet-menu">
+        보리귀리밥 160g<br>
+        된장찌개 100g<br>
+        떡볶이 60g<br>
+        시금치 표고버섯 계란 치즈 60g<br>
+        상추겉절이 30g<br>
+        오징어 숙회 20g (초장)<br>
+        건새우 마늘쫑 볶음 30g<br>
+        호박 볶음 20g
+      </div>
+    </div>
+  </div>
+
+  <div class="diet-card">
+    <div class="diet-date">🗓️ 5월 6일 (수)</div>
+    <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-06.jpg" alt="금요일 저녁 식단">
+    <div class="diet-info">
+      <div class="diet-calories">🔥 총 칼로리 : 780 kcal 💦</div>
+      <div class="diet-menu">
+        보리귀리밥 150g<br>
+        건새우 시금치 된장국 160g<br>
+        연어 데리야끼 구이 70g<br>
+        연근전 30g<br>
+        양상추 딸기 샐러드 70g (그릭 요거트 드레싱)<br>
+        느타리 버섯 볶음 10g<br>
+        파프리카 양파 볶음 50g
+      </div>
+    </div>
+  </div>
+
+  <div class="diet-card">
+    <div class="diet-date">🗓️ 5월 6일 (수)</div>
+    <img src="{{ site.kor_url }}/assets/images/daily/260502-health-care-week1-07.jpg" alt="토요일 저녁 식단">
+    <div class="diet-info">
+      <div class="diet-calories">🔥 총 칼로리 : 780 kcal 💦</div>
+      <div class="diet-menu">
+        버섯 귀리밥 160g (달래 부추 양념장)<br>
+        삶은 콩나물 30g<br>
+        어린 새싹 10g<br>
+        표고버섯 볶음 20g<br>
+        돼지고기 볶음 20g<br>
+        시금치 된장국 120g<br>
+        오이 파프리카 무침 50g<br>
+      </div>
+    </div>
+  </div>
+
+  </div>
 
 * **🥗 1주 차 식단 총평:** "이번 주는 밀린 바느질 작업이 많아 간단하게 먹으려 노력했어요. 수요일에는 대구 [맛집 이름]의 유혹을 결국 뿌리치지 못하고 외식을 해버렸네요 😅. 하지만 양심상 밥은 반 공기만 먹었고, 나머지 날들은 의식적으로 채소(나물) 비중을 높였습니다!"
 

@@ -230,6 +230,83 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
 }
 
 
+/************************* 다이어트 스와이프 이미지 ******************************/
+/* 🥗 카드형 스와이프 컨테이너 */
+.diet-swipe-container {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 15px;
+  padding: 10px 0 20px 0; /* 하단 스크롤바와 그림자를 위한 여백 */
+  margin: 20px 0;
+  width: 920px;
+}
+
+/* 데스크탑 브라우저용 스크롤바 예쁘게 만들기 */
+.diet-swipe-container::-webkit-scrollbar { height: 8px; }
+.diet-swipe-container::-webkit-scrollbar-thumb { background-color: #d1d5db; border-radius: 10px; }
+.diet-swipe-container::-webkit-scrollbar-track { background-color: #f3f4f6; border-radius: 10px; }
+
+/* 🍱 개별 식단 카드 디자인 */
+.diet-card {
+  flex: 0 0 85%; /* 모바일에서 다음 카드가 살짝 보이도록 85%만 차지 */
+  scroll-snap-align: center; /* 화면 중앙에 자석처럼 탁 멈춤 */
+  background: #ffffff;
+  border-radius: 12px; /* 모서리 둥글게 */
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08); /* 카드에 입체적인 그림자 부여 */
+  display: flex;
+  flex-direction: column;
+  overflow: hidden; /* 이미지가 둥근 모서리를 삐져나오지 않게 함 */
+  border: 1px solid #e5e7eb;
+}
+
+/* PC 화면에서는 카드가 너무 커지지 않도록 고정 너비 설정 */
+@media screen and (min-width: 768px) {
+  .diet-card { flex: 0 0 300px; }
+}
+
+/* 날짜 및 요일 영역 (상단) */
+.diet-date {
+  background-color: #f8f9fa;
+  padding: 12px;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+  border-bottom: 1px solid #e5e7eb;
+  font-size: 1.05em;
+}
+
+/* 식단 사진 영역 (중단) */
+.diet-card img {
+  width: 100%;
+  height: 220px; /* 모든 사진의 높이를 통일 */
+  object-fit: cover; /* 사진이 찌그러지지 않고 꽉 차게 잘림 */
+}
+
+/* 정보 영역 (하단) */
+.diet-info {
+  padding: 15px;
+}
+
+/* 칼로리 표시 영역 */
+.diet-calories {
+  font-weight: bold;
+  color: #ff6b6b; /* 눈에 띄는 포인트 컬러 */
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  border-bottom: 1px dashed #e5e7eb;
+  padding-bottom: 10px;
+}
+
+/* 음식 이름 및 그램(g) 수 표시 영역 */
+.diet-menu {
+  color: #4b5563;
+  font-size: 0.95em;
+  line-height: 1.5;
+  word-break: keep-all; /* 단어 단위로 줄바꿈되어 읽기 편함 */
+}
+
+
 /************************* 블로그 공통 지도 모듈 스타일 ******************************/
 .blog-map-container { margin: 40px 0; background-color: #ffffff; padding: 15px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);}
 .blog-map-title { font-weight: bold; margin: 0 0 10px 5px; color: #333; }
