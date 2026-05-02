@@ -502,15 +502,22 @@ $(document).ready(function() {
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
   $(document).ready(function() {
-    $('.checkerboard-grid img').on('click', function() {
+    // click과 touchend 이벤트를 동시에 걸고, 이벤트 위임(document) 방식 사용
+    $(document).on('click touchend', '.checkerboard-grid img', function(e) {
+      e.preventDefault(); // touchend 시 click이 중복 발생하지 않도록 방지
       var imgSrc = $(this).attr('src');
       $('#lightbox-image').attr('src', imgSrc);
-      $('#lightbox-overlay').fadeIn(300);
+      $('#lightbox-overlay').fadeIn(200);
     });
-    $('#lightbox-overlay, #lightbox-close').on('click', function() {
-      $('#lightbox-overlay').fadeOut(300);
+
+    // 닫기 버튼 및 배경 터치 시 닫힘
+    $(document).on('click touchend', '#lightbox-overlay, #lightbox-close', function(e) {
+      e.preventDefault();
+      $('#lightbox-overlay').fadeOut(200);
     });
-    $('#lightbox-image').on('click', function(e) {
+
+    // 이미지 자체를 터치했을 때는 안 닫히게 방지
+    $(document).on('click touchend', '#lightbox-image', function(e) {
       e.stopPropagation();
     });
   });
