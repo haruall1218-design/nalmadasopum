@@ -5,7 +5,7 @@ date: 2026-05-02
 categories: daily
 main_menu: "소소한 일상"      
 tags: [모바일 헬스케어 27주 챌린지, 27주 챌린지, 다이어트 식단, 걷기 운동, 건강관리, 보건소]           
-image: "/assets/images/daily/260504-healthcare-week1-main.jpg"   
+image: "/assets/images/daily/260502-health-care-week1-main.jpg"   
 ---
 
 <div style="background-color: #f1f3f5; border-radius: 12px; margin: 30px 0 40px 0; padding: 4px; box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);">
