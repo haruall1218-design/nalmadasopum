@@ -291,7 +291,7 @@ a:hover { text-decoration: underline; }
   #lightbox-close {
     top: 15px; 
     right: 20px;
-    font-size: 35px;
+    font-size: 45px;
     z-index: 10001;
   }
 
