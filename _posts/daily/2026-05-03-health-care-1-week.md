@@ -68,7 +68,7 @@ image: "/assets/images/daily/260503-health-care-week1-main.jpg"
     <div class="diet-date">🗓️ 4월 27일 (월)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260503-health-care-week1-02.jpg" alt="월요일 저녁 식단">
     <div class="diet-info">
-      <div class="diet-calories">🔥 총 칼로리 : 460 kcal</div>
+      <div class="diet-calories">🔥 총 칼로리 : 약 460 kcal 💦</div>
       <div class="diet-menu">
         보리귀리밥 170g<br>
         봄나물 모듬(참나물, 미나리, 상추) 70g<br>
@@ -85,7 +85,7 @@ image: "/assets/images/daily/260503-health-care-week1-main.jpg"
     <div class="diet-date">🗓️ 4월 28일 (화)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260503-health-care-week1-03.jpg" alt="화요일 저녁 식단">
     <div class="diet-info">
-      <div class="diet-calories">🔥 총 칼로리 : 545 kcal</div>
+      <div class="diet-calories">🔥 총 칼로리 : 약 545 kcal</div>
       <div class="diet-menu">
         보리귀리밥 140g<br>
         감자계란국 130g<br>
@@ -100,7 +100,7 @@ image: "/assets/images/daily/260503-health-care-week1-main.jpg"
     <div class="diet-date">🗓️ 4월 29일 (수)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260503-health-care-week1-04.jpg" alt="수요일 저녁 식단">
     <div class="diet-info">
-      <div class="diet-calories">🔥 총 칼로리 : 535 kcal</div>
+      <div class="diet-calories">🔥 총 칼로리 : 약 535 kcal</div>
       <div class="diet-menu">
         보리귀리밥 160g<br>
         황태무국 120g<br>
@@ -117,7 +117,7 @@ image: "/assets/images/daily/260503-health-care-week1-main.jpg"
     <div class="diet-date">🗓️ 4월 30일 (목)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260503-health-care-week1-05.jpg" alt="목요일 저녁 식단">
     <div class="diet-info">
-      <div class="diet-calories">🔥 총 칼로리 : 615 kcal 💦</div>
+      <div class="diet-calories">🔥 총 칼로리 : 약 615 kcal 💦</div>
       <div class="diet-menu">
         보리귀리밥 160g<br>
         된장찌개 100g<br>
@@ -135,7 +135,7 @@ image: "/assets/images/daily/260503-health-care-week1-main.jpg"
     <div class="diet-date">🗓️ 5월 1일 (금)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260503-health-care-week1-06.jpg" alt="금요일 저녁 식단">
     <div class="diet-info">
-      <div class="diet-calories">🔥 총 칼로리 : 570 kcal</div>
+      <div class="diet-calories">🔥 총 칼로리 : 약 570 kcal</div>
       <div class="diet-menu">
         보리귀리밥 150g<br>
         건새우 시금치 된장국 160g<br>
@@ -152,7 +152,7 @@ image: "/assets/images/daily/260503-health-care-week1-main.jpg"
     <div class="diet-date">🗓️ 5월 2일 (토)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260503-health-care-week1-07.jpg" alt="토요일 저녁 식단">
     <div class="diet-info">
-      <div class="diet-calories">🔥 총 칼로리 : 400 kcal 💦</div>
+      <div class="diet-calories">🔥 총 칼로리 : 약 400 kcal 💦</div>
       <div class="diet-menu">
         버섯 귀리밥 160g (달래 부추 양념장)<br>
         삶은 콩나물 30g<br>
@@ -169,10 +169,15 @@ image: "/assets/images/daily/260503-health-care-week1-main.jpg"
     <div class="diet-date">🗓️ 5월 3일 (일)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260503-health-care-week1-08.jpg" alt="일요일 저녁 식단">
     <div class="diet-info">
-      <div class="diet-calories">🔥 총 칼로리 : 약   kcal 💦</div>
+      <div class="diet-calories">🔥 총 칼로리 : 약 560 kcal</div>
       <div class="diet-menu">
-        보리귀리밥<br>
-
+        보리귀리밥 100g<br>
+        들깨 미역국 160g<br>
+        제육볶음 90g<br>
+        닭가슴살 30g<br>
+        시금치 무침 100g<br>
+        양상추 딸기 샐러드 & 요거트 드레싱 80g<br>
+        명이나물 절임 20g
       </div>
     </div>
   </div>
