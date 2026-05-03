@@ -24,16 +24,7 @@
   font-size: 50px;
 }
 
-/* 📱 모바일 화면을 위한 추가 팁 (선택 사항) */
-@media screen and (max-width: 768px) {
-  /* 모바일에서는 70px/50px이 너무 클 수 있으므로 모바일에 맞게 조절해 줍니다 */
-  .hero-title.title-short {
-    font-size: 40px; 
-  }
-  .hero-title.title-long {
-    font-size: 30px;
-  }
-}
+
 
 .hero-desc { font-size: 18px; color: #555; line-height: 1.6; margin-bottom: 30px; }
 .hero-btn { display: inline-block; background-color: #5a403d; color: #fff; padding: 12px 24px; text-decoration: none; font-size: 14.4px; letter-spacing: 1px; }
