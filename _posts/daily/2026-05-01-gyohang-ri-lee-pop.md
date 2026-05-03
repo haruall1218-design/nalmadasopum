@@ -5,7 +5,7 @@ date: 2026-05-01
 categories: daily
 main_menu: "소소한 일상"      # 화면에 표시될 대분류 한글 메뉴명    
 tags: [오늘의 단상, 봄산책, 이팝나무, 하얀꽃, 꽃사진, 일상기록, 봄기록, 계절기록, 꽃사진, 교항리 이팝나무 군락지, 옥포]  #첫번째는 2차메뉴명, 뒤는 해시테그
-image: "/assets/images/daily/260501-gyohang-ri-lee-pop-01.jpg"   # 최근 글보기에 보여줄 이미지
+image: "/assets/images/daily/260501-gyohang-ri-lee-pop-main.jpg"   # 최근 글보기에 보여줄 이미지
 ---
 
 
@@ -15,7 +15,7 @@ image: "/assets/images/daily/260501-gyohang-ri-lee-pop-01.jpg"   # 최근 글보
 
 ## 교항리 이팝나무 군락지
 
-![소복하게 피어 있는 조팝나무들]({{ site.kor_url }}/assets/images/daily/260501-gyohang-ri-lee-pop-01.jpg)
+![소복하게 피어 있는 조팝나무들]({{ site.kor_url }}/assets/images/daily/260501-gyohang-ri-lee-pop-16.jpg)
 
 
 이팝나무 군락지 초입에 들어서면 있는 소개 나무팻말의 글을 옮기자면
@@ -24,6 +24,16 @@ image: "/assets/images/daily/260501-gyohang-ri-lee-pop-01.jpg"   # 최근 글보
 또한 이팝나무숲의 꽃이 만개한 해에는 풍년이 들고, 꽃이 별로 피지 않은 해에는 흉년이 든다는 이야기가 전해진다고 한다.
 올해는 꽃이 복스럽게 많이 피었으니 풍년이 들 모양이다.
 
+---
+
+## 다리목 마을 교항1리 마을의 유래 (옮겨 적음)
+
+![소복하게 피어 있는 조팝나무들]({{ site.kor_url }}/assets/images/daily/260501-gyohang-ri-lee-pop-14.jpg)
+
+> 대구 최대 이팝나무 숲을 품은 옥포읍 북서쪽의 다리목 마을입니다.
+우리 마을은 약 4백년 전 임진왜란 무렵 성산이씨(星山李氏)가 처음 정착했다고 합니다. 당시 마을에 큰 다리가 놓여 있고 다리 놓인 자리가 마을의 입구가 된다는 데서 다리 교, 목 항을 써 교항이라 불렀다고 전해집니다.
+
+> 마을 남쪽으로는 대방산과 금계산 사이, 북쪽으로는 낙동강의 넓은 평야 지형이 펼쳐지 있고, 취락 내부에는 주거지, 바깥에는 산업시설이 주로 들어서 있습니다. 마을에서 100m 정도 떨어진 이팝나무 숲은 대구지역 최대 이팝나무 자생지로 4월 말부터 개화하여 만개 시, 눈이 온 것 같은 아름다운 경관을 자랑하는 우리 마을의 대표 명소입니다.
 
 ## 이팝나무 
 
@@ -44,6 +54,8 @@ image: "/assets/images/daily/260501-gyohang-ri-lee-pop-01.jpg"   # 최근 글보
 </div>
 
 ## 교항리 이팝나무 군락지 지도
+
+![소복하게 피어 있는 조팝나무들]({{ site.kor_url }}/assets/images/daily/260501-gyohang-ri-lee-pop-15.jpg)
 
 <!-- 📍 교항리 이팝나무 군락지 지도 영역 -->
 
