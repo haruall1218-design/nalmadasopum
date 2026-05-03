@@ -17,7 +17,13 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
     
     <div class="hero-content">
       <span class="hero-label">ATELIER NOTES</span>
-      <h1 class="hero-title"><a href="{{ latest_post.url }}">{{ latest_post.title }}</a></h1>
+      
+      {% assign title_length = latest_post.title | size %} <!--제목 글자수에 따른 폰트 크기 조절-->
+      
+      <h1 class="hero-title {% if title_length <= 15 %}title-short{% else %}title-long{% endif %}">
+        <a href="{{ latest_post.url }}">{{ latest_post.title }}</a>
+      </h1>
+      
       <p class="hero-desc">{{ latest_post.excerpt | strip_html | truncatewords: 40 }}</p>
       <a href="{{ latest_post.url }}" class="btn-primary">EXPLORE STORIES &rarr;</a>
     </div>
