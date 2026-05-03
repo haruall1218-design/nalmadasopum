@@ -12,19 +12,9 @@
 .hero-title a { font-family: 'Manrope', sans-serif; line-height: 1.1; font-weight: 300; color: #1d1b19; margin-bottom: 32px; margin-top: 0; }
 .hero-title a:hover { text-decoration: underline;  text-decoration-thickness: 1px; text-underline-offset: 13px; text-decoration-color: #8cb330; color: #58770e; }
 
-/* --- 메인 제목 글자 수에 따른 동적 크기 조절 --- */
-
-/* 15자 이하일 때 (짧은 제목) */
-.hero-title.title-short {
-  font-size: 70px;
-}
-
-/* 15자를 초과할 때 (긴 제목) */
-.hero-title.title-long {
-  font-size: 50px;
-}
-
-
+/* --- 메인 제목 글자 수(15자)에 따른 동적 크기 조절 --- */
+.hero-title.title-short {  font-size: 70px;}
+.hero-title.title-long {  font-size: 50px;}
 
 .hero-desc { font-size: 18px; color: #555; line-height: 1.6; margin-bottom: 30px; }
 .hero-btn { display: inline-block; background-color: #5a403d; color: #fff; padding: 12px 24px; text-decoration: none; font-size: 14.4px; letter-spacing: 1px; }
