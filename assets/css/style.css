@@ -275,13 +275,19 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
 .timeline-dot.inactive { border: 3px solid #e9ecef; }
 .timeline-badge { position: relative; z-index: 3; background: #ff6b6b; color: white; font-size: 0.8em; font-weight: bold; padding: 4px 10px; border-radius: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.2); }
 .challenge-footer { display: flex; justify-content: space-between; align-items: center; margin-top: 12px; font-size: 0.85em; color: #3f3f3f; }
-.challenge-msg { margin: 12px 0; font-size: 15px; color: #a07a6a; }
-
+.challenge-msg { margin: 0 0 12px 0; font-size: 15px; color: #a07a6a; }
+.challenge-footer span { display: inline-block; padding-top: 5px; height: 40px; line-height: normal; padding-top: 0; padding-bottom: 0; vertical-align: top;}
+.challenge-footer span br { display: none; }
 .date-kraft-wrap { text-align: center; margin: -15px 0 40px 0; } 
 .date-kraft { display: inline-block; background-color: #a87b59; color: #fff; padding: 12px 28px; border-radius: 6px; position: relative; font-weight: bold; font-size: 0.95em; box-shadow: 2px 2px 5px rgba(0,0,0,0.15); } 
 .date-kraft .kraft-dash { position: absolute; top: 3px; bottom: 3px; left: 3px; right: 3px; border: 1px dashed rgba(255,255,255,0.5); border-radius: 4px; } 
 .kraft-text { position: relative; z-index: 1; letter-spacing: 0.5px; }
 
+/* 📱 모바일 환경 최적화 (화면 폭 768px 이하) */
+@media screen and (max-width: 768px) {
+  .challenge-msg { font-size: 14px; }
+  .challenge-footer span br {  display: inline; }
+}
 
 
 /************************* 블로그 공통 지도 모듈 스타일 ******************************/
