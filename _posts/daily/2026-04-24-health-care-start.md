@@ -5,7 +5,7 @@ date: 2026-04-24
 categories: daily
 main_menu: "소소한 일상"      
 tags: [모바일 헬스케어 27주 챌린지, 모바일 헬스케어, 보건소 방문, 27주 챌린지, 건강관리]    #첫번째는 2차메뉴명, 뒤는 해시테그        
-image: "/assets/images/daily/260424-health-care-start-03.jpg"   
+image: "/assets/images/daily/260424-health-care-start-main.jpg"   
 ---
 
 안녕하세요! 매일 사부작사부작 예쁜 소품을 지어내는 '날마다 소품'입니다. 😊
