@@ -1,0 +1,73 @@
+---
+layout: default
+title: 모든 이야기
+permalink: /archive/
+---
+
+<div class="archive-wrapper">
+  <h1 class="archive-main-title">날마다 소품의 모든 이야기</h1>
+  
+  <div class="archive-grid" id="archive-grid">
+    {% for post in site.posts %}
+    <div class="archive-card">
+      <a href="{{ post.url }}">
+        <div class="archive-img-wrap">
+          <img src="{{ post.image | default: '/assets/images/default-share.jpg' }}" alt="{{ post.title }}">
+        </div>
+        <div class="archive-text-wrap">
+          <span class="archive-meta">
+            {{ post.date | date: "%B %d, %Y" }} &middot; {{ post.categories.first | default: 'DAILY' | upcase }}
+          </span>
+          <h3 class="archive-title">{{ post.title }}</h3>
+          <!--<p class="archive-excerpt">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>-->
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="archive-pagination" id="archive-pagination"></div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // 💡 한 줄에 4개씩 * 6줄 = 24개로 변경!
+  const itemsPerPage = 20; 
+  const cards = document.querySelectorAll('.archive-card');
+  const totalItems = cards.length;
+  const totalPages = Math.ceil(totalItems / itemsPerPage);
+  const paginationContainer = document.getElementById('archive-pagination');
+
+  function showPage(page) {
+    cards.forEach(card => card.style.display = 'none'); 
+    
+    const start = (page - 1) * itemsPerPage;
+    const end = start + itemsPerPage;
+    
+    for (let i = start; i < end && i < totalItems; i++) {
+      cards[i].style.display = 'block'; 
+    }
+
+    document.querySelectorAll('.archive-page-btn').forEach(btn => btn.classList.remove('active'));
+    const activeBtn = document.querySelector(`.archive-page-btn[data-page="${page}"]`);
+    if (activeBtn) activeBtn.classList.add('active');
+    
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  if (totalPages > 1) {
+    for (let i = 1; i <= totalPages; i++) {
+      const btn = document.createElement('button');
+      btn.className = 'archive-page-btn';
+      btn.innerText = `[${i}]`; 
+      btn.setAttribute('data-page', i);
+      btn.addEventListener('click', () => showPage(i));
+      paginationContainer.appendChild(btn);
+    }
+  }
+
+  if (totalItems > 0) {
+    showPage(1);
+  }
+});
+</script>

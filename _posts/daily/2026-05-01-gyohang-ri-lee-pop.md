@@ -50,9 +50,9 @@ image: "/assets/images/daily/260501-gyohang-ri-lee-pop-main.jpg"   # 최근 글�
     <img src="{{ site.kor_url }}/assets/images/daily/260501-gyohang-ri-lee-pop-08.jpg" alt="빛에 빛나는 이팝나무 꽃들">
     <img src="{{ site.kor_url }}/assets/images/daily/260501-gyohang-ri-lee-pop-09.jpg" alt="오래된 큰 이팝나무">
     <img src="{{ site.kor_url }}/assets/images/daily/260501-gyohang-ri-lee-pop-10.jpg" alt="햇빛에 비친 이팝나무">
-    <img src="{{ site.kor_url }}/assets/images/daily/260501-gyohang-ri-lee-pop-11.jpg" alt="교항리 이팝나무 군락지 입구">
     <img src="{{ site.kor_url }}/assets/images/daily/260501-gyohang-ri-lee-pop-17.jpg" alt="소복소복 어여쁜 이팝나무">
     <img src="{{ site.kor_url }}/assets/images/daily/260501-gyohang-ri-lee-pop-12.jpg" alt="이팝나무와 푸른 하늘">
+    <img src="{{ site.kor_url }}/assets/images/daily/260501-gyohang-ri-lee-pop-11.jpg" alt="교항리 이팝나무 군락지 입구">
     <img src="{{ site.kor_url }}/assets/images/daily/260501-gyohang-ri-lee-pop-13.jpg" alt="입구 지하여장군">
 </div>
 
