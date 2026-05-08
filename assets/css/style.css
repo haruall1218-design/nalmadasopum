@@ -86,8 +86,8 @@
 .site-title a:hover {  text-decoration: none;   color:#58770e; }
 .desktop-menu { display: flex; gap: 32px; }
 .desktop-menu a { color: #a8a29e; font-weight: 500; font-family: 'Noto Sans KR', 'Newsreader', serif; font-size: 18px; transition: color 0.3s; cursor: pointer; }
-.desktop-menu a:active { opacity: 0.7; }
 .desktop-menu a:hover { color: #ffffff; }
+.desktop-menu a:active { opacity: 0.7; }
 .desktop-menu a.active { color: #ffffff; border-bottom: 1px solid rgba(255,255,255,0.3); padding-bottom: 4px; }
 .nav-right { display: flex; align-items: center; gap: 24px; }
 #search-box { position: relative; display: inline-block; margin: 0 15px; vertical-align: middle; }
@@ -254,7 +254,7 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
 
 /************************* 다이어트 스와이프 이미지 ******************************/
 /* 🥗 카드형 스와이프 컨테이너 */
-.diet-swipe-container {  display: flex;  overflow-x: auto;  scroll-snap-type: x mandatory;  gap: 15px;  padding: 10px 0 20px 0;   margin: 20px 0;  width: 920px;}
+.diet-swipe-container {  display: flex;  overflow-x: auto;  scroll-snap-type: x mandatory;  gap: 15px;  padding: 10px 0 20px 0;   margin: 20px 0;  width: 100%; max-width: 920px; }
 
 /* 데스크탑 브라우저용 스크롤바 예쁘게 만들기 */
 .diet-swipe-container::-webkit-scrollbar { height: 8px; }
@@ -310,7 +310,7 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
 .timeline-badge { position: relative; z-index: 3; background: #ff6b6b; color: white; font-size: 0.8em; font-weight: bold; padding: 4px 10px; border-radius: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.2); }
 .challenge-footer { display: flex; justify-content: space-between; align-items: center; margin-top: 12px; font-size: 0.85em; color: #3f3f3f; }
 .challenge-msg { margin: 0 0 12px 0; font-size: 15px; color: #a07a6a; }
-.challenge-footer span { display: inline-block; padding-top: 5px; height: 40px; line-height: normal; padding-top: 0; padding-bottom: 0; vertical-align: top;}
+.challenge-footer span { display: inline-block; padding-top: 5px; height: 40px; line-height: normal; padding-bottom: 0; vertical-align: top;}
 .challenge-footer span br { display: none; }
 .date-kraft-wrap { text-align: center; margin: -15px 0 40px 0; } 
 .date-kraft { display: inline-block; background-color: #a87b59; color: #fff; padding: 12px 28px; border-radius: 6px; position: relative; font-weight: bold; font-size: 0.95em; box-shadow: 2px 2px 5px rgba(0,0,0,0.15); } 
@@ -352,7 +352,7 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
 /* (## 글자) 디자인 */
 .post-content h2 { font-family: 'Newsreader', serif; font-size: 36px; color: #1b3022; border-left: 3px solid rgba(27, 48, 34, 0.2); padding-left: 40px; padding-top: 8px; padding-bottom: 8px; margin: 100px 0 30px 0; letter-spacing: -1.5px; }
 .post-content p { font-size: 18px; color: rgba(27, 48, 34, 0.8); padding: 15px 0; }
-.post-content img { max-width: 1050px; width: auto; height: auto; border-radius: 10px; width: 100%; max-width: min(1050px, 100%); }
+.post-content img { max-width: 1050px; width: 100%; height: auto; border-radius: 10px; width: 100%; max-width: min(1050px, 100%); }
 
 /* #### (h4) 기호를 이용한 마크다운 전용 박스 버튼 */
 .post-content h4 {  margin: 40px 0 20px 0;  padding: 0;  border: none; }
@@ -403,7 +403,7 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
 #scroll-top-btn:hover { background-color: #d87c2b; }
 
 
-/* =========================================\
+/* =========================================
    6. 아카이브 (포스트 전체 보기)
 ========================================= */
 /* --- 아카이브(모든 글 보기) 전용 스타일 --- */
@@ -423,7 +423,7 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
 /* 텍스트 영역 디자인 (사진과 동일하게 세팅) */
 .archive-text-wrap { padding: 0 5px; margin-bottom: 20px; }
 .archive-meta { font-size: 13px; color: #666; font-style: italic; display: block; margin-bottom: 8px; }
-.archive-title { font-style:normal; font-family:'Pretendard', sans-serif; font-size: 18px; font-weight: 600; margin: 0 0 10px 0; line-height: 1.3; color: #222; word-break: keep-all; }
+.archive-title-page { font-style:normal; font-family:'Pretendard', sans-serif; font-size: 18px; font-weight: 600; margin: 0 0 10px 0; line-height: 1.3; color: #222; word-break: keep-all; }
 .archive-excerpt { font-size: 14px; color: #555; line-height: 1.5; margin: 0; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 
 /* 하단 번호 버튼 */
