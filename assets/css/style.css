@@ -138,7 +138,7 @@
    .sidebar { width: 210px; }
 }
 @media screen and (max-width: 912px) {  
-.sidebar { width: 180px; }
+  .sidebar { width: 180px; }
   .desktop-menu { display: none; } 
   .search-box { display: none; }
   .hamburger { display: flex; align-items: center; background: none; border: none; color: #ffffff; cursor: pointer; padding: 0; }
@@ -152,10 +152,11 @@
 @media screen and (max-width: 768px) { 
   .header-wrapper, .wrapper, .footer-wrapper { padding: 0 10px; }
   .wrapper.with-sidebar { flex-direction: column; gap: 20px; } 
-  .sidebar { width: 100%; position: relative; top: -20px; border: 1px solid #e5e0d8; padding: 20px;   border-radius: 10px;  background-color: #fffdfb; } 
+  .sidebar { width: 100%; position: relative; top: -3px; border: 1px solid #e5e0d8; padding: 15px;   border-radius: 10px;  background-color: #fffdfb; } 
   .sidebar-menu .active { padding: 10px 0; }
   .sidebar .sidebar-title   { display: none;}
   .sidebar .sidebar-subtitle { display: none;}
+  .sidebar-menu li { margin-bottom: 8px;}
   .site-title { font-size: 18px; }
   .nav-right .shop-link { display: none; }
   .footer-wrapper { flex-direction: column; align-items: center; text-align: center; gap: 30px; } 
@@ -175,13 +176,19 @@ a { color: var(--link-color); text-decoration: none; }
 a:hover { text-decoration: underline; }
 .header-wrapper, .wrapper, .footer-wrapper { max-width: 1300px; margin: 0 auto; padding: 0 20px; }
 
-/* 📱 모바일 가로 스크롤 1차 메뉴바 */
+/* =========================================
+   📱 모바일 가로 스크롤 1차 메뉴바
+========================================= */
 .mobile-top-nav { background: #ffffff; border-bottom: 1px solid #eeeeee; padding: 0 15px; }
 .mobile-nav-list { display: flex; overflow-x: auto; white-space: nowrap; margin: 0; padding: 0; list-style: none; -ms-overflow-style: none; scrollbar-width: none; }
 .mobile-nav-list::-webkit-scrollbar { display: none; /* 크롬, 사파리 스크롤바 숨김 */ }
 .mobile-nav-list li { margin-right: 22px; }
-.mobile-nav-list a { display: block; padding: 14px 0; color: #777777; font-size: 0.95em; text-decoration: none; font-weight: 500; }
+.mobile-nav-list a { display: block; padding: 14px 0 0 0; color: #777777; font-size: 0.95em; text-decoration: none; font-weight: 500; }
 .mobile-nav-list a.active { color: #8b5a4b; font-weight: bold; border-bottom: 2px solid #8b5a4b; }
+
+@media screen and (min-width: 1024px) { 
+  .mobile-top-nav { display: none;}
+}
 
 /* =========================================
    4. 카테고리 및 본문 상세 CSS (글 목록, 상세 페이지, 광고 등)
