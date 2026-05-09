@@ -436,3 +436,11 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
 @media (max-width: 1024px) { .archive-grid { grid-template-columns: repeat(3, 1fr); } }
 @media (max-width: 768px) { .archive-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 480px) { .archive-grid { grid-template-columns: 1fr; } }
+
+
+/* =========================================
+   7. 유튜브 영상 올리기
+========================================= */
+/* 📱 유튜브 쇼츠(세로형) 전용 영상 틀 */
+.shorts-wrap { width: 100%; max-width: 320px; margin: 40px auto; border-radius: 16px; overflow: hidden; box-shadow: 0 8px 20px rgba(0,0,0,0.08); aspect-ratio: 9 / 16; position: relative; background: #000; } 
+.shorts-wrap iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
