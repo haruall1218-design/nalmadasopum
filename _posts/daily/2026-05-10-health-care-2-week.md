@@ -260,7 +260,7 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
     <div class="act-box">
       <div class="act-stats">👣 9,399 보 ｜ 🌳 공원 빠르게 걷기 30분, 가벼운 산책 30분</div>
       <div class="act-heart">💓 중강도 심박 : 7 분  |  고강도 심박 : 12 분</div>
-      <p class="act-desc">집 공원에서 트랙을 빠르게 걷기 했다. 슬로조깅을 좀 하고 싶었지만, 아직 체력이 안되는 것 같아 다음으로 미루었다.</p>
+      <p class="act-desc">집 근처 공원에서 트랙을 빠르게 걷기 했다. 슬로조깅을 좀 하고 싶었지만, 아직 체력이 안되는 것 같아 다음으로 미루었다.</p>
     </div>
   </div>
 
