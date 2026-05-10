@@ -75,7 +75,7 @@ image: "/assets/images/daily/260509-yeongcheon-purple-canola-main.jpg"   # ìµœê·
 ---
 
 <div class="shorts-wrap">
-  <iframe src="https://youtube.com/shorts/JpM4_xmf2ms?si=JJlvcdo-hpoI29Up" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/JpM4_xmf2ms" allowfullscreen></iframe>
 </div>
 
 ---
