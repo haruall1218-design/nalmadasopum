@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[모바일 헬스케어] 2주차 기록 - 내 식단과 솔직하게 마주하기"
+title: "[모바일 헬스케어] 2주차 기록 - 인터벌 운동 시작하기"
 date: 2026-05-10
 categories: daily
 main_menu: "소소한 일상"      
@@ -42,7 +42,7 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
 
 안녕하세요! 매일 사부작사부작 예쁜 소품을 지어내는 '날마다 소품'입니다. 😊
 
-지난번 보건소 초기 검사에서 뼈아픈(?) 성적표를 받고 시작된 모바일 헬스케어 27주 챌린지, 드디어 대망의 1주 차 기록을 들고 왔습니다. 하루 종일 재봉틀과 컴퓨터 앞에 앉아 굳어있던 제 몸에 어떤 작은 변화들이 생겼는지 함께 보실까요?
+지난 주에 이어 2주차에 접어 들었네요. 아직도 새롭게 시작하는 마음이 가시지 않았아요. 이번주 기록도 보실까요?
 
 ---
 
@@ -54,8 +54,9 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
 
 이번 주 들어 채움건강 앱에 들어가니  '충분한 수분섭취'가 미션이었어요.
 평소에 수분 섭취는 많이 하고 있는데, 그래도 궁금한 사항은 있었어요.
-아메리카노 1잔과 물 1컵을 따로 마시는 것과 아메리카노 1잔에 물 1잔을 섞어 (연하게) 마시는 것이 어떻게 다른지 말이죠?
-다음 주에 앱의 상담코너를 통해 영양사님께 여쭤 보아야 겠어요.
+아메리카노 1잔과 물 1컵을 따로 마시는 것과 아메리카노 1잔에 물 1잔을 섞어 (연하게) 마시는 것이 어떻게 다른지 말이죠? 
+이게 순수한 수분 섭취량에 포함되는지 궁금하네요!
+다음 주에 앱의 상담코너를 통해 영양사님께 여쭤 보아야 겠어요. 
 
 ---
 
@@ -67,7 +68,7 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 4일 (월)</div>
-    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-02.jpg" alt="월요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-01.jpg" alt="월요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 ? kcal 💦</div>
       <div class="diet-menu">
@@ -78,7 +79,7 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 5일 (화)</div>
-    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-03.jpg" alt="화요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-02.jpg" alt="화요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 525 kcal</div>
       <div class="diet-menu">
@@ -95,7 +96,7 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 6일 (수)</div>
-    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-04.jpg" alt="수요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-03.jpg" alt="수요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 535 kcal</div>
       <div class="diet-menu">
@@ -111,7 +112,7 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 7일 (목)</div>
-    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-05.jpg" alt="목요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-04.jpg" alt="목요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 545 kcal 💦</div>
       <div class="diet-menu">
@@ -126,7 +127,7 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 8일 (금)</div>
-    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-06.jpg" alt="금요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-05.jpg" alt="금요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 575 kcal</div>
       <div class="diet-menu">
@@ -144,7 +145,7 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 9일 (토)</div>
-    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-07.jpg" alt="토요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-06.jpg" alt="토요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 455 kcal 💦</div>
       <div class="diet-menu">
@@ -159,7 +160,7 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 10일 (일)</div>
-    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-08.jpg" alt="일요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-07.jpg" alt="일요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 450 kcal</div>
       <div class="diet-menu">
@@ -171,7 +172,7 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
 
   </div>
 
-* **🥗 1주 차 식단 총평:** "이번 주는 전체적으론 조절해서 잘 먹었는데, 월요일에 어버이날 기념으로 본가에 방문해서 기록이 없는 것이 아쉬웠어요. 그래도 평소 모임 때보다 적게 먹으려고 노력했답니다."
+* **🥗 2주 차 식단 총평:** "이번 주는 전체적으론 조절해서 잘 먹었는데, 월요일에 어버이날 기념으로 본가에 방문해서 기록이 없는 것이 아쉬웠어요. 그래도 평소 모임 때보다 적게 먹으려고 노력했답니다."
 
 ---
 
@@ -182,7 +183,7 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
 
 * **👟 주간 총 걸음 수:**  56,474 걸음 (하루 평균 약 8,067 걸음)
 * **🔥 주간 총 소비 칼로리:**  1,423 kcal
-* **🚶‍♀️ 주간 총 이동 거리:** 31,52 km
+* **🚶‍♀️ 주간 총 이동 거리:** 31.52 km
 * **🌳 주요 운동:** 집 근처 30분 이상 산책, 실내 자전거 40분 이상, 영천생태지구공원 산책
 * **💪 몸의 변화:** "배가 좀 들어간 것 같고, 하지만 아직도 빠르게 걷기를 하고 나면 종아리가 좀 아파요"
 
@@ -237,7 +238,7 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
     <div class="act-dot"></div>
     <div class="act-date">🗓️ 5. 8 (금)</div>
     <div class="act-box">
-      <div class="act-stats">👣 7,951 보 ｜ 🌳 아파트단지 빠르게 걷기 30분, 실내자전가 타기 40분</div>
+      <div class="act-stats">👣 7,951 보 ｜ 🌳 아파트단지 빠르게 걷기 30분, 실내자전 타기 40분</div>
       <div class="act-heart">💓 중강도 심박 : 11 분  |  고강도 심박 : 20 분</div>
       <p class="act-desc">오늘도 어제에 이어 실내자전거를 인터벌로 탔다. 어제보다 다리가 더 힘든 느낌이었다.</p>
     </div>
@@ -258,7 +259,7 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
     <div class="act-date">🗓️ 5. 10 (일)</div>
     <div class="act-box">
       <div class="act-stats">👣 9,399 보 ｜ 🌳 공원 빠르게 걷기 30분, 가벼운 산책 30분</div>
-      <div class="act-heart">💓중강도 심박 : 7 분  |  고강도 심박 : 12 분</div>
+      <div class="act-heart">💓 중강도 심박 : 7 분  |  고강도 심박 : 12 분</div>
       <p class="act-desc">집 공원에서 트랙을 빠르게 걷기 했다. 슬로조깅을 좀 하고 싶었지만, 아직 체력이 안되는 것 같아 다음으로 미루었다.</p>
     </div>
   </div>
