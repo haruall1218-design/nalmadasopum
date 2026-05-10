@@ -49,121 +49,142 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
 ## 🩺 이번 주의 다짐 & 보건소 미션
 
 
-* **이번 주 다짐:** 저녁 9시 이후 야식 금지! 주 5일 이상 중강도 운동 30분 이상!
-* **보건소 2주 차 미션:** 집중 상담 내용을 바탕으로 한 이번주 미션은 **꼼꼼한 식단 기록** 입니다. 
+* **이번 주 다짐:** 맥주의 유혹에 빠지지 않지! 주 5일 이상 중강도 운동 30분 이상!
+* **보건소 2주 차 미션:** 집중 상담 내용을 바탕으로 한 이번주 미션은 **아침식사 하기 (우유 섭취도 가능)**, **충분한 수분섭취를 위해 하루 물 6컵 이상 섭취** 입니다. 
 
-이번 주 들어 채움건강 앱에 들어가니  '집중상담 식단기록'에 식단을 기록하라고 되어 있더라고요.
-아침, 점심, 저녁, 간식 이렇게 나누어서 내용을 등록하고, 식단 사진을 등록하도록 되어 있어서 열심히 기록했답니다. (처음이라 일일이 사진 찍고 적는 게 생각보다 꽤 힘들었어요! ^^;;)
+이번 주 들어 채움건강 앱에 들어가니  '충분한 수분섭취'가 미션이었어요.
+평소에 수분 섭취는 많이 하고 있는데, 그래도 궁금한 사항은 있었어요.
+아메리카노 1잔과 물 1컵을 따로 마시는 것과 아메리카노 1잔에 물 1잔을 섞어 (연하게) 마시는 것이 어떻게 다른지 말이죠?
+다음 주에 앱의 상담코너를 통해 영양사님께 여쭤 보아야 겠어요.
 
 ---
 
 ## 🥗 2주차 일주일 저녁 식단 (Dinner Log)
 
-오후 4~5시쯤 되면 허기진 일이 많아 아무것이나 막 먹는 일이 많았는데, 좀 참게 되었구요.
-식사를 하면서 사진을 찍어 올려야 한다고 생각하고 정량을 덜어놓으니 더 먹게 되는 것도 참아졌어요. ^^
+역시 1인분을 차리는 것은 보통 일이 아니네요. 이번주도 사진 찍느라 힘들었답니다.
 
 <div class="diet-swipe-container">
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 4일 (월)</div>
-    <img src="{{ site.kor_url }}/assets/images/daily/260503-health-care-week1-02.jpg" alt="월요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-02.jpg" alt="월요일 저녁 식단">
     <div class="diet-info">
-      <div class="diet-calories">🔥 총 칼로리 : 약   kcal 💦</div>
+      <div class="diet-calories">🔥 총 칼로리 : 약 ? kcal 💦</div>
       <div class="diet-menu">
-        보리귀리밥 170g<br>
-
+        어버이날을 맞아 본가에서 식사를 해서 기록을 못함.
       </div>
     </div>
   </div>
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 5일 (화)</div>
-    <img src="{{ site.kor_url }}/assets/images/daily/260503-health-care-week1-03.jpg" alt="화요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-03.jpg" alt="화요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약   kcal</div>
       <div class="diet-menu">
-        보리귀리밥 140g<br>
-
+        보리귀리밥 100g<br>
+        황태 콩나물국 180g<br>
+        가자미 조림 120g<br>
+        상추 겉절이 30g<br>
+        돼지고기 마늘쫑 볶음 20g<br>
+        고차장 멸치무침 10g<br>
+        양상추샐러드 (키위,바나나) & 요거트 드레싱 90g
       </div>
     </div>
   </div>
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 6일 (수)</div>
-    <img src="{{ site.kor_url }}/assets/images/daily/260503-health-care-week1-04.jpg" alt="수요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-04.jpg" alt="수요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약   kcal</div>
       <div class="diet-menu">
-        보리귀리밥 160g<br>
-
+        보리귀리밥 100g<br>
+        된장찌개 130g<br>
+        오이소박이 50g<br>
+        오리 훈제구이 70g<br>
+        버섯 볶음 30g<br>
+        계란말이 80g
       </div>
     </div>
   </div>
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 7일 (목)</div>
-    <img src="{{ site.kor_url }}/assets/images/daily/260503-health-care-week1-05.jpg" alt="목요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-05.jpg" alt="목요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약   kcal 💦</div>
       <div class="diet-menu">
-        보리귀리밥 160g<br>
-
+        보리귀리밥 120g<br>
+        감자계란국 140g<br>
+        쭈꾸미 미나리 볶음 130g<br>
+        두부구이 90g<br>
+        오이 양파 무침 60g
       </div>
     </div>
   </div>
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 8일 (금)</div>
-    <img src="{{ site.kor_url }}/assets/images/daily/260503-health-care-week1-06.jpg" alt="금요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-06.jpg" alt="금요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약   kcal</div>
       <div class="diet-menu">
-        보리귀리밥 150g<br>
-
+        보리귀리밥 100g<br>
+        돼지 목살 구이 90g<br>
+        양파 마늘 장아찌 60g<br>
+        오이 미역 냉국 260g<br>
+        미나리 겉절이 40g<br>
+        파프리카 팽이버섯 볶음 60g<br>
+        새송이 표고버섯 볶음 60g<br>
+        상추 조금
       </div>
     </div>
   </div>
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 9일 (토)</div>
-    <img src="{{ site.kor_url }}/assets/images/daily/260503-health-care-week1-07.jpg" alt="토요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-07.jpg" alt="토요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약   kcal 💦</div>
       <div class="diet-menu">
-        버섯 귀리밥 160g (달래 부추 양념장)<br>
-
+        보리귀리밥 100g<br>
+        소 살코기 곰탕 450g (영천시장)<br>
+        부추무침 40g<br>
+        총각김치 60g<br>
+        고추 장아찌 10g (영천시장)
       </div>
     </div>
   </div>
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 10일 (일)</div>
-    <img src="{{ site.kor_url }}/assets/images/daily/260503-health-care-week1-08.jpg" alt="일요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/daily/260510-health-care-week2-08.jpg" alt="일요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약   kcal</div>
       <div class="diet-menu">
-        보리귀리밥 100g<br>
-
+        닭갈비 야채 또띠아 200g<br>
+        양상추 딸기 바나나 샐러드 & 요거트 드레싱 90g
       </div>
     </div>
   </div>
 
   </div>
 
-* **🥗 1주 차 식단 총평:** "이번 주는 처음 시작하는 주간이다 보니 신경을 많이 썼어요. 식단도 골고루 차렸고요. 무엇보다 아침을 먹지 않았었는데 우유라도 마시게 되었어요 !"
+* **🥗 1주 차 식단 총평:** "이번 주는 전체적으론 조절해서 잘 먹었는데, 월요일에 어버이날 기념으로 본가에 방문해서 기록이 없는 것이 아쉬웠어요. 그래도 평소 모임 때보다 적게 먹으려고 노력했답니다."
 
 ---
 
 ## ⌚ 활동량 및 운동 기록 (Activity Log)
 
-먹는 것만큼이나 중요한 활동량! 보건소에서 지급받은 스마트워치가 제 걸음 수를 기록해 주고 있습니다.
-걸음 수 체크도 되지만 총 걸음수 중에 중강도 걸음수를 별도로 알려 주어서 편리했어요.
+걷기를 계속 하면 몸이 적응한다는 말이 맞나봐요.
+처음 걷기를 할 땐 중강도 운동이 좀 되었는데, 계속 하다보니 같은 거리와 강도로 걸어도 중강도 운동 시간이 좀 적어졌어요.
 
-* **👟 주간 총 걸음 수:**   걸음 (하루 평균 약 8,891 걸음)
-* **🔥 주간 총 소비 칼로리:**   kcal
-* **🚶‍♀️ 주간 총 이동 거리:** 34.80 km
-* **🌳 주요 운동:** 작업실 근처 30분 이상 산책, 자기 전 폼롤러 스트레칭 15분
-* **💪 몸의 변화:** "아직 1주일밖에 안 돼서 체중의 큰 변화는 없지만, 확실히 짬을 내어 산책을 다녀오고 스트레칭을 하니 오래 앉아 있어도 허리가 덜 아픈 느낌이에요! 소화도 훨씬 잘 되는 것 같고요."
+* **👟 주간 총 걸음 수:**  56,474 걸음 (하루 평균 약 8,067 걸음)
+* **🔥 주간 총 소비 칼로리:**  1,423 kcal
+* **🚶‍♀️ 주간 총 이동 거리:** 31,52 km
+* **🌳 주요 운동:** 집 근처 30분 이상 산책, 실내 자전거 40분 이상, 영천생태지구공원 산책
+* **💪 몸의 변화:** "배가 좀 들어간 것 같고, 하지만 아직도 빠르게 걷기를 하고 나면 종아리가 좀 아파요"
 
 <br>
 ### 이번주 운동기록 & 느낀점
@@ -216,9 +237,9 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
     <div class="act-dot"></div>
     <div class="act-date">🗓️ 5. 8 (금)</div>
     <div class="act-box">
-      <div class="act-stats">👣  보 ｜ 🌳 아파트단지 빠르게 걷기</div>
-      <div class="act-heart">💓 중강도 심박 :  분  |  고강도 심박 :  분</div>
-      <p class="act-desc">여기에</p>
+      <div class="act-stats">👣 7,951 보 ｜ 🌳 아파트단지 빠르게 걷기 30분, 실내자전가 타기 40분</div>
+      <div class="act-heart">💓 중강도 심박 : 11 분  |  고강도 심박 : 20 분</div>
+      <p class="act-desc">오늘도 어제에 이어 실내자전거를 인터벌로 탔다. 어제보다 다리가 더 힘든 느낌이었다.</p>
     </div>
   </div>
 
@@ -226,9 +247,9 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
     <div class="act-dot"></div>
     <div class="act-date">🗓️ 5. 9 (토)</div>
     <div class="act-box">
-      <div class="act-stats">👣  보 ｜ 🍺 유혹의 맥주 1캔...</div>
-      <div class="act-heart">💓 중강도 심박 :  분  |  고강도 심박 :  분</div>
-      <p class="act-desc">여기에 💦</p>
+      <div class="act-stats">👣 6,126 보 ｜ 영천생태지구공원 걷기 120분</div>
+      <div class="act-heart">💓 중강도 심박 : 11 분  |  고강도 심박 : 2 분</div>
+      <p class="act-desc">영천 보라 유채꽃을 보러 가서 열심히 걸었다. 강도는 좀 약하지만 시간은 오래 걸었다.</p>
     </div>
   </div>
 
@@ -236,9 +257,9 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
     <div class="act-dot"></div>
     <div class="act-date">🗓️ 5. 10 (일)</div>
     <div class="act-box">
-      <div class="act-stats">👣  보 ｜ 🌳 가벼운 저녁 산책 40분</div>
-      <div class="act-heart">💓중강도 심박 :  분  |  고강도 심박 :  분</div>
-      <p class="act-desc">여기에</p>
+      <div class="act-stats">👣 9,399 보 ｜ 🌳 공원 빠르게 걷기 30분, 가벼운 산책 30분</div>
+      <div class="act-heart">💓중강도 심박 : 7 분  |  고강도 심박 : 12 분</div>
+      <p class="act-desc">집 공원에서 트랙을 빠르게 걷기 했다. 슬로조깅을 좀 하고 싶었지만, 아직 체력이 안되는 것 같아 다음으로 미루었다.</p>
     </div>
   </div>
 
@@ -247,14 +268,16 @@ image: "/assets/images/daily/260510-health-care-week2-main.jpg"
 
 ## 📝 이번 주 반성 (Weekly Review)
 
-1주일을 마무리하며 맥주 한잔 하는 것이 지난 몇 년간의 루틴이었는데, 이번 보건소 모바일 헬스케어를 참여하게 되면서 **'그래! 이제 부터는 끊는 거야'** 라고 다짐을 했었지요. 그러나 유혹을 못 이기고 맥주 1캔을 마셔 버렸네요. 다음 주엔 정말 노력해야겠어요.💦💦
+지난주에 맥주를 끊는다고 말해놓고, 금요일 장을 보러 갔다가 맥주를 보는 순간 또 1캔을 사와서 먹었어요.💦💦
+참, 사람의 습관을 바꾼다는 것은 어렵네요.
+
+감자를 삶아 놓았는데 아무도 안먹어서 감자 샐러드를 만들었더니~~~ 흐미.. 왜 이렇게 맛있나요?
+금새 뚝딱 해 버렸네요. 그것도 저녁 9시 넘어서 말이죠......^^;
+9시 이후에 먹는 것은 좀 참아야 겠어요.
 
 ---
 
 ## 💡 2주 차 챌린지를 이어가며 (Insight)
 
-이번 주 가장 힘들었던 점은 식사를 준비하면서 **'아차! 사진!'** 하고 별도로 1인분을 식탁에 차리는 일이었습니다. 가족과 같은 접시에 먹으면 일이 적은데 사진을 찍으려니 별도로 덜어놓아야 해서 시간도 더 걸리고, 설거지도💦 더 많아졌어요. 하지만 정량만 먹게 되는 이점이 있어 좋았어요.
-
-하지만 내가 일주일 동안 무엇을 먹고 얼마나 움직였는지 수치와 사진으로 마주하니, 아주 뿌듯하고 유익한 한 주였습니다. 
-
-다음 주 2주 차에는 보건소 영양사님의 매서운(?) 식단 피드백이 기다리고 있습니다. 과연 제 식단은 무사히 통과될 수 있을까요? 다음 주 기록도 기대해 주세요!
+지난 1주차 식단을 보고 보건소 영양사님께서 대체적으로 잘 먹었다고 말씀해 주셨어요. 앞으로도 계속 다짐을 해야겠어요.
+다음 주 기록도 기대해 주세요!
