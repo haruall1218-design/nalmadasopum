@@ -18,16 +18,19 @@ image: "/assets/images/making-note/260425-string-pouch-tutorial-main.jpg"  # 최
 지퍼 없이도 튼튼하게 소품을 담을 수 있어 초보자분들에게 가장 추천하는 아이템입니다. 시작해 볼까요?
 
 ![감성적인 스트링 파우치 완성 사진]({{ site.kor_url }}/assets/images/making-note/260425-string-pouch-tutorial-01.jpg)
-<br>
+<br><br>
 ![감성적인 스트링 파우치 완성 사진]({{ site.kor_url }}/assets/images/making-note/260425-string-pouch-tutorial-02.jpg)
+<br><br>
+![감성적인 스트링 파우치 완성 사진]({{ site.kor_url }}/assets/images/making-note/260425-string-pouch-tutorial-03.jpg)
+
 ---
 
 ## 🧵 준비물 (Materials)
 
 ![파우치 원단 재단 및 가장자리 처리 모습]({{ site.kor_url }}/assets/images/making-note/260425-string-pouch-tutorial-step01.jpg)
 
-* **원단:** 겉감 2장, 안감 2장 (예: 가로 18cm x 세로 22cm)
-* **끈 (스트링):** 면 끈이나 마 끈 2줄 (약 50~60cm 정도)
+* **원단:** 겉감 1장, 안감 1장 (예: 가로 18cm x 세로 32cm)
+* **끈 (스트링):** 면 끈이나 마 끈 2줄 (약 44cm 정도), 면라벨 1매
 * **도구:** 미싱, 다리미, 시침핀, 실뜯개, 그리고 **고무줄 끼우개**
 
 > 💡 **날마다 소품의 꿀팁!**
@@ -39,8 +42,8 @@ image: "/assets/images/making-note/260425-string-pouch-tutorial-main.jpg"  # 최
 
 ![파우치 원단 재단 및 가장자리 처리 모습]({{ site.kor_url }}/assets/images/making-note/260425-string-pouch-tutorial-step02.jpg)
 
-STEP 1 : 겉감의 안쪽이 보이게 반 접어서 접은 쪽에서 5.5cm 상단을 표시한다.
-STEP 2 : 표시한 부분의 겉감의 겉쪽에 사진과 같이 면라벨을 위치시킵니다.
+STEP 1 : 겉감의 안쪽이 보이게 반 접어서 접은 쪽(아래)에서 5.5cm 상단을 표시합니다.<br>
+STEP 2 : 표시한 부분의 겉감의 겉쪽에 사진과 같이 면라벨을 위치시킵니다.<br>
 STEP 3 : 겉감의 가장자리에서 0.5cm 안쪽에 임시 박음질을 합니다.
 
 ---
@@ -48,6 +51,10 @@ STEP 3 : 겉감의 가장자리에서 0.5cm 안쪽에 임시 박음질을 합니
 ## 2단계: 끈 통로(창구멍) 남기고 옆선 박기 (★가장 중요!)
 
 ![겉감의 양쪽 라인 박음질 모습]({{ site.kor_url }}/assets/images/making-note/260425-string-pouch-tutorial-step03.jpg)
+
+상단에서 2.5cm, 그 아래 1.7cm를 표시하여 선을 그려줍니다. (이 선은 끈을 넣기 위해 박음질 하는 선입니다.)
+
+이 1.7cm를 남겨두고 양쪽에 노루발 너비만큼 (약 0.7cm) 박음질 해 줍니다.
 
 > ⚠️ **주의하세요!**
 > 아무 생각 없이 쭉 박아버리면 끈을 넣을 수 없게 돼요. 제가 초보 시절 가장 많이 했던 실수랍니다. 꼭 끈 구멍을 비워두세요!
@@ -59,8 +66,9 @@ STEP 3 : 겉감의 가장자리에서 0.5cm 안쪽에 임시 박음질을 합니
 
 ![가름솔로 시접을 정돈하고 다림질한 디테일 사진]({{ site.kor_url }}/assets/images/making-note/260425-string-pouch-tutorial-step04.jpg)
 
-시접을 양쪽으로 정리하여 다림질을 합니다. **중요 : 다림질을 꼭 하셔야 끈을 끼울 때 쉽습니다.**
+시접을 양쪽으로 정리하여 다림질을 합니다. **중요 : 다림질을 꼭 하셔야 끈을 끼울 때 쉽습니다.** <br>
 바닥부분을 사진과 같이 정리하여 세로로 2cm를 박음질 합니다. 양쪽 모두 박음질 하여 사진처럼 끝 부분을 0.7cm 남겨두고 잘라냅니다.
+
 ---
 
 ## 4단계: 안감 옆선 박기
@@ -118,7 +126,7 @@ STEP 3 : 겉감의 가장자리에서 0.5cm 안쪽에 임시 박음질을 합니
 
 ![가름솔로 시접을 정돈하고 다림질한 디테일 사진]({{ site.kor_url }}/assets/images/making-note/260425-string-pouch-tutorial-step12.jpg)
 
-안감의 창구멍을 박음질 또는 공그르기로 바느질하여 막아줍니다.
+안감의 창구멍을 박음질 또는 공그르기로 바느질하여 막아줍니다.<br>
 안감을 겉감 안으로 넣어 모양을 잡아주고, 잘 다려줍니다. **중요 : 다림질을 잘 해야 파우치가 예쁩니다.**
 
 ---
@@ -143,8 +151,13 @@ STEP 3 : 겉감의 가장자리에서 0.5cm 안쪽에 임시 박음질을 합니
 
 ---
 
+## 13단계: 파우치 완성
+
 ![가름솔로 시접을 정돈하고 다림질한 디테일 사진]({{ site.kor_url }}/assets/images/making-note/260425-string-pouch-tutorial-05.jpg)
-<br>
+
+이제 파우치가 완성 되었네요. 고생하셨어요. 원단 선택에 따라, 끈의 종류에 따라 다른 느낌의 파우치를 만들 수 있습니다.
+여러개 만들어서 활용하시면 좋을 것 같아요.
+<br><br>
 ![가름솔로 시접을 정돈하고 다림질한 디테일 사진]({{ site.kor_url }}/assets/images/making-note/260425-string-pouch-tutorial-06.jpg)
 
 ## 🌿 현실 조언 한 스푼
@@ -155,10 +168,3 @@ STEP 3 : 겉감의 가장자리에서 0.5cm 안쪽에 임시 박음질을 합니
 오늘 만든 파우치가 마음에 드셨다면, 다음에는 지퍼 달기에 도전해 볼까요? 
 
 #### [🎁 '날마다 소품'의 다른 제작 노트 모아보기](/tags/#제작노트)
-
-<div class="post-tags">
-  <a href="/tags/#스트링파우치" class="tag-badge">#스트링파우치</a>
-  <a href="/tags/#파우치만들기" class="tag-badge">#파우치만들기</a>
-  <a href="/tags/#미싱초보" class="tag-badge">#미싱초보</a>
-  <a href="/tags/#핸드메이드" class="tag-badge">#핸드메이드</a>
-</div>
