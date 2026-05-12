@@ -27,7 +27,7 @@ image: "/assets/images/making-note/260425-string-pouch-tutorial-main.jpg"  # 최
 
 ## 🧵 준비물 (Materials)
 
-![파우치 원단 재단 및 가장자리 처리 모습]({{ site.kor_url }}/assets/images/making-note/260425-string-pouch-tutorial-step01.jpg)
+![파우치 만들 원단과 끈, 라벨]({{ site.kor_url }}/assets/images/making-note/260425-string-pouch-tutorial-step01.jpg)
 
 * **원단:** 겉감 1장, 안감 1장 (예: 가로 18cm x 세로 32cm)
 * **끈 (스트링):** 면 끈이나 마 끈 2줄 (약 44cm 정도), 면라벨 1매
@@ -40,7 +40,7 @@ image: "/assets/images/making-note/260425-string-pouch-tutorial-main.jpg"  # 최
 
 ## 1단계: 겉감에 면라벨 달기
 
-![겉감에 면라벨 위치 잡고 박음질하는 모습]({{ site.kor_url }}/assets/images/making-note/260425-string-pouch-tutorial-step02.jpg)
+![겉감에 면라벨 위치 잡고 박음질 된 모습]({{ site.kor_url }}/assets/images/making-note/260425-string-pouch-tutorial-step02.jpg)
 
 * **STEP 1 :** 겉감의 안쪽이 보이게 반 접어서 접은 쪽(아래)에서 5.5cm 상단을 표시합니다.<br>
 * **STEP 2 :** 표시한 부분의 겉감의 겉쪽에 사진과 같이 면라벨을 위치시킵니다.<br>

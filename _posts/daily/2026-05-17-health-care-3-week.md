@@ -42,14 +42,15 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
 
 안녕하세요! 매일 사부작사부작 예쁜 소품을 지어내는 '날마다 소품'입니다. 😊
 
-지난 주에 이어 3주차에 접어 들었네요. 아직도 새롭게 시작하는 마음이 가시지 않았어요. 이번주 기록도 보실까요?
+지난 주에 이어 3주차에 접어 들었네요. 이제 좀 익숙해져버렸는지 아침 먹는 것도 잠시 깜빡하고, 저녁 식사를 1인분만 차리는 것도 깜빡하네요.~~🦥
+무뎌지나봐요...🥱
 
 ---
 
 ## 🩺 이번 주의 다짐 & 보건소 미션
 
 
-* **이번 주 다짐:** 밤 9시 이후 금식하기!, 인터벌 운동 3번 하기, 수시로 발 뒤꿈치 올리기 
+* **이번 주 다짐:** 밤 9시 이후 금식하기!, 인터벌 운동 3번 하기, 수시로 발 뒤꿈치 들어 올리기 
 * **보건소 2주차 미션:** 집중 상담 내용을 바탕으로 한 이번주 미션은 **충분한 수분섭취를 위해 하루 물 6컵 이상 섭취**, **식사할 때 매번 20번 이상 씹어서 섭취하기** 입니다. 
 
 이번 주 들어 채움건강 앱에 들어가니  '20번 이상 씹어서 섭취'가 미션이었어요.
@@ -66,9 +67,15 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="diet-date">🗓️ 5월 11일 (월)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260517-health-care-week3-01.jpg" alt="월요일 저녁 식단">
     <div class="diet-info">
-      <div class="diet-calories">🔥 총 칼로리 : 약  kcal 💦</div>
+      <div class="diet-calories">🔥 총 칼로리 : 약 615 kcal 💦</div>
       <div class="diet-menu">
-        어버이날을 맞아 본가에서 식사를 해서 기록을 못함.
+        기장밥 100g
+        소고기 버섯 전골 350g
+        애호박채전 55g
+        도토리묵 참나물 무침 170g
+        콩나물 무침 30g
+        고추장아찌 15g
+        간장
       </div>
     </div>
   </div>
@@ -171,9 +178,9 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="act-dot"></div>
     <div class="act-date">🗓️ 5. 11 (월)</div>
     <div class="act-box">
-      <div class="act-stats">👣  보 ｜ 🌳 동네 산책 30분, 선돌공원 돌기 20분</div>
-      <div class="act-heart">💓 중강도 심박 :  분</div>
-      <p class="act-desc">아파트 근처를 돌다가 좀 떨어진 공원까지 걸어갔다. 날씨도 좋고, 바람도 살랑살랑 불어서 걷기에 좋았다. 공원에 핀 장미가 너무 예뻤다.</p>
+      <div class="act-stats">👣 7,989 보 ｜ 🌳 동네 산책 30분, 선돌공원 돌기 20분</div>
+      <div class="act-heart">💓 중강도 심박 : 12 분  |  고강도 심박 : 11 분</div>
+      <p class="act-desc">아파트 근처를 돌다가 좀 떨어진 공원까지 걸어갔다. 날씨도 좋고, 바람도 살랑살랑 불어서 걷기에 좋았다. 공원에 핀 장미🌹가 너무 예뻤다.</p>
     </div>
   </div>
 
@@ -183,7 +190,7 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="act-box">
       <div class="act-stats">👣 보 ｜ 🧘‍♀️ 동네 걷기 분</div>
       <div class="act-heart">💓 중강도 심박 :  분  |  고강도 심박 :  분</div>
-      <p class="act-desc">집 .</p>
+      <p class="act-desc">오후부터 봄비가 와서 바깥 산책은 못했다. 대신 수시로 발 뒤꿈치 들기를 하였고, 실내자전거 운동을 했다.</p>
     </div>
   </div>
 
