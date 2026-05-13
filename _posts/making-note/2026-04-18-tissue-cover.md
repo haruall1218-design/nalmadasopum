@@ -89,3 +89,7 @@ image: "/assets/images/making-note/260418-tissue-cover-tutorial-main.jpg"      #
 마지막으로 밑면을 쭉 돌아가며 박음질합니다. 
 
 드디어 예쁜 티슈 커버가 모두 완성되었네요! 예쁘게 한 번 더 다림질하고 밋밋했던 각티슈에 쏙 씌워 보아요. 수고하셨습니다! 😊
+
+![완성된 각티슈 커버 모습 1]({{ site.kor_url }}/assets/images/making-note/260418-tissue-cover-tutorial-01.jpg)
+
+![완성된 각티슈 커버 모습 2]({{ site.kor_url }}/assets/images/making-note/260418-tissue-cover-tutorial-02.jpg)
