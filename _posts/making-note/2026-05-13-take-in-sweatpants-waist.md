@@ -4,7 +4,7 @@ title: "집에서 뚝딱! 허리 큰 체육복 바지 초간단 수선법"
 date: 2026-05-13
 categories: making-note
 main_menu: "제작 노트"    # 화면에 표시될 대분류 한글 메뉴명
-tags: [제작노트, 옷 수선 & 리폼, 체육복수선, 허리줄이기, 옷수선, 미싱초보, 바느질꿀팁, 살림노하우, 엄마표수선] 
+tags: [옷 수선 & 리폼, 제작노트, 체육복수선, 허리줄이기, 옷수선, 미싱초보, 바느질꿀팁, 살림노하우, 엄마표수선] 
 image: "/assets/images/making-note/260513-take-in-sweatpants-waist-main.jpg"      # 최근 글보기에 보여줄 이미지
 ---
 
