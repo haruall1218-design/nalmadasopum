@@ -4,7 +4,7 @@ title: "[모바일 헬스케어] 3주차 기록 - 밤 9시 이후 금식하기"
 date: 2026-05-18
 categories: daily
 main_menu: "소소한 일상"      
-tags: [모건강한 습관 챌린지, 모바일 헬스케어, 27주 챌린지, 다이어트 식단, 걷기 운동, 건강관리, 보건소]           
+tags: [건강한 습관 챌린지, 모바일 헬스케어, 27주 챌린지, 다이어트 식단, 걷기 운동, 건강관리, 보건소]           
 image: "/assets/images/daily/260517-health-care-week3-main.jpg"   
 ---
 
