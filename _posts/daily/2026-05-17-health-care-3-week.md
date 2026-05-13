@@ -51,13 +51,13 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
 
 
 * **이번 주 다짐:** 밤 9시 이후 금식하기!, 인터벌 운동 3번 하기, 수시로 발 뒤꿈치 들어 올리기 
-* **보건소 2주차 미션:** 집중 상담 내용을 바탕으로 한 이번주 미션은 **충분한 수분섭취를 위해 하루 물 6컵 이상 섭취**, **식사할 때 매번 20번 이상 씹어서 섭취하기** 입니다. 
+* **보건소 3주차 미션:** 집중 상담 내용을 바탕으로 한 이번주 미션은 **충분한 수분섭취를 위해 하루 물 6컵 이상 섭취**, **식사할 때 매번 20번 이상 씹어서 섭취하기** 입니다. 
 
 이번 주 들어 채움건강 앱에 들어가니  '20번 이상 씹어서 섭취'가 미션이었어요.
 
 ---
 
-## 🥗 2주차 일주일 저녁 식단 (Dinner Log)
+## 🥗 3주차 일주일 저녁 식단 (Dinner Log)
 
 역시 1인분을 차리는 것은 보통 일이 아니네요. 이번주도 사진 찍느라 힘들었답니다.
 
@@ -84,10 +84,16 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="diet-date">🗓️ 5월 12일 (화)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260517-health-care-week3-02.jpg" alt="화요일 저녁 식단">
     <div class="diet-info">
-      <div class="diet-calories">🔥 총 칼로리 : 약  kcal</div>
+      <div class="diet-calories">🔥 총 칼로리 : 약 420 kcal💦</div>
       <div class="diet-menu">
         보리귀리밥 100g<br>
-
+        된장찌개 90g<br>
+        꽈리고추 멸치볶음 20g<br>
+        애호박 볶음 30g<br>
+        참나물 두부 무침 40g<br>
+        청포묵 김가루 무침 70g<br>
+        오이 양파 무침 30g<br>
+        메추리알 꽈리고추 조림 40g
       </div>
     </div>
   </div>
@@ -154,7 +160,7 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
 
   </div>
 
-* **🥗 2주 차 식단 총평:** "이번 주는 ."
+* **🥗 3주 차 식단 총평:** "이번 주는 ."
 
 ---
 
@@ -188,9 +194,9 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="act-dot"></div>
     <div class="act-date">🗓️ 5. 12 (화)</div>
     <div class="act-box">
-      <div class="act-stats">👣 보 ｜ 🧘‍♀️ 동네 걷기 분</div>
+      <div class="act-stats">👣 7,678 보 ｜ 🧘‍♀️ 산책 수준 걷기 40 분</div>
       <div class="act-heart">💓 중강도 심박 :  분  |  고강도 심박 :  분</div>
-      <p class="act-desc">오후부터 봄비가 와서 바깥 산책은 못했다. 대신 수시로 발 뒤꿈치 들기를 하였고, 실내자전거 운동을 했다.</p>
+      <p class="act-desc">오후에 비가 와서 밖에 나가는 건 힘드나 했는데 다행이 그쳤다. 그치만 몸이 좋지 않아 산책 수준의 걷기를 하였다. 예전에 가족이 운동을 빡빡하게 하다가 대상포진이 와서 고생한 생각이 들어 좀 쉬어가는 하루를 선택했다.</p>
     </div>
   </div>
 
@@ -252,7 +258,7 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
 지난주에  
 ---
 
-## 💡 2주 차 챌린지를 이어가며 (Insight)
+## 💡 3주 차 챌린지를 이어가며 (Insight)
 
-지난 2주차 , 앞으로도 계속 다짐을 해야겠어요.
+지난 3주차 , 앞으로도 계속 다짐을 해야겠어요.
 다음 주 기록도 기대해 주세요!
