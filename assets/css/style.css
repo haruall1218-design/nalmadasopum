@@ -16,6 +16,8 @@
 .hero-title.title-short {  font-size: 70px;}
 .hero-title.title-long {  font-size: 55px;}
 
+.recent-stories { margin-bottom: 100px;}
+
 .hero-desc { font-size: 18px; color: #555; line-height: 1.6; margin-bottom: 30px; }
 .hero-btn { display: inline-block; background-color: #5a403d; color: #fff; padding: 12px 24px; text-decoration: none; font-size: 14.4px; letter-spacing: 1px; }
 .section-header { display: flex; justify-content: space-between; align-items: baseline; padding-bottom: 10px; }

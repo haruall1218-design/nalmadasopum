@@ -77,7 +77,7 @@ $(document).ready(function() {
     $('.stories-grid .story-card').each(function() {
       const tag = $(this).attr('data-tag');
       if (targetTag === 'all' || tag === targetTag) {
-        if (topGridCount < 3) { $(this).show(); topGridCount++; }
+        if (topGridCount < 6) { $(this).show(); topGridCount++; }
         else { $(this).hide(); }
       } else { $(this).hide(); }
     });
@@ -86,7 +86,7 @@ $(document).ready(function() {
     $('.post-list .post-item').each(function() {
       const tag = $(this).attr('data-tag');
       if (targetTag === 'all' || tag === targetTag) {
-        if (bottomCount < 3) {
+        if (bottomCount < 6) {
           $(this).hide(); $(this).removeClass('active-item');
         } else {
           $(this).addClass('active-item'); bottomListItems.push(this);

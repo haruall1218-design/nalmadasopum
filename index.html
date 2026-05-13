@@ -38,7 +38,7 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
     <div class="stories-divider"></div>
 
     <div class="stories-grid">
-      {% for post in site.posts limit:3 offset:1 %}
+      {% for post in site.posts limit:12 offset:1 %}
       <article class="story-card">
         <a href="{{ post.url }}" class="card-image">
           <img src="{{ site.kor_url }}{{ post.image | default: '/assets/images/default.jpg' }}" alt="{{ post.title }}">
@@ -55,7 +55,7 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
     </div>
   </section>
 
-  <section class="recent-posts">
+  <!--<section class="recent-posts">
     <h3>최근 올라온 이야기</h3>
     
     <ul class="post-list">
@@ -63,7 +63,7 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
         <li>
           <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
 
-          <span class="post-category" > <!--대분류-소분류 나타내기-->
+          <span class="post-category" > 대분류-소분류 나타내기
             {{ post.main_menu }}
             {% if post.tags.size > 0 %} - {{ post.tags.first }}{% endif %}
           </span>
@@ -73,7 +73,7 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
       {% endfor %}
     </ul>
   
-  </section>
+  </section>-->
 
   <section class="bottom-action-banners">
     
