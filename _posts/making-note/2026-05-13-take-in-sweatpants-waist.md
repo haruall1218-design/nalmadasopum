@@ -4,7 +4,7 @@ title: "집에서 뚝딱! 허리 큰 체육복 바지 초간단 수선법"
 date: 2026-05-13
 categories: making-note
 main_menu: "제작 노트"    # 화면에 표시될 대분류 한글 메뉴명
-tags: [기타 소품, 체육복수선, 허리줄이기, 옷수선, 미싱초보, 바느질꿀팁, 살림노하우, 엄마표수선] 
+tags: [제작노트, 옷 수선 & 리폼, 체육복수선, 허리줄이기, 옷수선, 미싱초보, 바느질꿀팁, 살림노하우, 엄마표수선] 
 image: "/assets/images/making-note/260513-take-in-sweatpants-waist-main.jpg"      # 최근 글보기에 보여줄 이미지
 ---
 
@@ -63,7 +63,7 @@ image: "/assets/images/making-note/260513-take-in-sweatpants-waist-main.jpg"    
 
 사이즈가 적당하다고 생각되시면 표시한 좌, 우쪽에 세로로 박음질 합니다.
 
-고무밴드는 앞과 뒤쪽 모두 같은 방법으로 박아서 수선하시는 것이 입었을 때 편안합니다.
+**고무밴드는 앞과 뒤쪽 모두 같은 방법으로 박아서 수선**하시는 것이 입었을 때 편안합니다.
 
 아래는 박음질 후 늘렸을 때 사진입니다.
 
@@ -71,7 +71,7 @@ image: "/assets/images/making-note/260513-take-in-sweatpants-waist-main.jpg"    
 
 ## 4단계: 수선 완료!
 
-![허리가 줄어든 체육복 완성 사진]({{ site.kor_url }}/assets/images/making-note/260513-take-in-sweatpants-waist-05.jpg)
+![허리가 줄어든 체육복 완성 사진]({{ site.kor_url }}/assets/images/making-note/260513-take-in-sweatpants-waist-step05.jpg)
 
 모두 수선된 모습을 위에서 본 사진입니다.
 
@@ -84,4 +84,4 @@ image: "/assets/images/making-note/260513-take-in-sweatpants-waist-main.jpg"    
 
 다음에도 실생활에 쏙쏙 쓰이는 유용한 제작 노트로 찾아오겠습니다. 
 
-#### [🎁 '날마다 소품'의 다른 제작 노트 모아보기](/tags/#제작노트)
+#### [🎁 '날마다 소품'의 다른 제작 노트 모아보기](/category/making-note/)
