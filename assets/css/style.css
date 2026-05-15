@@ -82,15 +82,11 @@
     .archive-title { font-size: 25px; }
 
     /* --- 📱 모바일 화면 전용: 포스트 사이 연한 점선 구분선 --- */
-    .story-card,  .archive-card { padding-bottom: 25px; margin-bottom: 25px;    
-    /* 💡 선의 길이를 5px로 길게 늘렸습니다 */
-    background-image: linear-gradient(to right, #cccccc 5px, transparent 5px);  
-    /* 💡 5px 선 + 4px 빈 공간 = 한 세트를 9px로 설정 (두께는 1px 그대로 유지) */
-    background-size: 9px 1px; 
-    
+    .story-card,  .archive-card { padding-bottom: 40px; margin-bottom: 25px;     
+    background-image: linear-gradient(to right, #cccccc 5px, transparent 5px);  /* 💡 선의 길이를 5px로 길게 늘렸습니다 */
+    background-size: 9px 1px;    /* 💡 5px 선 + 4px 빈 공간 = 한 세트를 9px로 설정 (두께는 1px 그대로 유지) */
     background-repeat: repeat-x; background-position: bottom;   }
-
-  .story-card:last-child, .archive-card:last-child { background-image: none; padding-bottom: 0; margin-bottom: 0; }
+    .story-card:last-child, .archive-card:last-child { background-image: none; padding-bottom: 0; margin-bottom: 0; }
 }
 
 
