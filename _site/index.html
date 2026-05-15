@@ -165,7 +165,6 @@
     </div>
   </section>
 
-
   <section class="recent-stories">
     <div class="section-header">
       <h2>Recently Posted Stories</h2>
@@ -173,9 +172,10 @@
     </div>
     <div class="stories-divider"></div>
 
-    <div class="stories-grid">
+    <!-- 💡 limit:3 을 지워서 숨겨진 글을 모두 불러옵니다 -->
+    <div class="stories-grid" id="index-grid">
       
-      <article class="story-card">
+      <article class="story-card index-story-card">
         <a href="/daily/2026/05/10/health-care-2-week.html" class="card-image">
           <img src="https://nalmadasopum.com/assets/images/daily/260510-health-care-week2-main.jpg" alt="[모바일 헬스케어] 2주차 기록 - 인터벌 운동 시작하기">
         </a>
@@ -196,7 +196,7 @@
 ...</p>
       </article>
       
-      <article class="story-card">
+      <article class="story-card index-story-card">
         <a href="/daily/2026/05/09/yeongcheon-traditional-market.html" class="card-image">
           <img src="https://nalmadasopum.com/assets/images/daily/260509-yeongcheon-traditional-market-main.jpg" alt="영천공설시장에서 소머리곰탕을 사오다">
         </a>
@@ -210,7 +210,7 @@
 다른 지역을 방문하면 근처 시장을...</p>
       </article>
       
-      <article class="story-card">
+      <article class="story-card index-story-card">
         <a href="/daily/2026/05/09/yeongcheon-purple-canola.html" class="card-image">
           <img src="https://nalmadasopum.com/assets/images/daily/260509-yeongcheon-purple-canola-main.jpg" alt="5월의 영천, 보라 유채꽃과 화려한 작약과 함께~~">
         </a>
@@ -224,7 +224,7 @@
 인터넷에 올라온 사진들을 미리 보고 방문했는데, 실제...</p>
       </article>
       
-      <article class="story-card">
+      <article class="story-card index-story-card">
         <a href="/daily/2026/05/03/health-care-1-week.html" class="card-image">
           <img src="https://nalmadasopum.com/assets/images/daily/260503-health-care-week1-main.jpg" alt="[모바일 헬스케어] 1주차 기록 - 내 식단과 솔직하게 마주하기">
         </a>
@@ -245,7 +245,7 @@
 ...</p>
       </article>
       
-      <article class="story-card">
+      <article class="story-card index-story-card">
         <a href="/daily/2026/05/01/gyohang-ri-lee-pop.html" class="card-image">
           <img src="https://nalmadasopum.com/assets/images/daily/260501-gyohang-ri-lee-pop-main.jpg" alt="옥포 교항리 이팝나무 군락지를 가다.">
         </a>
@@ -259,7 +259,7 @@
 노동절을 맞아...</p>
       </article>
       
-      <article class="story-card">
+      <article class="story-card index-story-card">
         <a href="/daily/2026/04/29/lee-Pop-tree.html" class="card-image">
           <img src="https://nalmadasopum.com/assets/images/daily/260429_lee-pop-01.jpg" alt="맑은 오후, 흰 꽃을 따라 걷다.">
         </a>
@@ -274,7 +274,7 @@
 </p>
       </article>
       
-      <article class="story-card">
+      <article class="story-card index-story-card">
         <a href="/making-note/2026/04/25/pouch-making.html" class="card-image">
           <img src="https://nalmadasopum.com/assets/images/making-note/260425-string-pouch-tutorial-main.jpg" alt="동글동글 귀여운 '스트링 파우치' 만들기 (초보자용)">
         </a>
@@ -288,7 +288,7 @@
 </p>
       </article>
       
-      <article class="story-card">
+      <article class="story-card index-story-card">
         <a href="/daily/2026/04/24/health-care-start.html" class="card-image">
           <img src="https://nalmadasopum.com/assets/images/daily/260424-health-care-start-main.jpg" alt="[모바일 헬스케어] 대구 달서구보건소 첫 방문 및 초기 검사(인바디) 후기">
         </a>
@@ -302,7 +302,7 @@
 </p>
       </article>
       
-      <article class="story-card">
+      <article class="story-card index-story-card">
         <a href="/making-note/2026/04/22/tea-coaster.html" class="card-image">
           <img src="https://nalmadasopum.com/assets/images/making-note/260422-fabric-tea-coaster-tutorial-01.jpg" alt="자투리 원단으로 감성 듬뿍 '티코스터' 만들기">
         </a>
@@ -316,7 +316,7 @@
 지난번 ‘바느질 필수 ...</p>
       </article>
       
-      <article class="story-card">
+      <article class="story-card index-story-card">
         <a href="/making-note/2026/04/21/sewing-tools.html" class="card-image">
           <img src="https://nalmadasopum.com/assets/images/making-note/260421-sewing-tools-01.jpg" alt="바느질 시작의 알짜배기 기초 도구">
         </a>
@@ -330,7 +330,7 @@
 </p>
       </article>
       
-      <article class="story-card">
+      <article class="story-card index-story-card">
         <a href="/making-note/2026/04/18/tissue-cover.html" class="card-image">
           <img src="https://nalmadasopum.com/assets/images/making-note/260418-tissue-cover-tutorial-main.jpg" alt="[미싱 초보] 자투리 원단으로 예쁜 각티슈 커버 만들기 (사이즈 공식 포함!)">
         </a>
@@ -344,7 +344,7 @@
 </p>
       </article>
       
-      <article class="story-card">
+      <article class="story-card index-story-card">
         <a href="/daily/2026/04/18/happy-day.html" class="card-image">
           <img src="https://nalmadasopum.com/assets/images/daily/260418-happy-day-01.jpg" alt="빨간 벤치">
         </a>
@@ -358,8 +358,104 @@
 나는 가볍게 신...</p>
       </article>
       
+      <article class="story-card index-story-card">
+        <a href="/daily/2026/04/17/rainy-day.html" class="card-image">
+          <img src="https://nalmadasopum.com/assets/images/daily/260417-rainy-dinner.jpg" alt="비 오는 금요일 저녁, 따뜻한 한 상">
+        </a>
+        <div class="card-meta">
+          <span class="date">April 17, 2026</span>
+          <span class="divider">·</span>
+          <span class="category">DAILY</span>
+        </div>
+        <h3 class="card-title"><a href="/daily/2026/04/17/rainy-day.html">비 오는 금요일 저녁, 따뜻한 한 상</a></h3>
+        <p class="card-excerpt">비가 내리는 스산한 금요일, 바람까지 불어 제법 쌀쌀한 하루다.
+</p>
+      </article>
+      
+      <article class="story-card index-story-card">
+        <a href="/daily/2026/04/17/bizi.html" class="card-image">
+          <img src="https://nalmadasopum.com/assets/images/daily/260417-rainy-dinner.jpg" alt="비지찌개 만들기">
+        </a>
+        <div class="card-meta">
+          <span class="date">April 17, 2026</span>
+          <span class="divider">·</span>
+          <span class="category">DAILY</span>
+        </div>
+        <h3 class="card-title"><a href="/daily/2026/04/17/bizi.html">비지찌개 만들기</a></h3>
+        <p class="card-excerpt">비지찌개
+</p>
+      </article>
+      
+      <article class="story-card index-story-card">
+        <a href="/daily/2026/04/17/best.html" class="card-image">
+          <img src="https://nalmadasopum.com/assets/images/daily/260417-healthy-meal-beef-mushroom-hot-pot-main.jpg" alt="뜨끈한 소고기 버섯 전골과 향긋한 제철 참나물 무침">
+        </a>
+        <div class="card-meta">
+          <span class="date">April 17, 2026</span>
+          <span class="divider">·</span>
+          <span class="category">DAILY</span>
+        </div>
+        <h3 class="card-title"><a href="/daily/2026/04/17/best.html">뜨끈한 소고기 버섯 전골과 향긋한 제철 참나물 무침</a></h3>
+        <p class="card-excerpt">안녕하세요! 평범한 일상 속에서 소소한 행복을 찾아가는 ‘날마다 소품’입니다. 😊
+</p>
+      </article>
+      
     </div>
+
+    <!-- 💡 페이징 번호가 나타날 공간 -->
+    <div class="index-pagination" id="index-pagination"></div>
   </section>
+
+  <!-- 메인 화면 전용 페이징 스크립트 -->
+  <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // 💡 한 화면에 보여줄 글의 총 개수를 설정하세요.
+    // 예: 한 줄에 3개씩 나오고 4줄을 원하시면 = 12
+    // 예: 한 줄에 4개씩 나오고 4줄을 원하시면 = 16, 4개씩 나열하려면 css 고칠것 .stories-grid
+    const itemsPerPage = 12; 
+    
+    const cards = document.querySelectorAll('.index-story-card');
+    const totalItems = cards.length;
+    const totalPages = Math.ceil(totalItems / itemsPerPage);
+    const paginationContainer = document.getElementById('index-pagination');
+
+    function showPage(page) {
+      cards.forEach(card => card.style.display = 'none'); 
+      
+      const start = (page - 1) * itemsPerPage;
+      const end = start + itemsPerPage;
+      
+      for (let i = start; i < end && i < totalItems; i++) {
+        cards[i].style.display = 'block'; 
+      }
+
+      document.querySelectorAll('.index-page-btn').forEach(btn => btn.classList.remove('active'));
+      const activeBtn = document.querySelector(`.index-page-btn[data-page="${page}"]`);
+      if (activeBtn) activeBtn.classList.add('active');
+      
+      // 번호를 누르면 화면이 부드럽게 'Recently Posted Stories' 제목 위치로 올라갑니다.
+      if(page !== 1) {
+        document.querySelector('.recent-stories').scrollIntoView({ behavior: 'smooth' });
+      }
+    }
+
+    if (totalPages > 1) {
+      for (let i = 1; i <= totalPages; i++) {
+        const btn = document.createElement('button');
+        btn.className = 'index-page-btn';
+        btn.innerText = `[${i}]`; 
+        btn.setAttribute('data-page', i);
+        btn.addEventListener('click', () => showPage(i));
+        paginationContainer.appendChild(btn);
+      }
+    }
+
+    if (totalItems > 0) {
+      showPage(1);
+    }
+  });
+  </script>
+
 
   <!--<section class="recent-posts">
     <h3>최근 올라온 이야기</h3>

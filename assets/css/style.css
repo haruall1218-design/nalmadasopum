@@ -18,6 +18,12 @@
 
 .recent-stories { margin-bottom: 100px;}
 
+/* --- 메인 화면(인덱스) 페이징 버튼 스타일 --- */
+.index-pagination { display: flex; justify-content: center; margin-top: 50px; gap: 10px; }
+.index-page-btn { background: transparent; border: none; font-size: 16px; color: #666; cursor: pointer; padding: 5px 10px; transition: color 0.2s; font-family: inherit; }
+.index-page-btn:hover { color: #d87c2b; }
+.index-page-btn.active { color: #d87c2b; font-weight: bold; }
+
 .hero-desc { font-size: 18px; color: #555; line-height: 1.6; margin-bottom: 30px; }
 .hero-btn { display: inline-block; background-color: #5a403d; color: #fff; padding: 12px 24px; text-decoration: none; font-size: 14.4px; letter-spacing: 1px; }
 .section-header { display: flex; justify-content: space-between; align-items: baseline; padding-bottom: 10px; }

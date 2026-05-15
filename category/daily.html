@@ -6,7 +6,7 @@ permalink: /category/daily/
 
 <section class="category-page">
 
-  <section class="recent-stories"> <!--이미지 3개-->
+  <section class="recent-stories"> <!--이미지 12개-->
     <div class="section-header">
       <h2 id="dynamic-title">소소한 일상 <span>최근 이야기</span></h2>
       <a href="/category/daily/?filter=all" class="view-all">VIEW ALL ARCHIVE</a>
@@ -77,7 +77,7 @@ $(document).ready(function() {
     $('.stories-grid .story-card').each(function() {
       const tag = $(this).attr('data-tag');
       if (targetTag === 'all' || tag === targetTag) {
-        if (topGridCount < 6) { $(this).show(); topGridCount++; }
+        if (topGridCount < 12) { $(this).show(); topGridCount++; } // 출력되는 이미지 갯수
         else { $(this).hide(); }
       } else { $(this).hide(); }
     });
@@ -86,8 +86,8 @@ $(document).ready(function() {
     $('.post-list .post-item').each(function() {
       const tag = $(this).attr('data-tag');
       if (targetTag === 'all' || tag === targetTag) {
-        if (bottomCount < 6) {
-          $(this).hide(); $(this).removeClass('active-item');
+        if (bottomCount < 12) {   // 위 출력된 이미지 갯수를 제외한 나머지 글들은 리스트로 표시
+          $(this).hide(); $(this).removeClass('active-item'); 
         } else {
           $(this).addClass('active-item'); bottomListItems.push(this);
         }
