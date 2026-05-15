@@ -198,11 +198,11 @@ a:hover { text-decoration: underline; }
 /* =========================================
    📱 모바일 가로 스크롤 1차 메뉴바
 ========================================= */
-.mobile-top-nav { background: #ffffff; border-bottom: 1px solid #eeeeee; padding: 15px 20px; }
+.mobile-top-nav { background: #52362D; border-bottom: 1px solid #eeeeee; padding: 15px 10px; }
 .mobile-nav-list { display: flex; overflow-x: auto; white-space: nowrap; margin: 0; padding: 0; list-style: none; -ms-overflow-style: none; scrollbar-width: none; }
 .mobile-nav-list::-webkit-scrollbar { display: none; }
 .mobile-nav-list li { margin-right: 15px; }
-.mobile-nav-list a { display: block; padding: 8px 10px; color: #666; font-size: 15px; text-decoration: none; font-weight: 500; }
+.mobile-nav-list a { display: block; padding: 8px 10px; color: #ffffff; font-size: 15px; text-decoration: none; font-weight: 500; }
 
 /* 💡 선택된 메뉴에 아까 만든 커스텀 바늘땀을 넣었습니다 */
 .mobile-nav-list a.active { 
