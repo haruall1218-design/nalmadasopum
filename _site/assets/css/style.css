@@ -80,6 +80,10 @@
     .hero-title.title-long {    font-size: 35px;  }
     .action-title { font-size: 25px; }
     .archive-title { font-size: 25px; }
+    /* --- 📱 모바일 화면 전용: 포스트 사이 연한 점선 구분선 --- */
+    .story-card, .archive-card { border-bottom: 1px dashed #e0e0e0; /* 연한 회색 점선 */
+      padding-bottom: 25px; /* 글이 끝난 후 점선까지의 여백 */ }
+    .story-card:last-child, .archive-card:last-child { border-bottom: none; padding-bottom: 0; }
 }
 
 
