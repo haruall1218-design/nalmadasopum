@@ -170,7 +170,6 @@
   .sidebar { width: 100%; position: relative; top: -3px; border: 1px solid #e5e0d8; padding: 12px;  border-radius: 5px;  background-color: #fffdfb; } 
   .sidebar .sidebar-title   { display: none;}
   .sidebar .sidebar-subtitle { display: none;}
-  
   .site-title { font-size: 18px; }
   .nav-right .shop-link { display: none; }
   .footer-wrapper { flex-direction: column; align-items: center; text-align: center; gap: 30px; } 
