@@ -49,14 +49,14 @@ image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
 지난번 영천에서도 보았지만 새하얗게 피어난 샤스타 데이지는 기대를 저버리지 않고 너무나 아름다웠습니다. 하얀 데이지 꽃들이 앞줄에 가득 피어 있고, 그 뒤쪽으로 여러 가지 다채로운 꽃들이 줄을 맞춰 정갈하게 심겨 있는 모습이 참 조화로웠어요.
 
 <div class="checkerboard-grid">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-flowers-01.jpg" alt="영천공설시장 입구">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-flowers-02.jpg" alt="현대식으로 정비된 시장 아케이드">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-flowers-03.jpg" alt="시장 내부 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-flowers-04.jpg" alt="쉬는 날이라 닫힌 점포들">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-flowers-05.jpg" alt="정겨운 시장 골목">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-flowers-06.jpg" alt="다양한 물건을 파는 상점">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-flowers-07.jpg" alt="다양한 물건을 파는 상점">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-flowers-08.jpg" alt="다양한 물건을 파는 상점">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-01.jpg" alt="영천공설시장 입구">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-02.jpg" alt="현대식으로 정비된 시장 아케이드">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-03.jpg" alt="시장 내부 풍경">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-04.jpg" alt="쉬는 날이라 닫힌 점포들">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-05.jpg" alt="정겨운 시장 골목">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-06.jpg" alt="다양한 물건을 파는 상점">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-07.jpg" alt="다양한 물건을 파는 상점">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-08.jpg" alt="다양한 물건을 파는 상점">
 </div>
 
 ---
