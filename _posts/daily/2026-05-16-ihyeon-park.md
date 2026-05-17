@@ -92,7 +92,15 @@ image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
 
 구민운동장 쪽 입구에 규모가 좀 작지만 주차장이 마련되어 있습니다.
 
+<div class="photo-dual-container">
+  
+  <div class="photo-dual-item">
+    <img src="/assets/images/daily/60516-ihyeon-park-parking-01.jpg" alt="주차장" class="photo-dual-img">
+  </div>
 
+  <div class="photo-dual-item">
+    <img src="/assets/images/daily/260516-ihyeon-park-parking-02.jpg" alt="주차장" class="photo-dual-img">
+  </div>
 
 ### 🚶‍♀️ 걸음을 재촉하게 만드는 둘레길, 그린웨이
 
