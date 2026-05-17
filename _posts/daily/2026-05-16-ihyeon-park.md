@@ -74,7 +74,7 @@ image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
 
 ---
 
-### 주차 할 곳
+### 🅿️ 주차장
 
 구민운동장 쪽 입구에 규모가 좀 작지만 주차장이 마련되어 있습니다.
 
