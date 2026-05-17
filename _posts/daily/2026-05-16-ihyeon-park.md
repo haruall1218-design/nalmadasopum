@@ -76,7 +76,7 @@ image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
 <div class="photo-dual-container">
   
   <div class="photo-dual-item">
-    <img src="/assets/images/daily/60516-ihyeon-park-water-playground-01.jpg" alt="어린이 물놀이장" class="photo-dual-img">
+    <img src="/assets/images/daily/260516-ihyeon-park-water-playground-01.jpg" alt="어린이 물놀이장" class="photo-dual-img">
   </div>
 
   <div class="photo-dual-item">
