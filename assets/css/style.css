@@ -434,7 +434,12 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
     .ad-space { margin-bottom: 30px; }
 }
 
+/*************************사진 2장 가로 나열 레이아웃 --- ****************************/
+.photo-dual-container { display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-bottom: 25px; }
+.photo-dual-item { text-align: center; }
+.photo-dual-img { width: 100%; border-radius: 8px; object-fit: cover; }
 
+@media (max-width: 768px) { .photo-dual-container { grid-template-columns: repeat(1, 1fr); } }
 
 /* =========================================
    5. 그 외 CSS (유튜브 반응형, 스크롤탑 버튼 등)

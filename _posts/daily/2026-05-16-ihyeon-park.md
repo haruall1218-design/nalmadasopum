@@ -57,6 +57,8 @@ image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
     <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-06.jpg" alt="다양한 물건을 파는 상점">
     <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-07.jpg" alt="다양한 물건을 파는 상점">
     <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-08.jpg" alt="다양한 물건을 파는 상점">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-09.jpg" alt="다양한 물건을 파는 상점">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-10.jpg" alt="다양한 물건을 파는 상점">
 </div>
 
 ---
@@ -66,6 +68,18 @@ image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
 발길을 돌려 공원 끝자락에 있는 물놀이장 쪽으로 가보았습니다. 이 물놀이장은 우리 아이들이 아주 어릴 때 한번 데리고 왔던 기억이 있는 곳이에요. 아이들이 물속에서 참 재미있게 놀았던 기억이 새록새록 떠올라 그 시절이 그리웠어요.
 
 오랜만에 다시 마주한 물놀이장은 그때보다 규모도 더 크게 확장되어 있고, 주변도 아주 깔끔하게 정돈되어 있더라고요. 다가올 여름에 아이들의 까르르 웃는 웃음소리로 가득 찰 풍경이 그려지네요.
+
+<div class="photo-dual-container">
+  
+  <div class="photo-dual-item">
+    <img src="/assets/images/daily/60516-ihyeon-park-water-playground-01.jpg" alt="어린이 물놀이장" class="photo-dual-img">
+  </div>
+
+  <div class="photo-dual-item">
+    <img src="/assets/images/daily/260516-ihyeon-park-water-playground-02.jpg" alt="축구장 넘어로 보이는 물놀이장" class="photo-dual-img">
+  </div>
+
+</div>
 
 > **💡 이현공원 어린이 물놀이장 운영 정보 (2025년 기준)**
 > * **운영 기간:** 7월 17일 ~ 8월 24일 (매주 월요일 휴장, 우천 시 미운영)
