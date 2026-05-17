@@ -56,6 +56,7 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
 지난주 수분섭취량에 대해 궁금한 점을 앱을 통해 상담해 보았어요.
 
 ![수분섭취량에 대한 상담내용]({{ site.kor_url }}/assets/images/daily/260517-health-care-week3-08.jpg)
+
 ---
 
 ## 🥗 3주차 일주일 저녁 식단 (Dinner Log)
