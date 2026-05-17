@@ -35,7 +35,7 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
 <div class="date-kraft-wrap">
   <div class="date-kraft">
     <div class="kraft-dash"></div>
-    <span class="kraft-text">🗓️ 2주 차 : 2026. 5. 11 (월) ~ 5. 17 (일)</span>
+    <span class="kraft-text">🗓️ 3주 차 : 2026. 5. 11 (월) ~ 5. 17 (일)</span>
   </div>
 </div>
 
@@ -51,15 +51,16 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
 
 
 * **이번 주 다짐:** 밤 9시 이후 금식하기!, 인터벌 운동 3번 하기, 수시로 발 뒤꿈치 들어 올리기 
-* **보건소 3주차 미션:** 집중 상담 내용을 바탕으로 한 이번주 미션은 **충분한 수분섭취를 위해 하루 물 6컵 이상 섭취**, **식사할 때 매번 20번 이상 씹어서 섭취하기** 입니다. 
+* **보건소 3주차 미션:** 집중 상담 내용을 바탕으로 한 이번주 미션은 지난주에 같은 **충분한 수분섭취를 위해 하루 물 6컵 이상 섭취**, **식사할 때 매번 20번 이상 씹어서 섭취하기** 입니다. 
 
-이번 주 들어 채움건강 앱에 들어가니  '20번 이상 씹어서 섭취'가 미션이었어요.
+지난주 수분섭취량에 대해 궁금한 점을 앱을 통해 상담해 보았어요.
 
+![수분섭취량에 대한 상담내용]({{ site.kor_url }}/assets/images/daily/260517-health-care-week3-08.jpg)
 ---
 
 ## 🥗 3주차 일주일 저녁 식단 (Dinner Log)
 
-역시 1인분을 차리는 것은 보통 일이 아니네요. 이번주도 사진 찍느라 힘들었답니다.
+이번주 식사한 사진입니다.
 
 <div class="diet-swipe-container">
 
@@ -69,12 +70,12 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 615 kcal 💦</div>
       <div class="diet-menu">
-        기장밥 100g
-        소고기 버섯 전골 350g
-        애호박채전 55g
-        도토리묵 참나물 무침 170g
-        콩나물 무침 30g
-        고추장아찌 15g
+        기장밥 100g<br>
+        소고기 버섯 전골 350g<br>
+        애호박채전 55g<br>
+        도토리묵 참나물 무침 170g<br>
+        콩나물 무침 30g<br>
+        고추장아찌 15g<br>
         간장
       </div>
     </div>
@@ -102,10 +103,15 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="diet-date">🗓️ 5월 13일 (수)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260517-health-care-week3-03.jpg" alt="수요일 저녁 식단">
     <div class="diet-info">
-      <div class="diet-calories">🔥 총 칼로리 : 약  kcal</div>
+      <div class="diet-calories">🔥 총 칼로리 : 약 630 kcal💦</div>
       <div class="diet-menu">
         보리귀리밥 100g<br>
-
+        만둣국 370g<br>
+        고추장아찌 20g<br>
+        총각김치 60g<br>
+        단호박 샐러드 30g<br>
+        꽈리고추 메추리알 조림 50g<br>
+        참나물 두부무침 50g
       </div>
     </div>
   </div>
@@ -114,10 +120,13 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="diet-date">🗓️ 5월 14일 (목)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260517-health-care-week3-04.jpg" alt="목요일 저녁 식단">
     <div class="diet-info">
-      <div class="diet-calories">🔥 총 칼로리 : 약  kcal </div>
+      <div class="diet-calories">🔥 총 칼로리 : 약 500 kcal </div>
       <div class="diet-menu">
-        보리귀리밥 120g<br>
-
+        보리귀리밥 100g<br>
+        김치 비지찌개 190g<br>
+        오이무침 30g<br>
+        부추전 50g<br>
+        닭갈비 50g
       </div>
     </div>
   </div>
@@ -126,10 +135,13 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="diet-date">🗓️ 5월 15일 (금)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260517-health-care-week3-05.jpg" alt="금요일 저녁 식단">
     <div class="diet-info">
-      <div class="diet-calories">🔥 총 칼로리 : 약  kcal</div>
+      <div class="diet-calories">🔥 총 칼로리 : 약 965 kcal  💦💣</div>
       <div class="diet-menu">
-        보리귀리밥 100g<br>
-
+        골뱅이 무침 290g<br>
+        비빔국수 420g<br>
+        순두부 170g<br>
+        산나물 무침 30g<br>
+        칼로리 폭탄 💣, 면은 못참아 ~~^^;~~
       </div>
     </div>
   </div>
@@ -138,10 +150,15 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="diet-date">🗓️ 5월 16일 (토)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260517-health-care-week3-06.jpg" alt="토요일 저녁 식단">
     <div class="diet-info">
-      <div class="diet-calories">🔥 총 칼로리 : 약   kcal 💦</div>
+      <div class="diet-calories">🔥 총 칼로리 : 약 425 kcal 💦</div>
       <div class="diet-menu">
         보리귀리밥 100g<br>
-
+        연어 데리야끼 구이 70g<br>
+        된장찌개 50g<br>
+        오이 미역 냉국 240g<br>
+        양념 깻잎 30g<br>
+        생 파프리카 30g<br>
+        상추 30g
       </div>
     </div>
   </div>
@@ -150,10 +167,11 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="diet-date">🗓️ 5월 17일 (일)</div>
     <img src="{{ site.kor_url }}/assets/images/daily/260517-health-care-week3-07.jpg" alt="일요일 저녁 식단">
     <div class="diet-info">
-      <div class="diet-calories">🔥 총 칼로리 : 약   kcal💦</div>
+      <div class="diet-calories">🔥 총 칼로리 : 약 545 kcal</div>
       <div class="diet-menu">
-        닭갈비 야채 브리또 200g<br>
-
+        보리밥 80g<br>
+        오이 미역 냉국 380g<br>
+        찜닭 & 당면 240g
       </div>
     </div>
   </div>
@@ -169,11 +187,11 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
 걷기를 계속 하면 몸이 적응한다는 말이 맞나봐요.
 처음 걷기를 할 땐 중강도 운동이 좀 되었는데, 계속 하다보니 같은 거리와 강도로 걸어도 중강도 운동 시간이 좀 적어졌어요.
 
-* **👟 주간 총 걸음 수:**   걸음 (하루 평균 약   걸음)
-* **🔥 주간 총 소비 칼로리:**    kcal
-* **🚶‍♀️ 주간 총 이동 거리:**   km
-* **🌳 주요 운동:** 집 근처 30분 이상 산책,  
-* **💪 몸의 변화:** "  아파요"
+* **👟 주간 총 걸음 수:**  63,287 걸음 (하루 평균 약 9,041 걸음)
+* **🔥 주간 총 소비 칼로리:**  1,371 kcal
+* **🚶‍♀️ 주간 총 이동 거리:**  35.31 km
+* **🌳 주요 운동:** 집 근처 30분 이상 산책, 실내자전거 타기, 공원 산책
+* **💪 몸의 변화:** "몸무게가 약 1kg 정도 감량된 것 같다. 아직 갈길이 멀지만 기쁘다. ^^@"
 
 <br>
 ### 이번주 운동기록 & 느낀점
@@ -204,9 +222,9 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="act-dot"></div>
     <div class="act-date">🗓️ 5. 13 (수)</div>
     <div class="act-box">
-      <div class="act-stats">👣  보 ｜ 🌳 출근시간 걷기 </div>
-      <div class="act-heart">💓 중강도 심박 : 분  |  고강도 심박 :  분</div>
-      <p class="act-desc"> ... 💦</p>
+      <div class="act-stats">👣 9,432 보 ｜ 🌳 주변 걷기 30분, 실내자전거 인터벌 운동 40분</div>
+      <div class="act-heart">💓 중강도 심박 : 24 분  |  고강도 심박 : 27 분</div>
+      <p class="act-desc">실내자전거를 인터벌로 탔다. 오랜만에 탔더니 조금 버거운 느낌이다.💦</p>
     </div>
   </div>
 
@@ -214,9 +232,9 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="act-dot"></div>
     <div class="act-date">🗓️ 5. 14 (목)</div>
     <div class="act-box">
-      <div class="act-stats">👣  보 ｜ 🚶‍♀️ 일상 걷기  </div>
-      <div class="act-heart">💓 중강도 심박 :  분  |  고강도 심박 :  9분</div>
-      <p class="act-desc">오늘도 좀  </p>
+      <div class="act-stats">👣 7,203 보 ｜ 🚶‍♀️ 산책 수준 걷기 25분, 실내자전거 인터벌 운동 40분</div>
+      <div class="act-heart">💓 중강도 심박 : 8 분  |  고강도 심박 : 13 분</div>
+      <p class="act-desc">다시 인터벌 운동, 열심히 해야지...</p>
     </div>
   </div>
 
@@ -224,9 +242,9 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="act-dot"></div>
     <div class="act-date">🗓️ 5. 15 (금)</div>
     <div class="act-box">
-      <div class="act-stats">👣   보 ｜ 🌳 아파트단지 </div>
-      <div class="act-heart">💓 중강도 심박 :  분  |  고강도 심박 :   분</div>
-      <p class="act-desc"> ..💦</p>
+      <div class="act-stats">👣 9,436 보 ｜ 🌳 빠르게 걷기 30분 </div>
+      <div class="act-heart">💓 중강도 심박 : 5 분  |  고강도 심박 : 13 분</div>
+      <p class="act-desc"> 비빔국수를 먹고, 칼로리 폭탄을 맞았다. 적게 먹으려고 했으나 오랜만에 국수를 보니 이성을 잃었나 보다. 근데 30분쯤 지나니 그때부터 배가 너무 불러서 야밤에 산책을 다녔다.💦</p>
     </div>
   </div>
 
@@ -234,9 +252,9 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="act-dot"></div>
     <div class="act-date">🗓️ 5. 16 (토)</div>
     <div class="act-box">
-      <div class="act-stats">👣   보 ｜ 영천</div>
-      <div class="act-heart">💓 중강도 심박 :   분  |  고강도 심박 :   분</div>
-      <p class="act-desc">영천  </p>
+      <div class="act-stats">👣 9,487 보 ｜ 이현공원, 이곡장미공원 걷기 100분</div>
+      <div class="act-heart">💓 중강도 심박 : 16  분  |  고강도 심박 :  0 분</div>
+      <p class="act-desc">공원 2군데롤 다녔다. 빨리 걷지 못해서 아쉽다.</p>
     </div>
   </div>
 
@@ -244,9 +262,9 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
     <div class="act-dot"></div>
     <div class="act-date">🗓️ 5. 17 (일)</div>
     <div class="act-box">
-      <div class="act-stats">👣   보 ｜ 🌳 공원  </div>
-      <div class="act-heart">💓 중강도 심박 :   분  |  고강도 심박 :   분</div>
-      <p class="act-desc">집 근처  </p>
+      <div class="act-stats">👣 12,062 보 ｜ 🌳 성주 참외축제 걷기 120분</div>
+      <div class="act-heart">💓 중강도 심박 :  23 분  |  고강도 심박 : 5 분</div>
+      <p class="act-desc">성주 참외축제에 가서 걸었다. 걸음수는 많지만 쉬엄쉬엄 걸어서 그런지 피곤하지가 않다. 날씨가 무척 더웠다.. 5월에 한여름 날씨라니~~</p>
     </div>
   </div>
 
@@ -255,10 +273,13 @@ image: "/assets/images/daily/260517-health-care-week3-main.jpg"
 
 ## 📝 이번 주 반성 (Weekly Review)
 
-지난주에  
+이번주엔 국수를 보고 이성을 잃는 바람에 칼로리 폭탄을 맞았어요. 원래 면종류를 워낙 좋아했는데 모바일 헬스케어 시작하고는 먹지 않았었거든요.
+역시 면이 칼로리가 높더라구요. 거기도 또 맥주도 1캔 했네요... ㅎㅎㅎㅎㅎㅎ
+다음주엔 더 열심히 해야겠어요.
+
 ---
 
 ## 💡 3주 차 챌린지를 이어가며 (Insight)
 
-지난 3주차 , 앞으로도 계속 다짐을 해야겠어요.
-다음 주 기록도 기대해 주세요!
+3주차가 되니 몸무게가 1kg 감량 되었어요. (아침 공복에 쟀을 경우) 
+기쁜 일이지만 좀 더 노력해야 겠어요. 목표 몸무게가 되도록 말이지요. 아자아자 화이팅 !
