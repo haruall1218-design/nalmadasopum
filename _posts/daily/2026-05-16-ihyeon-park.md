@@ -120,6 +120,8 @@ image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
 
 초록 가득한 자연과 화사한 꽃들이 예쁘게 어우러진 이현공원, 주말에 가족들과 조용히 산책할 곳을 찾으신다면 꼭 한번 방문해 보시길 추천해 드립니다. 😊
 
+![이현공원 종합 안내도]({{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-information.jpg)
+
 ---
 
 #### 💡 [날마다 소품]의 건강한 일상 기록 더 보기
