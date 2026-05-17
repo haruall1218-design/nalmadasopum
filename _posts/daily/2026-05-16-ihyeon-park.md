@@ -106,6 +106,10 @@ image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
     <img src="/assets/images/daily/260516-ihyeon-park-parking-02.jpg" alt="주차장" class="photo-dual-img">
   </div>
 
+</div>
+
+---
+
 ## 🚶‍♀️ 걸음을 재촉하게 만드는 둘레길, 그린웨이
 
 공원 외곽을 크게 돌 수있는 둘레길인 '그린웨이'도 조성이 잘 되어 있었는데요. 안내판을 보니 전체 코스를 쭉 걸을 경우 약 7,000m(7km)쯤 되는 것 같았습니다. 풍경을 감상하며 조금 빠른 걸음으로 걸으면 훌륭한 유산소 운동이 될 것 같더라고요. 
