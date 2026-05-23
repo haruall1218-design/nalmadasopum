@@ -137,6 +137,10 @@ image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
 
 ---
 
-#### 💡 [날마다 소품]의 건강한 일상 기록 더 보기
-* [다른 우리집 레시피 구경하기](/category/daily/?filter=우리집-레시피)
-* [소박한 밥상 일기 식단 보기](/category/daily/?filter=소박한-밥상-일기)
+>💡 [날마다 소품]의 산책 기록 더 보기
+
+<div class="post-card-grid">
+  {% include post-card.html url="/daily/2026/05/16/igok-rose-park.html" %}
+  {% include post-card.html url="/daily/2026/05/09/yeongcheon-purple-canola.html" %}
+  {% include post-card.html url="/daily/2026/05/01/gyohang-ri-lee-pop.html" %}
+</div>
