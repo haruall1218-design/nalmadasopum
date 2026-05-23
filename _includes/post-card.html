@@ -1,0 +1,13 @@
+{% for post in site.posts %}
+  {% if post.url == include.url %}
+    <a href="{{ site.baseurl }}{{ post.url }}" class="post-card-link">
+      <div class="post-card-img-wrap">
+        <img src="{{ post.image }}" alt="{{ post.title }}" class="post-card-img">
+      </div>
+      <div class="post-card-info">
+        <h4 class="post-card-title">{{ post.title }}</h4>
+        <p class="post-card-desc">{{ post.excerpt | strip_html | truncatewords: 12 }}</p>
+      </div>
+    </a>
+  {% endif %}
+{% endfor %}
