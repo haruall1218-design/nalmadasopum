@@ -40,7 +40,6 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-draw-02.jpg" alt="추억의 뽑기판" class="photo-dual-img">
   </div>
 </div>
-<br>
 <div class="photo-dual-container">
   <div class="photo-dual-item">
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-draw-03.jpg" alt="뽑기 당첨된 모습" class="photo-dual-img">
@@ -63,7 +62,7 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
 <div class="shorts-wrap">
   <iframe src="https://www.youtube.com/embed/N4WjPGwKRek" allowfullscreen></iframe>
 </div>
-<iframe width="423" height="916" src="https://www.youtube.com/embed/N4WjPGwKRek" title="2026 장미꽃 Feel무렵 (이곡장미공원축제)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 🌹 눈과 코가 행복한 색색의 장미 향연
@@ -72,12 +71,14 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
 
 노란 장미, 새빨간 장미, 어른 주먹보다 큰 장미, 앙증맞고 작은 장미, 탐스럽게 벽을 타고 오르는 넝쿨 장미까지... 종류가 어마어마했어요. 꽃이 많은 만큼 공원 안에 장미 향도 가득 차 있어서 참 향기로웠습니다.
 
+![아름다운 장미 정원 풍경]({{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-15.jpg)
+
 <div class="checkerboard-grid">
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-11.jpg" alt="이곡장미공원 붉은 장미">
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-12.jpg" alt="이곡장미공원 노란 장미">
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-13.jpg" alt="풍성하게 피어난 넝쿨 장미">
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-14.jpg" alt="아름다운 장미 정원 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-15.jpg" alt="아름다운 장미 정원 풍경">
+    
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-16.jpg" alt="아름다운 장미 정원 풍경">
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-17.jpg" alt="아름다운 장미 정원 풍경">
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-18.jpg" alt="아름다운 장미 정원 풍경">
