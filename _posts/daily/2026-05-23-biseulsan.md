@@ -97,7 +97,7 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
 
 산 위에서의 짙은 여운과 아쉬움이 너무 크게 남아, 저희는 차를 돌려 인근에 있는 **'유가사'**로 향했습니다. 고즈넉한 유가사에서의 이야기가 궁금하시다면 아래 링크를 클릭해 주세요! 😊
 
-#### [👉 비 온 뒤 더 맑고 고즈넉해진, 유가사 산책 이야기 - 보러 가기](/category/daily/yugasa-temple)
+<!-- #### [👉 비 온 뒤 더 맑고 고즈넉해진, 유가사 산책 이야기 - 보러 가기](/category/daily/yugasa-temple) -->
 
 ---
 
