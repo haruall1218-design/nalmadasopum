@@ -10,7 +10,7 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
 
 안녕하세요! 평범한 일상 속에서 소소한 행복을 찾아가는 **'날마다 소품'**입니다. 😊
 
-오늘은 향긋한 장미 향이 넘치는 **이곡장미공원**에 다녀왔습니다. 마침 공원에서는 '2026 장미꽃 Feel 무렵' 축제가 한창이더라고요. 버스킹도 즐기고, 아름다운 장미도 보고 행복한 하루였어요. 올해 장미꽃 축제 방문만 벌써 네 번째인데, 볼 때마다 마음이 화사집니다. 
+오늘은 향긋한 장미 향이 넘치는 **이곡장미공원**에 다녀왔습니다. 마침 공원에서는 '2026 장미꽃 Feel 무렵' 축제가 한창이더라고요. 버스킹도 즐기고, 아름다운 장미도 보고 행복한 하루였어요. 올해 장미꽃 축제 방문만 벌써 네 번째인데, 볼 때마다 마음이 화사해집니다. 
 
 축제 기간이라 인근 초등학교 두 곳을 임시 주차장으로 개방하고 있었는데도 이미 만차라, 근처 다른 곳에 간신히 주차를 하고 조금 걸어서 이동해야 했어요. 그래도 즐거웠던 오늘의 알찬 나들이 기록을 남겨봅니다!
 
@@ -22,7 +22,7 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
 
 축제장에 도착해서 제가 제일 먼저 향한 곳은 다름 아닌 학교 앞 노점이었어요. 
 
-예전에 아이들이 조금 더 어렸을 때 축제에 왔다가 재미 삼아 추억의 뽑기를 한 적이 있거든요. 왕잉어가 당첨되었던 신나는 추억이 있어서 또 다시 해보러 갔지요.
+예전에 아이들이 조금 더 어렸을 때 축제에 왔다가 재미 삼아 추억의 뽑기를 한 적이 있거든요. 왕잉어가 당첨되었던 신나는 추억이 있어서 또다시 해보러 갔지요.
 
 
 번호판에 당첨 상품의 이름이 적힌 바를 이리저리 옮겨서 번호 위에 놓고, 종이에 적힌 번호를 뽑으면 되는 추억의 방식! 신중을 기해 종이를 이것저것 고르다 딱 하나를 선택해서 조심스레 펼쳤는데...
@@ -74,16 +74,16 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
 ![아름다운 장미 정원 풍경]({{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-15.jpg)
 
 <div class="checkerboard-grid">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-11.jpg" alt="이곡장미공원 붉은 장미">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-12.jpg" alt="이곡장미공원 노란 장미">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-13.jpg" alt="풍성하게 피어난 넝쿨 장미">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-14.jpg" alt="아름다운 장미 정원 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-16.jpg" alt="아름다운 장미 정원 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-17.jpg" alt="아름다운 장미 정원 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-18.jpg" alt="아름다운 장미 정원 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-19.jpg" alt="아름다운 장미 정원 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-20.jpg" alt="아름다운 장미 정원 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-21.jpg" alt="아름다운 장미 정원 풍경">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-11.jpg" alt="이곡장미공원 보라색 장미넝쿨">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-12.jpg" alt="장미공원 분수대">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-13.jpg" alt="장미축제 대형 팜플렛">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-14.jpg" alt="아름다운 장미 정원 풍경 1">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-16.jpg" alt="아름다운 장미 정원 풍경 2">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-17.jpg" alt="장미축제 플레카드">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-18.jpg" alt="아름다운 장미 정원 풍경 3">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-19.jpg" alt="아름다운 장미 정원 풍경 4">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-20.jpg" alt="어여쁜 장미 마차">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-21.jpg" alt="아름다운 장미 정원 풍경 5">
 </div>
 
 낮인데도 장미 넝쿨 사이사이에 작은 전구들에 불이 들어와 있어서 아기자기하고 예쁘더라고요. 해가 지고 밤이 되면 이 조명들이 켜지면서 또 얼마나 아름다울까 상상해 보았습니다. 집이 조금만 더 가까웠다면 밤에 다시 한번 다녀오고 싶다는 생각이 들 정도로 아쉬웠어요.
@@ -91,16 +91,16 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
 한낮의 뜨거운 햇살에 조금 지치기도 한 하루였지만, 달콤한 장미 향에 기분 좋았고, 멋진 버스킹에 귀가 즐거웠으며, 화사한 장미꽃에 눈이 호강하는 완벽한 5월의 나들이였습니다. 😊
 
 <div class="checkerboard-grid">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-01.jpg" alt="이곡장미공원 붉은 장미">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-02.jpg" alt="이곡장미공원 노란 장미">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-03.jpg" alt="풍성하게 피어난 넝쿨 장미">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-04.jpg" alt="아름다운 장미 정원 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-05.jpg" alt="아름다운 장미 정원 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-06.jpg" alt="아름다운 장미 정원 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-07.jpg" alt="아름다운 장미 정원 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-08.jpg" alt="아름다운 장미 정원 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-09.jpg" alt="아름다운 장미 정원 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-10.jpg" alt="아름다운 장미 정원 풍경">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-01.jpg" alt="보랏빛 장미 넝쿨">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-02.jpg" alt="흰색 장미">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-03.jpg" alt="아름다운 장미 정원 풍경 6">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-04.jpg" alt="붉은 장미 클로즈업">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-05.jpg" alt="노랑 장미 클로즈업 ">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-06.jpg" alt="아름다운 장미 정원 풍경 7">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-07.jpg" alt="세로로 솟은 장미 넝쿨">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-08.jpg" alt="보라 장미 클로즈업">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-09.jpg" alt="전구가 빛나는 풍경">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-10.jpg" alt="아름다운 장미넝쿨">
 </div>
 ---
 
