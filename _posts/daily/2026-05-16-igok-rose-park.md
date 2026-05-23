@@ -83,6 +83,7 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-18.jpg" alt="아름다운 장미 정원 풍경">
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-19.jpg" alt="아름다운 장미 정원 풍경">
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-20.jpg" alt="아름다운 장미 정원 풍경">
+    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-21.jpg" alt="아름다운 장미 정원 풍경">
 </div>
 
 낮인데도 장미 넝쿨 사이사이에 작은 전구들에 불이 들어와 있어서 아기자기하고 예쁘더라고요. 해가 지고 밤이 되면 이 조명들이 켜지면서 또 얼마나 아름다울까 상상해 보았습니다. 집이 조금만 더 가까웠다면 밤에 다시 한번 다녀오고 싶다는 생각이 들 정도로 아쉬웠어요.
