@@ -78,7 +78,6 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-12.jpg" alt="이곡장미공원 노란 장미">
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-13.jpg" alt="풍성하게 피어난 넝쿨 장미">
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-14.jpg" alt="아름다운 장미 정원 풍경">
-    
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-16.jpg" alt="아름다운 장미 정원 풍경">
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-17.jpg" alt="아름다운 장미 정원 풍경">
     <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-18.jpg" alt="아름다운 장미 정원 풍경">
@@ -105,5 +104,5 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
 ---
 
 #### 💡 [날마다 소품]의 대구 산책 기록 더 보기
-* [하얀 샤스타 데이지가 반겨주는 이현공원 주말 산책](/category/daily/2026/05/16/ihyeon-park.html)
-* [옥포 교항리 이팝 나무 군락지](/category/daily/2026/05/01/gyohang-ri-lee-pop.html)
+* [하얀 샤스타 데이지가 반겨주는 이현공원 주말 산책](/daily/2026/05/16/ihyeon-park.html)
+* [옥포 교항리 이팝 나무 군락지](/daily/2026/05/01/gyohang-ri-lee-pop.html)
