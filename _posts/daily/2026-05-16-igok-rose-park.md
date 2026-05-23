@@ -119,7 +119,6 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
 
 #### 💡 [날마다 소품]의 대구 산책 기록 더 보기
 
-{% include post-card.html url="/daily/2026/05/09/yeongcheon-purple-canola.html" %}
 
 * [하얀 샤스타 데이지가 반겨주는 이현공원 주말 산책](/daily/2026/05/16/ihyeon-park.html)
 * [옥포 교항리 이팝 나무 군락지](/daily/2026/05/01/gyohang-ri-lee-pop.html)
