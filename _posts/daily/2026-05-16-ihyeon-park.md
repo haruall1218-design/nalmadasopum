@@ -124,6 +124,19 @@ image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
 
 ---
 
+## 이현공원 지도
+
+<!-- 📍 이현공원 지도 영역 -->
+
+<div class="blog-map-container">
+  <p class="blog-map-title">🌼 오늘 다녀온 곳 : <span class="blog-map-place">이현공원</span> <br> <span class="blog-map-address">대구 서구 이현동 산119</span></p>
+  <div class="blog-map-wrapper">
+    <iframe src="https://maps.google.com/maps?q=대구%20서구%20이현동%20산119&t=&z=15&ie=UTF8&iwloc=&output=embed" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+  </div>
+</div>
+
+---
+
 #### 💡 [날마다 소품]의 건강한 일상 기록 더 보기
 * [다른 우리집 레시피 구경하기](/category/daily/?filter=우리집-레시피)
 * [소박한 밥상 일기 식단 보기](/category/daily/?filter=소박한-밥상-일기)
