@@ -3,7 +3,7 @@ layout: post
 title: "하얀 샤스타 데이지가 반겨주는 이현공원 주말 산책"
 date: 2026-05-16
 categories: daily
-main_menu: "Daily Life"
+main_menu: "소소한 일상"
 tags: [오늘의 단상, 일상, 이현공원, 대구산책, 샤스타데이지, 화이트 핑크 셀릭스, 삼색버들, 그린웨이, 물놀이장]
 image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
 ---

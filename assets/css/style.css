@@ -441,6 +441,14 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
 
 @media (max-width: 768px) { .photo-dual-container { grid-template-columns: repeat(1, 1fr); } }
 
+/*************************사진 3장 가로 나열 레이아웃 --- ****************************/
+.photo-tri-container { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin-bottom: 25px; }
+.photo-tri-item { text-align: center; }
+.photo-tri-img { width: 100%; border-radius: 8px; object-fit: cover; aspect-ratio: 1 / 1; } /* 3장은 정사각형이 예뻐요 */
+
+/* 모바일에서는 1줄에 1개씩 */
+@media (max-width: 768px) { .photo-tri-container { grid-template-columns: repeat(1, 1fr); } }
+
 /* =========================================
    5. 그 외 CSS (유튜브 반응형, 스크롤탑 버튼 등)
 ========================================= */
