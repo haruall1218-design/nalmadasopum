@@ -104,6 +104,19 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
 </div>
 ---
 
+## 이곡장미공원 지도
+
+<!-- 📍 이곡장미공원 지도 영역 -->
+
+<div class="blog-map-container">
+  <p class="blog-map-title">🌹 오늘 다녀온 곳 : <span class="blog-map-place">이곡장미공원</span> <br> <span class="blog-map-address">대구 달서구 이곡동 1306-6</span></p>
+  <div class="blog-map-wrapper">
+    <iframe src="https://maps.google.com/maps?q=대구%20달서구%20이곡동%201306-6&t=&z=15&ie=UTF8&iwloc=&output=embed" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+  </div>
+</div>
+
+---
+
 #### 💡 [날마다 소품]의 대구 산책 기록 더 보기
 * [하얀 샤스타 데이지가 반겨주는 이현공원 주말 산책](/daily/2026/05/16/ihyeon-park.html)
 * [옥포 교항리 이팝 나무 군락지](/daily/2026/05/01/gyohang-ri-lee-pop.html)
