@@ -131,7 +131,7 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
 
 ---
 
-#### [👉 비 온 뒤 더 맑고 고즈넉해진, 유가사 산책 이야기 - 보러 가기](/category/daily/2026/05/23/yugasa.html)
+#### [👉 비 온 뒤 더 맑고 고즈넉해진, 유가사 산책 이야기 - 보러 가기](/daily/2026/05/23/yugasa.html)
 
 ---
 
