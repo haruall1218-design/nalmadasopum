@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "[오늘의 단상] 향긋한 장미와 뜻밖의 행운! 이곡장미공원 축제 나들이"
+title: "[대구 가볼 만한 곳] 향긋한 장미와 뜻밖의 행운! 이곡장미공원 축제 나들이"
 date: 2026-05-16
 categories: daily
 main_menu: "소소한 일상e"
-tags: [오늘의 단상, 일상, 이곡장미공원, 장미꽃축제, 대구산책, 장미꽃Feel무렵, 추억의뽑기, 버스킹]
+tags: [오늘의 단상, 일상, 이곡장미공원, 장미꽃축제, 대구산책, 장미꽃Feel무렵, 추억의뽑기, 버스킹, 대구 가볼 만한 곳]
 image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
 ---
 

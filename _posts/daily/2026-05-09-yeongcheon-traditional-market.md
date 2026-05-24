@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "영천공설시장에서 소머리곰탕을 사오다"
+title: "[대구 근교 나들이] 영천공설시장에서 소머리곰탕을 사오다"
 date: 2026-05-09
 categories: daily
 main_menu: "소소한 일상"      
-tags: [오늘의 단상, 영천, 영천공설시장, 전통시장, 시장투어, 곰탕골목, 한우곰탕, 소머리곰탕, 일상기록, 영천여행]  
+tags: [오늘의 단상, 영천, 영천공설시장, 전통시장, 시장투어, 곰탕골목, 한우곰탕, 소머리곰탕, 일상기록, 영천여행, 대구 근교 나들이]  
 image: "/assets/images/daily/260509-yeongcheon-traditional-market-main.jpg"   
 ---
 

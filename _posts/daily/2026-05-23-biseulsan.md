@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "[오늘의 단상] 구름 속을 걷는 기분, 비 오는 날의 운치 있는 비슬산 나들이"
+title: "[대구 가볼 만한 곳] 구름 속을 걷는 기분, 비 오는 날의 운치 있는 비슬산 나들이"
 date: 2026-05-23
 categories: daily
 main_menu: "소소한 일상"
-tags: [오늘의 단상, 일상, 비슬산, 대견사, 우중산행, 비슬산전기차, 투어버스, 백곰바위, 대구근교]
+tags: [오늘의 단상, 일상, 비슬산, 대견사, 우중산행, 비슬산전기차, 투어버스, 백곰바위, 대구근교, 대구 가볼 만한 곳]
 image: "/assets/images/daily/260523-biseulsan-main.jpg"
 ---
 
@@ -96,6 +96,21 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
 다음번에 다시 비슬산을 찾게 된다면, 올라갈 때는 버스 대신 등산로를 따라 두 발로 직접 올라가 보려고요. 그리고 내려올 때 버스를 타고 편하게 내려오면, 미처 보지 못했던 풍경도 맘껏 눈에 담을 수 있겠죠?
 
 산 위에서의 짙은 여운과 아쉬움이 너무 크게 남아, 저희는 차를 돌려 인근에 있는 **'유가사'**로 향했습니다. 고즈넉한 유가사에서의 이야기가 궁금하시다면 아래 링크를 클릭해 주세요! 😊
+
+---
+
+## 비슬산 지도
+
+<!-- 📍 비슬산 지도 영역 -->
+
+<div class="blog-map-container">
+  <p class="blog-map-title">⛰️ 오늘 다녀온 곳 : <span class="blog-map-place">비슬산</span> <br> <span class="blog-map-address">대구 달성군 유가읍 양리 산1</span></p>
+  <div class="blog-map-wrapper">
+    <iframe src="https://maps.google.com/maps?q=대구%20달성군%20유가읍%20양리%20산1&t=&z=15&ie=UTF8&iwloc=&output=embed" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+  </div>
+</div>
+
+---
 
 <!-- #### [👉 비 온 뒤 더 맑고 고즈넉해진, 유가사 산책 이야기 - 보러 가기](/category/daily/yugasa-temple) -->
 

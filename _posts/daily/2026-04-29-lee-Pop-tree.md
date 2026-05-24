@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "맑은 오후, 흰 꽃을 따라 걷다."
+title: "[오늘의 단상] 맑은 오후, 흰 꽃을 따라 걷다."
 date: 2026-04-29
 categories: daily
 main_menu: "소소한 일상"      # 화면에 표시될 대분류 한글 메뉴명    
