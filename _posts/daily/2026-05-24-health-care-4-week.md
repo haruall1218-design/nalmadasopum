@@ -24,7 +24,7 @@ image: "/assets/images/daily/260524-health-care-week4-main.jpg"
   
     <div class="challenge-footer">
       <span>시작</span>
-      <span class="challenge-msg">건강한 습관 완주까지 <br>앞으로 <b>24주</b> 남았습니다.<br> 아자아자~ 파이팅! 🏃‍♀️</span>
+      <span class="challenge-msg">건강한 습관 완주까지 <br>앞으로 <b>23주</b> 남았습니다.<br> 아자아자~ 파이팅! 🏃‍♀️</span>
       <span>완주</span>
     </div>
     
