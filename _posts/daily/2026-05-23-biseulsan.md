@@ -67,6 +67,25 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
 
 ![비슬산의 능선]({{ site.kor_url }}/assets/images/daily/260523-biseulsan-ridge-01.jpg)
 
+<br>
+<div class="checkerboard-grid">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-01.jpg" alt="이현공원 샤스타 데이지 1">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-02.jpg" alt="이현공원 샤스타 데이지 2">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-03.jpg" alt="이현공원 여러 가지 꽃들 1">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-04.jpg" alt="이현공원 금계국">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-05.jpg" alt="이현공원 여러 가지 꽃들 3">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-06.jpg" alt="이현공원 꽃밭 풍경 1">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-07.jpg" alt="이현공원 꽃밭 풍경 2">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-08.jpg" alt="이현공원 꽃밭 풍경 3">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-09.jpg" alt="이현공원 꽃밭 풍경 4">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-10.jpg" alt="이현공원 작은 분수">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-11.jpg" alt="이현공원 작은 분수">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-12.jpg" alt="이현공원 작은 분수">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-13.jpg" alt="이현공원 작은 분수">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-14.jpg" alt="이현공원 작은 분수">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-15.jpg" alt="이현공원 작은 분수">
+</div>
+
 ---
 
 ## ⏱️ 짧지만 강렬했던 우중 산행 요약
