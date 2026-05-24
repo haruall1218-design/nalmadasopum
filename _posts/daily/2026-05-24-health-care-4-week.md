@@ -84,7 +84,7 @@ image: "/assets/images/daily/260524-health-care-week4-main.jpg"
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 405 kcal</div>
       <div class="diet-menu">
-        보보리귀리밥 70g<br>
+        보리귀리밥 70g<br>
         순두부 찌개 140g<br>
         떡볶이 120g<br>
         시금치 무침 20g<br>
@@ -225,7 +225,7 @@ image: "/assets/images/daily/260524-health-care-week4-main.jpg"
     <div class="act-box">
       <div class="act-stats">👣 6,582 보 ｜ 🚶‍♀️ 걷기 30분</div>
       <div class="act-heart">💓 중강도 심박 : 14 분  |  고강도 심박 : 3 분</div>
-      <p class="act-desc">근처 공원을 돌다가 마트에서 장을 보았다.</p>
+      <p class="act-desc">바로 아래층에 인테리어 공사를 해서 어제 오늘 엄청난 소음에 시달린 결과 몸이 피곤했다. 근처 공원을 돌다가 마트에서 장을 보았다.</p>
     </div>
   </div>
 
