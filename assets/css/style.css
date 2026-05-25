@@ -584,3 +584,46 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
     .mag-stats-grid { grid-template-columns: 1fr; gap: 30px; }
     .mag-header h1 { font-size: 26px; }
   }
+
+
+  /* 📌 알아두면 유용한 가이드 표 스타일 */
+  .guide-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 15px;
+    line-height: 1.6;
+    border-top: 2px solid #333; /* 표 상단 포인트 선 */
+    border-bottom: 2px solid #333; /* 표 하단 포인트 선 */
+  }
+  .guide-table th {
+    background-color: #fdfaf6; /* 따뜻한 크림색 배경 */
+    font-weight: 700;
+    color: #333;
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+  }
+  .guide-table td {
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+    color: #444;
+  }
+  .guide-table a {
+    color: #2c6eb5;
+    text-decoration: none;
+    font-weight: 500;
+    border-bottom: 1px solid #2c6eb5;
+    transition: all 0.2s ease-in-out;
+  }
+  .guide-table a:hover {
+    color: #1a497d;
+    border-bottom-width: 2px;
+  }
+  
+  /* 모바일 화면 맞춤 설정 */
+  @media (max-width: 768px) {
+    .guide-table th, .guide-table td {
+      padding: 12px 10px;
+      font-size: 14px;
+    }
+  }
