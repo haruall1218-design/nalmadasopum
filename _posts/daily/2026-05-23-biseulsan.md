@@ -142,14 +142,18 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
       <td style="white-space: nowrap;"><strong>⏰ 이용 시간</strong></td>
       <td>
         연중무휴, 상시 개방<br>
-        <span style="font-size: 0.9em; color: #666;">(*단, 반딧불이 전기차 및 투어버스 운행 시간 별도 확인*)</span>
+        <span style="font-size: 0.9em; color: #666;">(*단, 전기차 및 투어버스 운행 시간 별도 확인*)<br>
+        전기차는 매주 화요일 정기휴무 (4월은 정기휴무 없이 정상운영)</span><br>
+        실시간 운행시간표 확인 : 네이버에서 '비슬산투어관광버스' 검색
+        <a href="https://yeyak.dssiseol.or.kr/index.do?menu_id=00007320" target="_blank" rel="noopener noreferrer">비슬산 투어관광버스 실시간 현황 바로가기</a><br>
       </td>
     </tr>
     <tr>
       <td style="white-space: nowrap;"><strong>💰 입장료</strong></td>
       <td>
         <strong>산행 및 입장료 무료</strong><br>
-        전기차 (대인) 5,000원 / 투어버스 (대인) 4,000원
+        전기차 (대인) 5,000원 / (소인) 3,000원<br>
+        할인 : 달성군민, 국가유공자 & 유족, 장애인, 신도  (신분증 지참시 할인)
       </td>
     </tr>
     <tr>
@@ -163,7 +167,10 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
       <td style="white-space: nowrap;"><strong>🌐 관련 링크</strong></td>
       <td>
         <a href="https://biseul.kr/" target="_blank" rel="noopener noreferrer">비슬산 참꽃문화제 공식 홈페이지</a><br>
-        <a href="https://www.foresttrip.go.kr/indvz/main.do?hmpgId=ID02030011" target="_blank" rel="noopener noreferrer">비슬산자연휴양림 예약 (숲나들e)</a>
+        <a href="https://yeyak.dssiseol.or.kr/" target="_blank" rel="noopener noreferrer">비슬산자연휴양림 예약</a>
+        <a href="https://www.dssiseol.or.kr/" target="_blank" rel="noopener noreferrer">달성군시설관리공단</a><br>
+        <a href="https://tour.daegu.go.kr/" target="_blank" rel="noopener noreferrer">대구트립로드 (대구 관광코스 안내)</a>
+        ,
       </td>
     </tr>
   </tbody>
