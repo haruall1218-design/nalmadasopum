@@ -167,10 +167,9 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
       <td style="white-space: nowrap;"><strong>🌐 관련 링크</strong></td>
       <td>
         <a href="https://biseul.kr/" target="_blank" rel="noopener noreferrer">비슬산 참꽃문화제 공식 홈페이지</a><br>
-        <a href="https://yeyak.dssiseol.or.kr/" target="_blank" rel="noopener noreferrer">비슬산자연휴양림 예약</a>
+        <a href="https://yeyak.dssiseol.or.kr/" target="_blank" rel="noopener noreferrer">비슬산자연휴양림 예약</a><br>
         <a href="https://www.dssiseol.or.kr/" target="_blank" rel="noopener noreferrer">달성군시설관리공단</a><br>
         <a href="https://tour.daegu.go.kr/" target="_blank" rel="noopener noreferrer">대구트립로드 (대구 관광코스 안내)</a>
-        ,
       </td>
     </tr>
   </tbody>
