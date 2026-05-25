@@ -131,6 +131,52 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
 | **🅿️ 주차 정보** | **비슬산 공영주차장 이용 무료**<br>(*성수기 혼잡 시, 인근 국립대구과학관 주차 후 셔틀버스 이용 추천*) |
 | **🌐 관련 링크** | [비슬산 참꽃문화제 공식 홈페이지](https://biseul.kr/)<br>[비슬산자연휴양림 예약 (숲나들e)](https://www.foresttrip.go.kr/indvz/main.do?hmpgId=ID02030011) |
 
+<table class="guide-table">
+  <thead>
+    <tr>
+      <th style="text-align: left;">🔖 구분</th>
+      <th style="text-align: left;">📝 상세 정보</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="white-space: nowrap;"><strong>📍 주소</strong></td>
+      <td>
+        <strong>[휴양림]</strong> 대구 달성군 유가읍 휴양림길 230<br>
+        <strong>[유스호스텔]</strong> 대구 달성군 유가읍 일연선사길 10
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><strong>⏰ 이용 시간</strong></td>
+      <td>
+        연중무휴, 상시 개방<br>
+        <span style="font-size: 0.9em; color: #666;">(*단, 반딧불이 전기차 및 투어버스 운행 시간 별도 확인*)</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><strong>💰 입장료</strong></td>
+      <td>
+        <strong>산행 및 입장료 무료</strong><br>
+        전기차 (대인) 5,000원 / 투어버스 (대인) 4,000원
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><strong>🅿️ 주차 정보</strong></td>
+      <td>
+        <strong>비슬산 공영주차장 이용 무료</strong><br>
+        <span style="font-size: 0.9em; color: #666;">(*성수기 혼잡 시, 인근 국립대구과학관 주차 후 셔틀버스 이용 추천*)</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><strong>🌐 관련 링크</strong></td>
+      <td>
+        <a href="https://biseul.kr/" target="_blank" rel="noopener noreferrer">비슬산 참꽃문화제 공식 홈페이지</a><br>
+        <a href="https://www.foresttrip.go.kr/indvz/main.do?hmpgId=ID02030011" target="_blank" rel="noopener noreferrer">비슬산자연휴양림 예약 (숲나들e)</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <br>
 
 ### 🥾 추천 등산 코스 2가지
