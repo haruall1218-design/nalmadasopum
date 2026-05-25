@@ -144,8 +144,8 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
         연중무휴, 상시 개방<br>
         <span style="font-size: 0.9em; color: #666;">(*단, 전기차 및 투어버스 운행 시간 별도 확인*)<br>
         전기차는 매주 화요일 정기휴무 (4월은 정기휴무 없이 정상운영)</span><br>
-        실시간 운행시간표 확인 : 네이버에서 '비슬산투어관광버스' 검색
-        <a href="https://yeyak.dssiseol.or.kr/index.do?menu_id=00007320" target="_blank" rel="noopener noreferrer">비슬산 투어관광버스 실시간 현황 바로가기</a><br>
+        실시간 운행시간표 확인 : 네이버에서 '비슬산투어관광버스' 검색br>
+        <a href="https://yeyak.dssiseol.or.kr/index.do?menu_id=00007320" target="_blank" rel="noopener noreferrer">비슬산 투어관광버스 실시간 현황 바로가기</a>
       </td>
     </tr>
     <tr>
@@ -214,11 +214,9 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
 비슬산의 하이라이트는 단연 매년 4월에 열리는 **'비슬산 참꽃문화제'**입니다. 
 정상부 30만 평 일대에 펼쳐진 국내 최대 규모의 참꽃(진달래) 군락지가 일제히 분홍빛으로 물드는 장관을 감상할 수 있습니다. 2026년 올해 제30회를 맞이한 축제는 4월 17일부터 19일까지 성황리에 개최되었으며, 산신제를 비롯해 10만 명에 가까운 인파가 몰리는 대표적인 봄 축제로 손꼽힙니다.
 
-![분홍빛으로 물든 30만 평 규모의 참꽃 군락지]({{ site.kor_url }}/assets/images/daily/260523-biseulsan-guide-flower.jpg)
-
 <figure style="margin: 0 0 25px 0;">
   <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-guide-flower.jpg" alt="분홍빛으로 물든 30만 평 규모의 참꽃 군락지" style="width: 100%; border-radius: 8px; display: block;">
-  <figcaption style="font-size: 13px; color: #888; text-align: right; margin-top: 8px; letter-spacing: -0.5px;">출처: 비슬산 참꽃문화제 홈페이지</figcaption>
+  <figcaption style="font-size: 13px; color: #888; text-align: right; margin-top: 8px; letter-spacing: -0.5px;">사진출처: 대구트립로드 홈페이지</figcaption>
 </figure>
 
 <br>
