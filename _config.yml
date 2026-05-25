@@ -7,3 +7,7 @@ encoding: utf-8
 
 # 한국어 사이트 이미지 저장 경로 변수
 kor_url: "https://nalmadasopum.com"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
