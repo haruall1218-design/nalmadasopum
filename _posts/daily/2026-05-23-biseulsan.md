@@ -134,8 +134,8 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
     <tr>
       <td style="white-space: nowrap;"><strong>📍 주소</strong></td>
       <td>
-        <strong>[휴양림]</strong> 대구 달성군 유가읍 휴양림길 230<br>
-        <strong>[유스호스텔]</strong> 대구 달성군 유가읍 일연선사길 10
+        <strong>[비슬산 자연휴양림]</strong> 대구 달성군 유가읍 휴양림길 230<br>
+        <strong>[참꽃문화제 행사장(유스호스텔)]</strong> 대구 달성군 유가읍 일연선사길 10
       </td>
     </tr>
     <tr>
@@ -144,7 +144,7 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
         연중무휴, 상시 개방<br>
         <span style="font-size: 0.9em; color: #666;">(*단, 전기차 및 투어버스 운행 시간 별도 확인*)<br>
         전기차는 매주 화요일 정기휴무 (4월은 정기휴무 없이 정상운영)</span><br>
-        실시간 운행시간표 확인 : 네이버에서 '비슬산투어관광버스' 검색br>
+        실시간 운행시간표 확인 : 네이버에서 '비슬산투어관광버스' 검색<br>
         <a href="https://yeyak.dssiseol.or.kr/index.do?menu_id=00007320" target="_blank" rel="noopener noreferrer">비슬산 투어관광버스 실시간 현황 바로가기</a>
       </td>
     </tr>
@@ -179,7 +179,7 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
 
 ### 🥾 추천 등산 코스 2가지
 
-* **[1코스] 초보자 추천 / 최단 코스 (약 4km, 편도 2시간)**
+* **[1코스] 초보자 추천 / 최단 코스 (약 4km, 약 편도 2시간)**
   * **코스:** 비슬산자연휴양림 공영주차장 ➔ 대견사 ➔ 참꽃군락지 ➔ 천왕봉(정상)
   * **특징:** 가장 많은 등산객이 이용하는 정석 코스입니다. 임도와 산길이 섞여 있으며, 초반에 전기차나 투어버스를 이용해 대견사까지 올라간 후 정상까지 가볍게 트레킹하는 방법이 매우 인기가 많습니다.
 * **[2코스] 비슬산 종주 코스 (약 7.5km, 약 4~5시간)**
@@ -194,25 +194,25 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
 
 해발 1,084m의 비슬산은 산 정상부의 바위 모양이 마치 신선이 거문고를 타는 모습과 닮았다고 하여 **'비슬(琵瑟)'**이라는 유려한 이름이 붙은 명산입니다. 
 
-산 중턱을 오르다 보면 천연기념물 제435호로 지정된 거대한 **'암괴류(바위 무리)'**를 만날 수 있습니다. 빙하기 시절 형성되어 지름 1~2m의 화강암들이 산기슭을 덮고 있는 국내 최대 규모의 지질 유산으로 그 웅장함에 압도됩니다. 
+산 중턱을 오르다 보면 천연기념물 제435호로 지정된 거대한 **'암괴류(바위 무리)'**를 만날 수 있습니다. 오랜 세월에 걸쳐 형성되어 지름 1~2m의 화강암들이 산기슭을 덮고 있는 국내 최대 규모의 지질 유산으로 그 웅장함에 압도됩니다. 
 
 또한 능선 정상부에는 삼국유사를 집필한 일연 스님이 오랫동안 머물렀던 고찰, **대견사**가 자리하고 있습니다. 1917년 폐사되었다가 약 100년 만인 2014년에 복원된 역사적인 공간으로, 맑은 날 대견사 삼층석탑 앞에 서면 탁 트인 대구 시내 전경이 한눈에 들어옵니다.
 
-<div class="photo-dual-container">
+<!--<div class="photo-dual-container">
   <div class="photo-dual-item">
     <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-guide-rock.jpg" alt="비슬산 천연기념물 거대한 암괴류" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
     <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-guide-temple.jpg" alt="복원된 대견사와 웅장한 삼층석탑" class="photo-dual-img">
   </div>
-</div>
+</div>-->
 
 <br>
 
 ### 🎉 즐길 거리: 비슬산 참꽃문화제
 
 비슬산의 하이라이트는 단연 매년 4월에 열리는 **'비슬산 참꽃문화제'**입니다. 
-정상부 30만 평 일대에 펼쳐진 국내 최대 규모의 참꽃(진달래) 군락지가 일제히 분홍빛으로 물드는 장관을 감상할 수 있습니다. 2026년 올해 제30회를 맞이한 축제는 4월 17일부터 19일까지 성황리에 개최되었으며, 산신제를 비롯해 10만 명에 가까운 인파가 몰리는 대표적인 봄 축제로 손꼽힙니다.
+정상부 30만 평 일대에 펼쳐진 국내 최대 규모의 참꽃(진달래) 군락지가 일제히 분홍빛으로 물드는 장관을 감상할 수 있습니다. 2026년 올해 제30회를 맞이한 축제는 기념행사는 4월 17일(금) 저녁 7시 국립대구과학관 광장에서, 본행사는 4월 18일(토)~19일(일) 비슬산 유스호스텔 일원에서 개최되었습니다. 약 10만 명에 가까운 인파가 몰리는 대표적인 봄 축제로 손꼽힙니다.
 
 <figure style="margin: 0 0 25px 0;">
   <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-guide-flower.jpg" alt="분홍빛으로 물든 30만 평 규모의 참꽃 군락지" style="width: 100%; border-radius: 8px; display: block;">
