@@ -16,6 +16,10 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
 
 ![구름과 물안개가 짙게 드리운 비슬산 풍경]({{ site.kor_url }}/assets/images/daily/260523-biseulsan-main.jpg)
 
+<div style="text-align: center; margin: 40px 0 50px;">
+  <p style="font-size: 16px; font-weight: 700; color: #555; margin-bottom: 15px; letter-spacing: -0.5px;">🎥 영상으로 만나는 비슬산의 신비로운 물안개</p>
+  <iframe width="315" height="560" src="https://www.youtube.com/embed/yUZvitJKB5U" title="비슬산 쇼츠 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);"></iframe>
+</div>
 
 ---
 
