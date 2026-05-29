@@ -234,9 +234,9 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
 비슬산의 하이라이트는 단연 매년 4월에 열리는 **'비슬산 참꽃문화제'**입니다. 
 정상부 30만 평 일대에 펼쳐진 국내 최대 규모의 참꽃(진달래) 군락지가 일제히 분홍빛으로 물드는 장관을 감상할 수 있습니다. 2026년 올해 제30회를 맞이한 축제는 기념행사는 4월 17일(금) 저녁 7시 국립대구과학관 광장에서, 본행사는 4월 18일(토)~19일(일) 비슬산 유스호스텔 일원에서 개최되었습니다. 약 10만 명에 가까운 인파가 몰리는 대표적인 봄 축제로 손꼽힙니다.
 
-<figure style="margin: 0 0 25px 0;">
-  <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-guide-flower.jpg" alt="분홍빛으로 물든 30만 평 규모의 참꽃 군락지" style="width: 100%; border-radius: 8px; display: block;">
-  <figcaption style="font-size: 13px; color: #888; text-align: right; margin-top: 8px; letter-spacing: -0.5px;">사진출처: 대구트립로드 홈페이지</figcaption>
+<figure class="captioned-figure">
+  <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-guide-flower.jpg" alt="분홍빛으로 물든 30만 평 규모의 참꽃 군락지">
+  <figcaption>사진출처: 대구트립로드 홈페이지</figcaption>
 </figure>
 
 <br>

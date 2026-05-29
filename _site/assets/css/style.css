@@ -455,6 +455,79 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
 /* 모바일에서는 1줄에 1개씩 */
 @media (max-width: 768px) { .photo-tri-container { grid-template-columns: repeat(1, 1fr); } }
 
+
+/************************* 📋 목차(Table of Contents) 스타일 ****************************/
+  .toc-container {
+    background-color: #f9f9f9; 
+    padding: 20px; 
+    border-radius: 8px; 
+    margin-bottom: 40px; 
+    border: 1px solid #eee;
+  }
+  .toc-title {
+    font-weight: 700; 
+    font-size: 16px; 
+    margin-bottom: 10px;
+    color: #333;
+  }
+  .toc-list {
+    list-style-type: none; 
+    padding-left: 30px !important; 
+    line-height: 1.8; 
+    margin-bottom: 0;
+  }
+  .toc-list a {
+    color: #333; 
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+  }
+  /* 마우스를 올렸을 때 살짝 강조되는 효과 */
+  .toc-list a:hover {
+    color: #2c6eb5; 
+    text-decoration: underline;
+  }
+
+/************************* 📖 출처 표기 영역 스타일 ****************************/
+  .source-citation {
+    text-align: right; 
+    margin-top: 30px; 
+    margin-bottom: 30px; 
+    font-size: 13px; 
+    color: #888; 
+    letter-spacing: -0.5px;
+  }
+  .source-citation span {
+    margin-right: 5px;
+  }
+  .source-citation a {
+    color: #2c6eb5; 
+    text-decoration: none; 
+    border-bottom: 1px solid #2c6eb5; 
+    transition: all 0.2s ease;
+  }
+  /* 마우스를 올렸을 때 링크 강조 효과 */
+  .source-citation a:hover {
+    color: #1a497d;
+    border-bottom-width: 2px;
+  }
+
+/************************* 🖼️ 캡션(출처/설명)이 포함된 이미지 스타일 ****************************/
+  .captioned-figure {
+    margin: 0 0 25px 0;
+  }
+  .captioned-figure img {
+    width: 100%; 
+    border-radius: 8px; 
+    display: block;
+  }
+  .captioned-figure figcaption {
+    font-size: 13px; 
+    color: #888; 
+    text-align: right; 
+    margin-top: 8px; 
+    letter-spacing: -0.5px;
+  }
+
 /* =========================================
    5. 그 외 CSS (유튜브 반응형, 스크롤탑 버튼 등)
 ========================================= */
