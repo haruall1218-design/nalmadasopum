@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "[대구 가볼 만한 곳] 구름 속을 걷는 기분, 비 오는 날의 운치 있는 비슬산 나들이"
+description: "비 오는 날의 운치 있는 대구 비슬산 대견봉 산행 후기와 투어버스 요금, 추천 등산 코스 등 유용한 방문 가이드를 소개합니다."
 date: 2026-05-23
 categories: daily
 main_menu: "소소한 일상"
@@ -254,11 +255,38 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
 <!-- 📍 비슬산 지도 영역 -->
 
 <div class="blog-map-container">
+  <p class="blog-map-title">⛰️ 오늘 다녀온 곳 : <span class="blog-map-place">비슬산</span> <br> <span class="blog-map-address">혼잡하지 않을 때에는 매표소 바로 근처에도 주차장이 있습니다.</span></p>
+  <div class="blog-map-wrapper">
+    <!-- * 카카오맵 - 지도퍼가기 -->
+    <!-- 1. 지도 노드 -->
+    <div id="daumRoughmapContainer1780029958805" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+
+    <!--
+      2. 설치 스크립트
+      * 지도 퍼가기 서비스를 2개 이상 넣을 경우, 설치 스크립트는 하나만 삽입합니다.
+    -->
+    <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+
+    <!-- 3. 실행 스크립트 -->
+    <script charset="UTF-8">
+      new daum.roughmap.Lander({
+        "timestamp" : "1780029958805",
+        "key" : "2q2ggk9ssrd7",
+        "mapWidth" : "100%",
+        "mapHeight" : "360"
+      }).render();
+    </script>
+  </div>
+</div>
+
+
+
+<!--<div class="blog-map-container">
   <p class="blog-map-title">⛰️ 오늘 다녀온 곳 : <span class="blog-map-place">비슬산</span> <br> <span class="blog-map-address">대구 달성군 유가읍 양리 산1</span></p>
   <div class="blog-map-wrapper">
     <iframe src="https://maps.google.com/maps?q=대구%20달성군%20유가읍%20양리%20산1&t=&z=15&ie=UTF8&iwloc=&output=embed" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
   </div>
-</div>
+</div>-->
 
 ---
 

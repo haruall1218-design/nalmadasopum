@@ -375,6 +375,12 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
 .blog-map-address { font-size: 0.85em; color: #6d6d6d; padding-bottom: 6px; margin-left: 20px; }
 
 
+/************************* 카카오맵 100% 꽉 차게 만드는 반응형 CSS ******************************/
+  .root_daum_roughmap {    width: 100% !important;  }
+  .blog-map-container {    margin: 40px 0;    padding: 20px;    background: #fdfcf9;    border: 1px solid #eee;    border-radius: 8px;  }
+  .blog-map-title {    font-size: 16px;    font-weight: 700;    margin-bottom: 15px;  }
+
+
 /************************* 포스트 내 마크다운 모음 ******************************/
 /* (**글자**) 디자인 */
 .post-content strong { color: #52362d;  font-weight: 700;  background-color: rgba(216, 124, 43, 0.1);   padding: 0 4px;}
