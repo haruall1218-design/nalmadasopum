@@ -19,7 +19,7 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
 
 ---
 
-## 🚌 가파른 길을 오르는 미니 투어버스
+## 🚌 가파른 길을 오르는 미니 투어버스 (발권 꿀팁)
 
 비슬산은 걸어 올라갈 수도 있지만, 미니 투어버스를 타면 대견사 입구까지 편하게 갈 수 있어요. 
 한 번에 약 20여 명 정도 탈 수 있는 버스라 주말이나 사람이 많은 날에는 한참을 기다려야 한다고 들었거든요. 하지만 오늘은 비도 오고 방문객이 적어서 도착하자마자 운 좋게 바로 버스에 탑승할 수 있었습니다. (배차 간격은 약 30분 정도였어요.)
@@ -35,6 +35,13 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
   </div>
 </div>
 
+투어버스와 전기차 탑승권은 승강장 앞에 있는 **'무인 발매기(키오스크)'**에서 직접 결제하시면 됩니다. 여기서 중요한 점은 **'편도 승차권'**만 판매한다는 사실이에요! 따라서 내려오실 때도 상부 승강장에서 다시 표를 끊어야 한다는 점을 꼭 기억해 주세요. 
+
+<div class="photo-tri-container">
+  <div class="photo-tri-item"><img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-bus-03.jpg" alt="승차권 무인 발매기" class="photo-tri-img"></div>
+  <div class="photo-tri-item"><img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-bus-04.jpg" alt="버스 운행 시간표" class="photo-tri-img"></div>
+  <div class="photo-tri-item"><img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-bus-05.jpg" alt="편도 승차권" class="photo-tri-img"></div>
+</div>
 
 
 ---
@@ -43,8 +50,8 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
 
 대견사 입구에 도착하니 산 아래보다 비가 더 많이 내리고 있었어요.  
 
-비옷을 챙겨 입고, 대견사 쪽으로 가니 이럴 수가~~ 물안개가 짙게 드리워져서 구름속에 있는 기분이었어요.
-비록 탁 트인 산 아래 멋진 풍경은 하나도 보지 못했지만, 짙은 안개에 휩싸인 사찰과 산의 모습이 나름대로 정말 운치 있고 신비로웠습니다.
+미리 사둔 비옷을 단단히 챙겨 입고 대견사 쪽으로 걸음을 옮겼는데, 이럴 수가! 물안개가 산허리에 짙게 드리워져서 마치 제가 구름 속에 둥둥 떠 있는 기분이었습니다.
+비록 탁 트인 산 아래 멋진 풍경은 하나도 보지 못했지만, 짙은 안개에 휩싸인 사찰과 산의 모습이 나름대로 정말 운치 있고 신비로웠습니다. 비 오는 날에만 만날 수 있는 특별한 풍경이었죠.
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
@@ -57,71 +64,88 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
 
 ---
 
-## 🪨 거대한 바위들이 멋진 비슬산 능선 걷기
+## 🪨 초보자도 걷기 좋은 비슬산 능선 산책
 
 비슬산은 예전에 겨울 얼음 축제할 때 계곡 쪽에만 가본 게 다여서, 이렇게 위쪽까지 올라와 본 건 이번이 처음이었어요.
-돌산이라는 이야기는 들었지만, 가는 길목 곳곳에 정말 거대하고 멋진 바위들이 많아서 감탄이 절로 나왔습니다.
+저희는 대견사 뒤쪽으로 산을 올라가서, 왼쪽으로 방향을 틀어 백곰바위를 지나 **'비슬산 대견봉'**까지 다녀오는 코스를 선택했습니다. 
 
-저희는 대견사 뒤쪽으로 산을 올라가서, 왼쪽으로 방향을 틀어 백곰바위를 지나 **'비슬산 대견봉'**까지 다녀오는 코스를 선택했어요. 
+돌산이라 비 오는 날 길이 미끄럽고 험할까 봐 걱정했는데, 막상 걸어보니 **나무 데크길과 야자매트가 아주 평탄하게 잘 조성되어 있었습니다.** 
 
-대견봉에서 풍경을(아니, 물안개를 😅) 잠시 감상한 뒤 다시 돌아와 바로 버스 승차장으로 내려갔습니다. 내려오는 길 중간에 유명한 참꽃 군락지로 들어가는 길도 보이더라고요. 바위가 많은 산이지만 나무 데크길이 아주 잘 조성되어 있어서 비가 오는 와중에도 편안하고 안전하게 걸을 수 있었습니다.
+<div class="photo-tri-container">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-01.jpg" alt="대견사로 가는 길" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-02.jpg" alt="대견사 뒤쪽 능선으로 오르는 길" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-13.jpg" alt="안개가 자욱한 데크길" class="photo-tri-img">
+</div>
 
-![비슬산의 능선]({{ site.kor_url }}/assets/images/daily/260523-biseulsan-ridge-01.jpg)
+가는 길목 곳곳에 정말 거대하고 멋진 바위들이 많아서 감탄이 절로 나왔습니다. 특히 '참선 바위'나 '기바위'처럼 이름이 붙은 독특한 모양의 바위들을 구경하는 재미가 쏠쏠했어요. 안개가 자욱하게 깔린 바위 능선은 마치 한 폭의 수묵화를 보는 듯했습니다.
 
-<br>
 <div class="checkerboard-grid">
-    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-01.jpg" alt="대견사로 가는 길">
-    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-02.jpg" alt="대견사 뒤쪽 능선으로 오르는 길">
-    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-03.jpg" alt="비에 젖은 나뭇가지">
-    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-04.jpg" alt="비슬산 능선 1">
-    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-05.jpg" alt="안개가 자욱한 비슬산 바위">
-    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-06.jpg" alt="비슬산 능선 2">
-    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-07.jpg" alt="대견봉 가는 길의 정자">
-    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-08.jpg" alt="대견봉">
-    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-09.jpg" alt="마지막 남은 참꽃">
-    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-10.jpg" alt="비스듬한 소나무">
     <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-11.jpg" alt="참선 바위">
     <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-12.jpg" alt="기바위">
-    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-13.jpg" alt="안개가 자욱한 데크길">
-    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-14.jpg" alt="비슬산 능선 3">
-    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-15.jpg" alt="하산 후 맑게 개인 하늘">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-05.jpg" alt="안개가 자욱한 비슬산 바위">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-06.jpg" alt="비슬산 능선 2">
 </div>
+
+천천히 걸어 드디어 대견봉에 도착했습니다. 대견봉 가는 길에 있는 정자 주변으로는 아직 지지 않고 남아있는 분홍빛 참꽃들이 빗물에 젖어 더욱 선명한 색을 뽐내고 있었어요. 바위틈에서 꿋꿋하게 자란 비스듬한 소나무의 자태도 무척 아름다웠습니다.
+
+<div class="checkerboard-grid">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-07.jpg" alt="대견봉 가는 길의 정자">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-08.jpg" alt="대견봉 비석">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-09.jpg" alt="마지막 남은 참꽃">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-10.jpg" alt="비스듬한 소나무">
+</div>
+
+> ☔ **[날마다 소품]의 비슬산 우중 산행 실전 꿀팁!**
+> 
+> * **우비와 우산, 어느 것이 좋을까?** 산 위쪽은 바람이 제법 불기 때문에 우산보다는 다이소나 편의점에서 파는 저렴한 비옷을 입는 것이 걷기에 훨씬 편합니다. 손이 자유로워야 미끄러운 데크길이나 바윗길에서 안전을 확보할 수 있어요.
+> * **체온 유지 필수:** 5월 하순이라도 비 오는 날 산 정상(해발 1,000m 부근)은 바람이 불어 매우 쌀쌀합니다. 반팔만 입고 가시면 감기에 걸리기 쉬우니, 가방에 얇은 바람막이나 가디건을 꼭 챙겨가세요!
 
 ---
 
-## ⏱️ 짧지만 강렬했던 우중 산행 요약
+## ⏱️ 짧지만 강렬했던 우중 산행 요약 & 하산
+
+대견봉에서 잠시 풍경을(아니, 물안개를 😅) 감상한 뒤 다시 돌아와 바로 버스 승차장으로 내려갔습니다. 내려오는 길 중간에 유명한 참꽃 군락지로 들어가는 길도 눈에 담아 두었답니다. 
 
 오늘의 비슬산 산책 일정을 짧게 요약해 봅니다.
-
 * **12:20** - 상행 버스 탑승
 * **13:45** - 하행 버스 탑승
 * **14:00** - 산 아래 도착
 
-버스를 타는 시간만 왕복 약 30분 정도 걸렸고, 대견사 주변과 능선을 타고 걸어 다닌 시간은 약 1시간 20분 남짓이었네요. 사람이 적어서 버스를 기다리는 시간 없이 바로바로 탈 수 있었던 덕분에 아주 스피디하게 다녀왔습니다.
+버스를 타는 시간만 왕복 약 30분 정도 걸렸고, 대견사 주변과 능선을 타고 걸어 다닌 시간은 약 1시간 20분 남짓이었네요. 사람이 적어서 버스를 기다리는 시간 없이 바로바로 탈 수 있었던 덕분에 아주 스피디하고 알차게 다녀왔습니다.
 
 <div class="photo-tri-container">
-  <div class="photo-tri-item"><img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-bus-03.jpg" alt="승차권 무인 발매기" class="photo-tri-img"></div>
-  <div class="photo-tri-item"><img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-bus-04.jpg" alt="버스 운행 시간표" class="photo-tri-img"></div>
-  <div class="photo-tri-item"><img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-bus-05.jpg" alt="편도 승차권" class="photo-tri-img"></div>
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-04.jpg" alt="비슬산 능선 산책로" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-14.jpg" alt="하산하는 길목" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-rainy-15.jpg" alt="하산 후 맑게 개인 하늘" class="photo-tri-img">
 </div>
 
 ---
 
 ## ⛅ 조금은 아쉬운 마무리, 그리고 다음을 기약하며
 
-그런데 참 야속하게도... 산 아래로 다 내려오니 비가 그치고 날이 맑게 개이고 있는 것 있죠? 
+그런데 참 야속하게도... 산 아래로 다 내려오니 비가 그치고 날이 맑게 개이고 있는 것 있죠? (위 마지막 사진 참고!)
 '위에서 조금만 더 기다렸다면 걷히는 안개 사이로 멋진 풍경을 다 볼 수 있었을 텐데!' 하는 아쉬움이 밀려왔습니다.
 
 그래도 이번 우중 산행이 꽤 매력적이어서 새로운 다짐을 하나 했어요. 
 다음번에 다시 비슬산을 찾게 된다면, 올라갈 때는 버스 대신 등산로를 따라 두 발로 직접 올라가 보려고요. 그리고 내려올 때 버스를 타고 편하게 내려오면, 미처 보지 못했던 풍경도 맘껏 눈에 담을 수 있겠죠?
 
-산 위에서의 짙은 여운과 아쉬움이 너무 크게 남아, 저희는 차를 돌려 인근에 있는 **'유가사'**로 향했습니다. 고즈넉한 유가사에서의 이야기가 궁금하시다면 아래 링크를 클릭해 주세요! 😊
+산 위에서의 짙은 여운과 아쉬움이 너무 크게 남아, 저희는 차를 돌려 인근에 있는 **'유가사'**로 향했습니다. 고즈넉한 유가사에서의 이야기가 궁금하시다면 글 하단의 링크를 클릭해 주세요! 😊
 
 ---
 
 ## 📌 알아두면 유용한 비슬산 방문 가이드
 
 비슬산 방문을 계획하시는 분들을 위해, 꼭 필요한 핵심 정보와 추천 코스를 체계적으로 정리해 드립니다.
+
+<style>
+  /* 📌 알아두면 유용한 가이드 표 스타일 */
+  .guide-table { width: 100%; border-collapse: collapse; margin: 25px 0; font-size: 15px; line-height: 1.6; border-top: 2px solid #333; border-bottom: 2px solid #333; }
+  .guide-table th { background-color: #fdfaf6; font-weight: 700; color: #333; padding: 15px; border-bottom: 1px solid #ddd; }
+  .guide-table td { padding: 15px; border-bottom: 1px solid #eee; color: #444; }
+  .guide-table a { color: #2c6eb5; text-decoration: none; font-weight: 500; border-bottom: 1px solid #2c6eb5; transition: all 0.2s ease-in-out; }
+  .guide-table a:hover { color: #1a497d; border-bottom-width: 2px; }
+  @media (max-width: 768px) { .guide-table th, .guide-table td { padding: 12px 10px; font-size: 14px; } }
+</style>
 
 <table class="guide-table">
   <thead>
@@ -197,15 +221,6 @@ image: "/assets/images/daily/260523-biseulsan-main.jpg"
 산 중턱을 오르다 보면 천연기념물 제435호로 지정된 거대한 **'암괴류(바위 무리)'**를 만날 수 있습니다. 오랜 세월에 걸쳐 형성되어 지름 1~2m의 화강암들이 산기슭을 덮고 있는 국내 최대 규모의 지질 유산으로 그 웅장함에 압도됩니다. 
 
 또한 능선 정상부에는 삼국유사를 집필한 일연 스님이 오랫동안 머물렀던 고찰, **대견사**가 자리하고 있습니다. 1917년 폐사되었다가 약 100년 만인 2014년에 복원된 역사적인 공간으로, 맑은 날 대견사 삼층석탑 앞에 서면 탁 트인 대구 시내 전경이 한눈에 들어옵니다.
-
-<!--<div class="photo-dual-container">
-  <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-guide-rock.jpg" alt="비슬산 천연기념물 거대한 암괴류" class="photo-dual-img">
-  </div>
-  <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260523-biseulsan-guide-temple.jpg" alt="복원된 대견사와 웅장한 삼층석탑" class="photo-dual-img">
-  </div>
-</div>-->
 
 <br>
 
