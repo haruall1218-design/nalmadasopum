@@ -38,7 +38,7 @@ image: "/assets/images/daily/260531-health-care-week5-main.jpg"
     <p style="color: #666; font-size: 16px;">야금야금 살찐 일주일과 타이밍 기막힌 앱 알림</p>
   </div>
 
-  <img src="{{ site.kor_url }}/assets/images/daily/260531-health-care-week5-main.jpg" alt="이번 주 일상 풍경" style="width: 100%; margin-bottom: 40px; object-fit: cover; aspect-ratio: 16/9;">
+  <img src="{{ site.kor_url }}/assets/images/daily/260531-health-care-week5-main1.jpg" alt="이번 주 일상 풍경" style="width: 100%; margin-bottom: 40px; object-fit: cover; aspect-ratio: 16/9;">
 
   <div class="mag-2col">
     <span class="mag-dropcap">벌</span>써 헬스케어 챌린지를 시작한 지 한 달을 넘어 5주 차입니다. 그런데 이번 주는 정말 스스로 반성을 아주 많이 해야 하는 한 주였어요. 지난주까지는 그래도 나름 의지를 불태우며 열심히 했는데, 이번 주는 어디서부터 잘못된 건지 고삐가 완전히 풀려버렸습니다.
