@@ -178,6 +178,7 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 <div class="checkerboard-grid">
   <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-stone-ice-storage-01.jpg" alt="서늘한 바람이 나오는 영산 석빙고 입구">
   <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-stone-ice-storage-02.jpg" alt="석빙고 내부">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-stone-ice-storage-03.jpg" alt="석빙고 입구에서 밖을 바라본 모습">
 </div>
 
 ---
