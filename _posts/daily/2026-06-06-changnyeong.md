@@ -45,10 +45,13 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 이름에 담긴 '번창함'과 '평안함'의 의미처럼 창녕은 천혜의 생태계를 고스란히 간직하고 있습니다. 국내 최대 규모의 내륙 습지이자 생명의 보고인 **우포늪**, 화산의 불기운을 품고 장관을 이루는 억새 명산 **화왕산**, 그리고 사계절 내내 따뜻한 휴식을 내어주는 **부곡온천**까지. 고대의 역사와 눈부신 자연이 오늘날까지 사이좋게 공존하며 빚어내는 풍경들이야말로 창녕이 가진 가장 큰 매력이 아닐까 싶습니다.
 
-
-<div class="checkerboard-grid">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-upo-swamp.jpg" alt="창녕 우포늪">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mountain-rabbit.jpg" alt="산토끼 노래 동산">
+<div class="photo-dual-container">
+  <div class="photo-dual-item">
+    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-upo-swamp.jpg" alt="창녕 우포늪" class="photo-dual-img">
+  </div>
+  <div class="photo-dual-item">
+    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mountain-rabbit.jpg" alt="산토끼 노래 동산" class="photo-dual-img">
+  </div>
 </div>
 
 <div class="source-citation">
@@ -61,11 +64,14 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 창녕에 도착하자마자 가장 먼저 발걸음을 옮긴 곳은 유네스코 세계문화유산에 당당히 등재된 **'창녕 교동과 송현동 고분군'**이었습니다. 앞서 살펴본 5~6세기 비화가야 시대 왕과 지배층들의 무덤이 모여 있는 거대한 터전인데요. 봉분이 뚜렷하게 남아 있는 무덤만 120여기, 깎여나간 무덤까지 합치면 무려 300여 기가 넘는 무덤이 모여 있는 엄청난 규모를 자랑합니다.
 
-<div class="checkerboard-grid">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-01.jpg" alt="교동 고분군 산책로">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-02.jpg" alt="교동 고분군 아래 농지와 호수">
+<div class="photo-dual-container">
+  <div class="photo-dual-item">
+    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-01.jpg" alt="교동 고분군 산책로" class="photo-dual-img">
+  </div>
+  <div class="photo-dual-item">
+    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-02.jpg" alt="교동 고분군 아래 농지와 호수" class="photo-dual-img">
+  </div>
 </div>
-
 
 
 ### 목가적인 교동과, 이색적인 송현동의 매력
@@ -77,11 +83,12 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 도로를 건너 이어지는 **송현동 고분군**은 교동 쪽에 비해 규모는 조금 작지만, 언덕 위에서 내려다보는 풍경이 무척 이색적입니다. 거대한 고대의 무덤들 바로 아래로 현대적인 시가지의 건물과 도로가 바짝 붙어 펼쳐져 있거든요. 고대와 현대의 시간이 한 공간에 공존하는 듯한 묘한 감동이 밀려왔습니다.
 
-<div class="checkerboard-grid">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-03.jpg" alt="송현동 고분군">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-04.jpg" alt="송현동 고분군에서 바라본 창녕시가지">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-05.jpg" alt="송현동 고분군 위에서 내려다 본 모습">
+<div class="photo-tri-container">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-03.jpg" alt="송현동 고분군" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-04.jpg" alt="송현동 고분군에서 바라본 창녕시가지" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-05.jpg" alt="송현동 고분군 위에서 내려다 본 모습" class="photo-tri-img">
 </div>
+
 
 ---
 
@@ -137,19 +144,23 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 ### 그림 같은 산책로, 연지못
 만년교를 보기 전 먼저 인근의 **'연지못'**에 주차를 하고 연못을 한 바퀴 둘러보았습니다. 생각보다 연못 규모가 꽤 컸고, 수면 위를 걷는 듯한 데크 길이 아주 잘 조성되어 있었어요. 
 
-<div class="checkerboard-grid">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-yeonji-01.jpg" alt="데크길이 아름다운 연지못 전경">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-yeonji-02.jpg" alt="연지못 산책로 풍경">
+<div class="photo-dual-container">
+  <div class="photo-dual-item">
+    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-yeonji-01.jpg" alt="데크길이 아름다운 연지못 전경" class="photo-dual-img">
+  </div>
+  <div class="photo-dual-item">
+    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-yeonji-02.jpg" alt="연지못 산책로 풍경" class="photo-dual-img">
+  </div>
 </div>
 
 공원에 세워진 안내판을 꼼꼼히 읽어보니 연지못의 유래가 무척 흥미로웠습니다. 예부터 영산 고을의 진산인 영축산이 불덩어리 형상을 띠고 있어 화재가 자주 일어나자, **'불은 물로 다스린다'**는 오행 사상에 의거해 화기를 누르기 위해 벼루 모양의 못을 처음 만들었다고 해요. 이후 오랜 세월 방치되어 제 구실을 못하던 것을, 1889년(고종 26년) **신관조 현감**이 다시 파내어 개울물을 끌어들이고 하늘의 별(오성)을 본떠 다섯 개의 섬을 만들어 새롭게 정비한 곳이라고 합니다. 
 
 검색해 본 사진 속 연지못은 봄이면 둘레를 따라 벚꽃이 만발해 장관을 이루고, 밤에는 화려한 조명이 물빛에 반사되어 야경이 황홀할 정도로 아름답더라고요. 다음에는 꼭 벚꽃이 피는 계절이나 야간에 맞춰 다시 와야겠다고 다짐했습니다.
 
-<div class="checkerboard-grid">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-yeonji-03.jpg" alt="연지못의 섬">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-yeonji-04.jpg" alt="연지못의 굽어진 데크길">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-yeonji-05.jpg" alt="연지못 섬에서 바라본 풍경">
+<div class="photo-tri-container">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-yeonji-03.jpg" alt="연지못의 섬" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-yeonji-04.jpg" alt="연지못의 굽어진 데크길" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-yeonji-05.jpg" alt="연지못 섬에서 바라본 풍경" class="photo-tri-img">
 </div>
 
 ### 완벽한 원형의 반영, 만년교
@@ -183,10 +194,10 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 호기심에 석빙고 입구 쪽으로 가까이 다가가 보았는데, 신기하게도 한낮의 더위가 무색할 만큼 마치 냉장고의 냉장실 문을 활짝 열었을 때처럼 서늘하고 차가운 바람이 훅 불어 나와 무척 시원했습니다. 선조들의 지혜가 피부로 생생하게 와닿는 이색적인 경험이었습니다.
 
-<div class="checkerboard-grid">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-stone-ice-storage-01.jpg" alt="서늘한 바람이 나오는 영산 석빙고 입구">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-stone-ice-storage-02.jpg" alt="석빙고 내부">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-stone-ice-storage-03.jpg" alt="석빙고 입구에서 밖을 바라본 모습">
+<div class="photo-tri-container">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-stone-ice-storage-01.jpg" alt="서늘한 바람이 나오는 영산 석빙고 입구" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-stone-ice-storage-02.jpg" alt="석빙고 내부" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-stone-ice-storage-03.jpg" alt="석빙고 입구에서 밖을 바라본 모습" class="photo-tri-img">
 </div>
 
 ---
