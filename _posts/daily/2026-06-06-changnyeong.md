@@ -45,8 +45,15 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 이름에 담긴 '번창함'과 '평안함'의 의미처럼 창녕은 천혜의 생태계를 고스란히 간직하고 있습니다. 국내 최대 규모의 내륙 습지이자 생명의 보고인 **우포늪**, 화산의 불기운을 품고 장관을 이루는 억새 명산 **화왕산**, 그리고 사계절 내내 따뜻한 휴식을 내어주는 **부곡온천**까지. 고대의 역사와 눈부신 자연이 오늘날까지 사이좋게 공존하며 빚어내는 풍경들이야말로 창녕이 가진 가장 큰 매력이 아닐까 싶습니다.
 
-![창녕의 아름다운 자연 풍경]({{ site.kor_url }}/assets/images/daily/260606-changnyeong-extra-01.jpg)
 
+<div class="checkerboard-grid">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-upo-swamp.jpg" alt="창녕 우포늪">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mountain-rabbit.jpg" alt="산토끼 노래 동산">
+</div>
+
+<div class="source-citation">
+  <span>※ 예전에 다녀온 우포늪과 산토끼 노래동산 사진</span>
+</div>
 ---
 
 <a id="tomb"></a>
@@ -56,7 +63,7 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 <div class="checkerboard-grid">
   <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-01.jpg" alt="교동 고분군 산책로">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-02.jpg" alt="송현동 고분군 전경">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-02.jpg" alt="교동 고분군 아래 농지와 호수">
 </div>
 
 
@@ -71,8 +78,9 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 도로를 건너 이어지는 **송현동 고분군**은 교동 쪽에 비해 규모는 조금 작지만, 언덕 위에서 내려다보는 풍경이 무척 이색적입니다. 거대한 고대의 무덤들 바로 아래로 현대적인 시가지의 건물과 도로가 바짝 붙어 펼쳐져 있거든요. 고대와 현대의 시간이 한 공간에 공존하는 듯한 묘한 감동이 밀려왔습니다.
 
 <div class="checkerboard-grid">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-03.jpg" alt="고분군 풍경 추가 1">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-04.jpg" alt="고분군 풍경 추가 2">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-03.jpg" alt="송현동 고분군">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-04.jpg" alt="송현동 고분군에서 바라본 창녕시가지">
+  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-05.jpg" alt="송현동 고분군 위에서 내려다 본 모습">
 </div>
 
 ---
