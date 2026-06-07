@@ -192,9 +192,27 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 </div>
 
 <div class="photo-tri-container">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-01.jpg" alt="데크길이 아름다운 연지못 전경" class="photo-tri-img">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-02.jpg" alt="물에 비쳐 동그란 원을 그리는 만년교 반영" class="photo-tri-img">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-03.jpg" alt="연지못 산책로 풍경" class="photo-tri-img">
+  <img src=" class="photo-tri-img">
+  <img src=" class="photo-tri-img">
+  <img src=" class="photo-tri-img">
+</div>
+
+<div class="photo-dual-container">
+  <div class="photo-dual-item">
+    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-01.jpg" alt="물에 비쳐 동그란 원을 그리는 만년교 반영"class="photo-dual-img">
+  </div>
+  <div class="photo-dual-item">
+    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-02.jpg" alt="옆에서 본 만년교와 비석" class="photo-dual-img">
+  </div>
+</div>
+
+<div class="photo-dual-container">
+  <div class="photo-dual-item">
+    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-03.jpg" alt="만년교 비석"class="photo-dual-img">
+  </div>
+  <div class="photo-dual-item">
+    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-04.jpg" alt="만년교" class="photo-dual-img">
+  </div>
 </div>
 
 만년교의 진짜 매력은 다리 정면에서 바라볼 때 나타납니다. 반원 모양의 다리가 잔잔한 수면에 거울처럼 반사되면서, 마치 캔버스 위에 컴퍼스로 그린 듯한 하나의 완벽하고 동그란 보름달(원)을 만들어 내거든요. 그 풍경이 어찌나 신비롭고 아름답던지 한참을 넋을 잃고 바라보았습니다.
