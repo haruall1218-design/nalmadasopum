@@ -120,7 +120,7 @@ image: "/assets/images/daily/260531-health-care-week5-main.jpg"
 >💡 **[날마다 소품]의 산책 및 건강 기록 더 보기**
 
 <div class="post-card-grid">
-  {% include post-card.html url="/daily/2026/05/24/health-care-week4.html" %}
-  {% include post-card.html url="/daily/2026/05/23/biseulsan-rainy-day.html" %}
+  {% include post-card.html url="/daily/2026/05/24/health-care-4-week.html" %}
+  {% include post-card.html url="/daily/2026/05/23/biseulsan.html" %}
   {% include post-card.html url="/daily/2026/05/16/igok-rose-park.html" %}
 </div>
