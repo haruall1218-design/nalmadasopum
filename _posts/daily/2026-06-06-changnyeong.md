@@ -199,7 +199,7 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-01.jpg" alt="물에 비쳐 동그란 원을 그리는 만년교 반영"class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-01.jpg" alt="물에 비쳐 동그란 원을 그리는 만년교 반영" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
     <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-02.jpg" alt="옆에서 본 만년교와 비석" class="photo-dual-img">
