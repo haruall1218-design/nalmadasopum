@@ -5,7 +5,7 @@ description: "비사벌의 역사가 숨 쉬는 생태도시 창녕. 교동·송
 date: 2026-06-06
 categories: daily
 main_menu: "소소한 일상"
-tags: [대구 근교 나들이, 창녕 여행, 교동고분군, 송현동고분군, 창녕박물관, 만년교, 연지못, 진흥왕척경비, 영산석빙고, 유네스코세계유산, 우포늪, 부곡온천]
+tags: [오늘의 단상, 대구 근교 나들이, 창녕 여행, 교동고분군, 송현동고분군, 창녕박물관, 만년교, 연지못, 진흥왕척경비, 영산석빙고, 유네스코세계유산, 우포늪, 부곡온천]
 image: "/assets/images/daily/260606-changnyeong-main.jpg"
 ---
 
@@ -19,13 +19,7 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 ![파란 하늘과 하얀 구름, 초록빛 봉분이 어우러진 교동 고분군 풍경]({{ site.kor_url }}/assets/images/daily/260606-changnyeong-main.jpg)
 
-<style>
-  .toc-container { background-color: #fdfaf6; padding: 25px; border-radius: 8px; margin-bottom: 40px; border: 1px solid #efe9e1; }
-  .toc-title { font-weight: 700; font-size: 16px; margin-bottom: 15px; color: #8a7b66; }
-  .toc-list { list-style-type: none; padding-left: 0; line-height: 2.0; margin-bottom: 0; font-size: 15px; }
-  .toc-list a { color: #444; text-decoration: none; border-bottom: 1px dashed #ccc; transition: all 0.2s; }
-  .toc-list a:hover { color: #2c6eb5; font-weight: 500; }
-</style>
+
 
 <div class="toc-container">
   <p class="toc-title">📋 목차 (클릭하면 이동합니다)</p>
@@ -199,12 +193,7 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 <a id="guide"></a>
 ## 📌 알아두면 유용한 창녕 나들이 방문 가이드
 
-<style>
-  .guide-table { width: 100%; border-collapse: collapse; margin: 25px 0; font-size: 15px; line-height: 1.6; border-top: 2px solid #333; border-bottom: 2px solid #333; }
-  .guide-table th { background-color: #fdfaf6; font-weight: 700; color: #333; padding: 15px; border-bottom: 1px solid #ddd; }
-  .guide-table td { padding: 15px; border-bottom: 1px solid #eee; color: #444; }
-  @media (max-width: 768px) { .guide-table th, .guide-table td { padding: 12px 10px; font-size: 14px; } }
-</style>
+
 
 <table class="guide-table">
   <thead>
