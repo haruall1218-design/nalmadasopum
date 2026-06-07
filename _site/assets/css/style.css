@@ -457,7 +457,13 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
 
 
 /************************* 📋 목차(Table of Contents) 스타일 ****************************/
-  .toc-container {
+
+  .toc-container { background-color: #fdfaf6; padding: 25px; border-radius: 8px; margin-bottom: 40px; border: 1px solid #efe9e1; }
+  .toc-title { font-weight: 700; font-size: 16px; margin-bottom: 15px; color: #8a7b66; }
+  .toc-list { list-style-type: none; padding-left: 0; line-height: 2.0; margin-bottom: 0; font-size: 15px; }
+  .toc-list a { color: #444; text-decoration: none; border-bottom: 1px dashed #ccc; transition: all 0.2s; }
+  .toc-list a:hover { color: #2c6eb5; font-weight: 500; }
+ /* .toc-container {
     background-color: #f9f9f9; 
     padding: 20px; 
     border-radius: 8px; 
@@ -481,11 +487,10 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
     text-decoration: none;
     transition: color 0.2s ease-in-out;
   }
-  /* 마우스를 올렸을 때 살짝 강조되는 효과 */
   .toc-list a:hover {
     color: #2c6eb5; 
     text-decoration: underline;
-  }
+  }*/
 
 /************************* 📖 출처 표기 영역 스타일 ****************************/
   .source-citation {
