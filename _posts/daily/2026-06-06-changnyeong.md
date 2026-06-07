@@ -67,6 +67,7 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 창녕에 도착하자마자 가장 먼저 발걸음을 옮긴 곳은 유네스코 세계문화유산에 당당히 등재된 **'창녕 교동과 송현동 고분군'**이었습니다. 앞서 살펴본 5~6세기 비화가야 시대 왕과 지배층들의 무덤이 모여 있는 거대한 터전인데요. 
 <br><br>
 봉분이 뚜렷하게 남아 있는 무덤만 120여기, 깎여나간 무덤까지 합치면 무려 300여 기가 넘는 무덤이 모여 있는 엄청난 규모를 자랑합니다.
+또한 창녕교동과 송현동 고분군이 유네스코 세계유산에도 등재되어 있답니다.
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
@@ -191,12 +192,6 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
   <a href="https://www.heritage.go.kr/" target="_blank" rel="noopener noreferrer">국가유산포털 홈페이지 (https://www.heritage.go.kr/)</a>
 </div>
 
-<div class="photo-tri-container">
-  <img src=" class="photo-tri-img">
-  <img src=" class="photo-tri-img">
-  <img src=" class="photo-tri-img">
-</div>
-
 <div class="photo-dual-container">
   <div class="photo-dual-item">
     <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-01.jpg" alt="물에 비쳐 동그란 원을 그리는 만년교 반영" class="photo-dual-img">
@@ -210,7 +205,7 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-03.jpg" alt="만년교 비석"class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-03.jpg" alt="만년교 비석" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
     <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-04.jpg" alt="만년교" class="photo-dual-img">
@@ -283,7 +278,8 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
     <tr>
       <td><strong>🌐 관련 링크</strong></td>
       <td>
-        <a href="https://www.cng.go.kr/tour.web" target="_blank" rel="noopener noreferrer" style="color: #2c6eb5; font-weight: 600; text-decoration: none;">👉 창녕 문화관광 공식 홈페이지 바로가기</a>
+        <a href="https://www.cng.go.kr/tour.web" target="_blank" rel="noopener noreferrer" style="color: #2c6eb5; font-weight: 600; text-decoration: none;">👉 창녕 문화관광 공식 홈페이지 바로가기</a><br>
+        <a href="https://www.heritage.go.kr/" target="_blank" rel="noopener noreferrer" style="color: #2c6eb5; font-weight: 600; text-decoration: none;">👉 국가문화유산 포털 홈페이지 바로가기</a>
       </td>
     </tr>
   </tbody>
@@ -354,7 +350,7 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 >💡 **[날마다 소품]의 대구 근교 나들이 기록 더 보기**
 
 <div class="post-card-grid">
-  {% include post-card.html url="/daily/2026/05/23/biseulsan-rainy-day.html" %}
-  {% include post-card.html url="/daily/2026/05/23/yugasa-templestay.html" %}
+  {% include post-card.html url="/daily/2026/05/23/biseulsan.html" %}
+  {% include post-card.html url="/daily/2026/05/23/yugasa.html" %}
   {% include post-card.html url="/daily/2026/05/09/yeongcheon-purple-canola.html" %}
 </div>
