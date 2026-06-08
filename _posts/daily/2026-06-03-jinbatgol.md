@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[대구 수성구 가볼 만한 곳] 선거일의 황금빛 나들이, 수성구 진밭골 '생각을 담는 길' 트레킹"
+title: "[대구 가볼 만한 곳] 선거일의 황금빛 나들이, 수성구 진밭골 '생각을 담는 길' 트레킹"
 description: "대구 수성구 범물동에 위치한 진밭골 둘레길(생각을 담는 길 6코스) 방문 후기입니다. 대덕지 금계국 풍경부터 진밭골 야영장, 안산대룡폭포까지 시원한 계곡 트레킹 코스를 소개합니다."
 date: 2026-06-03
 categories: daily
@@ -14,8 +14,6 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 오늘(2026년 6월 3일)은 지방선거일이었습니다. 소중한 한 표를 행사하고 기분 좋게 투표소를 나서니 날씨가 어찌나 맑은지, 그냥 집으로 가기 아쉬웠어요. 
 
 마침 SNS에서 노란 금계국이 황금빛 물결을 이루고 있다는 수성구 진밭골 소식을 접하고 남편에게 졸라 산림공원으로 향했습니다. "벌써 유월인데 꽃이 아직 남아있을까?" 하는 걱정 반, 기대 반으로 진밭골 산림공원에 도착했습니다. 도심에서 불과 몇 분 거리인데, 마치 깊은 산속에 들어온 듯 싱그러운 자연이 저희를 맞이했습니다. 주차장도 무료라 편하게 차를 대고 나들이를 시작했습니다.
-
-![진밭골 산림공원 무료 주차장 전경]({{ site.kor_url }}/assets/images/daily/260603-jinbatgol-parking.jpg)
 
 ![대덕지 둘레를 화사하게 물들인 황금빛 금계국 풍경]({{ site.kor_url }}/assets/images/daily/260603-jinbatgol-main.jpg)
 
@@ -42,7 +40,7 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 
 임진왜란과 병자호란 시절, 전란을 피해 경주 최씨, 전주 최씨 일가들이 정착하면서 부락이 형성되었다고 해요. 골짜기 맨 끝동네인 '진밭마을'과 여기서 약 3km 아래에 위치한 '가락골'로 이루어져 있습니다. 가락골은 주변 계곡의 풍경이 워낙 아름다워 처음에는 '가곡(佳谷)'이라 불리다가 소리가 변해 가락골이 되었다는 낭만적인 이야기도 전해집니다.
 
-![진밭골의 역사와 유래를 설명하는 안내판]({{ site.kor_url }}/assets/images/daily/260603-jinbatgol-history-sign.jpg)
+![대덕지 전경]({{ site.kor_url }}/assets/images/daily/260603-jinbatgol-01.jpg)
 
 ### '진밭골'이라는 이름의 유래
 '진밭골'이라는 이름의 유래는 다소 현실적입니다. 옛날에 이 골짜기의 땅이 너무나도 질고 짙어서(매우 질어서) 농사를 짓기가 어려웠다고 해요. 그래서 주민들이 '물이 질퍽거리는 밭'이라는 뜻의 **'진 밭'**, 즉 **'진밭골'**로 부르게 된 것입니다. 한자로는 수전(水田) 혹은 물밭으로 불렸지요.
@@ -185,8 +183,6 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 ### 비밀스럽게 숨은 안산대룡폭포
 오늘 우리의 1차 목적지인 **'안산대룡폭포'**를 향해 부지런히 발걸음을 재촉했습니다. 폭포 이정표에 도착했는데, 아쉽게도 초여름의 녹음이 너무 울창하고 나뭇잎이 빽빽하게 우거진 탓에 폭포의 장엄한 전경이 가려져 정작 폭포수는 직접 보기 어려웠습니다. 못내 서운한 마음이 들려던 찰나, 올라오는 길목마다 우릴 위로하듯 쫄쫄쫄 맑은 소리를 내며 쏟아지던 작은 폭포(?)들이 있어 시원함을 느낄 수 있었습니다. 나뭇잎 사이로 비밀스럽게 숨은 폭포의 물줄기를 사진에 담아보았습니다.
 
-![울창한 나무에 가려 비밀스럽게 숨은 안산대룡폭포]({{ site.kor_url }}/assets/images/daily/260603-jinbatgol-waterfall.jpg)
-
 <figure class="captioned-figure">
   <img src="{{ site.kor_url }}/assets/images/daily/260603-jinbatgol-waterfall.jpg" alt="울창한 나무에 가려 비밀스럽게 숨은 안산대룡폭포">
   <figcaption>사진출처: 행복수성 문화관광 홈페이지</figcaption>
@@ -212,7 +208,7 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
   <tbody>
     <tr>
       <td><strong>📍 주소</strong></td>
-      <td>대구광역시 수성구 진밭길 413 (범물동 산림공원 일대)</td>
+      <td>지번대구 수성구 범물동 921-1 (범물동 산림공원 일대)</td>
     </tr>
     <tr>
       <td><strong>💰 입장료 / 주차</strong></td>
@@ -227,7 +223,7 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
       <td>
         가족 단위 휴양지로 인기가 높은 <strong>'진밭골 야영장'</strong>은 사전 예약제로 운영됩니다.<br>
         <a href="https://www.suseong.kr/camping" target="_blank" rel="noopener noreferrer" style="color: #2c6eb5; font-weight: 600; text-decoration: none;">👉 수성구 진밭골 야영장 공식 예약 페이지 바로가기</a><br>
-         <a href="https://www.suseong.kr/tour/index.do" target="_blank" rel="noopener noreferrer" style="color: #2c6eb5; font-weight: 600; text-decoration: none;">👉 행복수성 문화관광 홈페이지 바로가기</a>
+         <a href="https://www.suseong.kr/tour/index.do" target="_blank" rel="noopener noreferrer" style="color: #2c6eb5; font-weight: 600; text-decoration: none;">👉 행복수성 문화관광 홈페이지 바로가기</a><br>
           <a href="https://www.suseong.kr/camping" target="_blank" rel="noopener noreferrer" style="color: #2c6eb5; font-weight: 600; text-decoration: none;">👉 수성구 진밭골 야영장 공식 예약 페이지 바로가기</a>
       </td>
     </tr>
@@ -251,7 +247,7 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 ## 🗺️ 대구 진밭골 찾아가는 길
 
 <div class="blog-map-container">
-  <p class="blog-map-title">🏯 오늘 다녀온 곳 : <span class="blog-map-place">진밭골 산림공원 (대덕지) 공영주차장</span> <br> <span class="blog-map-address" style="font-weight:400; font-size:14px; color:#666;">대구광역시 수성구 범물동 1262</span></p>
+  <p class="blog-map-title">🏯 오늘 다녀온 곳 : <span class="blog-map-place">진밭골 산림공원 (대덕지) 공영주차장</span> <br> <span class="blog-map-address" style="font-weight:400; font-size:14px; color:#666;">대구광역시 수성구 범물동 262</span></p>
   <div class="blog-map-wrapper">
     <!-- * 카카오맵 - 지도퍼가기 -->
 <!-- 1. 지도 노드 -->
@@ -274,6 +270,8 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 </script>
   </div>
 </div>
+
+![진밭골 주차장]({{ site.kor_url }}/assets/images/daily/260603-jinbatgol-parking.jpg)
 
 ---
 
