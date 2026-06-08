@@ -97,7 +97,7 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
   <thead>
     <tr>
       <th style="width: 15%; text-align: center;">🔖 코스</th>
-      <th style="width: 25%; text-align: left;">🌱 코스 이름</th>
+      <th style="width: 15%; text-align: left;">🌱 코스 이름</th>
       <th style="text-align: left;">📍 주요 지점 및 구간</th>
     </tr>
   </thead>
@@ -129,14 +129,14 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
     <tr>
       <td style="text-align: center;"><strong>5코스</strong></td>
       <td>내관지길</td>
-      <td>라이온즈파크 ➡️ 전설로 ➡️ 대구스타디움(2km) ➡️ 내관지(3.5km) ➡️ 내관지 ➡️ 청계사(5km) ➡️ 진밭골(6.5km) <br>
-      ※ 청계사 ~ 진밭골 구간은 산길로 이어지는 코스이니 등산화, 등산복 등을 착용하시고 이용하시기 바랍니다. <br>
+      <td>라이온즈파크 ➡️ 전설로 ➡️ 대구스타디움(2km) ➡️ 내관지(3.5km) ➡️ 내관지 ➡️ 청계사(5km) ➡️ 진밭골(6.5km) <br><br>
+      ※ 청계사 ~ 진밭골 구간은 산길로 이어지는 코스이니 등산화, 등산복 등을 착용하시고 이용하시기 바랍니다. 
       해당 구간 자전거 이용 힘듦 [도보 1시간 ~ 3시간]</td>
     </tr>
     <tr style="background-color: #fdfdfd; font-weight: 600;">
       <td style="text-align: center; color: #2c6eb5;"><strong>6코스 ★</strong></td>
-      <td style="color: #2c6eb5;">진밭골길 (난이도: 중)</td>
-      <td>대덕지 ➡️ 진밭골야영장(1km) ➡️ 대룡폭포(2.5km) ➡️ 백련사(4km) ➡️ 백련사 ➡️ 산림욕장(5km) ➡️ 진밭못(5.5km) <br>
+      <td style="color: #2c6eb5;">진밭골길<br>(난이도: 중)</td>
+      <td>대덕지 ➡️ 진밭골야영장(1km) ➡️ 대룡폭포(2.5km) ➡️ 백련사(4km) ➡️ 백련사 ➡️ 산림욕장(5km) ➡️ 진밭못(5.5km) <br><br>
       ※ 해당코스의 경우 경사가 존재하니 자전거 이용 시 유의하시기 바랍니다.<br>
       [도보 68분, 자전거 20분]</td>
     </tr>
@@ -292,10 +292,10 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 
 ---
 
->💡 **[날마다 소품]의 대구 나들이 기록 더 보기**
+>💡 **[날마다 소품]의 나들이 기록 더 보기**
 
 <div class="post-card-grid">
-  {% include post-card.html url="/daily/2026/06/06/changnyeong-travel.html" %}
-  {% include post-card.html url="/daily/2026/05/23/biseulsan-rainy-day.html" %}
-  {% include post-card.html url="/daily/2026/05/16/igok-rose-park.html" %}
+  {% include post-card.html url="/daily/2026/06/06/changnyeong.html" %}
+  {% include post-card.html url="/daily/2026/05/16/ihyeon-park.html" %}
+  {% include post-card.html url="/daily/2026/05/09/yeongcheon-purple-canola.html" %}
 </div>
