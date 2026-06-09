@@ -35,7 +35,7 @@
 .story-card img { width: 100%; aspect-ratio: 1 / 0.7; object-fit: cover; border-radius: 6px; margin-bottom: 15px; transition: transform 0.5s; }
 .story-card:hover img { transform: scale(1.05); }
 .card-meta { font-family: 'Newsreader', serif; color: #52362d; font-size: 14px; font-style: italic; font-weight: 500; }
-.card-title { font-size: 24px; line-height: 1.25; color: #1d1b19; margin: 0; transition: color 0.3s; font-family: 'Newsreader', serif; padding: 16px 0; letter-spacing: -1.5px;}
+.card-title { font-size: 22px; line-height: 1.25; color: #1d1b19; margin: 0; transition: color 0.3s; font-family: 'Newsreader', serif; padding: 16px 0; letter-spacing: -1.5px;}
 .card-title a { text-decoration: none; color: #222; }
 .card-excerpt { font-size: 15.2px; color: #504440; line-height: 1.5; }
 .bottom-action-banners { display: grid; grid-template-columns: 1.6fr 1fr; gap: 30px; margin-bottom: 60px; }
@@ -246,8 +246,8 @@ a:hover { text-decoration: underline; }
 .post-header { margin-bottom: 30px; }
 
 /* 기본 제목 스타일 (20자 미만일 때 70px) */
-.post-title { font-family: 'Manrope', sans-serif; font-size: 70px; line-height: 1.1; color: #1b3022; font-weight: 300; margin-bottom: 48px; margin-top: 0; letter-spacing: -1.5px; width: 80%; }
-.post-title.long-title { font-size: 60px; }/* 💡 제목이 25자 이상이라서 'long-title' 클래스가 붙었을 때 (60px로 축소) */
+.post-title { font-family: 'Manrope', sans-serif; font-size: 70px; line-height: 1.1; color: #1b3022; font-weight: 300; margin-bottom: 48px; margin-top: 0; letter-spacing: -1.5px; width: 95%; }
+.post-title.long-title { font-size: 55px; }/* 💡 제목이 25자 이상이라서 'long-title' 클래스가 붙었을 때 (60px로 축소) */
 
 .post-meta { font-family: 'Manrope', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.25em; color: rgba(74, 93, 74, 0.6); margin-bottom: 30px; }
 .meta-divider { width: 40px; height: 1px; background-color: #d6d0c4; }
