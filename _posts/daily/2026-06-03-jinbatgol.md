@@ -202,7 +202,7 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
   <tbody>
     <tr>
       <td><strong>📍 주소</strong></td>
-      <td>지번대구 수성구 범물동 921-1 (범물동 산림공원 일대)</td>
+      <td>대구 수성구 범물동 921-1 (범물동 산림공원 일대)</td>
     </tr>
     <tr>
       <td><strong>💰 입장료 / 주차</strong></td>
@@ -254,7 +254,7 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 	new daum.roughmap.Lander({
 		"timestamp" : "1780901079229",
 		"key" : "p6vcai8nxdt",
-		"mapWidth" : "640",
+		"mapWidth" : "100%",
 		"mapHeight" : "360"
 	}).render();
 </script>
