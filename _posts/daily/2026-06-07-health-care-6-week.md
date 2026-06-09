@@ -39,7 +39,7 @@ image: "/assets/images/daily/260607-health-week6-main.jpg"
     <p style="color: #666; font-size: 16px;">주간 63,473보의 기록과 초여름의 불청객 아메리카노 속 쓰림</p>
   </div>
 
-  <img src="{{ site.kor_url }}/assets/images/daily/20260607-health-week6-main01.jpg" alt="초여름의 푸르름이 가득한 6주 차 걷기 운동 길" style="width: 100%; margin-bottom: 40px; object-fit: cover; aspect-ratio: 16/9; border-radius: 8px;">
+  <img src="{{ site.kor_url }}/assets/images/daily/260607-health-week6-main01.jpg" alt="초여름의 푸르름이 가득한 6주 차 걷기 운동 길" style="width: 100%; margin-bottom: 40px; object-fit: cover; aspect-ratio: 16/9; border-radius: 8px;">
 
   <div class="mag-2col">
     <span class="mag-dropcap">보</span>건소 모바일 헬스케어 챌린지를 시작한 지가 엊그제 같은데 벌써 6주 차 일요일을 맞이했습니다. 이번 한 주는 유독 달력에 빨간 날(지방선거일)도 끼어 있고 날씨도 화창해서, 그 어느 때보다 대구 근교와 도심 구석구석을 활기차게 누비고 다닌 역동적인 일주일이었어요. 
@@ -76,9 +76,9 @@ image: "/assets/images/daily/260607-health-week6-main.jpg"
   <p>선거일이었던 수요일에는 투표를 마치고 곧장 수성구 진밭골로 향해 청량한 계곡 트레킹을 즐겼고, 주말에는 발길 닿는 곳마다 보물이 가득한 창녕으로 당일치기 여행을 다녀왔습니다. 그리고 오늘(7일) 일요일에는 가볍게 대구 달서구에 있는 학산 둘레길을 찾으며 한 주를 마무리했습니다.</p>
 
   <div class="photo-tri-container">
-    <div class="photo-tri-item"><img src="{{ site.kor_url }}/assets/images/daily/20260607-jinbatgol-review.jpg" alt="수성구 진밭골 트레킹" class="photo-tri-img"></div>
-    <div class="photo-tri-item"><img src="{{ site.kor_url }}/assets/images/daily/20260607-changnyeong-review.jpg" alt="창녕 고분군 산책" class="photo-tri-img"></div>
-    <div class="photo-tri-item"><img src="{{ site.kor_url }}/assets/images/daily/20260607-haksan-review.jpg" alt="대구 학산 둘레길" class="photo-tri-img"></div>
+    <div class="photo-tri-item"><img src="{{ site.kor_url }}/assets/images/daily/260607-jinbatgol-review.jpg" alt="수성구 진밭골 트레킹" class="photo-tri-img"></div>
+    <div class="photo-tri-item"><img src="{{ site.kor_url }}/assets/images/daily/260607-changnyeong-review.jpg" alt="창녕 고분군 산책" class="photo-tri-img"></div>
+    <div class="photo-tri-item"><img src="{{ site.kor_url }}/assets/images/daily/260607-haksan-review.jpg" alt="대구 학산 둘레길" class="photo-tri-img"></div>
   </div>
 
   <p>모바일 헬스케어 앱을 사용하면서 가장 신경 쓰게 되는 부분 중 하나가 바로 <strong>'중강도 운동 시간'</strong>인데요. 보건소에서 유독 이 중강도 운동을 강조하는 데는 분명한 의학적 이유가 있습니다. 단순히 산책하듯 느리게 걷는 것만으로는 칼로리 소모는 될지 몰라도, 심혈관 건강을 개선하거나 끈질긴 내장지방을 효과적으로 태우는 데는 한계가 있기 때문입니다.</p>
