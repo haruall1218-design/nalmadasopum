@@ -66,10 +66,10 @@ image: "/assets/images/daily/260531-health-care-week5-main.jpg"
   <div class="photo-dual-container">
     <div class="photo-dual-item">
       <img src="{{ site.kor_url }}/assets/images/daily/260531-health-care-week5-food-01.jpg" alt="수목원 산책" class="photo-dual-img" style="aspect-ratio: 4/5;">
-    </div>
+      <span class="photo-caption">수목원 산책</span></div>
     <div class="photo-dual-item">
       <img src="{{ site.kor_url }}/assets/images/daily/260531-health-care-week5-food-02.jpg" alt="북적이는 서문시장" class="photo-dual-img" style="aspect-ratio: 4/5;">
-    </div>
+      <span class="photo-caption">북적이는 서문시장</span></div>
   </div>
 
   <br><br>
