@@ -6,7 +6,7 @@ date: 2026-06-07
 categories: daily
 main_menu: "소소한 일상"
 tags: [건강한 습관 챌린지, 모바일 헬스케어, 대구 학산 둘레길, 진밭골 트레킹, 창녕 여행, 만보 걷기, 중강도 운동, 다이어트 눈바디, 체지방률 감소, 초여름 건강관리]
-image: "/assets/images/daily/20260607-health-week6-main.jpg"
+image: "/assets/images/daily/260607-health-week6-main.jpg"
 ---
 
 <div class="mag-container">
