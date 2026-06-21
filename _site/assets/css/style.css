@@ -467,28 +467,10 @@ font-weight: bold;cursor: pointer;user-select: none; /* 클릭 시 텍스트 블
 
 
 /************************* 📖 출처 표기 영역 스타일 ****************************/
-  .source-citation {
-    text-align: right; 
-    margin-top: 20px; 
-    margin-bottom: 30px; 
-    font-size: 13px; 
-    color: #888; 
-    letter-spacing: -0.5px;
-  }
-  .source-citation span {
-    margin-right: 5px;
-  }
-  .source-citation a {
-    color: #2c6eb5; 
-    text-decoration: none; 
-    border-bottom: 1px solid #2c6eb5; 
-    transition: all 0.2s ease;
-  }
-  /* 마우스를 올렸을 때 링크 강조 효과 */
-  .source-citation a:hover {
-    color: #1a497d;
-    border-bottom-width: 2px;
-  }
+.source-citation { text-align: right; margin-top: 20px; margin-bottom: 30px; font-size: 13px; color: #888; letter-spacing: -0.5px; display: block; clear: both; word-break: keep-all; }
+.source-citation span { margin-right: 5px; }
+.source-citation a { color: #2c6eb5; text-decoration: none; border-bottom: 1px solid #2c6eb5; transition: all 0.2s ease; }
+.source-citation a:hover { color: #1a497d; border-bottom-width: 2px; }
 
 /************************* 🖼️ 캡션(출처/설명)이 포함된 이미지 스타일 ****************************/
   .captioned-figure {
