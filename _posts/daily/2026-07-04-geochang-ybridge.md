@@ -161,8 +161,8 @@ image: "/assets/images/daily/260704-geochang-main.jpg"
     <tr>
       <td><strong>⏰ 개방 시기 (운영 시간)</strong></td>
       <td>
-        <strong>하절기 (3월 ~ 11월) :</strong> 09:00 ~ 17:50<br>
-        <strong>동절기 (12월 ~ 2월) :</strong> 09:00 ~ 16:50
+        <strong>하절기 (3월 ~ 11월) :</strong> 09:00 ~ 17:50 (셔틀이용 : 17시까지)<br>
+        <strong>동절기 (12월 ~ 2월) :</strong> 09:00 ~ 16:50 (셔틀이용 : 16시까지)
       </td>
     </tr>
     <tr>
