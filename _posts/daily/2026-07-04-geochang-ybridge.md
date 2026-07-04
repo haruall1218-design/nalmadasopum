@@ -15,9 +15,14 @@ image: "/assets/images/daily/260704-geochang-main.jpg"
 
 올해 '2026년 거창 방문의 해'를 맞아 더욱 볼거리가 풍성했던 우두산 항노화 힐링랜드와 짜릿한 Y자 출렁다리 방문기를 생생하게 전해드릴게요!
 
-![아름다운 우두산 절경과 아찔한 Y자 출렁다리]({{ site.kor_url }}/assets/images/daily/260704-geochang-main.jpg)
-
-![우두산 정상에서 바라본 Y자 출렁다리]({{ site.kor_url }}/assets/images/daily/260704-geochang-main02.jpg)
+<div class="photo-dual-container">
+  <div class="photo-dual-item">
+    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-main.jpg" alt="아름다운 우두산 절경과 아찔한 Y자 출렁다리" class="photo-dual-img">
+  </div>
+  <div class="photo-dual-item">
+    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-main02.jpg" alt="우두산 정상에서 바라본 Y자 출렁다리" class="photo-dual-img">
+  </div>
+</div>
 
 <div class="toc-container">
   <p class="toc-title">📋 목차 (클릭하면 이동합니다)</p>
@@ -130,7 +135,6 @@ image: "/assets/images/daily/260704-geochang-main.jpg"
 
 정상에는 **조그마한 Y자 전망대**와 새 둥지처럼 동그랗게 생긴 **'둥지 전망대'**가 마련되어 있습니다. 둥지 전망대에 올라서니 이마에 맺힌 땀을 씻어주는 시원한 산바람과 탁 트인 발아래 절경 덕분에 가슴이 뻥 뚫리는 기분이었습니다. 
 
-
 기분 좋게 하산하여 힐링랜드 쪽으로 내려오니, 산림휴양관과 숲속의 집 같은 훌륭한 숙박시설들이 자연과 조화롭게 어우러져 있었습니다. 기회가 된다면 예약 전쟁에 참전해서 꼭 1박을 해보고 싶더라고요. 다리가 불편하시거나 어린아이를 동반한 분들도 편하게 숲을 즐길 수 있도록 경사가 완만한 **무장애 데크로드**도 무척 잘 조성되어 있었습니다.
 
 산책로 끝자락에 설치된 **'헬스게이트'**에서 각자의 뱃살(?) 크기에 맞는 칸을 통과해 보는 소소한 재미도 놓치지 마세요! 
@@ -156,14 +160,14 @@ image: "/assets/images/daily/260704-geochang-main.jpg"
     </tr>
     <tr>
       <td><strong>💵 요금</strong></td>
-      <td>일반 3,000원 (만7세이상 ~ 만 65세 미만)</td>
+      <td>일반 3,000원 (만 7세 이상 ~ 만 65세 미만)</td>
     </tr>
     <tr>
       <td><strong>⏰ 개방 시기 (운영 시간)</strong></td>
       <td>
-        <strong>하절기 (3월 ~ 10월) :</strong> 09:00 ~ 17:50 (셔틀이용 : 17시까지)<br>
-        <strong>동절기 (11월 ~ 2월) :</strong> 09:00 ~ 16:50 (셔틀이용 : 16시까지)<br>
-        셔틀버스 운영기간 : 3월 중순 ~ 12월 중순
+        <strong>하절기 (3월 ~ 10월) :</strong> 09:00 ~ 17:50 (셔틀 이용: 17시까지)<br>
+        <strong>동절기 (11월 ~ 2월) :</strong> 09:00 ~ 16:50 (셔틀 이용: 16시까지)<br>
+        셔틀버스 운영 기간 : 3월 중순 ~ 12월 중순
       </td>
     </tr>
     <tr>
@@ -199,17 +203,8 @@ image: "/assets/images/daily/260704-geochang-main.jpg"
 <div class="blog-map-container">
   <p class="blog-map-title">🌊 오늘 다녀온 곳 : <span class="blog-map-place">거창 항노화 힐링랜드 (Y자 출렁다리)</span> <br> <span class="blog-map-address" style="font-weight:400; font-size:14px; color:#666;">경상남도 거창군 가조면 수월리 산19</span></p>
   <div class="blog-map-wrapper">
-    <!-- * 카카오맵 - 지도퍼가기 -->
-    <!-- 1. 지도 노드 -->
     <div id="daumRoughmapContainer1783173938356" class="root_daum_roughmap root_daum_roughmap_landing"></div>
-
-    <!--
-        2. 설치 스크립트
-        * 지도 퍼가기 서비스를 2개 이상 넣을 경우, 설치 스크립트는 하나만 삽입합니다.
-    -->
     <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
-
-    <!-- 3. 실행 스크립트 -->
     <script charset="UTF-8">
         new daum.roughmap.Lander({
             "timestamp" : "1783173938356",
