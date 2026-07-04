@@ -155,19 +155,24 @@ image: "/assets/images/daily/260704-geochang-main.jpg"
       <td>경남 거창군 가조면 의상봉길 834 (거창항노화힐링랜드)</td>
     </tr>
     <tr>
-      <td><strong>📞 문의전화</strong></td>
-      <td>055-940-7930</td>
+      <td><strong>💵 요금</strong></td>
+      <td>일반 3,000원 (만7세이상 ~ 만 65세 미만)</td>
     </tr>
     <tr>
       <td><strong>⏰ 개방 시기 (운영 시간)</strong></td>
       <td>
-        <strong>하절기 (3월 ~ 11월) :</strong> 09:00 ~ 17:50 (셔틀이용 : 17시까지)<br>
-        <strong>동절기 (12월 ~ 2월) :</strong> 09:00 ~ 16:50 (셔틀이용 : 16시까지)
+        <strong>하절기 (3월 ~ 10월) :</strong> 09:00 ~ 17:50 (셔틀이용 : 17시까지)<br>
+        <strong>동절기 (11월 ~ 2월) :</strong> 09:00 ~ 16:50 (셔틀이용 : 16시까지)<br>
+        셔틀버스 운영기간 : 3월 중순 ~ 12월 중순
       </td>
     </tr>
     <tr>
       <td><strong>❌ 휴무일</strong></td>
       <td><strong>매주 화요일 휴무</strong></td>
+    </tr>
+    <tr>
+      <td><strong>📞 문의전화</strong></td>
+      <td>055-940-7930</td>
     </tr>
     <tr>
       <td><strong>🎫 주요 특징</strong></td>
