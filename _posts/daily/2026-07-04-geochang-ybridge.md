@@ -55,7 +55,7 @@ image: "/assets/images/daily/260704-geochang-main.jpg"
 <a id="climbing"></a>
 ## 🥾 2. 마음의 평화가 찾아오는 길, 힐링 계단 오르기
 
-입구에서 출렁다리로 올라가려는데 두 갈래 길이 나타났습니다. **'바로 가는 길, 오르미 길(약 20분 소요)'**과 **'둘러 가는 길(약 40분 소요)'**이었죠. 저희는 시간을 아끼기 위해 20분이 걸리는 바로 가는 길을 선택했습니다.
+입구에서 출렁다리로 올라가려는데 두 갈래 길이 나타났습니다. **'바로 가는 길 (약 20분 소요)'**과 **'둘러 가는 길(약 40분 소요)'**이었죠. 저희는 시간을 아끼기 위해 20분이 걸리는 **바로 가는 길(오르미 길)**을 선택했습니다.
 
 <div class="photo-tri-container">
   <div class="photo-tri-item">
@@ -63,8 +63,8 @@ image: "/assets/images/daily/260704-geochang-main.jpg"
     <span class="photo-caption">Y자 출렁다리로 가는 두 갈래로 나뉘는 길</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-stairs-02.jpg" alt="계단에 적힌 따뜻한 힐링 문구" class="photo-tri-img">
-    <span class="photo-caption">경사가 심하지 않아 오르기 편한 나무 계단</span>
+    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-stairs-02.jpg" alt="경사가 심하지 않아 오르기 편한 계단" class="photo-tri-img">
+    <span class="photo-caption">경사가 심하지 않아 오르기 편한 계단</span>
   </div>
   <div class="photo-tri-item">
     <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-stairs-03.jpg" alt="칼로리 소모를 알려주는 재미있는 계단 문구" class="photo-tri-img">
