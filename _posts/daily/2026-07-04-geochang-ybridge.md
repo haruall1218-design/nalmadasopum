@@ -40,7 +40,7 @@ image: "/assets/images/daily/260704-geochang-main.jpg"
 <div class="photo-dual-container">
   <div class="photo-dual-item">
     <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-parking.jpg" alt="거창 항노화 힐링랜드 주말 임시 주차장에 마련된 매표소 모습" class="photo-dual-img">
-    <span class="photo-caption">넓게 마련된 주말 임시 주차장</span>
+    <span class="photo-caption">거창 항노화 힐링랜드 주말 임시 주차장에 마련된 매표소 모습</span>
   </div>
   <div class="photo-dual-item">
     <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-shuttle.jpg" alt="힐링랜드로 향하는 40인승 무료 셔틀버스" class="photo-dual-img">
