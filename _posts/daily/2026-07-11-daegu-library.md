@@ -88,6 +88,11 @@ image: "/assets/images/daily/260711-daegu-library-main.jpg"
   </tbody>
 </table>
 
+<div class="source-citation">
+  <span>※ 참고 자료 및 출처 :</span>
+  <a href="https://library.daegu.go.kr/dglib/index.do" target="_blank" rel="noopener noreferrer">대구도서관</a>
+</div>
+
 ---
 
 <a id="special"></a>
@@ -180,6 +185,10 @@ image: "/assets/images/daily/260711-daegu-library-main.jpg"
 <div style="text-align: center; margin: 30px 0;">
   <img src="{{ site.kor_url }}/assets/images/daily/260711-daegu-library-service.jpg" alt="대구도서관 내 책두루서비스 이용 안내 데스크 모습" style="max-width: 100%; border-radius: 8px;">
   <br><span class="photo-caption">전국 최초로 도입되어 편리함을 더하는 책두루서비스</span>
+</div>
+<div class="source-citation">
+  <span>※ 참고 자료 및 출처 :</span>
+  <a href="https://library.daegu.go.kr/dginterlib/index.do" target="_blank" rel="noopener noreferrer">대구도서관 책두루 서비스</a>
 </div>
 
 운영 주체가 서로 다른 공공도서관들을 하나의 시스템으로 완벽하게 연계한 아주 훌륭한 행정 서비스죠. 작년 2025년 11월 시범 운영을 성공적으로 마치고 현재 단계별로 활발히 시행 중입니다.
