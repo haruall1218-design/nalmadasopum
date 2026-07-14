@@ -45,7 +45,7 @@ image: "/assets/images/daily/260712-health-care-week11-main.jpg"
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="{{ site.kor_url }}/assets/images/daily/260712-library-main.jpg" alt="더위를 피해 방문한 쾌적한 신축 도서관 내부 전경" style="max-width: 100%; border-radius: 8px;">
-  <br><span class="photo-caption">찜통더위를 완벽하게 잊게 해 준 쾌적한 신축 도서관 전경</span>
+  <br><span class="photo-caption">찜통더위를 완벽하게 잊게 해 준 쾌적한 신축 대구도서관 전경</span>
 </div>
 
 <div class="toc-container">
@@ -128,11 +128,11 @@ image: "/assets/images/daily/260712-health-care-week11-main.jpg"
       <span style="font-size: 22px; margin-right: 8px;">🔥</span> 30도가 넘는 폭염, 야외 운동은 '독'입니다
     </h4>
     <p style="margin: 0; color: #555; font-size: 15px; line-height: 1.6;">
-      기온이 33도 이상 올라가는 날씨에 무리하게 야외 걷기를 하면, 체내 열이 발산되지 않아 심부 체온이 상승하고 탈수 및 일사병 같은 온열질환에 걸릴 위험이 급증합니다.<br>
+      기온이 33℃ 이상인 날에는 무리하게 야외 걷기를 하면, 체내의 열이 충분히 배출되지 않아 심부체온이 상승하고 탈수 및 일사병 같은 온열질환에 걸릴 위험이 급증합니다.<br>
       <strong>[대처법]</strong><br>
       ✔ 해가 없는 <strong>이른 새벽이나 늦은 밤</strong>으로 시간을 변경하세요.<br>
-      ✔ 오늘 저처럼 도서관, 대형 마트, 지하상가 등 에어컨이 가동되는 <strong>실내에서 걷기(몰 워킹)</strong>로 대체하세요.<br>
-      ✔ 운동 강도를 평소의 <strong>70~80% 수준으로 낮추고</strong>, 갈증이 나기 전에 미리 수분과 전해질을 섭취해야 합니다.
+      ✔ 오늘 저처럼 도서관, 대형 마트, 지하상가 등 냉방이 되는 <strong>실내에서 걷기(몰 워킹)</strong>로 대체하는 것도 좋은 방법입니다.<br>
+      ✔ 운동 강도를 평소의 <strong>70~80% 수준으로 조절하고</strong>, 갈증이 나기 전에 미리 수분과 전해질을 섭취해야 합니다.
     </p>
   </div>
 
@@ -144,7 +144,7 @@ image: "/assets/images/daily/260712-health-care-week11-main.jpg"
     <p style="margin: 0; color: #555; font-size: 15px; line-height: 1.6;">
       카페인은 뇌에서 피로를 느끼게 하는 수용체를 차단하여 각성 효과를 줍니다. 사람마다 다르지만 카페인의 <strong>반감기(체내 농도가 절반으로 줄어드는 시간)는 보통 4~6시간, 길게는 10시간 이상</strong> 지속됩니다.<br>
       <strong>[대처법 및 다이어트 영향]</strong><br>
-      수면 부족은 식욕을 억제하는 호르몬(렙틴)을 줄이고, 식욕을 촉진하는 호르몬(그렐린)을 폭발적으로 증가시켜 <strong>다이어트의 가장 큰 적</strong>이 됩니다. 숙면을 통한 컨디션 회복을 위해, 카페인에 민감한 분이라면 <strong>오후 2시 이후에는 커피 섭취를 엄격하게 제한</strong>하는 것이 모바일 헬스케어 성공의 지름길입니다.
+      수면 부족은 식욕을 억제하는 렙틴을 감소시키고, 식욕을 촉진하는 호르몬인 그렐린의 분비를 증가시켜 <strong>다이어트의 가장 큰 적</strong>이 됩니다. 숙면을 통한 컨디션 회복을 위해, 카페인에 민감한 분이라면 <strong>카페인에 민감한 분이라면 오후 2시 이후에는 커피 등 카페인이 함유된 음료 섭취를 줄이는 것이 좋습니다.</strong>
     </p>
   </div>
 
