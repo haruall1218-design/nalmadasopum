@@ -16,8 +16,8 @@ image: "/assets/images/daily/260711-daegu-library-main.jpg"
 그래서 이번 주말에는 더위도 피하고 마음의 양식도 든든하게 채울 겸, 대구 남구에 새롭게 문을 연 신축 **'대구도서관'**에 다녀왔습니다. 옛 미군반환부지에 지어진 이곳은 단순한 도서관을 넘어 복합 문화 공간으로서의 매력이 가득했는데요. 깔끔한 시설부터 방대한 자료, 그리고 여유로운 공간이 주는 힐링까지, 완벽했던 하루의 방문 후기와 이용 꿀팁을 아주 상세하게 전해드릴게요!
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="{{ site.kor_url }}/assets/images/daily/260711-daegu-library-main.jpg" alt="깔끔하고 현대적인 분위기의 신축 대구도서관 외관" style="max-width: 100%; border-radius: 8px;">
-  <br><span class="photo-caption">깔끔하고 세련된 현대적인 분위기를 물씬 풍기는 대구도서관 외관</span>
+  <img src="{{ site.kor_url }}/assets/images/daily/260711-daegu-library-main.jpg" alt="깔끔하고 현대적인 분위기의 신축 대구도서관 내부" style="max-width: 100%; border-radius: 8px;">
+  <br><span class="photo-caption">깔끔하고 세련된 현대적인 분위기를 물씬 풍기는 대구도서관 내부</span>
 </div>
 
 <div class="toc-container">
