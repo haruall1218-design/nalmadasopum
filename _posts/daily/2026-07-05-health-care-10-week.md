@@ -155,6 +155,18 @@ image: "/assets/images/daily/260705-health-care-week10-main.jpg"
     </div>
     <p style="margin: 0 0 0 40px; color: #555; font-size: 15px; line-height: 1.6;">심박수가 빠르게 상승하여 온몸으로 혈액을 강하게 펌프질 해줍니다. 또한 목표 지점(정상)에 도달했을 때의 엄청난 성취감과 쾌감은 다량의 엔돌핀을 분비시켜, 다이어트로 인한 스트레스를 해소하고 운동을 지속할 수 있는 원동력이 됩니다.</p>
   </div>
+
+   ※ 건강상식의 내용은 참고용으로만 사용하시고, 의학적인 자문이나 진단이 필요한 경우 전문가에게 문의하세요.
+
 </div>
 
+
 오랜 정체기라는 터널 안에서 조급해하는 대신, 거창 힐링랜드의 끝없는 계단을 오르며 몸에 건강한 자극을 듬뿍 선사했던 10주 차였습니다. 때로는 숨이 턱끝까지 차오르는 작은 도전이 쳇바퀴 같은 일상에 신선한 활력을 불어넣어 주는 것 같습니다. 두 자릿수 주차를 넘어선 지금, 한층 더 단단해진 몸과 마음으로 11주 차의 미션을 향해 활기차게 나아가겠습니다! 😊
+
+>💡 **[날마다 소품]의 산책 및 건강 기록 더 보기**
+
+<div class="post-card-grid">
+  {% include post-card.html url="/daily/2026/06/28/health-care-9-week.html" %}
+  {% include post-card.html url="/daily/2026/06/13/masan.html" %}
+  {% include post-card.html url="/daily/2026/07/04/geochang-ybridge.html" %}
+</div>

@@ -138,6 +138,18 @@ image: "/assets/images/daily/260614-health-care-week7-main.jpg"
       <p style="margin: 0; font-size: 15px; color: #666; line-height: 1.6;">식단 관리를 잘하고 있다고 생각하지만 나도 모르게 무심코 마시는 믹스커피 한 잔, 달콤한 제철 과일 몇 조각이 정체기의 주범일 수 있습니다. 내가 먹은 모든 것을 객관적으로 다시 한번 점검하고, 체지방 분해 대사를 원활하게 돕는 하루 1.5~2L 이상의 수분(맹물) 섭취를 꼭 지켜주세요.</p>
     </li>
   </ul>
+
+  
+   ※ 건강상식의 내용은 참고용으로만 사용하시고, 의학적인 자문이나 진단이 필요한 경우 전문가에게 문의하세요.
+
 </div>
 
 이번 7주 차는 숫자의 변화는 눈에 띄게 더뎠지만, 도심 속 아름다운 공원을 누비며 건강을 가꾸고 걷는 즐거움의 본질을 깨달은 뜻깊은 한 주였습니다. 정체기가 조금 길어지더라도 흔들리지 않고, 8주 차에도 저만의 페이스대로 꾸준하고 단단하게 걸어나가 보겠습니다. 파이팅! 😊
+
+>💡 **[날마다 소품]의 산책 및 건강 기록 더 보기**
+
+<div class="post-card-grid">
+  {% include post-card.html url="/daily/2026/06/07/health-care-6-week.html" %}
+  {% include post-card.html url="/daily/2026/06/13/masan.html" %}
+  {% include post-card.html url="/daily/2026/06/06/changnyeong.html" %}
+</div>

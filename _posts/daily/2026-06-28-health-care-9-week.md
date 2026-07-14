@@ -166,6 +166,17 @@ image: "/assets/images/daily/260628-health-care-week9-main.jpg"
     </p>
   </div>
 
+  
+   ※ 건강상식의 내용은 참고용으로만 사용하시고, 의학적인 자문이나 진단이 필요한 경우 전문가에게 문의하세요.
+
 </div>
 
 정체기라는 늪에서 조급해하기보다, 시장과 하천을 구경하며 일상의 활동량을 늘려나가는 '니트 다이어트'의 진가를 몸소 깨달은 9주 차였습니다. 억지로 하는 숙제가 아니라, 매일매일 내 일상에 활력을 불어넣는 기분 좋은 걷기 습관! 다음 주 10주 차에는 거창 출렁다리에서의 짜릿한 걷기 기록으로 다시 돌아오겠습니다. 😊
+
+>💡 **[날마다 소품]의 산책 및 건강 기록 더 보기**
+
+<div class="post-card-grid">
+  {% include post-card.html url="/daily/2026/06/21/health-care-8-week.html" %}
+  {% include post-card.html url="/daily/2026/06/13/masan.html" %}
+  {% include post-card.html url="/daily/2026/06/06/changnyeong.html" %}
+</div>

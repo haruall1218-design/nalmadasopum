@@ -153,3 +153,11 @@ image: "/assets/images/daily/260712-health-care-week11-main.jpg"
 </div>
 
 단순히 많이 걷고 적게 먹는 것만이 능사가 아니라, 날씨에 맞춰 유연하게 대처하고 꿀잠(숙면)을 통해 몸을 회복시키는 것이 건강한 일상의 진짜 핵심이라는 것을 몸소 체험한 11주 차였습니다. 다음 주부터는 무리한 샷 추가를 절대 삼가며, 다시 맑은 정신으로 12주 차 미션을 향해 걸어가겠습니다! 😊
+
+>💡 **[날마다 소품]의 산책 및 건강 기록 더 보기**
+
+<div class="post-card-grid">
+  {% include post-card.html url="/daily/2026/07/05/health-care-10-week.html" %}
+  {% include post-card.html url="/daily/2026/06/13/masan.html" %}
+  {% include post-card.html url="/daily/2026/07/04/geochang-ybridge.html" %}
+</div>

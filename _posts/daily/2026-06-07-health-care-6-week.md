@@ -103,6 +103,9 @@ image: "/assets/images/daily/260607-health-care-week6-main.jpg"
     ✔️ <strong>신체적 변화:</strong> 이마나 등에 땀이 촉촉하게 배어나고, 심장이 평소보다 빠르게 두근거리는 상태.
   </p>
 
+
+   ※ 건강상식의 내용은 참고용으로만 사용하시고, 의학적인 자문이나 진단이 필요한 경우 전문가에게 문의하세요.
+
   <p>중강도 운동을 지속하면 시간이 지날수록 지방 사용 비율이 증가하며, 특히 20분 전후부터 지방 대사가 더욱 활발해지는 경향이 있습니다. 또한 인슐린 감수성이 향상되어 혈당 조절과 대사증후군 예방에 도움이 됩니다.</p>
   
   <p>제 손목에 찬 스마트 밴드가 심박수를 체크해서 이 시간을 아주 정직하게 기록해 주는데요. 이번 주 진밭골의 약간 가파른 계곡길을 오를 때나, 창녕의 넓은 고분군 언덕을 부지런히 걸어 다녔던 날에는 밴드에 중강도 운동 시간이 꽉 차게 기록되어 어찌나 뿌듯하던지요! 앞으로도 평지를 걸을 때는 조금 더 보폭을 넓히고 속도를 높여서, 이 '가볍게 숨이 찬 텐션'을 꼭 유지해야겠다고 다짐했습니다.</p>
@@ -134,10 +137,10 @@ image: "/assets/images/daily/260607-health-care-week6-main.jpg"
 
 ---
 
->💡 **[날마다 소품]의 건강한 일상 기록 더 보기**
+>💡 **[날마다 소품]의 산책 및 건강 기록 더 보기**
 
 <div class="post-card-grid">
-  {% include post-card.html url="/daily/2026/06/06/changnyeong-travel.html" %}
-  {% include post-card.html url="/daily/2026/06/03/jinbatgol-trekking.html" %}
-  {% include post-card.html url="/daily/2026/05/24/health-care-week5.html" %}
+  {% include post-card.html url="/daily/2026/05/31/health-care-5-week.html" %}
+  {% include post-card.html url="/daily/2026/05/23/biseulsan.html" %}
+  {% include post-card.html url="/daily/2026/06/06/changnyeong.html" %}
 </div>
