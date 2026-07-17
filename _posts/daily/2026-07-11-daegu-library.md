@@ -232,7 +232,7 @@ image: "/assets/images/daily/260711-daegu-library-main.jpg"
 >💡 **[날마다 소품]의 산책 및 건강 기록 더 보기**
 
 <div class="post-card-grid">
-  {% include post-card.html url="/daily/2026/07/05/health-care-10-week.html" %}
+  {% include post-card.html url="/daily/2026/07/12ㅊ/health-care-11-week.html" %}
   {% include post-card.html url="/daily/2026/06/13/masan.html" %}
   {% include post-card.html url="/daily/2026/07/04/geochang-ybridge.html" %}
 </div>
