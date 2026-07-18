@@ -6,7 +6,7 @@ date: 2026-07-05
 categories: health
 main_menu: "소소한 일상"
 tags: [건강한 습관 챌린지, 모바일 헬스케어, 거창 여행, 거창 가볼 만한 곳, Y자 출렁다리, 우두산 걷기, 계단 오르기 효과, 등산 다이어트, 다이어트 정체기]
-image: "/assets/images/helath/260705-health-care-week10-main.jpg"
+image: "/assets/images/health/260705-health-care-week10-main.jpg"
 ---
 
 <div class="mag-tracker">
@@ -44,7 +44,7 @@ image: "/assets/images/helath/260705-health-care-week10-main.jpg"
 사실 제 몸의 수치적 변화는 지난주와 동일하게 변동 없이 '정체기'라는 늪에 꽤 오래 머물고 있습니다. 평범한 동네 평지 산책로를 매일 걷는 것에 제 몸이 너무 완벽하게 적응해 버린 탓도 있는 것 같더라고요. 그래서 이번 주말에는 제 몸의 평온한(?) 근육들에게 새롭고 신선한 자극을 팍팍 주기 위해, 대구를 훌쩍 벗어나 **경남 거창 우두산에 위치한 항노화 힐링랜드**로 떠났습니다. 숲속의 맑은 공기를 마시며 땀 흘려 오르고, 아찔한 Y자 출렁다리를 건너며 온몸의 세포를 깨웠던 10주 차의 활기찬 기록을 시작합니다.
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="{{ site.kor_url }}/assets/images/helath/260705-healthcare-main.jpg" alt="거창 우두산의 기암괴석과 붉은색 Y자 출렁다리의 장엄한 풍경" style="max-width: 100%; border-radius: 8px;">
+  <img src="{{ site.kor_url }}/assets/images/health/260705-healthcare-main.jpg" alt="거창 우두산의 기암괴석과 붉은색 Y자 출렁다리의 장엄한 풍경" style="max-width: 100%; border-radius: 8px;">
   <br><span class="photo-caption">해발 600m 우두산 절벽을 잇는 장엄한 Y자 출렁다리</span>
 </div>
 
@@ -82,11 +82,11 @@ image: "/assets/images/helath/260705-health-care-week10-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/helath/260705-stairs-01.jpg" alt="출렁다리로 향하는 우두산의 숲속 나무 계단" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/health/260705-stairs-01.jpg" alt="출렁다리로 향하는 우두산의 숲속 나무 계단" class="photo-dual-img">
     <span class="photo-caption">출렁다리로 향하는 피톤치드 가득한 나무 계단</span>
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/helath/260705-stairs-02.jpg" alt="Y자 출렁다리 안내판" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/health/260705-stairs-02.jpg" alt="Y자 출렁다리 안내판" class="photo-dual-img">
     <span class="photo-caption">Y자 출렁다리 안내판</span>
   </div>
 </div>
@@ -104,15 +104,15 @@ image: "/assets/images/helath/260705-health-care-week10-main.jpg"
 
 <div class="photo-tri-container">
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/helath/260705-bridge-01.jpg" alt="우두산 협곡을 잇는 장엄한 Y자 출렁다리" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/health/260705-bridge-01.jpg" alt="우두산 협곡을 잇는 장엄한 Y자 출렁다리" class="photo-tri-img">
     <span class="photo-caption">세 봉우리를 연결한 아찔한 Y자 출렁다리</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/helath/260705-view-01.jpg" alt="전망대에서 내려다본 거창 항노화 힐링랜드" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/health/260705-view-01.jpg" alt="전망대에서 내려다본 거창 항노화 힐링랜드" class="photo-tri-img">
     <span class="photo-caption">전망대에서 내려다본 거창 항노화 힐링랜드</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/helath/260705-nest-01.jpg" alt="독특한 새 둥지 모양의 우두산 둥지 전망대" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/health/260705-nest-01.jpg" alt="독특한 새 둥지 모양의 우두산 둥지 전망대" class="photo-tri-img">
     <span class="photo-caption">가슴이 뻥 뚫리는 시원한 뷰의 둥지 전망대</span>
   </div>
 </div>

@@ -5,7 +5,7 @@ date: 2026-05-03
 categories: health
 main_menu: "소소한 일상"      
 tags: [건강한 습관 챌린지, 모바일 헬스케어, 27주 챌린지, 다이어트 식단, 걷기 운동, 건강관리, 보건소]           
-image: "/assets/images/helath/260503-health-care-week1-main.jpg"   
+image: "/assets/images/health/260503-health-care-week1-main.jpg"   
 ---
 
 
@@ -66,7 +66,7 @@ image: "/assets/images/helath/260503-health-care-week1-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 4월 27일 (월)</div>
-    <img src="{{ site.kor_url }}/assets/images/helath/260503-health-care-week1-02.jpg" alt="월요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/health/260503-health-care-week1-02.jpg" alt="월요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 460 kcal 💦</div>
       <div class="diet-menu">
@@ -83,7 +83,7 @@ image: "/assets/images/helath/260503-health-care-week1-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 4월 28일 (화)</div>
-    <img src="{{ site.kor_url }}/assets/images/helath/260503-health-care-week1-03.jpg" alt="화요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/health/260503-health-care-week1-03.jpg" alt="화요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 545 kcal</div>
       <div class="diet-menu">
@@ -98,7 +98,7 @@ image: "/assets/images/helath/260503-health-care-week1-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 4월 29일 (수)</div>
-    <img src="{{ site.kor_url }}/assets/images/helath/260503-health-care-week1-04.jpg" alt="수요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/health/260503-health-care-week1-04.jpg" alt="수요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 535 kcal</div>
       <div class="diet-menu">
@@ -115,7 +115,7 @@ image: "/assets/images/helath/260503-health-care-week1-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 4월 30일 (목)</div>
-    <img src="{{ site.kor_url }}/assets/images/helath/260503-health-care-week1-05.jpg" alt="목요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/health/260503-health-care-week1-05.jpg" alt="목요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 615 kcal 💦</div>
       <div class="diet-menu">
@@ -133,7 +133,7 @@ image: "/assets/images/helath/260503-health-care-week1-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 1일 (금)</div>
-    <img src="{{ site.kor_url }}/assets/images/helath/260503-health-care-week1-06.jpg" alt="금요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/health/260503-health-care-week1-06.jpg" alt="금요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 570 kcal</div>
       <div class="diet-menu">
@@ -150,7 +150,7 @@ image: "/assets/images/helath/260503-health-care-week1-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 2일 (토)</div>
-    <img src="{{ site.kor_url }}/assets/images/helath/260503-health-care-week1-07.jpg" alt="토요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/health/260503-health-care-week1-07.jpg" alt="토요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 400 kcal 💦</div>
       <div class="diet-menu">
@@ -167,7 +167,7 @@ image: "/assets/images/helath/260503-health-care-week1-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 3일 (일)</div>
-    <img src="{{ site.kor_url }}/assets/images/helath/260503-health-care-week1-08.jpg" alt="일요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/health/260503-health-care-week1-08.jpg" alt="일요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 560 kcal</div>
       <div class="diet-menu">

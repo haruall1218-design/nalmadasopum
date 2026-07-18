@@ -6,7 +6,7 @@ date: 2026-07-12
 categories: health
 main_menu: "소소한 일상"
 tags: [건강한 습관 챌린지, 모바일 헬스케어, 대프리카 더위, 폭염 걷기, 신축 도서관, 실내 걷기, 불면증, 카페인 부작용, 여름철 운동, 건강상식]
-image: "/assets/images/helath/260712-health-care-week11-main.jpg"
+image: "/assets/images/health/260712-health-care-week11-main.jpg"
 ---
 
 <div class="mag-tracker">
@@ -44,7 +44,7 @@ image: "/assets/images/helath/260712-health-care-week11-main.jpg"
 첫 번째 복병은 바로 대구 특유의 숨 막히는 '폭염'이었고, 두 번째 복병은 제 스스로가 초래한 뼈아픈 '불면증'이었습니다. 38~39도를 육박하는 찜통더위 속에서 살아남기 위해 고군분투했던 이야기, 그리고 무심코 마신 커피 한 잔이 헬스케어 루틴에 어떤 엄청난 나비효과를 불러일으켰는지 지금부터 생생하게 들려드릴게요.
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="{{ site.kor_url }}/assets/images/helath/260712-library-main.jpg" alt="더위를 피해 방문한 쾌적한 신축 도서관 내부 전경" style="max-width: 100%; border-radius: 8px;">
+  <img src="{{ site.kor_url }}/assets/images/health/260712-library-main.jpg" alt="더위를 피해 방문한 쾌적한 신축 도서관 내부 전경" style="max-width: 100%; border-radius: 8px;">
   <br><span class="photo-caption">찜통더위를 완벽하게 잊게 해 준 쾌적한 신축 대구도서관 전경</span>
 </div>
 
@@ -77,15 +77,15 @@ image: "/assets/images/helath/260712-health-care-week11-main.jpg"
 
 <div class="photo-tri-container">
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/helath/260712-library-01.jpg" alt="새 책 냄새가 가득한 신축 도서관의 깔끔한 서가" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/health/260712-library-01.jpg" alt="새 책 냄새가 가득한 신축 도서관의 깔끔한 서가" class="photo-tri-img">
     <span class="photo-caption">새 책 냄새가 가득한 신축 도서관의 깔끔한 서가</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/helath/260712-library-02.jpg" alt="창밖 풍경을 보며 책을 읽을 수 있는 쾌적한 열람실" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/health/260712-library-02.jpg" alt="창밖 풍경을 보며 책을 읽을 수 있는 쾌적한 열람실" class="photo-tri-img">
     <span class="photo-caption">창밖 풍경을 보며 책을 읽을 수 있는 쾌적한 열람실</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/helath/260712-library-03.jpg" alt="대구도서관 1층 홀의 모습" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/health/260712-library-03.jpg" alt="대구도서관 1층 홀의 모습" class="photo-tri-img">
     <span class="photo-caption">대구도서관 1층 홀의 모습</span>
   </div>
 </div>

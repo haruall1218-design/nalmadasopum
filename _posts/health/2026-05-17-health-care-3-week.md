@@ -5,7 +5,7 @@ date: 2026-05-17
 categories: health
 main_menu: "소소한 일상"      
 tags: [건강한 습관 챌린지, 모바일 헬스케어, 27주 챌린지, 다이어트 식단, 걷기 운동, 건강관리, 보건소]           
-image: "/assets/images/helath/260517-health-care-week3-main.jpg"   
+image: "/assets/images/health/260517-health-care-week3-main.jpg"   
 ---
 
 <div class="challenge-tracker">
@@ -53,7 +53,7 @@ image: "/assets/images/helath/260517-health-care-week3-main.jpg"
 
 지난주 수분 섭취량에 대해 궁금한 점을 앱을 통해 상담해 보았어요.
 
-![수분 섭취량에 대한 상담 내용]({{ site.kor_url }}/assets/images/helath/260517-health-care-week3-08.jpg)
+![수분 섭취량에 대한 상담 내용]({{ site.kor_url }}/assets/images/health/260517-health-care-week3-08.jpg)
 
 ---
 
@@ -65,7 +65,7 @@ image: "/assets/images/helath/260517-health-care-week3-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 11일 (월)</div>
-    <img src="{{ site.kor_url }}/assets/images/helath/260517-health-care-week3-01.jpg" alt="월요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/health/260517-health-care-week3-01.jpg" alt="월요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 615 kcal 💦</div>
       <div class="diet-menu">
@@ -82,7 +82,7 @@ image: "/assets/images/helath/260517-health-care-week3-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 12일 (화)</div>
-    <img src="{{ site.kor_url }}/assets/images/helath/260517-health-care-week3-02.jpg" alt="화요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/health/260517-health-care-week3-02.jpg" alt="화요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 420 kcal💦</div>
       <div class="diet-menu">
@@ -100,7 +100,7 @@ image: "/assets/images/helath/260517-health-care-week3-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 13일 (수)</div>
-    <img src="{{ site.kor_url }}/assets/images/helath/260517-health-care-week3-03.jpg" alt="수요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/health/260517-health-care-week3-03.jpg" alt="수요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 630 kcal💦</div>
       <div class="diet-menu">
@@ -117,7 +117,7 @@ image: "/assets/images/helath/260517-health-care-week3-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 14일 (목)</div>
-    <img src="{{ site.kor_url }}/assets/images/helath/260517-health-care-week3-04.jpg" alt="목요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/health/260517-health-care-week3-04.jpg" alt="목요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 500 kcal </div>
       <div class="diet-menu">
@@ -132,7 +132,7 @@ image: "/assets/images/helath/260517-health-care-week3-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 15일 (금)</div>
-    <img src="{{ site.kor_url }}/assets/images/helath/260517-health-care-week3-05.jpg" alt="금요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/health/260517-health-care-week3-05.jpg" alt="금요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 965 kcal  💦💣</div>
       <div class="diet-menu">
@@ -147,7 +147,7 @@ image: "/assets/images/helath/260517-health-care-week3-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 16일 (토)</div>
-    <img src="{{ site.kor_url }}/assets/images/helath/260517-health-care-week3-06.jpg" alt="토요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/health/260517-health-care-week3-06.jpg" alt="토요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 425 kcal 💦</div>
       <div class="diet-menu">
@@ -164,7 +164,7 @@ image: "/assets/images/helath/260517-health-care-week3-main.jpg"
 
   <div class="diet-card">
     <div class="diet-date">🗓️ 5월 17일 (일)</div>
-    <img src="{{ site.kor_url }}/assets/images/helath/260517-health-care-week3-07.jpg" alt="일요일 저녁 식단">
+    <img src="{{ site.kor_url }}/assets/images/health/260517-health-care-week3-07.jpg" alt="일요일 저녁 식단">
     <div class="diet-info">
       <div class="diet-calories">🔥 총 칼로리 : 약 545 kcal</div>
       <div class="diet-menu">
