@@ -3,10 +3,10 @@ layout: post
 title: "[창녕 가볼 만한 곳] 고분군의 초록빛 산책부터 만년교의 무지개까지, 창녕 당일치기 여행"
 description: "비사벌의 역사가 숨 쉬는 생태도시 창녕. 교동·송현동 고분군, 박물관, 진흥왕 척경비, 영산 연지못과 만년교, 석빙고까지 둘러본 알찬 역사 여행 코스입니다."
 date: 2026-06-06
-categories: daily
+categories: travel-reviews
 main_menu: "소소한 일상"
 tags: [오늘의 단상, 대구 근교 나들이, 창녕 여행, 교동고분군, 송현동고분군, 창녕박물관, 만년교, 연지못, 진흥왕척경비, 영산석빙고, 유네스코세계유산, 우포늪, 부곡온천]
-image: "/assets/images/daily/260606-changnyeong-main.jpg"
+image: "/assets/images/travel-reviews/260606-changnyeong-main.jpg"
 ---
 
 안녕하세요! 평범한 일상 속에서 소소한 행복을 찾아가는 **'날마다 소품'**입니다. 😊
@@ -17,7 +17,7 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 오랜만에 다시 찾은 창녕은 발길 닿는 곳마다 굵직한 문화유산이 가득해 여전히 매력적인 곳이었습니다. 파란 하늘 아래 펼쳐진 초록빛 고분군 산책부터 신비로운 만년교의 반영까지, 완벽했던 당일치기 창녕 여행 코스를 공유해 드립니다!
 
-![파란 하늘과 하얀 구름, 초록빛 봉분이 어우러진 교동 고분군 풍경]({{ site.kor_url }}/assets/images/daily/260606-changnyeong-main.jpg)
+![파란 하늘과 하얀 구름, 초록빛 봉분이 어우러진 교동 고분군 풍경]({{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-main.jpg)
 
 
 
@@ -49,10 +49,10 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-upo-swamp.jpg" alt="창녕 우포늪" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-upo-swamp.jpg" alt="창녕 우포늪" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mountain-rabbit.jpg" alt="산토끼 노래 동산" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-mountain-rabbit.jpg" alt="산토끼 노래 동산" class="photo-dual-img">
   </div>
 </div>
 
@@ -71,10 +71,10 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-01.jpg" alt="교동 고분군 산책로" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-tomb-01.jpg" alt="교동 고분군 산책로" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-02.jpg" alt="교동 고분군 아래 농지와 호수" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-tomb-02.jpg" alt="교동 고분군 아래 농지와 호수" class="photo-dual-img">
   </div>
 </div>
 
@@ -89,9 +89,9 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 화왕산 창화사 입구쪽으로 올라가면 만나는 **송현동 고분군**은 교동 쪽에 비해 규모는 조금 작지만, 언덕 위에서 내려다보는 풍경이 무척 이색적입니다. 거대한 고대의 무덤들 바로 아래로 현대적인 시가지의 건물과 도로가 바짝 붙어 펼쳐져 있거든요. 고대와 현대의 시간이 한 공간에 공존하는 듯한 묘한 감동이 밀려왔습니다.
 
 <div class="photo-tri-container">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-03.jpg" alt="송현동 고분군" class="photo-tri-img">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-04.jpg" alt="송현동 고분군에서 바라본 창녕시가지" class="photo-tri-img">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-tomb-05.jpg" alt="송현동 고분군 위에서 내려다 본 모습" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-tomb-03.jpg" alt="송현동 고분군" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-tomb-04.jpg" alt="송현동 고분군에서 바라본 창녕시가지" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-tomb-05.jpg" alt="송현동 고분군 위에서 내려다 본 모습" class="photo-tri-img">
 </div>
 
 
@@ -108,10 +108,10 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-museum-01.jpg" alt="창녕 박물관 내 굽다리 접시 유물" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-museum-01.jpg" alt="창녕 박물관 내 굽다리 접시 유물" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-museum-02.jpg" alt="창녕 박물관 내부 전경" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-museum-02.jpg" alt="창녕 박물관 내부 전경" class="photo-dual-img">
   </div>
 </div>
 
@@ -121,7 +121,7 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
   <strong>🍲 오늘 다녀온 식당 :</strong> 양반 청국장 (경남 창녕군 창녕읍 화왕산로 64 기와집)
 </p>
 
-<img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-food.jpg" alt="송현동 고분군 근처 양반청국장의 차돌 된장찌개 정식" style="width: 100%; border-radius: 8px; margin-top: 15px; margin-bottom: 20px;">
+<img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-food.jpg" alt="송현동 고분군 근처 양반청국장의 차돌 된장찌개 정식" style="width: 100%; border-radius: 8px; margin-top: 15px; margin-bottom: 20px;">
 
 ---
 
@@ -136,10 +136,10 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-jinheung-01.jpg" alt="신라 진흥왕 척경비" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-jinheung-01.jpg" alt="신라 진흥왕 척경비" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-jinheung-02.jpg" alt="멀리서 바라본 진흥왕 척경비" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-jinheung-02.jpg" alt="멀리서 바라본 진흥왕 척경비" class="photo-dual-img">
   </div>
 </div>
 
@@ -155,10 +155,10 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-yeonji-01.jpg" alt="데크길이 아름다운 연지못 전경" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-yeonji-01.jpg" alt="데크길이 아름다운 연지못 전경" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-yeonji-02.jpg" alt="연지못 산책로 풍경" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-yeonji-02.jpg" alt="연지못 산책로 풍경" class="photo-dual-img">
   </div>
 </div>
 
@@ -169,9 +169,9 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 검색해 본 사진 속 연지못은 봄이면 둘레를 따라 벚꽃이 만발해 장관을 이루고, 밤에는 화려한 조명이 물빛에 반사되어 야경이 황홀할 정도로 아름답더라고요. 다음에는 꼭 벚꽃이 피는 계절이나 야간에 맞춰 다시 와야겠다고 다짐했습니다.
 
 <div class="photo-tri-container">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-yeonji-03.jpg" alt="연지못의 섬" class="photo-tri-img">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-yeonji-04.jpg" alt="연지못의 굽어진 데크길" class="photo-tri-img">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-yeonji-05.jpg" alt="연지못 섬에서 바라본 풍경" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-yeonji-03.jpg" alt="연지못의 섬" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-yeonji-04.jpg" alt="연지못의 굽어진 데크길" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-yeonji-05.jpg" alt="연지못 섬에서 바라본 풍경" class="photo-tri-img">
 </div>
 
 ### 완벽한 원형의 반영, 만년교
@@ -194,10 +194,10 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-01.jpg" alt="물에 비쳐 동그란 원을 그리는 만년교 반영" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-mannyeongyo-01.jpg" alt="물에 비쳐 동그란 원을 그리는 만년교 반영" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-02.jpg" alt="옆에서 본 만년교와 비석" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-mannyeongyo-02.jpg" alt="옆에서 본 만년교와 비석" class="photo-dual-img">
   </div>
 </div>
 
@@ -205,10 +205,10 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-03.jpg" alt="만년교 비석" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-mannyeongyo-03.jpg" alt="만년교 비석" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-mannyeongyo-04.jpg" alt="만년교" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-mannyeongyo-04.jpg" alt="만년교" class="photo-dual-img">
   </div>
 </div>
 
@@ -226,9 +226,9 @@ image: "/assets/images/daily/260606-changnyeong-main.jpg"
 호기심에 석빙고 입구 쪽으로 가까이 다가가 보았는데, 신기하게도 한낮의 더위가 무색할 만큼 마치 냉장고의 냉장실 문을 활짝 열었을 때처럼 서늘하고 차가운 바람이 훅 불어 나와 무척 시원했습니다. 선조들의 지혜가 피부로 생생하게 와닿는 이색적인 경험이었습니다.
 
 <div class="photo-tri-container">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-stone-ice-storage-01.jpg" alt="서늘한 바람이 나오는 영산 석빙고 입구" class="photo-tri-img">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-stone-ice-storage-02.jpg" alt="석빙고 내부" class="photo-tri-img">
-  <img src="{{ site.kor_url }}/assets/images/daily/260606-changnyeong-stone-ice-storage-03.jpg" alt="석빙고 입구에서 밖을 바라본 모습" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-stone-ice-storage-01.jpg" alt="서늘한 바람이 나오는 영산 석빙고 입구" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-stone-ice-storage-02.jpg" alt="석빙고 내부" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260606-changnyeong-stone-ice-storage-03.jpg" alt="석빙고 입구에서 밖을 바라본 모습" class="photo-tri-img">
 </div>
 
 ---

@@ -1,21 +1,21 @@
 ---
 layout: default
-title: Making Note
-permalink: /category/making-note/
+title: travel-reviews
+permalink: /category/travel-reviews/
 ---
 
 <section class="category-page">
 
   <section class="recent-stories"> <!--이미지 12개-->
     <div class="section-header">
-      <h2 id="dynamic-title">소품 만들기 최근 이야기</h2>
-      <a href="/category/making-note/?filter=all" class="view-all">VIEW ALL ARCHIVE</a>
+      <h2 id="dynamic-title">가볼 만한 곳 최근 이야기</h2>
+      <a href="/category/travel-reviews/?filter=all" class="view-all">VIEW ALL ARCHIVE</a>
     </div>
     <div class="stories-divider"></div>
     
     <div class="stories-grid">
-      {% assign making-note_posts = site.categories['making-note'] %}
-      {% for post in making-note_posts %}
+      {% assign travel-reviews_posts = site.categories['travel-reviews'] %}
+      {% for post in travel-reviews_posts %}
       <article class="story-card" data-tag="{{ post.tags.first | replace: ' ', '-' }}" style="display: none;">
         <a href="{{ post.url }}" class="card-image">
           <img src="{{ site.kor_url }}{{ post.image | default: '/assets/images/default.jpg' }}" alt="{{ post.title }}">
@@ -35,7 +35,7 @@ permalink: /category/making-note/
   <br><br>
 
   <ul class="post-list" id="paginated-list"> <!--리스트 15개-->
-    {% for post in site.categories["making-note"] %}
+    {% for post in site.categories["travel-reviews"] %}
       <li class="post-item" data-tag="{{ post.tags.first | replace: ' ', '-' }}" style="display: none;">
         <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
 
@@ -68,7 +68,7 @@ $(document).ready(function() {
 
   function applyFilter(rawTargetTag) {
     const targetTag = rawTargetTag === 'all' ? 'all' : rawTargetTag.replace(/\s+/g, '-');
-    const displayTitle = targetTag === 'all' ? '소품 만들기' : targetTag.replace(/-/g, ' ');
+    const displayTitle = targetTag === 'all' ? '가볼 만한 곳' : targetTag.replace(/-/g, ' ');
     // 화면의 h2 태그 글자를 실시간으로 바꿔치기 합니다.
     $('#dynamic-title').html(displayTitle + ' <span class="title-point">최근 이야기</span>');
     let topGridCount = 0;
@@ -77,7 +77,7 @@ $(document).ready(function() {
     $('.stories-grid .story-card').each(function() {
       const tag = $(this).attr('data-tag');
       if (targetTag === 'all' || tag === targetTag) {
-        if (topGridCount < 12) { $(this).show(); topGridCount++; } // 출력되는 이미지 갯수
+        if (topGridCount < 12) { $(this).show(); topGridCount++; }   // 출력되는 이미지 갯수
         else { $(this).hide(); }
       } else { $(this).hide(); }
     });
@@ -153,8 +153,8 @@ $(document).ready(function() {
 
   // [핵심 2] 왼쪽 메뉴를 클릭했을 때의 동작
   $('.smart-filter-btn').on('click', function(e) {
-    // 현재 접속해 있는 곳이 '제작 노트' 메인 화면일 때만 부드러운 필터링 작동
-    if (window.location.pathname.includes('/category/making-note')) {
+    // 현재 접속해 있는 곳이 '브랜드 스토리' 메인 화면일 때만 부드러운 필터링 작동
+    if (window.location.pathname.includes('/category/travel-reviews')) {
       e.preventDefault(); // 새로고침 방지
       const targetTag = $(this).attr('data-filter');
       

@@ -2,10 +2,10 @@
 layout: post
 title: "[대구 근교 나들이] 영천공설시장에서 소머리곰탕을 사오다"
 date: 2026-05-09
-categories: daily
+categories: travel-reviews
 main_menu: "소소한 일상"      
 tags: [오늘의 단상, 영천, 영천공설시장, 전통시장, 시장투어, 곰탕골목, 한우곰탕, 소머리곰탕, 일상기록, 영천여행, 대구 근교 나들이]  
-image: "/assets/images/daily/260509-yeongcheon-traditional-market-main.jpg"   
+image: "/assets/images/travel-reviews/260509-yeongcheon-traditional-market-main.jpg"   
 ---
 
 영천생태지구공원의 보라 유채꽃을 보고 난 뒤, 영천시장으로 향했어요.
@@ -16,7 +16,7 @@ image: "/assets/images/daily/260509-yeongcheon-traditional-market-main.jpg"
 
 ## 현대식으로 깔끔해진 영천 재래시장
 
-![현대식으로 정비된 영천공설시장 전경]({{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-main.jpg)
+![현대식으로 정비된 영천공설시장 전경]({{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-main.jpg)
 
 영천 시장은 안으로 들어가 보니 무척 깔끔한 현대식으로 바뀌어 있었어요.
 제가 간 날은 아쉽게도 많은 곳이 쉬는 날이어서 문을 닫아 놓았더라고요.
@@ -29,14 +29,14 @@ image: "/assets/images/daily/260509-yeongcheon-traditional-market-main.jpg"
 **📸 영천공설시장 풍경**
 
 <div class="checkerboard-grid">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-01.jpg" alt="영천공설시장 입구">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-02.jpg" alt="현대식으로 정비된 시장 아케이드">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-03.jpg" alt="시장 내부 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-04.jpg" alt="쉬는 날이라 닫힌 점포들">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-05.jpg" alt="정겨운 시장 골목">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-06.jpg" alt="시장 구경하는 사람들">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-07.jpg" alt="다양한 물건을 파는 상점">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-08.jpg" alt="영천시장 골목 풍경">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-01.jpg" alt="영천공설시장 입구">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-02.jpg" alt="현대식으로 정비된 시장 아케이드">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-03.jpg" alt="시장 내부 풍경">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-04.jpg" alt="쉬는 날이라 닫힌 점포들">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-05.jpg" alt="정겨운 시장 골목">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-06.jpg" alt="시장 구경하는 사람들">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-07.jpg" alt="다양한 물건을 파는 상점">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-08.jpg" alt="영천시장 골목 풍경">
 </div>
 
 ---
@@ -56,14 +56,14 @@ image: "/assets/images/daily/260509-yeongcheon-traditional-market-main.jpg"
 **🍲 맛있는 곰탕과 먹거리들**
 
 <div class="checkerboard-grid">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-09.jpg" alt="곰탕 골목 간판">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-10.jpg" alt="가마솥에서 끓고 있는 곰탕">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-11.jpg" alt="곰탕 가게 외부 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-12.jpg" alt="먹음직스러운 한우 곰탕">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-13.jpg" alt="깔끔하게 포장된 곰탕">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-14.jpg" alt="살코기가 듬뿍 들어간 모습">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-15.jpg" alt="시원하고 달달한 식혜">
-    <img src="{{ site.kor_url }}/assets/images/daily/260509-yeongcheon-traditional-market-16.jpg" alt="영천공설시장 나들이 완료">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-09.jpg" alt="곰탕 골목 간판">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-10.jpg" alt="가마솥에서 끓고 있는 곰탕">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-11.jpg" alt="곰탕 가게 외부 풍경">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-12.jpg" alt="먹음직스러운 한우 곰탕">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-13.jpg" alt="깔끔하게 포장된 곰탕">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-14.jpg" alt="살코기가 듬뿍 들어간 모습">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-15.jpg" alt="시원하고 달달한 식혜">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-16.jpg" alt="영천공설시장 나들이 완료">
 </div>
 
 ---

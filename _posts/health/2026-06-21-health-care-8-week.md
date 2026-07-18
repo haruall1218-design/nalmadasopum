@@ -3,10 +3,10 @@ layout: post
 title: "[모바일 헬스케어 8주차] 대구 달성습지생태관으로 향하는 진천천 걷기"
 description: "보건소 모바일 헬스케어 8주차 걷기 기록 (6월 21일). 둔화된 신체 변화(정체기) 속에서도 대구 진천천부터 달성습지생태관까지 자연을 벗 삼아 걸으며 마음의 여유를 찾았습니다. 영국 에식스 대학 연구로 알아보는 '그린 엑서사이즈' 효능도 확인해 보세요."
 date: 2026-06-21
-categories: daily
+categories: health
 main_menu: "소소한 일상"
 tags: [건강한 습관 챌린지, 모바일 헬스케어, 걷기 운동, 대구 걷기 좋은 길, 진천천, 달성습지, 달성습지생태관, 그린 엑서사이즈, 건강상식, 다이어트 정체기]
-image: "/assets/images/daily/260621-health-care-week8-main.jpg"
+image: "/assets/images/helath/260621-health-care-week8-main.jpg"
 ---
 
 <div class="mag-tracker">
@@ -44,7 +44,7 @@ image: "/assets/images/daily/260621-health-care-week8-main.jpg"
 오히려 신체 수치 변화가 둔화되니 체중 감량이라는 강박에서 벗어나, 주변 풍경을 온전히 감상하며 순수하게 '걷는 행위' 자체를 100% 즐기게 되더라고요. 이번 주말에는 동네를 굽이쳐 흐르는 맑은 물길, 대구 **진천천을 따라 달성습지생태관까지** 길게 이어지는 훌륭한 산책로를 땀 흘려 다녀왔습니다. 
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="{{ site.kor_url }}/assets/images/daily/260621-healthcare-main.jpg" alt="달성습지생태관에서 바라 본 달성습지" style="max-width: 100%; border-radius: 8px;">
+  <img src="{{ site.kor_url }}/assets/images/helath/260621-healthcare-main.jpg" alt="달성습지생태관에서 바라 본 달성습지" style="max-width: 100%; border-radius: 8px;">
   <br><span class="photo-caption">달성습지생태관에서 바라 본 달성습지</span>
 </div>
 
@@ -84,11 +84,11 @@ image: "/assets/images/daily/260621-health-care-week8-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260621-jincheon-01.jpg" alt="초록빛 수풀이 우거진 진천천 산책로" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260621-jincheon-01.jpg" alt="초록빛 수풀이 우거진 진천천 산책로" class="photo-dual-img">
     <span class="photo-caption">초록빛 수풀이 풍성하게 우거진 진천천 산책로</span>
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260621-jincheon-02.jpg" alt="진천천 맨발 뚝길에서 만난 거북" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260621-jincheon-02.jpg" alt="진천천 맨발 뚝길에서 만난 거북" class="photo-dual-img">
     <span class="photo-caption">진천천 맨발 뚝길에서 만난 거북</span>
   </div>
 </div>
@@ -106,15 +106,15 @@ image: "/assets/images/daily/260621-health-care-week8-main.jpg"
 
 <div class="photo-tri-container">
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260621-wetland-01.jpg" alt="광활하게 펼쳐진 달성습지의 초록빛 풍경" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260621-wetland-01.jpg" alt="광활하게 펼쳐진 달성습지의 초록빛 풍경" class="photo-tri-img">
     <span class="photo-caption">가슴이 확 트이는 광활한 달성습지의 풍경</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260621-wetland-02.jpg" alt="다양한 전시가 있는 달성습지생태관 외부 전" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260621-wetland-02.jpg" alt="다양한 전시가 있는 달성습지생태관 외부 전" class="photo-tri-img">
     <span class="photo-caption">다양한 전시가 있는 달성습지생태관 외부 전</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260621-wetland-03.jpg" alt="다양한 생태 정보가 가득한 달성습지생태관" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260621-wetland-03.jpg" alt="다양한 생태 정보가 가득한 달성습지생태관" class="photo-tri-img">
     <span class="photo-caption">다양한 생태 정보가 가득한 달성습지생태관</span>
   </div>
 </div>

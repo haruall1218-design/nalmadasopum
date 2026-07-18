@@ -31,7 +31,7 @@
 
 {% assign desc = page.description | default: page.excerpt | strip_html | strip_newlines | truncate: 160 %}
 {% if desc == "" or desc == nil %}
-  {% assign desc = "정성스럽게 지은 패브릭 소품과 따뜻한 일상을 기록합니다." %}
+  {% assign desc = "정성스럽게 만든 패브릭 소품과 직접 경험한 따뜻한 일상을 기록합니다." %}
 {% endif %}
 
 <meta name="description" content="{{ desc }}">
@@ -73,10 +73,14 @@
 
   <main class="page-content" aria-label="Content">
   {% assign current_cat = page.url %}
-  <div class="wrapper {% if current_cat contains 'making-note' or current_cat contains 'about' or current_cat contains 'daily' %}with-sidebar{% endif %}">
+  <div class="wrapper {% if current_cat contains 'travel-reviews' or current_cat contains 'making-note' or current_cat contains 'health' or current_cat contains 'about' or current_cat contains 'daily' %}with-sidebar{% endif %}">
     
-    {% if current_cat contains 'making-note' %}
+    {% if current_cat contains 'travel-reviews' %}
+      {% include sidebar-travel-reviews.html %}
+    {% elsif current_cat contains 'making-note' %}
       {% include sidebar-making.html %}
+    {% elsif current_cat contains 'health' %}
+      {% include sidebar-health.html %}
     {% elsif current_cat contains 'about' %}
       {% include sidebar-brand.html %}
     {% elsif current_cat contains 'daily' %}

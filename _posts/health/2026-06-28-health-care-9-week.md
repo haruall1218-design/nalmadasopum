@@ -3,10 +3,10 @@ layout: post
 title: "[모바일 헬스케어 9주차] 하양 꿈바우시장부터 조산천까지, 일상 걷기의 재발견"
 description: "보건소 모바일 헬스케어 9주차 기록 (6월 28일). 감량 정체기가 이어지는 가운데 경산 하양 꿈바우시장, 하양성당, 조산천을 걸으며 일상 속 걷기의 즐거움을 누렸습니다. '니트(NEAT) 다이어트' 건강 상식도 확인해 보세요."
 date: 2026-06-28
-categories: daily
+categories: health
 main_menu: "소소한 일상"
 tags: [건강한 습관 챌린지, 모바일 헬스케어, 대구 근교 걷기, 경산 가볼 만한 곳, 하양 꿈바우시장, 하양성당, 조산천, 니트 다이어트, 생활 걷기, 다이어트 정체기]
-image: "/assets/images/daily/260628-health-care-week9-main.jpg"
+image: "/assets/images/helath/260628-health-care-week9-main.jpg"
 ---
 
 <div class="mag-tracker">
@@ -44,7 +44,7 @@ image: "/assets/images/daily/260628-health-care-week9-main.jpg"
 이번 주에도 제 체중계의 숫자는 지난주와 마찬가지로 굳건한 평행선을 유지하며 '정체기'의 한가운데를 지나고 있습니다. 하지만 숫자에 연연하지 않기로 마음을 비운 덕분인지, 스트레스 없이 가벼운 마음으로 걷기 그 자체를 즐길 수 있게 되었습니다. 이번 주말에는 대구 근교인 경산 하양읍으로 나가 활기찬 **꿈바우시장**부터 고즈넉한 **하양성당**, 그리고 시원한 **조산천** 물길까지 여유롭게 누비고 돌아왔습니다. 구경하는 재미에 푹 빠져 만보를 훌쩍 넘겼던 9주 차의 즐거운 기록을 시작합니다.
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="{{ site.kor_url }}/assets/images/daily/260628-healthcare-main.jpg" alt="경산 하양 조산천을 따라 걷는 여유로운 산책로 풍경" style="max-width: 100%; border-radius: 8px;">
+  <img src="{{ site.kor_url }}/assets/images/helath/260628-healthcare-main.jpg" alt="경산 하양 조산천을 따라 걷는 여유로운 산책로 풍경" style="max-width: 100%; border-radius: 8px;">
   <br><span class="photo-caption">물길을 따라 걷기 좋게 조성된 하양 조산천 산책로 풍경</span>
 </div>
 
@@ -84,15 +84,15 @@ image: "/assets/images/daily/260628-health-care-week9-main.jpg"
 
 <div class="photo-tri-container">
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260628-market-01.jpg" alt="현대식으로 깔끔하게 단장된 하양 꿈바우시장" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260628-market-01.jpg" alt="현대식으로 깔끔하게 단장된 하양 꿈바우시장" class="photo-tri-img">
     <span class="photo-caption">현대식으로 깔끔하게 단장된 하양 꿈바우시장</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260628-market-02.jpg" alt="귀여운 꿈바우시장 입간판" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260628-market-02.jpg" alt="귀여운 꿈바우시장 입간판" class="photo-tri-img">
     <span class="photo-caption">귀여운 꿈바우시장 입간판</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260628-market-03.jpg" alt="먹거리가 모여있는 먹거리 장터 입구" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260628-market-03.jpg" alt="먹거리가 모여있는 먹거리 장터 입구" class="photo-tri-img">
     <span class="photo-caption">먹거리가 모여있는 먹거리 장터 입구</span>
   </div>
 </div>
@@ -110,15 +110,15 @@ image: "/assets/images/daily/260628-health-care-week9-main.jpg"
 
 <div class="photo-tri-container">
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260628-church-01.jpg" alt="붉은 벽돌이 인상적인 고즈넉한 하양성당 전경" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260628-church-01.jpg" alt="붉은 벽돌이 인상적인 고즈넉한 하양성당 전경" class="photo-tri-img">
     <span class="photo-caption">마음을 차분하게 해주는 하양성당의 전경</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260628-church-02.jpg" alt="하양 성당 내부" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260628-church-02.jpg" alt="하양 성당 내부" class="photo-tri-img">
     <span class="photo-caption">하양 성당 내부</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260628-stream.jpg" alt="시원하게 뻗은 하양 조산천 산책로" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260628-stream.jpg" alt="시원하게 뻗은 하양 조산천 산책로" class="photo-tri-img">
     <span class="photo-caption">하양읍을 가로지르는 여유로운 조산천 산책로</span>
   </div>
 </div>

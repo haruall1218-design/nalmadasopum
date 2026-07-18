@@ -3,10 +3,10 @@ layout: post
 title: "[대구 가볼 만한 곳] 선거일의 황금빛 나들이, 수성구 진밭골 '생각을 담는 길' 트레킹"
 description: "대구 수성구 범물동에 위치한 진밭골 둘레길(생각을 담는 길 6코스) 방문 후기입니다. 대덕지 금계국 풍경부터 진밭골 야영장, 안산대룡폭포까지 시원한 계곡 트레킹 코스를 소개합니다."
 date: 2026-06-03
-categories: daily
+categories: travel-reviews
 main_menu: "소소한 일상"
 tags: [오늘의 단상, 대구 나들이, 대구 가볼 만한 곳, 수성구 진밭골, 진밭골 산림공원, 생각을 담는 길, 대덕지, 금계국, 대룡폭포, 진밭골 야영장, 계곡 트레킹]
-image: "/assets/images/daily/260603-jinbatgol-main.jpg"
+image: "/assets/images/travel-reviews/260603-jinbatgol-main.jpg"
 ---
 
 안녕하세요! 평범한 일상 속에서 소소한 행복을 찾아가는 **'날마다 소품'**입니다. 😊
@@ -15,7 +15,7 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 
 노란 금계국이 황금빛 물결을 이루고 있다는 수성구 진밭골에 가기 위해 진밭골 산림공원으로 향했습니다. "벌써 유월인데 꽃이 아직 남아있을까?" 하는 걱정 반, 기대 반으로 진밭골 산림공원에 도착했습니다. 도심에서 불과 몇 분 거리인데, 마치 깊은 산속에 들어온 듯 싱그러운 자연이 저희를 맞이했습니다. 주차장도 무료라 편하게 차를 대고 나들이를 시작했습니다.
 
-![대덕지 둘레를 화사하게 물들인 황금빛 금계국 풍경]({{ site.kor_url }}/assets/images/daily/260603-jinbatgol-main.jpg)
+![대덕지 둘레를 화사하게 물들인 황금빛 금계국 풍경]({{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-main.jpg)
 
 
 
@@ -40,7 +40,7 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 
 임진왜란과 병자호란 시절, 전란을 피해 경주 최씨, 전주 최씨 일가들이 정착하면서 부락이 형성되었다고 해요. 골짜기 맨 끝동네인 '진밭마을'과 여기서 약 3km 지점에 위치한 '가락골'로 이루어져 있습니다. 가락골은 주변 계곡의 풍경이 워낙 아름다워 처음에는 '가곡(佳谷)'이라 불리다가 소리가 변해 가락골이 되었다는 낭만적인 이야기도 전해집니다.
 
-![대덕지 전경]({{ site.kor_url }}/assets/images/daily/260603-jinbatgol-01.jpg)
+![대덕지 전경]({{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-01.jpg)
 
 ### '진밭골'이라는 이름의 유래
 '진밭골'이라는 이름의 유래는 다소 현실적입니다. 옛날에 이 골짜기의 땅이 너무나도 질고 짙어서(매우 질어서) 농사를 짓기가 어려웠다고 해요. 그래서 주민들이 '물이 질퍽거리는 밭'이라는 뜻의 **'진 밭'**, 즉 **'진밭골'**로 부르게 된 것입니다. 한자로는 수전(水田) 혹은 물밭으로 불렸지요.
@@ -56,10 +56,10 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260603-jinbatgol-flower-01.jpg" alt="대덕지 둘레길 금계국" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-flower-01.jpg" alt="대덕지 둘레길 금계국" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260603-jinbatgol-flower-02.jpg" alt="대덕지 풍경" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-flower-02.jpg" alt="대덕지 풍경" class="photo-dual-img">
   </div>
 </div>
 
@@ -67,12 +67,12 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 
 대덕지 바로 옆 야산 기슭에는 **'진밭골 산림공원'**이 조성되어 있습니다. 산림공원 입구에는 걷기 코스 안내판이 서 있었는데, 힐링숲, 명상의 숲 등 테마별로 순환형 산책로가 세심하게 나누어져 있었습니다. 시간과 난이도가 잘 안내되어 있어 코스를 정하기 좋았습니다. 
 
-![진밭골 산림공원 걷기 코스 안내판]({{ site.kor_url }}/assets/images/daily/260603-jinbatgol-walking-course-sign.jpg)
+![진밭골 산림공원 걷기 코스 안내판]({{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-walking-course-sign.jpg)
 
 <div class="photo-tri-container">
-  <img src="{{ site.kor_url }}/assets/images/daily/260603-jinbatgol-flower-03.jpg" alt="대덕지 금계국" class="photo-tri-img">
-  <img src="{{ site.kor_url }}/assets/images/daily/260603-jinbatgol-flower-04.jpg" alt="막 피어난 수국" class="photo-tri-img">
-  <img src="{{ site.kor_url }}/assets/images/daily/260603-jinbatgol-flower-05.jpg" alt="금계국 사이로 보이는 대덕지" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-flower-03.jpg" alt="대덕지 금계국" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-flower-04.jpg" alt="막 피어난 수국" class="photo-tri-img">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-flower-05.jpg" alt="금계국 사이로 보이는 대덕지" class="photo-tri-img">
 </div>
 
 ---
@@ -84,7 +84,7 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 
 대구 수성구에서는 금호강에서 진밭골까지 잇는 친환경 둘레길을 **'생각을 담는 길'**이라는 명칭으로 조성하여 관리하고 있었습니다. 진밭골은 그중에서도 **'제6코스 진밭골길'**에 해당합니다. 생각을 담는 길 전체 코스를 알 수 있는 종합 안내도가 홈페이지에 있어 참고하기 좋았습니다.
 
-![생각을 담는 길 전체 코스 종합 안내도]({{ site.kor_url }}/assets/images/daily/260603-jinbatgol-thoughts-trail-map.jpg)
+![생각을 담는 길 전체 코스 종합 안내도]({{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-thoughts-trail-map.jpg)
 
 
 <table class="guide-table">
@@ -151,13 +151,13 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 
 출발점에는 진밭골 둘레길 안내 표지판이 서 있었는데, 대덕지에서 청소년수련원까지 이어지는 구간의 주요 지점과 거리가 잘 표시되어 있었습니다. 6코스 진밭골길은 난이도 '중'으로, 수성구 내에서 자연환경이 가장 잘 보존된 지역이라 울창한 숲과 깨끗한 계곡을 만끽할 수 있습니다.
 
-![진밭골 둘레길 안내 표지판 (6코스 진밭골길)]({{ site.kor_url }}/assets/images/daily/260603-jinbatgol-trail-sign.jpg)
+![진밭골 둘레길 안내 표지판 (6코스 진밭골길)]({{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-trail-sign.jpg)
 
 <div class="checkerboard-grid">
-  <img src="{{ site.kor_url }}/assets/images/daily/260603-jinbatgol-trekking-01.jpg" alt="싱그러운 진밭골 트레킹 로드">
-  <img src="{{ site.kor_url }}/assets/images/daily/260603-jinbatgol-trekking-02.jpg" alt="계곡을 따라 걷는 데크 산책로">
-  <img src="{{ site.kor_url }}/assets/images/daily/260603-jinbatgol-trekking-03.jpg" alt="울창한 숲속 돌길 트레킹">
-  <img src="{{ site.kor_url }}/assets/images/daily/260603-jinbatgol-trekking-04.jpg" alt="맑은 물이 흐르는 진밭골 계곡">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-trekking-01.jpg" alt="싱그러운 진밭골 트레킹 로드">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-trekking-02.jpg" alt="계곡을 따라 걷는 데크 산책로">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-trekking-03.jpg" alt="울창한 숲속 돌길 트레킹">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-trekking-04.jpg" alt="맑은 물이 흐르는 진밭골 계곡">
 </div>
 
 ### 자연 속 쉼터, 야영장과 글쓴바위
@@ -167,10 +167,10 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260603-jinbatgol-geulsseun-rock.jpg" alt="진밭골의 명물, 웅장한 글쓴바위" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-geulsseun-rock.jpg" alt="진밭골의 명물, 웅장한 글쓴바위" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260603-jinbatgol-campground.jpg" alt="진밭골 양영장" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-campground.jpg" alt="진밭골 양영장" class="photo-dual-img">
   </div>
 </div>
 
@@ -178,7 +178,7 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 오늘 우리의 1차 목적지인 **'안산대룡폭포'**를 향해 부지런히 발걸음을 재촉했습니다. 폭포 이정표에 도착했는데, 아쉽게도 초여름의 녹음이 너무 울창하고 나뭇잎이 빽빽하게 우거진 탓에 폭포의 전경이 가려져 정작 폭포수는 직접 보기 어려웠습니다. 못내 서운한 마음이 들었지만, 올라오는 길목마다 우릴 위로하듯 쫄쫄쫄 맑은 소리를 내며 쏟아지던 작은 폭포(?)들이 있어 시원함을 느낄 수 있었습니다. 대룡폭포는 행복수성 홈페이지에 있는 사진으로 대체해 봅니다.
 
 <figure class="captioned-figure">
-  <img src="{{ site.kor_url }}/assets/images/daily/260603-jinbatgol-waterfall.jpg" alt="울창한 나무에 가려 비밀스럽게 숨은 안산대룡폭포">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-waterfall.jpg" alt="울창한 나무에 가려 비밀스럽게 숨은 안산대룡폭포">
   <figcaption>사진출처: 행복수성 문화관광 홈페이지</figcaption>
 </figure>
 
@@ -261,7 +261,7 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
   </div>
 </div>
 
-![진밭골 주차장]({{ site.kor_url }}/assets/images/daily/260603-jinbatgol-parking.jpg)
+![진밭골 주차장]({{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-parking.jpg)
 
 ---
 
@@ -269,10 +269,10 @@ image: "/assets/images/daily/260603-jinbatgol-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260603-jinbatgol-cafe-01.jpg" alt="대덕지 끝자락 운치 있는 카페 실내" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-cafe-01.jpg" alt="대덕지 끝자락 운치 있는 카페 실내" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260603-jinbatgol-cafe-02.jpg" alt="시원한 아이스 아메리카노와 풍경" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260603-jinbatgol-cafe-02.jpg" alt="시원한 아이스 아메리카노와 풍경" class="photo-dual-img">
   </div>
 </div>
 

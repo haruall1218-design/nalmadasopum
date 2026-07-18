@@ -3,10 +3,10 @@ layout: post
 title: "[거창 가볼 만한 곳] 숲속의 짜릿함! 우두산 항노화 힐링랜드 Y자 출렁다리 당일치기"
 description: "대구 근교 드라이브 코스로 추천하는 거창 항노화 힐링랜드. 주말 주차 및 셔틀버스 정보, Y자 출렁다리, 둥지 전망대, 무장애 데크로드 등 생생한 방문 후기와 이용 꿀팁을 소개합니다."
 date: 2026-07-04
-categories: daily
+categories: travel-reviews
 main_menu: "소소한 일상"
 tags: [오늘의 단상, 대구 근교 나들이, 거창 여행, 거창 가볼 만한 곳, 거창 항노화 힐링랜드, Y자 출렁다리, 우두산 출렁다리, 둥지 전망대, 경남 여행, 당일치기 여행]
-image: "/assets/images/daily/260704-geochang-main.jpg"
+image: "/assets/images/travel-reviews/260704-geochang-main.jpg"
 ---
 
 안녕하세요! 평범한 일상 속에서 소소한 행복을 찾아가는 **'날마다 소품'**입니다. 😊
@@ -17,10 +17,10 @@ image: "/assets/images/daily/260704-geochang-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-main.jpg" alt="아름다운 우두산 절경과 아찔한 Y자 출렁다리" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-main.jpg" alt="아름다운 우두산 절경과 아찔한 Y자 출렁다리" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-main02.jpg" alt="우두산 정상에서 바라본 Y자 출렁다리" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-main02.jpg" alt="우두산 정상에서 바라본 Y자 출렁다리" class="photo-dual-img">
   </div>
 </div>
 
@@ -44,11 +44,11 @@ image: "/assets/images/daily/260704-geochang-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-parking.jpg" alt="거창 항노화 힐링랜드 주말 임시 주차장에 마련된 매표소 모습" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-parking.jpg" alt="거창 항노화 힐링랜드 주말 임시 주차장에 마련된 매표소 모습" class="photo-dual-img">
     <span class="photo-caption">거창 항노화 힐링랜드 주말 임시 주차장에 마련된 매표소 모습</span>
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-shuttle.jpg" alt="힐링랜드로 향하는 40인승 무료 셔틀버스" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-shuttle.jpg" alt="힐링랜드로 향하는 40인승 무료 셔틀버스" class="photo-dual-img">
     <span class="photo-caption">약 10~15분 간격으로 운행되는 무료 셔틀버스</span>
   </div>
 </div>
@@ -64,15 +64,15 @@ image: "/assets/images/daily/260704-geochang-main.jpg"
 
 <div class="photo-tri-container">
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-stairs-01.jpg" alt="출렁다리로 향하는 나무 계단길" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-stairs-01.jpg" alt="출렁다리로 향하는 나무 계단길" class="photo-tri-img">
     <span class="photo-caption">Y자 출렁다리로 가는 두 갈래로 나뉘는 길</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-stairs-02.jpg" alt="경사가 심하지 않아 오르기 편한 계단" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-stairs-02.jpg" alt="경사가 심하지 않아 오르기 편한 계단" class="photo-tri-img">
     <span class="photo-caption">경사가 심하지 않아 오르기 편한 계단</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-stairs-03.jpg" alt="칼로리 소모를 알려주는 재미있는 계단 문구" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-stairs-03.jpg" alt="칼로리 소모를 알려주는 재미있는 계단 문구" class="photo-tri-img">
     <span class="photo-caption">소주 1병 = 2,645계단?! 재미있는 문구들</span>
   </div>
 </div>
@@ -96,11 +96,11 @@ image: "/assets/images/daily/260704-geochang-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-ybridge-01.jpg" alt="우두산 협곡을 잇는 Y자 출렁다리 전경" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-ybridge-01.jpg" alt="우두산 협곡을 잇는 Y자 출렁다리 전경" class="photo-dual-img">
     <span class="photo-caption">세 봉우리를 연결한 장엄한 Y자 출렁다리</span>
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-ybridge-02.jpg" alt="출렁다리 위에서 내려다본 기암괴석" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-ybridge-02.jpg" alt="출렁다리 위에서 내려다본 기암괴석" class="photo-dual-img">
     <span class="photo-caption">출렁다리에서 바라본 기암괴석</span>
   </div>
 </div>
@@ -120,15 +120,15 @@ image: "/assets/images/daily/260704-geochang-main.jpg"
 
 <div class="photo-tri-container">
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-observatory.jpg" alt="새 둥지 모양을 닮은 둥지 전망대" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-observatory.jpg" alt="새 둥지 모양을 닮은 둥지 전망대" class="photo-tri-img">
     <span class="photo-caption">독특한 외관이 인상적인 둥지 전망대</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-observatory02.jpg" alt="둥지 전망대에서 바라본 또 다른 전망대" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-observatory02.jpg" alt="둥지 전망대에서 바라본 또 다른 전망대" class="photo-tri-img">
     <span class="photo-caption">둥지 전망대에서 바라본 또 다른 전망대</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260704-geochang-observatory03.jpg" alt="둥지 전망대에서 바라본 Y자 출렁다리" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-observatory03.jpg" alt="둥지 전망대에서 바라본 Y자 출렁다리" class="photo-tri-img">
     <span class="photo-caption">둥지 전망대에서 바라본 Y자 출렁다리</span>
   </div>
 </div>

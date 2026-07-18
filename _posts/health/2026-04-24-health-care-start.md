@@ -2,10 +2,10 @@
 layout: post
 title: "[모바일 헬스케어] 대구 달서구보건소 첫 방문 및 초기 검사(인바디) 후기"
 date: 2026-04-24
-categories: daily
+categories: health
 main_menu: "소소한 일상"      
 tags: [건강한 습관 챌린지, 모바일 헬스케어, 보건소 방문, 27주 챌린지, 건강관리]    #첫번째는 2차메뉴명, 뒤는 해시테그        
-image: "/assets/images/daily/260424-health-care-start-main.jpg"   
+image: "/assets/images/helath/260424-health-care-start-main.jpg"   
 ---
 
 안녕하세요! 매일 사부작사부작 예쁜 소품을 지어내는 '날마다 소품'입니다. 😊
@@ -18,7 +18,7 @@ image: "/assets/images/daily/260424-health-care-start-main.jpg"
 
 ## 도서관에서 운명처럼 만난 팜플렛
 
-![대구 달서구보건소 모바일 헬스케어 모집자 팜플렛]({{ site.kor_url }}/assets/images/daily/260424-health-care-start-01.jpg)
+![대구 달서구보건소 모바일 헬스케어 모집자 팜플렛]({{ site.kor_url }}/assets/images/helath/260424-health-care-start-01.jpg)
 
 스마트폰으로 간편하게 신청하고 며칠이 지나니, 보건소에서 초기 검사를 받으러 오라는 문자가 도착했어요. 바로 예약을 잡고 떨리는 마음으로 보건소로 향했습니다.
 
@@ -49,7 +49,7 @@ image: "/assets/images/daily/260424-health-care-start-main.jpg"
 
 ## 24주간의 체계적인 서비스 일정
 
-![보건소 모바일 헬스케어 주차별 서비스 일정 안내문]({{ site.kor_url }}/assets/images/daily/260424-health-care-start-06.jpg)
+![보건소 모바일 헬스케어 주차별 서비스 일정 안내문]({{ site.kor_url }}/assets/images/helath/260424-health-care-start-06.jpg)
 
 보건소에서 받아온 헬스케어 주차별 안내 일정표예요. 1주차부터 24주차까지 미션이 정말 촘촘하게 짜여 있죠? 담당 코디네이터님과 영양사님께서 **"앱에 등록해 주시는 정보가 많을수록 더 정확한 맞춤 상담을 해드릴 수 있다"**고 신신당부를 하시더라고요.
 
@@ -57,15 +57,15 @@ image: "/assets/images/daily/260424-health-care-start-main.jpg"
 
 ## 든든한 지원군, 웰컴 키트 언박싱
 
-![보건소에서 받아온 스마트워치와 안내 팜플렛 및 선물]({{ site.kor_url }}/assets/images/daily/260424-health-care-start-03.jpg)
+![보건소에서 받아온 스마트워치와 안내 팜플렛 및 선물]({{ site.kor_url }}/assets/images/helath/260424-health-care-start-03.jpg)
 
 보건소에서 종이백 가득 선물을 챙겨주셨어요! 관리에 제일 필수적인 스마트워치를 비롯해 식단/음주 관리 안내 팜플렛, 귀여운 주방 수건, 건강한 간식인 견과류와 뉴케어 음료까지 꽉꽉 채워져 있었습니다.
 
-![이번 미션에서 제일 중요한 스마트워치]({{ site.kor_url }}/assets/images/daily/260424-health-care-start-04.jpg)
+![이번 미션에서 제일 중요한 스마트워치]({{ site.kor_url }}/assets/images/helath/260424-health-care-start-04.jpg)
 
 이 스마트워치는 '채움건강' 앱과 연동되어서 저의 모든 기록을 저장하고, 보건소 전문가분들의 피드백을 받는 중요한 창구 역할을 한답니다.
 
-![채움건강 앱의 관리 화면]({{ site.kor_url }}/assets/images/daily/260424-health-care-start-05.jpg)
+![채움건강 앱의 관리 화면]({{ site.kor_url }}/assets/images/helath/260424-health-care-start-05.jpg)
 
 앱에 들어가 보면 운동 기록, 식사 기록, 심박수 등이 한눈에 들어와요. 심박수에 따라 '중강도 운동'을 얼마나 했는지도 분석해 주고, 오늘 보건소에서 검사한 결과와 상담 내용까지 모두 안전하게 기록되어 있습니다. 궁금한 점이 생기면 언제든 질문할 수 있는 상담 창구도 마련되어 있어 든든해요.
 

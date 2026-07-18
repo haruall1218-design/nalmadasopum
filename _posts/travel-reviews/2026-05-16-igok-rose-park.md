@@ -3,10 +3,10 @@ layout: post
 title: "[대구 가볼 만한 곳] 향긋한 장미와 뜻밖의 행운! 이곡장미공원 축제 나들이"
 description: "대구 달서구 이곡장미공원에서 열린 '장미꽃 Feel 무렵' 축제 방문 후기입니다. 120여 종의 장미 이야기와 공원의 역사, 주차 정보, 버스킹 공연 등 알찬 정보를 전해드립니다."
 date: 2026-05-16
-categories: daily
+categories: travel-reviews
 main_menu: "소소한 일상"
 tags: [오늘의 단상, 일상, 이곡장미공원, 장미꽃축제, 대구산책, 장미꽃Feel무렵, 추억의뽑기, 버스킹, 대구 가볼 만한 곳]
-image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
+image: "/assets/images/travel-reviews/260516-igok-rose-park-main.jpg"
 ---
 
 안녕하세요! 평범한 일상 속에서 소소한 행복을 찾아가는 **'날마다 소품'**입니다. 😊
@@ -15,7 +15,7 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
 
 올해 장미꽃 구경만 벌써 네 번째인데, 이곳 이곡장미공원의 화려함은 볼 때마다 마음을 화사하게 만들어 줍니다. 축제 기간이라 인근 초등학교를 임시 주차장으로 개방하고 있었음에도 이미 만차라 주차가 조금 힘들었지만, 그 수고로움이 전혀 아깝지 않았던 알찬 나들이 기록을 남겨봅니다!
 
-![화사하게 만개한 이곡장미공원의 장미들]({{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-main.jpg)
+![화사하게 만개한 이곡장미공원의 장미들]({{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-main.jpg)
 
 <div class="toc-container">
   <p class="toc-title">📋 목차</p>
@@ -47,18 +47,18 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-draw-01.jpg" alt="대구 성곡초등학교앞 임시 노점" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-draw-01.jpg" alt="대구 성곡초등학교앞 임시 노점" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-draw-02.jpg" alt="추억의 뽑기판" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-draw-02.jpg" alt="추억의 뽑기판" class="photo-dual-img">
   </div>
 </div>
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-draw-03.jpg" alt="뽑기 당첨된 모습" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-draw-03.jpg" alt="뽑기 당첨된 모습" class="photo-dual-img">
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-draw-04.jpg" alt="당첨된 거대한 왕잉어 엿" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-draw-04.jpg" alt="당첨된 거대한 왕잉어 엿" class="photo-dual-img">
   </div>
 </div>
 
@@ -111,20 +111,20 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
 가장 흔하게 볼 수 있는 정열적인 새빨간 장미부터, 병아리처럼 귀여운 노란 장미, 순백의 하얀 장미까지 저마다 색색의 예쁜 자태를 뽐내고 있었어요. 
 
 <div class="checkerboard-grid">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-02.jpg" alt="흰색 장미">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-04.jpg" alt="붉은 장미 클로즈업">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-05.jpg" alt="노랑 장미 클로즈업">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-08.jpg" alt="보라 장미 클로즈업">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-flower-02.jpg" alt="흰색 장미">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-flower-04.jpg" alt="붉은 장미 클로즈업">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-flower-05.jpg" alt="노랑 장미 클로즈업">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-flower-08.jpg" alt="보라 장미 클로즈업">
 </div>
 
 ### 화려한 장미 터널과 포토존
 공원 산책로를 따라 걷다 보면 머리 위로 탐스럽게 벽을 타고 오르는 넝쿨 장미로 만들어진 예쁜 터널들을 만나게 됩니다. '로즈로드'라 불리는 하트 터널과 로즈가든, 로즈터널 등 콘셉트가 다양해서 구경하는 재미가 쏠쏠해요. 보랏빛과 분홍빛 장미가 가득 피어있는 터널 안은 어디서 사진을 찍어도 인생샷이 나오는 최고의 촬영 명소였습니다. 장미로 화려하게 장식된 장미 마차 조형물 앞에는 추억을 남기려는 사람들의 줄이 끊이지 않았습니다.
 
 <div class="checkerboard-grid">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-11.jpg" alt="이곡장미공원 보라색 장미넝쿨">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-14.jpg" alt="아름다운 장미 정원 풍경 1">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-20.jpg" alt="어여쁜 장미 마차">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-07.jpg" alt="세로로 솟은 장미 넝쿨">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-flower-11.jpg" alt="이곡장미공원 보라색 장미넝쿨">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-flower-14.jpg" alt="아름다운 장미 정원 풍경 1">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-flower-20.jpg" alt="어여쁜 장미 마차">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-flower-07.jpg" alt="세로로 솟은 장미 넝쿨">
 </div>
 
 ### 밤이 더 기대되는 조명과 시원한 분수
@@ -133,10 +133,10 @@ image: "/assets/images/daily/260516-igok-rose-park-main.jpg"
 특히 낮인데도 장미 넝쿨 사이사이에 작은 꼬마전구들에 불이 들어와 있어서 아기자기하고 예뻤습니다. 해가 지고 밤이 되면 이 조명들이 장미꽃을 은은하게 비추며 또 얼마나 로맨틱하고 아름다울까 상상해 보았습니다. 집이 조금만 더 가까웠다면 선선한 밤에 다시 한번 산책하러 다녀오고 싶다는 생각이 들 정도로 아쉬움이 남았네요.
 
 <div class="checkerboard-grid">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-12.jpg" alt="장미공원 분수대">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-09.jpg" alt="전구가 빛나는 풍경">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-16.jpg" alt="아름다운 장미 정원 풍경 2">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-igok-rose-park-flower-18.jpg" alt="아름다운 장미 정원 풍경 3">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-flower-12.jpg" alt="장미공원 분수대">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-flower-09.jpg" alt="전구가 빛나는 풍경">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-flower-16.jpg" alt="아름다운 장미 정원 풍경 2">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-igok-rose-park-flower-18.jpg" alt="아름다운 장미 정원 풍경 3">
 </div>
 
 한낮의 뜨거운 햇살에 조금 지치기도 한 하루였지만, 뜻밖의 행운이 찾아온 뽑기 덕분에 웃었고, 감미로운 버스킹에 귀가 즐거웠으며, 화사한 장미꽃에 눈이 호강하는 완벽한 5월의 나들이였습니다. 😊

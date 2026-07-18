@@ -3,10 +3,10 @@ layout: post
 title: "[모바일 헬스케어] 6주 차 - 총 63,000보 달성! 다이어트의 핵심, 중강도 운동의 비밀"
 description: "보건소 모바일 헬스케어 6주 차 기록입니다. 수성구 진밭골, 창녕 여행으로 달성한 주간 6만 3천 보 기록과 중강도 운동이 내장지방 연소에 미치는 영향, 체지방률 변화를 공유합니다."
 date: 2026-06-07
-categories: daily
+categories: health
 main_menu: "소소한 일상"
 tags: [건강한 습관 챌린지, 모바일 헬스케어, 대구 학산 둘레길, 진밭골 트레킹, 창녕 여행, 만보 걷기, 중강도 운동, 다이어트 눈바디, 체지방률 감소, 초여름 건강관리]
-image: "/assets/images/daily/260607-health-care-week6-main.jpg"
+image: "/assets/images/helath/260607-health-care-week6-main.jpg"
 ---
 
 <div class="mag-container">
@@ -39,7 +39,7 @@ image: "/assets/images/daily/260607-health-care-week6-main.jpg"
     <p style="color: #666; font-size: 16px;">주간 63,473보의 기록과 다이어트의 핵심 '중강도 운동'의 비밀</p>
   </div>
 
-  <img src="{{ site.kor_url }}/assets/images/daily/260607-health-week6-main01.jpg" alt="초여름의 푸르름이 가득한 6주 차 걷기 운동 길" style="width: 100%; margin-bottom: 40px; object-fit: cover; aspect-ratio: 16/9; border-radius: 8px;">
+  <img src="{{ site.kor_url }}/assets/images/helath/260607-health-week6-main01.jpg" alt="초여름의 푸르름이 가득한 6주 차 걷기 운동 길" style="width: 100%; margin-bottom: 40px; object-fit: cover; aspect-ratio: 16/9; border-radius: 8px;">
 
   <div class="mag-2col">
     <span class="mag-dropcap">보</span>건소 모바일 헬스케어 챌린지를 시작한 지가 엊그제 같은데 벌써 6주 차 일요일을 맞이했습니다. 이번 한 주는 유독 달력에 빨간 날(지방선거일)도 끼어 있고 날씨도 화창해서, 그 어느 때보다 대구 근교와 도심 구석구석을 활기차게 누비고 다닌 역동적인 일주일이었어요. 
@@ -77,13 +77,13 @@ image: "/assets/images/daily/260607-health-care-week6-main.jpg"
 
   <div class="photo-tri-container">
     <div class="photo-tri-item">
-        <img src="{{ site.kor_url }}/assets/images/daily/260607-jinbatgol-review.jpg" alt="수성구 진밭골 트레킹" class="photo-tri-img">
+        <img src="{{ site.kor_url }}/assets/images/helath/260607-jinbatgol-review.jpg" alt="수성구 진밭골 트레킹" class="photo-tri-img">
         <span class="photo-caption">수성구 진밭골 트레킹</span></div>
     <div class="photo-tri-item">
-        <img src="{{ site.kor_url }}/assets/images/daily/260607-changnyeong-review.jpg" alt="창녕 고분군 산책" class="photo-tri-img">
+        <img src="{{ site.kor_url }}/assets/images/helath/260607-changnyeong-review.jpg" alt="창녕 고분군 산책" class="photo-tri-img">
         <span class="photo-caption">창녕 고분군 산책</span></div>
     <div class="photo-tri-item">
-        <img src="{{ site.kor_url }}/assets/images/daily/260607-haksan-review.jpg" alt="대구 학산 둘레길" class="photo-tri-img">
+        <img src="{{ site.kor_url }}/assets/images/helath/260607-haksan-review.jpg" alt="대구 학산 둘레길" class="photo-tri-img">
         <span class="photo-caption">대구 학산 둘레길</span></div>
   </div>
 

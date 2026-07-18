@@ -3,10 +3,10 @@ layout: post
 title: "[대구 남구 가볼 만한 곳] 39도 찜통더위 피서지 추천! 신축 '대구도서관' 층별 안내 및 방문 후기"
 description: "대구의 무자비한 폭염을 피해 미군반환부지에 새롭게 지어진 대구도서관에 다녀왔습니다. 쇼핑몰처럼 탁 트인 개방감, 대구학 자료실, 책두루 서비스, 다가올 평화공원 소식까지 상세히 전해드립니다."
 date: 2026-07-13
-categories: daily
+categories: travel-reviews
 main_menu: "소소한 일상"
 tags: [오늘의 단상, 대구도서관, 신축 도서관, 대구 가볼 만한 곳, 대구 남구 도서관, 대구 실내 가볼 만한 곳, 폭염 피서, 책두루서비스, 영대병원역, 날마다 소품]
-image: "/assets/images/daily/260711-daegu-library-main.jpg"
+image: "/assets/images/travel-reviews/260711-daegu-library-main.jpg"
 ---
 
 안녕하세요! 평범한 일상 속에서 소소한 행복과 여유를 찾아가는 **'날마다 소품'**입니다. 😊
@@ -16,7 +16,7 @@ image: "/assets/images/daily/260711-daegu-library-main.jpg"
 그래서 이번 주말에는 더위도 피하고 마음의 양식도 든든하게 채울 겸, 대구 남구에 새롭게 문을 연 신축 **'대구도서관'**에 다녀왔습니다. 옛 미군반환부지에 지어진 이곳은 단순한 도서관을 넘어 복합 문화 공간으로서의 매력이 가득했는데요. 깔끔한 시설부터 방대한 자료, 그리고 여유로운 공간이 주는 힐링까지, 완벽했던 하루의 방문 후기와 이용 꿀팁을 아주 상세하게 전해드릴게요!
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="{{ site.kor_url }}/assets/images/daily/260711-daegu-library-main.jpg" alt="깔끔하고 현대적인 분위기의 신축 대구도서관 내부" style="max-width: 100%; border-radius: 8px;">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260711-daegu-library-main.jpg" alt="깔끔하고 현대적인 분위기의 신축 대구도서관 내부" style="max-width: 100%; border-radius: 8px;">
   <br><span class="photo-caption">깔끔하고 세련된 현대적인 분위기를 물씬 풍기는 대구도서관 내부</span>
 </div>
 
@@ -41,15 +41,15 @@ image: "/assets/images/daily/260711-daegu-library-main.jpg"
 
 <div class="photo-tri-container">
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260711-daegu-library-void1.jpg" alt="대구도서관 외관" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260711-daegu-library-void1.jpg" alt="대구도서관 외관" class="photo-tri-img">
     <span class="photo-caption">대구도서관 외관</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260711-daegu-library-void2.jpg" alt="1층에서 바라본 시원하게 뚫린 도서관 중앙 로비" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260711-daegu-library-void2.jpg" alt="1층에서 바라본 시원하게 뚫린 도서관 중앙 로비" class="photo-tri-img">
     <span class="photo-caption">1층에서 바라본 시원하게 뚫린 도서관 중앙 로비</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260711-daegu-library-void3.jpg" alt="개방감 있는 열람실" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260711-daegu-library-void3.jpg" alt="개방감 있는 열람실" class="photo-tri-img">
     <span class="photo-caption">개방감 있는 열람실</span>
   </div>
 </div>
@@ -102,15 +102,15 @@ image: "/assets/images/daily/260711-daegu-library-main.jpg"
 
 <div class="photo-tri-container">
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260711-daegu-library-kids.jpg" alt="넓고 쾌적한 어린이자료실의 아기자기한 풍경" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260711-daegu-library-kids.jpg" alt="넓고 쾌적한 어린이자료실의 아기자기한 풍경" class="photo-tri-img">
     <span class="photo-caption">넓고 쾌적한 1층 어린이자료실</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260711-daegu-library-step.jpg" alt="자유롭게 앉아서 책을 읽을 수 있는 계단실 열람실" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260711-daegu-library-step.jpg" alt="자유롭게 앉아서 책을 읽을 수 있는 계단실 열람실" class="photo-tri-img">
     <span class="photo-caption">자유로운 캠퍼스 느낌의 계단형 열람실</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260711-daegu-library-lp.jpg" alt="턴테이블과 헤드셋이 마련된 아날로그 LP 감상 코너" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260711-daegu-library-lp.jpg" alt="턴테이블과 헤드셋이 마련된 아날로그 LP 감상 코너" class="photo-tri-img">
     <span class="photo-caption">아날로그 감성을 듬뿍 느낄 수 있는 LP 감상 코너</span>
   </div>
 </div>
@@ -133,7 +133,7 @@ image: "/assets/images/daily/260711-daegu-library-main.jpg"
 대중교통을 이용하실 경우 **대구 지하철 1호선 영대병원역에서 하차하여 도보로 약 10분** 정도 걸어오시면 됩니다. 버스 역시 영대병원역 인근 정류장에서 하차하여 걸어오는 것이 현재로서는 가장 일반적인 접근 방법입니다.
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="{{ site.kor_url }}/assets/images/daily/260711-daegu-library-park.jpg" alt="현재 막바지 공사가 한창인 도서관 뒤편 대구평화공원 부지 모습" style="max-width: 100%; border-radius: 8px;">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260711-daegu-library-park.jpg" alt="현재 막바지 공사가 한창인 도서관 뒤편 대구평화공원 부지 모습" style="max-width: 100%; border-radius: 8px;">
   <br><span class="photo-caption">올해 8월 완공을 목표로 막바지 공사가 한창인 대구평화공원(문화공원) 부지</span>
 </div>
 
@@ -183,7 +183,7 @@ image: "/assets/images/daily/260711-daegu-library-main.jpg"
 대구도서관 개관과 함께 대구 시민들을 위해 도입된 아주 강력하고 특별한 제도가 있습니다. 바로 내가 애타게 찾는 책이 집 근처 가까운 도서관에 없을 때, 광역 단위의 타 도서관(시립도서관, 구립도서관, 작은도서관 등)에 흩어져 있는 자료를 신청하여 내가 원하는 도서관에서 편리하게 받아볼 수 있는 **'광역상호대차서비스(책두루서비스)'**입니다. 
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="{{ site.kor_url }}/assets/images/daily/260711-daegu-library-service.jpg" alt="대구도서관 내 책두루서비스 이용 안내 데스크 모습" style="max-width: 100%; border-radius: 8px;">
+  <img src="{{ site.kor_url }}/assets/images/travel-reviews/260711-daegu-library-service.jpg" alt="대구도서관 내 책두루서비스 이용 안내 데스크 모습" style="max-width: 100%; border-radius: 8px;">
   <br><span class="photo-caption">전국 최초로 도입되어 편리함을 더하는 책두루서비스</span>
 </div>
 <div class="source-citation">

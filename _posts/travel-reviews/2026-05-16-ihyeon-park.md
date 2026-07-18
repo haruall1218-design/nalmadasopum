@@ -2,17 +2,17 @@
 layout: post
 title: "[대구 가볼 만한 곳] 하얀 샤스타 데이지가 반겨주는 이현공원 주말 산책"
 date: 2026-05-16
-categories: daily
+categories: travel-reviews
 main_menu: "소소한 일상"
 tags: [오늘의 단상, 일상, 이현공원, 대구산책, 샤스타데이지, 화이트 핑크 셀릭스, 삼색버들, 그린웨이, 물놀이장, 대구 가볼 만한 곳]
-image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
+image: "/assets/images/travel-reviews/260516-ihyeon-park-main.jpg"
 ---
 
 안녕하세요! 평범한 일상 속에서 소소한 행복을 찾아가는 **'날마다 소품'**입니다. 😊
 
 날씨가 참 좋은 주말, 하얀 샤스타 데이지가 예쁘게 피었다는 소식을 듣고 대구 서구에 위치한 **이현공원**에 다녀왔습니다. 가벼운 마음으로 나선 길이었는데, 생각보다 훨씬 크고 조경이 아름다워서 걷는 내내 감탄이 절로 나왔어요.
 
-![이현공원에 예쁘게 피어난 샤스타 데이지]({{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-main.jpg)
+![이현공원에 예쁘게 피어난 샤스타 데이지]({{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-main.jpg)
 
 ---
 
@@ -37,12 +37,12 @@ image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
 공원 한쪽에 삼색버들 여러 그루가 동그랗게 모여 심겨 있었는데, 멀리서 볼 때는 나무에 온통 하얀 눈꽃이나 흰 꽃이 만개한 것처럼 보여서 눈을 뗄 수 없을 만큼 너무나 예뻤답니다. 나중에 정원이 딸린 집에 산다면 꼭 심고 싶은 삼색버들이에요.
 
 <div class="checkerboard-grid">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-white-pink-salix-01.jpg" alt="이현공원 삼색버들 풍경 1">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-white-pink-salix-02.jpg" alt="이현공원 삼색버들 풍경 2">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-white-pink-salix-03.jpg" alt="이현공원 삼색버들 풍경 3">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-white-pink-salix-04.jpg" alt="이현공원 삼색버들 풍경 4">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-white-pink-salix-05.jpg" alt="이현공원 삼색버들 풍경 5">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-white-pink-salix-06.jpg" alt="이현공원 삼색버들 풍경 6">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-white-pink-salix-01.jpg" alt="이현공원 삼색버들 풍경 1">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-white-pink-salix-02.jpg" alt="이현공원 삼색버들 풍경 2">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-white-pink-salix-03.jpg" alt="이현공원 삼색버들 풍경 3">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-white-pink-salix-04.jpg" alt="이현공원 삼색버들 풍경 4">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-white-pink-salix-05.jpg" alt="이현공원 삼색버들 풍경 5">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-white-pink-salix-06.jpg" alt="이현공원 삼색버들 풍경 6">
 </div>
 
 > **삼색버들**은 다른 이름으로 화이트 핑크 셀릭스(White Pink Salix)라고도 불리는 식물입니다.
@@ -53,16 +53,16 @@ image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
 지난번 영천에서도 보았지만 새하얗게 피어난 샤스타 데이지는 기대를 저버리지 않고 너무나 아름다웠습니다. 하얀 데이지 꽃들이 앞줄에 가득 피어 있고, 그 뒤쪽으로 여러 가지 다채로운 꽃들이 줄을 맞춰 정갈하게 심겨 있는 모습이 참 조화로웠어요.
 
 <div class="checkerboard-grid">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-01.jpg" alt="이현공원 샤스타 데이지 1">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-02.jpg" alt="이현공원 샤스타 데이지 2">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-03.jpg" alt="이현공원 여러 가지 꽃들 1">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-04.jpg" alt="이현공원 금계국">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-05.jpg" alt="이현공원 여러 가지 꽃들 3">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-06.jpg" alt="이현공원 꽃밭 풍경 1">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-07.jpg" alt="이현공원 꽃밭 풍경 2">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-08.jpg" alt="이현공원 꽃밭 풍경 3">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-09.jpg" alt="이현공원 꽃밭 풍경 4">
-    <img src="{{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-flowers-10.jpg" alt="이현공원 작은 분수">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-01.jpg" alt="이현공원 샤스타 데이지 1">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-02.jpg" alt="이현공원 샤스타 데이지 2">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-03.jpg" alt="이현공원 여러 가지 꽃들 1">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-04.jpg" alt="이현공원 금계국">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-05.jpg" alt="이현공원 여러 가지 꽃들 3">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-06.jpg" alt="이현공원 꽃밭 풍경 1">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-07.jpg" alt="이현공원 꽃밭 풍경 2">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-08.jpg" alt="이현공원 꽃밭 풍경 3">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-09.jpg" alt="이현공원 꽃밭 풍경 4">
+    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-10.jpg" alt="이현공원 작은 분수">
 </div>
 
 ---
@@ -76,11 +76,11 @@ image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
 <div class="photo-dual-container">
   
   <div class="photo-dual-item">
-    <img src="/assets/images/daily/260516-ihyeon-park-water-playground-01.jpg" alt="어린이 물놀이장" class="photo-dual-img">
+    <img src="/assets/images/travel-reviews/260516-ihyeon-park-water-playground-01.jpg" alt="어린이 물놀이장" class="photo-dual-img">
   </div>
 
   <div class="photo-dual-item">
-    <img src="/assets/images/daily/260516-ihyeon-park-water-playground-02.jpg" alt="축구장 넘어로 보이는 물놀이장" class="photo-dual-img">
+    <img src="/assets/images/travel-reviews/260516-ihyeon-park-water-playground-02.jpg" alt="축구장 넘어로 보이는 물놀이장" class="photo-dual-img">
   </div>
 
 </div>
@@ -99,11 +99,11 @@ image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
 <div class="photo-dual-container">
   
   <div class="photo-dual-item">
-    <img src="/assets/images/daily/260516-ihyeon-park-parking-01.jpg" alt="주차장 1" class="photo-dual-img">
+    <img src="/assets/images/travel-reviews/260516-ihyeon-park-parking-01.jpg" alt="주차장 1" class="photo-dual-img">
   </div>
 
   <div class="photo-dual-item">
-    <img src="/assets/images/daily/260516-ihyeon-park-parking-02.jpg" alt="주차장 2" class="photo-dual-img">
+    <img src="/assets/images/travel-reviews/260516-ihyeon-park-parking-02.jpg" alt="주차장 2" class="photo-dual-img">
   </div>
 
 </div>
@@ -120,7 +120,7 @@ image: "/assets/images/daily/260516-ihyeon-park-main.jpg"
 
 초록 가득한 자연과 화사한 꽃들이 예쁘게 어우러진 이현공원, 주말에 가족들과 조용히 산책할 곳을 찾으신다면 꼭 한번 방문해 보시길 추천해 드립니다. 😊
 
-![이현공원 종합 안내도]({{ site.kor_url }}/assets/images/daily/260516-ihyeon-park-information.jpg)
+![이현공원 종합 안내도]({{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-information.jpg)
 
 ---
 

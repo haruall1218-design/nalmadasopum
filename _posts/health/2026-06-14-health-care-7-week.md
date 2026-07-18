@@ -3,10 +3,10 @@ layout: post
 title: "[모바일 헬스케어 7주차] 정체기를 극복하는 대구 도심 걷기 (국채보상운동기념공원, 경상감영공원)"
 description: "보건소 모바일 헬스케어 7주차 기록 (6월 14일). 체중 감량 정체기를 맞아 대구 도심 속 국채보상운동기념공원과 경상감영공원을 걸으며 힐링했습니다. 다이어트 정체기 극복 건강 상식도 확인해 보세요."
 date: 2026-06-14
-categories: daily
+categories: health
 main_menu: "소소한 일상"
 tags: [건강한 습관 챌린지, 모바일 헬스케어, 걷기 운동, 대구 걷기 좋은 길, 국채보상운동기념공원, 경상감영공원, 다이어트 정체기, 만보 걷기, 건강상식]
-image: "/assets/images/daily/260614-health-care-week7-main.jpg"
+image: "/assets/images/helath/260614-health-care-week7-main.jpg"
 ---
 
 <div class="mag-tracker">
@@ -44,7 +44,7 @@ image: "/assets/images/daily/260614-health-care-week7-main.jpg"
 하지만 마음가짐과는 별개로, 이번 7주 차에는 넘어야 할 작은 산이 하나 생겼습니다. 바로 '정체기'가 찾아온 것인데요. 오늘은 정체기의 답답함을 훌훌 털어버리기 위해 대구 도심 속 아름다운 두 공원을 연달아 걸었던 기록과, 유용한 건강 상식을 함께 나누어 보겠습니다.
 
 <div style="text-align: center; margin: 30px 0;">
-  <img src="{{ site.kor_url }}/assets/images/daily/260614-healthcare-main.jpg" alt="푸른 녹음이 우거진 대구 국채보상운동기념공원 산책로" style="max-width: 100%; border-radius: 8px;">
+  <img src="{{ site.kor_url }}/assets/images/helath/260614-healthcare-main.jpg" alt="푸른 녹음이 우거진 대구 국채보상운동기념공원 산책로" style="max-width: 100%; border-radius: 8px;">
   <br><span class="photo-caption">푸른 녹음이 우거진 대구 국채보상운동기념공원 산책로</span>
 </div>
 
@@ -76,11 +76,11 @@ image: "/assets/images/daily/260614-health-care-week7-main.jpg"
 
 <div class="photo-dual-container">
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260614-park-01.jpg" alt="국채보상운동기념공원의 웅장한 달구벌대종" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260614-park-01.jpg" alt="국채보상운동기념공원의 웅장한 달구벌대종" class="photo-dual-img">
     <span class="photo-caption">웅장한 모습의 달구벌대종 앞 광장</span>
   </div>
   <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260614-park-02.jpg" alt="공원 내에 위치한 김광제, 서상돈의 동상" class="photo-dual-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260614-park-02.jpg" alt="공원 내에 위치한 김광제, 서상돈의 동상" class="photo-dual-img">
     <span class="photo-caption">공원 내에 위치한 김광제, 서상돈의 동상</span>
   </div>
 </div>
@@ -96,15 +96,15 @@ image: "/assets/images/daily/260614-health-care-week7-main.jpg"
 
 <div class="photo-tri-container">
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260614-gamyeong-01.jpg" alt="경상감영공원 선화당의 아름다운 처마 곡선" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260614-gamyeong-01.jpg" alt="경상감영공원 선화당의 아름다운 처마 곡선" class="photo-tri-img">
     <span class="photo-caption">아름다운 처마 곡선이 돋보이는 선화당</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260614-gamyeong-02.jpg" alt="공원 내 평화롭고 잔잔한 연못 풍경" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260614-gamyeong-02.jpg" alt="공원 내 평화롭고 잔잔한 연못 풍경" class="photo-tri-img">
     <span class="photo-caption">물소리가 마음을 편안하게 해주는 연못</span>
   </div>
   <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/daily/260614-gamyeong-03.jpg" alt="쉬어가는 벤치와 깔끔하게 정돈된 산책로" class="photo-tri-img">
+    <img src="{{ site.kor_url }}/assets/images/helath/260614-gamyeong-03.jpg" alt="쉬어가는 벤치와 깔끔하게 정돈된 산책로" class="photo-tri-img">
     <span class="photo-caption">어르신들의 편안한 휴식처가 되는 길</span>
   </div>
 </div>
