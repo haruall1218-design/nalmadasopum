@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "햇살을 부드럽게 들이는 '바란스 커튼' 만들기 (직선 박기 마스터)"
-date: 2026-05-02
+date: 2026-09-23
 categories: making-note
 main_menu: "제작 노트"
 tags: [인테리어 소품, 제작노트, 바란스커튼, 미싱초보, 핸드메이드소품, 홈스타일링, 창문꾸미기]
