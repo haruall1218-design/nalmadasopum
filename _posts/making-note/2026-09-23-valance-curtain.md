@@ -5,7 +5,7 @@ date: 2026-05-02
 categories: making-note
 main_menu: "제작 노트"
 tags: [인테리어 소품, 제작노트, 바란스커튼, 미싱초보, 핸드메이드소품, 홈스타일링, 창문꾸미기]
-image: "/assets/images/making-note/260502-valance-tutorial-main.jpg"
+image: "/assets/images/making-note/260923-valance-tutorial-main.jpg"
 ---
 
 벌써 가을이 성큼 다가온것처럼 아침 저녁으로 쌀쌀한 날입니다. 안녕하세요. **'날마다 소품'**입니다. 😊
@@ -18,9 +18,9 @@ image: "/assets/images/making-note/260502-valance-tutorial-main.jpg"
 주방의 작은 창문, 보기 싫은 두꺼비집, 혹은 어수선한 수납장 앞을 살짝 가려주기만 해도 집안 분위기가 달라진답니다. 
 아주 간단한 **오직 '직선 박기'만으로 완성**하지만 인테리어에 아주 많은 기여를 하는 바란스 커튼 만들기, 가벼운 마음으로 시작해 볼까요?
 
-![완성된 바란스 커튼을 설치한 모습]({{ site.kor_url }}/assets/images/making-note/260502-valance-tutorial-main.jpg)
+![완성된 바란스 커튼을 설치한 모습]({{ site.kor_url }}/assets/images/making-note/260923-valance-tutorial-main.jpg)
 
-![바란스 커튼의 디테일]({{ site.kor_url }}/assets/images/making-note/260502-valance-tutorial-02.jpg)
+![바란스 커튼의 디테일]({{ site.kor_url }}/assets/images/making-note/260923-valance-tutorial-02.jpg)
 
 
 
@@ -47,7 +47,7 @@ image: "/assets/images/making-note/260502-valance-tutorial-main.jpg"
 
 ## 1단계: 원단 재단과 가장자리 정리(시접 다림질 하기)
 
-![원단을 재단한 모습]({{ site.kor_url }}/assets/images/making-note/260502-valance-tutorial-03.jpg)
+![원단을 재단한 모습]({{ site.kor_url }}/assets/images/making-note/260923-valance-tutorial-03.jpg)
 
 시접을 넣은 사이즈데로 재단 합니다.
 가로 세로 문양이 있는 원단은 최대한 선에 맞추어 깔끔하게 재단합니다.
@@ -55,7 +55,7 @@ image: "/assets/images/making-note/260502-valance-tutorial-main.jpg"
 저는 가로 85cm, 세로 55cm의 바란스 커튼을 만들려고 합니다.<br>
 그래서 가로 사이즈는 89cm, 세로 사이즈는 67cm로 원단을 재단 했습니다.
 
-![원단을 재단하고 4면을 1cm씩 두 번 접어 다림질한 모습]({{ site.kor_url }}/assets/images/making-note/260502-valance-tutorial-04.jpg)
+![원단을 재단하고 4면을 1cm씩 두 번 접어 다림질한 모습]({{ site.kor_url }}/assets/images/making-note/260923-valance-tutorial-04.jpg)
 
 사진처럼 원단의 끝부분을 1cm로 접어 다린 후 다시 한번 더 접어 다림질 합니다.
 이때 균일하게 시접처리를 하시려면 사진에서처럼 두꺼운 종이를 폭 1cm로 잘라서 원단 안에 넣고 그 사이즈 만큼 다림질 하시면 편리합니다.
@@ -68,12 +68,12 @@ image: "/assets/images/making-note/260502-valance-tutorial-main.jpg"
 
 ## 2단계: 4면 모두 직선 박기
 
-![다림질한 가장자리를 미싱으로 직선 박기 하는 모습]({{ site.kor_url }}/assets/images/making-note/260502-valance-tutorial-05.jpg)
+![다림질한 가장자리를 미싱으로 직선 박기 하는 모습]({{ site.kor_url }}/assets/images/making-note/260923-valance-tutorial-05.jpg)
 
 시접의 끝에서 0.2cm 정도 안쪽으로 쭉 직선 박기를 해줍니다.
 첫 한면을 박음질 할 때에는 모서리의 접어둔 부분을 펴서 사진처럼 직선으로 모두 박습니다.
 
-![모서리 처리하여 박기 하는 모습]({{ site.kor_url }}/assets/images/making-note/260502-valance-tutorial-06.jpg)
+![모서리 처리하여 박기 하는 모습]({{ site.kor_url }}/assets/images/making-note/260923-valance-tutorial-06.jpg)
 
 실밥과 모서리의 튀어나온 부분을 정리하고 사진처럼 접어서 한 면을 직선박기를 합니다. (3면 모두)
 
@@ -82,12 +82,12 @@ image: "/assets/images/making-note/260502-valance-tutorial-main.jpg"
 
 ## 3단계: 상단 압축봉 터널(통로) 만들기 (★가장 중요!)
 
-![봉 넣는 부분 처리하는 모습]({{ site.kor_url }}/assets/images/making-note/260502-valance-tutorial-07.jpg)
+![봉 넣는 부분 처리하는 모습]({{ site.kor_url }}/assets/images/making-note/260923-valance-tutorial-07.jpg)
 
 원하는 세로 길이만큼 재어서 윗 부분을 아래로 접어줍니다.
 저는 세로 55cm를 원해서 재로 55cm를 재고 윗 부분을 접어 내려 시침핀으로 고정합니다.
 
-![봉 넣는 부분 박음질하는 모습]({{ site.kor_url }}/assets/images/making-note/260502-valance-tutorial-08.jpg)
+![봉 넣는 부분 박음질하는 모습]({{ site.kor_url }}/assets/images/making-note/260923-valance-tutorial-08.jpg)
 
 사진과 같이 노란색 라인을 따라 박음질 하여 줍니다.
 
@@ -98,7 +98,7 @@ image: "/assets/images/making-note/260502-valance-tutorial-main.jpg"
 
 ## 4단계: 라벨 달기
 
-![라벨을 다는 모습]({{ site.kor_url }}/assets/images/making-note/260502-valance-tutorial-step09.jpg)
+![라벨을 다는 모습]({{ site.kor_url }}/assets/images/making-note/260923-valance-tutorial-step09.jpg)
 
 원하는 위치에 라벨을 달아줍니다.
 라벨을 달아주면 바란스 커튼의 완성도가 높아집니다.
@@ -108,7 +108,7 @@ image: "/assets/images/making-note/260502-valance-tutorial-main.jpg"
 
 ## 5단계: 다림질 후 압축봉 넣기
 
-![터널 아래쪽 선을 따라 직선 박기 하는 모습]({{ site.kor_url }}/assets/images/making-note/260502-valance-tutorial-10.jpg)
+![터널 아래쪽 선을 따라 직선 박기 하는 모습]({{ site.kor_url }}/assets/images/making-note/260923-valance-tutorial-10.jpg)
 
 완성한 바란스 커튼은 잘 다려주고 압축봉을 끼워 줍니다.
 
@@ -116,7 +116,7 @@ image: "/assets/images/making-note/260502-valance-tutorial-main.jpg"
 
 ## 6단계: 바란스 커튼 세팅
 
-![완성된 커튼 달아보기]({{ site.kor_url }}/assets/images/making-note/260502-valance-tutorial-11.jpg)
+![완성된 커튼 달아보기]({{ site.kor_url }}/assets/images/making-note/260923-valance-tutorial-11.jpg)
 
 잘 만들어진 바란스 커튼을 달아 보았습니다.
 어떤가요? 지저분한 공간이 좀 깔끔해 보이나요?
@@ -125,9 +125,9 @@ image: "/assets/images/making-note/260502-valance-tutorial-main.jpg"
 
 ---
 
-![완성된 커튼]({{ site.kor_url }}/assets/images/making-note/260502-valance-tutorial-main.jpg)
+![완성된 커튼]({{ site.kor_url }}/assets/images/making-note/260923-valance-tutorial-main.jpg)
 
-![커튼의 디테일]({{ site.kor_url }}/assets/images/making-note/260502-valance-tutorial-02.jpg)
+![커튼의 디테일]({{ site.kor_url }}/assets/images/making-note/260923-valance-tutorial-02.jpg)
 
 저는 만들어보니 살짝 길어서 압축봉 위쪽으로 1cm 간격으로 한 줄 더 박음질 하였더니, 저렇게 예쁘게 주름이 생겨서 더 예뻐졌답니다.
 
