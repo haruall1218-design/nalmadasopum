@@ -95,7 +95,7 @@
 ========================================= */
 .nav { position: fixed; top: 0; width: 100%; z-index: 50; background-color: #1c1917; height: 80px; }
 .nav-inner { display: flex; justify-content: space-between; align-items: center; height: 100%; max-width: 1300px; margin: 0 auto; padding: 0 20px; }
-.nav-left { display: flex; align-items: center; gap: 70px; }
+.nav-left { display: flex; align-items: center; gap: 118px; }
 .site-title { font-size: 24px; margin-bottom: 0; font-family: 'Newsreader', serif;  letter-spacing: -1.0px; }
 .site-title a { color: var(--logo-color); text-decoration: none; font-weight: 700; }
 .site-title a:hover {  text-decoration: none;   color:#58770e; }
@@ -106,7 +106,7 @@
 .desktop-menu a.active { color: #ffffff; border-bottom: 1px solid rgba(255,255,255,0.3); padding-bottom: 4px; }
 .nav-right { display: flex; align-items: center; gap: 24px; }
 #search-box { position: relative; display: inline-block; margin: 0 15px; vertical-align: middle; }
-#search-input { background-color: rgba(65, 62, 61, 0.5); border: none; color: #f5f5f4; padding: 6px 16px; border-radius: 6px; font-size: 14px; width: 192px; outline: none; }
+#search-input { background-color: rgba(65, 62, 61, 0.5); border: none; color: #f5f5f4; padding: 6px 16px; border-radius: 6px; font-size: 14px; width: 160px; outline: none; }
 #search-input:focus { border-color: #8b5a2b; width: 200px; }
 #search-results { position: absolute; top: 130%; right: 0; width: 280px; background: #fff; border-radius: 8px; list-style: none; padding: 0; margin: 0; display: none; z-index: 1000; box-shadow: 0 4px 12px rgba(0,0,0,0.1); overflow: hidden; }
 #search-results li { border-bottom: 1px solid #f0f0f0; }
@@ -131,7 +131,7 @@
 .mobile-menu { display: none; position: absolute; top: 80px; left: 0; width: 100%; background-color: #1c1917; padding: 24px 32px; border-top: 1px solid #292524; z-index: 40; }
 .mobile-menu a { display: block; color: #ffffff; font-family: 'Newsreader', serif; font-size: 18px; padding: 12px 0; }
 .wrapper.with-sidebar { display: flex; gap: 40px; align-items: flex-start; }
-.sidebar { width: 300px; flex-shrink: 0; padding: 10px 20px 0 5px; border-radius: 10px; position: sticky; top: 160px; }
+.sidebar { width: 250px; flex-shrink: 0; padding: 10px 20px 0 5px; border-radius: 10px; position: sticky; top: 160px; }
 .content-area { flex-grow: 1; width: 100%; }
 .sidebar-title { font-family: 'Newsreader', serif; font-size: 24px; color: #1b3022; margin-top: 0; }
 .sidebar-subtitle { font-family: 'Manrope', sans-serif; text-transform: uppercase; letter-spacing: 0.2em; font-size: 11px; color: rgba(74, 93, 74, 0.6); margin: 0; }
