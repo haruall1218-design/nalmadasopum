@@ -1,231 +1,94 @@
 ---
 layout: post
-title: "[거창 가볼 만한 곳] 숲속의 짜릿함! 우두산 항노화 힐링랜드 Y자 출렁다리 당일치기"
-description: "대구 근교 드라이브 코스로 추천하는 거창 항노화 힐링랜드. 주말 주차 및 셔틀버스 정보, Y자 출렁다리, 둥지 전망대, 무장애 데크로드 등 생생한 방문 후기와 이용 꿀팁을 소개합니다."
+title: "[거창 가볼 만한 곳] 숲속의 짜릿함! 우두산 Y자 출렁다리와 둥지 전망대 당일치기"
+description: "대구 근교 드라이브 코스로 찾은 거창 우두산 Y자 출렁다리 방문기입니다. 주말 셔틀버스 이용 팁부터 힐링 계단길, 아찔한 출렁다리, 둥지 전망대까지 솔직한 나들이 소감을 전합니다."
 date: 2026-07-04
 categories: travel-reviews
 main_menu: "소소한 일상"
-tags: [오늘의 단상, 대구 근교 나들이, 거창 여행, 거창 가볼 만한 곳, 거창 항노화 힐링랜드, Y자 출렁다리, 우두산 출렁다리, 둥지 전망대, 경남 여행, 당일치기 여행]
+tags: [오늘의 단상, 대구 근교 나들이, 거창 여행, 거창 가볼 만한 곳, 거창 항노화 힐링랜드, Y자 출렁다리, 우두산, 둥지 전망대, 당일치기 여행, 날마다 소품]
 image: "/assets/images/travel-reviews/260704-geochang-main.jpg"
 ---
 
-안녕하세요! 평범한 일상 속에서 소소한 행복을 찾아가는 **'날마다 소품'**입니다. 😊
+한 달 전부터 꼭 가보려고 벼르고 있었는데, 주말마다 개인적인 일정이 겹치면서 계속 미루다가 드디어 거창에 다녀왔습니다. 오전에 볼일을 마치고 늦은 아침 겸 점심을 든든하게 챙겨 먹은 뒤 가벼운 마음으로 출발했습니다.
 
-한 달 전부터 꼭 가보려고 벼르고 있었는데 매주 일이 생겨 미루고 미루다, 드디어 오늘 거창에 다녀왔습니다! 오전에 다른 일정을 소화하느라 늦은 아침 겸 점심을 먹고 훌쩍 출발했는데요. 대구에서 출발하니 1시간 남짓밖에 걸리지 않았고, 톨게이트를 빠져나가자마자 목적지가 금방이라 생각보다 훨씬 가깝게 느껴져서 드라이브 코스로 제격이었습니다. 
+대구에서 출발하니 차로 1시간 남짓밖에 걸리지 않았고, 톨게이트를 빠져나오자마자 목적지가 바로 나타나 생각했던 것보다 훨씬 가깝게 느껴졌습니다. 가볍게 다녀오기 좋은 대구 근교 드라이브 코스로 제격이었습니다.
 
-올해 '2026년 거창 방문의 해'를 맞아 더욱 볼거리가 풍성했던 우두산 항노화 힐링랜드와 짜릿한 Y자 출렁다리 방문기를 생생하게 전해드릴게요!
+![아름다운 우두산 절경과 아찔한 Y자 출렁다리]({{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-main.jpg)
 
-<div class="photo-dual-container">
-  <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-main.jpg" alt="아름다운 우두산 절경과 아찔한 Y자 출렁다리" class="photo-dual-img">
-  </div>
-  <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-main02.jpg" alt="우두산 정상에서 바라본 Y자 출렁다리" class="photo-dual-img">
-  </div>
-</div>
+### 주말 주차와 무료 셔틀버스 이용 요령
 
-<div class="toc-container">
-  <p class="toc-title">📋 목차 (클릭하면 이동합니다)</p>
-  <ul class="toc-list">
-    <li><a href="#parking">1. 힐링랜드 가는 길 (주말 주차 및 셔틀버스 꿀팁)</a></li>
-    <li><a href="#climbing">2. 마음의 평화가 찾아오는 길, 힐링 계단 오르기</a></li>
-    <li><a href="#bridge">3. 국내 최초! 아찔한 매력의 우두산 Y자 출렁다리</a></li>
-    <li><a href="#observatory">4. 둥지 전망대와 헬스게이트, 알찬 힐링랜드 부대시설</a></li>
-    <li><a href="#guide">5. 알아두면 유용한 거창 항노화 힐링랜드 방문 가이드</a></li>
-  </ul>
-</div>
+거창 항노화 힐링랜드는 평일과 주말의 진입 방식이 다릅니다. 주중에는 입구 주차장까지 본인 차를 몰고 올라갈 수 있지만, 사람이 많이 몰리는 주말에는 입구에서 3~4km 정도 떨어진 임시 주차장에 차를 세우고 무료 셔틀버스를 이용해야 합니다.
 
----
+임시 주차장 매표소에서 1인당 3,000원의 입장료를 결제하고 40인승 대형 셔틀버스에 올랐습니다. 셔틀버스가 10분에서 15분 간격으로 자주 운행되고 있어서 오래 기다리지 않고 바로 출발할 수 있었습니다. 버스를 타고 구불구불한 길을 7분 정도 올라가니 힐링랜드 입구에 무사히 도착했습니다.
 
-<a id="parking"></a>
-## 🚗 1. 힐링랜드 가는 길 (주말 주차 및 셔틀버스 꿀팁)
+![거창 항노화 힐링랜드 주말 임시 주차장 매표소]({{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-parking.jpg)
 
-거창 항노화 힐링랜드는 평일과 주말의 방문 시스템이 조금 다릅니다. 주중에는 힐링랜드 입구 주차장까지 차를 가지고 바로 올라갈 수 있지만, 방문객이 몰리는 **주말에는 입구에서 약 3~4km 떨어진 임시 주차장에 차를 대고 무료 셔틀버스를 이용**해야 합니다.
+### 계단마다 재미가 있는 힐링 계단길
 
-<div class="photo-dual-container">
-  <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-parking.jpg" alt="거창 항노화 힐링랜드 주말 임시 주차장에 마련된 매표소 모습" class="photo-dual-img">
-    <span class="photo-caption">거창 항노화 힐링랜드 주말 임시 주차장에 마련된 매표소 모습</span>
-  </div>
-  <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-shuttle.jpg" alt="힐링랜드로 향하는 40인승 무료 셔틀버스" class="photo-dual-img">
-    <span class="photo-caption">약 10~15분 간격으로 운행되는 무료 셔틀버스</span>
-  </div>
-</div>
+입구에 들어서자 출렁다리로 향하는 길이 두 갈래로 나뉘어 있었습니다. 약 20분이 걸리는 '오르미 길(바로 가는 길)'과 약 40분이 걸리는 '둘러 가는 길'이었는데요. 저희는 시간을 아끼고 가볍게 걷기 위해 바로 가는 길을 선택했습니다.
 
-입장료(3,000원)를 결제하고 40인승 대형 셔틀버스에 탑승했습니다. 셔틀버스는 약 10~15분 간격으로 자주 운행되고 있어서 오래 기다리지 않았고, 버스를 타고 약 7분 정도 올라가니 드디어 힐링랜드 입구에 도착할 수 있었습니다. 
+오르는 길 대부분이 정갈한 목재 계단으로 잘 정비되어 있어서 큰 무리 없이 편안하게 발걸음을 옮길 수 있었습니다. 특히 계단마다 감성을 채워주는 따뜻한 글귀와 재미있는 문구들이 적혀 있어서 읽으며 걷는 재미가 쏠쏠했습니다.
 
----
+"넌 충분히 괜찮은 사람이야", "내가 나를 사랑하기 시작하면 세상도 나를 사랑하기 시작합니다" 같은 응원 문구부터, "맥주 작은 캔 580계단, 소주 1병 2645계단" 같은 유쾌한 현실 문구도 눈에 띄었습니다. 계단 바닥에 지금까지 올라온 진행률이 적혀 있는 점도 포기하지 않고 끝까지 오르는 데 든든한 힘이 되어주었습니다.
 
-<a id="climbing"></a>
-## 🥾 2. 마음의 평화가 찾아오는 길, 힐링 계단 오르기
+![출렁다리로 향하는 나무 계단길]({{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-stairs-01.jpg)
 
-입구에서 출렁다리로 올라가려는데 두 갈래 길이 나타났습니다. **'바로 가는 길 (약 20분 소요)'**과 **'둘러 가는 길(약 40분 소요)'**이었죠. 저희는 시간을 아끼기 위해 20분이 걸리는 **바로 가는 길(오르미 길)**을 선택했습니다.
+### 협곡을 잇는 아찔한 우두산 Y자 출렁다리
 
-<div class="photo-tri-container">
-  <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-stairs-01.jpg" alt="출렁다리로 향하는 나무 계단길" class="photo-tri-img">
-    <span class="photo-caption">Y자 출렁다리로 가는 두 갈래로 나뉘는 길</span>
-  </div>
-  <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-stairs-02.jpg" alt="경사가 심하지 않아 오르기 편한 계단" class="photo-tri-img">
-    <span class="photo-caption">경사가 심하지 않아 오르기 편한 계단</span>
-  </div>
-  <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-stairs-03.jpg" alt="칼로리 소모를 알려주는 재미있는 계단 문구" class="photo-tri-img">
-    <span class="photo-caption">소주 1병 = 2,645계단?! 재미있는 문구들</span>
-  </div>
-</div>
+계단을 부지런히 올라 해발 600m 지점에 다다르니, 사진으로만 보던 거창의 명물 Y자 출렁다리가 모습을 드러냈습니다. 거대한 기암괴석 세 봉우리에 지지대를 각각 박아 알파벳 Y자 형태로 연결해 둔 모습이 멀리서부터 시선을 압도했습니다. 다리 길이는 각 갈래별로 40m, 45m, 24m로 나누어져 있습니다.
 
-오르는 길은 거의 대부분 잘 정비된 계단으로 이루어져 있어서 생각보다 큰 힘을 들이지 않고 오를 수 있었습니다. 특히 계단마다 감성을 자극하는 따뜻한 문구와 재미있는 글귀들이 적혀 있어서 이것들을 읽으며 올라가는 재미가 쏠쏠했습니다.
+평소 고소공포증이 약간 있는 편이라 발을 내딛기 전에는 꽤 긴장했지만, 막상 걸어보니 다리가 생각보다 거세게 흔들리지 않아 난간을 잡고 천천히 걸어가 볼 만했습니다.
 
-> 💡 **계단에서 만난 기억에 남는 문구들**
-> * "넌 충분히 괜찮은 사람이야"
-> * "내가 나를 사랑하기 시작하면, 세상도 나를 사랑하기 시작합니다"
-> * "맥주 작은 캔 580계단, 소주 1병 2645계단"
-> * "건강 잃고 후회 말고 지금 당장 걸어보세요!"
+다리 한가운데쯤 다다르면 깎아지른 절벽 틈으로 쏟아지는 시원한 폭포 물줄기를 내려다볼 수 있습니다. 이 멋진 풍경을 카메라에 담고 싶었지만, 발아래가 까마득해서 혹시라도 휴대폰을 떨어뜨릴까 봐 손이 떨리더라고요. 
 
-계단 한 칸 한 칸마다 얼마나 올라왔는지 진행률이 표시되어 있는 점도 무척 센스 있었습니다. "토닥토닥 수고했어"라는 글귀에 위로받으며 걷다 보니 금세 출렁다리에 도착하더라고요.
+실제로 제 바로 앞에서 지팡이를 짚고 걸어가시던 등산객 한 분이 손잡이를 살짝 놓치셨는데, 지팡이가 순식간에 다리 밑 까마득한 절벽 아래로 툭 떨어지는 모습을 직접 목격했습니다. 그 모습을 보고 나니 겁이 덜컥 나서 휴대폰을 가방 깊숙이 집어넣고 눈으로만 절경을 가득 담았습니다.
+
+![우두산 협곡을 잇는 Y자 출렁다리 전경]({{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-ybridge-01.jpg)
+
+### 둥지 전망대와 여유로운 산책길
+
+출렁다리를 건너면 바위 위에 조성된 전망 쉼터가 나타납니다. 여기서 바로 계단을 따라 내려갈 수도 있지만, 아쉬운 마음이 들어 조금 더 위쪽인 우두산 정상 방향으로 올라가 보았습니다.
+
+정상 부근에 오르니 방금 건너온 붉은색 Y자 출렁다리와 주변의 웅장한 암봉들이 파노라마처럼 시원하게 펼쳐졌습니다. 왜 사람들이 이곳을 두고 '작은 금강산'이라 부르는지 단번에 이해가 되었습니다. 거친 돌산의 멋스러움이 그대로 살아있더군요.
+
+정상 능선에는 작은 Y자 전망대와 함께 새 둥지처럼 동그랗게 엮인 '둥지 전망대'가 마련되어 있었습니다. 둥지 전망대에 서서 불어오는 시원한 산바람을 맞으며 산 아래 풍경을 내려다보니 이마에 맺혔던 땀방울이 단숨에 씻겨 내려가는 기분이었습니다.
+
+![독특한 외관의 둥지 전망대]({{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-observatory.jpg)
+
+산책로를 따라 천천히 하산하니 숲속의 집과 산림휴양관 등 아늑한 숙박 시설들이 나무숲 사이에 조화롭게 자리 잡고 있었습니다. 다음에 기회가 닿는다면 꼭 미리 예약해서 하룻밤 묵어가고 싶다는 생각이 절로 들었습니다. 
+
+산책로에는 완만한 목재 데크길도 잘 조성되어 있어 숲을 편안하게 둘러볼 수 있다는 점도 인상적이었습니다. 산책로를 걸어 나오는 길에는 나무 기둥 사이를 지나며 몸의 너비를 가늠해 보는 헬스게이트 조형물도 있어서 동행과 웃으며 가볍게 지나가 보았습니다.
+
+### 우두산 항노화 힐링랜드 방문 정보
+
+※ 2026년 7월 방문 당시 기준
+
+* **주소**: 경남 거창군 가조면 의상봉길 834
+* **문의**: 055-940-7930
+* **입장료**: 일반 3,000원 (만 7세 이상 ~ 만 65세 미만)
+* **운영 시간**: 
+  - 하절기 (3월 ~ 10월): 09:00 ~ 17:50 (셔틀 탑승 마감 17:00)
+  - 동절기 (11월 ~ 2월): 09:00 ~ 16:50 (셔틀 탑승 마감 16:00)
+* **정기 휴무**: 매주 화요일
+* **이용 팁**: 주말에는 자차 진입이 통제되므로 하부 임시 주차장에 차를 대고 무료 셔틀버스를 탑승해야 합니다. 셔틀버스 배차 간격이 짧아 이동이 수월합니다.
+
+※ 운영시간·입장료·셔틀버스 운영 여부는 방문 전 공식 홈페이지 또는 거창군 관광 안내를 통해 다시 확인해 주세요.
+
+다리 위에서 느꼈던 짜릿한 스릴도 색달랐지만, 초록빛 숲과 거친 바위 능선이 빚어낸 웅장한 절경이 오랫동안 마음에 남았습니다. 실제로 저는 다녀온 후 며칠 동안은 우두산과 Y자 출렁다리가 눈 앞에서 아른거렸습니다. 꼭 무슨 판타지 속의 울창한 밀림(?) 같은 곳에 있는 현실같지 않은 기분이었습니다. 여러분도 웅장한 거창 우두산 나들이를 권해드립니다. 😊
 
 ---
 
-<a id="bridge"></a>
-## 🌉 3. 국내 최초! 아찔한 매력의 우두산 Y자 출렁다리
+### 거창 우두산 항노화 힐링랜드 위치
 
-드디어 해발 600m에 위치한 거창의 명물, **Y자 출렁다리**에 도착했습니다! 세 군데의 거대한 바위에 지지대를 박아 'Y자' 형태로 다리를 연결해 둔 모습이 멀리서부터 시선을 압도했습니다. 다리 길이는 각각 40m, 45m, 24m로 이루어져 있어요.
+경상남도 거창군 가조면 수월리 산19
 
-<div class="photo-dual-container">
-  <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-ybridge-01.jpg" alt="우두산 협곡을 잇는 Y자 출렁다리 전경" class="photo-dual-img">
-    <span class="photo-caption">세 봉우리를 연결한 장엄한 Y자 출렁다리</span>
-  </div>
-  <div class="photo-dual-item">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-ybridge-02.jpg" alt="출렁다리 위에서 내려다본 기암괴석" class="photo-dual-img">
-    <span class="photo-caption">출렁다리에서 바라본 기암괴석</span>
-  </div>
-</div>
-
-평소 고소공포증이 약간 있는 편이라 긴장했지만, 용기를 내어 건너보기로 했습니다. 높이가 높아서 무섭긴 했지만, 생각보다 다리가 심하게 출렁거리지는 않아서 난간을 잘 잡고 건너볼 만했습니다. 
-
-다리 중간쯤에 다다르면 깎아지른 절벽 사이로 시원하게 흐르는 **폭포**의 풍경을 감상할 수 있는데요. 이 멋진 모습을 사진으로 남기고 싶었지만, 아래를 내려다보니 혹시라도 휴대폰을 놓치면 영영 찾을 수 없을 것 같아 덜컥 겁이 나더라고요. 실제로 제 앞에서 지팡이를 짚고 가시던 어떤 분이 실수로 지팡이를 살짝 놓치셨는데, 그대로 다리 아래 까마득한 절벽으로 떨어져 버리는 것을 보고는 휴대폰을 주머니에 꼭 넣고 눈으로만 풍경을 담았습니다. 😂
-
----
-
-<a id="observatory"></a>
-## ⛰️ 4. 둥지 전망대와 헬스게이트, 알찬 힐링랜드 부대시설
-
-출렁다리를 무사히 건너면 거대한 바위 위에 세워진 전망대에 도착합니다. 여기서 바로 하산해도 되지만, 아쉬운 마음에 발길을 돌려 우두산 정상 쪽으로 조금 더 올라가 보았습니다. 
-
-정상 부근에 오르니 방금 건너온 Y자 출렁다리와 기이한 암봉들로 이루어진 우두산의 절경이 한눈에 파노라마처럼 펼쳐졌습니다. 왜 이곳이 '작은 금강산'이라 불리는지 알 것 같더라고요. 산 구석구석 멋진 바위(돌산)를 구경하는 재미가 일품이었습니다.
-
-<div class="photo-tri-container">
-  <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-observatory.jpg" alt="새 둥지 모양을 닮은 둥지 전망대" class="photo-tri-img">
-    <span class="photo-caption">독특한 외관이 인상적인 둥지 전망대</span>
-  </div>
-  <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-observatory02.jpg" alt="둥지 전망대에서 바라본 또 다른 전망대" class="photo-tri-img">
-    <span class="photo-caption">둥지 전망대에서 바라본 또 다른 전망대</span>
-  </div>
-  <div class="photo-tri-item">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260704-geochang-observatory03.jpg" alt="둥지 전망대에서 바라본 Y자 출렁다리" class="photo-tri-img">
-    <span class="photo-caption">둥지 전망대에서 바라본 Y자 출렁다리</span>
-  </div>
-</div>
-
-정상에는 **조그마한 Y자 전망대**와 새 둥지처럼 동그랗게 생긴 **'둥지 전망대'**가 마련되어 있습니다. 둥지 전망대에 올라서니 이마에 맺힌 땀을 씻어주는 시원한 산바람과 탁 트인 발아래 절경 덕분에 가슴이 뻥 뚫리는 기분이었습니다. 
-
-기분 좋게 하산하여 힐링랜드 쪽으로 내려오니, 산림휴양관과 숲속의 집 같은 훌륭한 숙박시설들이 자연과 조화롭게 어우러져 있었습니다. 기회가 된다면 예약 전쟁에 참전해서 꼭 1박을 해보고 싶더라고요. 다리가 불편하시거나 어린아이를 동반한 분들도 편하게 숲을 즐길 수 있도록 경사가 완만한 **무장애 데크로드**도 무척 잘 조성되어 있었습니다.
-
-산책로 끝자락에 설치된 **'헬스게이트'**에서 각자의 뱃살(?) 크기에 맞는 칸을 통과해 보는 소소한 재미도 놓치지 마세요! 
-
-*(참고로 올해는 거창 방문의 해라 홈페이지에서 쿠폰북을 신청하면 제휴 업체 할인을 받을 수 있다고 하니 꼭 챙겨보세요!)*
-
----
-
-<a id="guide"></a>
-## 📌 5. 알아두면 유용한 거창 항노화 힐링랜드 방문 가이드
-
-<table class="guide-table">
-  <thead>
-    <tr>
-      <th style="text-align: left; width: 25%;">🔖 구분</th>
-      <th style="text-align: left;">📝 상세 정보</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>📍 주소</strong></td>
-      <td>경남 거창군 가조면 의상봉길 834 (거창항노화힐링랜드)</td>
-    </tr>
-    <tr>
-      <td><strong>💵 요금</strong></td>
-      <td>일반 3,000원 (만 7세 이상 ~ 만 65세 미만)</td>
-    </tr>
-    <tr>
-      <td><strong>⏰ 개방 시기 (운영 시간)</strong></td>
-      <td>
-        <strong>하절기 (3월 ~ 10월) :</strong> 09:00 ~ 17:50 (셔틀 이용: 17시까지)<br>
-        <strong>동절기 (11월 ~ 2월) :</strong> 09:00 ~ 16:50 (셔틀 이용: 16시까지)<br>
-        셔틀버스 운영 기간 : 3월 중순 ~ 12월 중순
-      </td>
-    </tr>
-    <tr>
-      <td><strong>❌ 휴무일</strong></td>
-      <td><strong>매주 화요일 휴무</strong></td>
-    </tr>
-    <tr>
-      <td><strong>📞 문의전화</strong></td>
-      <td>055-940-7930</td>
-    </tr>
-    <tr>
-      <td><strong>🎫 주요 특징</strong></td>
-      <td>
-        해발 1,046m 우두산 자락에 위치. 국내 최초 교각 없는 Y자 출렁다리, 견암폭포, 자생식물원, 숙박시설, 무장애 데크로드 보유. 하산 후 수질 좋은 '가조 온천'을 즐기기 좋은 웰니스 관광지입니다.
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<div class="source-citation">
-  <span>※ 참고 자료 및 출처 :</span>
-  <a href="https://www.foresttrip.go.kr/indvz/main.do?hmpgId=ID02030109" target="_blank" rel="noopener noreferrer">숲나들e 거창항노화힐링랜드 누리집</a>
-</div>
-<div class="source-citation" style="margin-top:-20px;">
-  <span>※ 참고 자료 및 출처 :</span>
-  <a href="https://www.geochang.go.kr/tour.web" target="_blank" rel="noopener noreferrer">거창 문화관광포털</a>
-</div>
-
----
-
-### 🗺️ 거창 우두산 항노화 힐링랜드 찾아가는 길
-
-<div class="blog-map-container">
-  <p class="blog-map-title">🌊 오늘 다녀온 곳 : <span class="blog-map-place">거창 항노화 힐링랜드 (Y자 출렁다리)</span> <br> <span class="blog-map-address" style="font-weight:400; font-size:14px; color:#666;">경상남도 거창군 가조면 수월리 산19</span></p>
-  <div class="blog-map-wrapper">
-    <div id="daumRoughmapContainer1783173938356" class="root_daum_roughmap root_daum_roughmap_landing"></div>
-    <script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
-    <script charset="UTF-8">
-        new daum.roughmap.Lander({
-            "timestamp" : "1783173938356",
-            "key" : "qa6tbonaifp",
-            "mapWidth" : "100%",
-            "mapHeight" : "360"
-        }).render();
-    </script>
-  </div>
-</div>
-
----
-
-Y자 출렁다리의 짜릿함도 좋았지만, 땀 흘리며 올라가 마주한 우두산의 웅장한 돌산 절경이 오랫동안 마음에 남을 것 같습니다. 거창의 매력에 푹 빠진 김에, 다가오는 가을에는 해발 900m '거창 별바람언덕'에 만개할 보랏빛 아스타 국화꽃을 보러 감악산 등산을 떠나볼 계획입니다. 대구 근교 당일치기 힐링 여행지를 찾으신다면 거창 항노화 힐링랜드를 적극 추천합니다! 😊
-
----
-
->💡 **[날마다 소품]의 나들이 기록 더 보기**
-
-<div class="post-card-grid">
-  {% include post-card.html url="/daily/2026/06/06/changnyeong.html" %}
-  {% include post-card.html url="/daily/2026/06/03/jinbatgol.html" %}
-  {% include post-card.html url="/daily/2026/06/13/masan.html" %}
-</div>
+<div id="daumRoughmapContainer1783173938356" class="root_daum_roughmap root_daum_roughmap_landing"></div>
+<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+<script charset="UTF-8">
+    new daum.roughmap.Lander({
+        "timestamp" : "1783173938356",
+        "key" : "qa6tbonaifp",
+        "mapWidth" : "100%",
+        "mapHeight" : "360"
+    }).render();
+</script>
