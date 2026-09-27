@@ -36,12 +36,18 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
   <section class="recent-stories">
     <div class="section-header">
       <h2>Recently Posted Stories</h2>
-      <a href="/archive/" class="view-all">VIEW ALL ARCHIVE</a>
+      <!--<a href="/archive/" class="view-all">VIEW ALL ARCHIVE</a>-->
     </div>
     <div class="stories-divider"></div>
 
     <div class="stories-grid" id="index-grid">
       {% for post in site.posts offset:1 %}
+      
+        <!-- 💡 health 카테고리 글은 출력하지 않고 다음 글로 건너뜁니다 -->
+        {% if post.categories contains 'health' %}
+          {% continue %}
+        {% endif %}
+
       <article class="story-card index-story-card">
         <a href="{{ post.url }}" class="card-image">
           <img src="{{ site.kor_url }}{{ post.image | default: '/assets/images/default.jpg' }}" alt="{{ post.title }}">
@@ -132,7 +138,7 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
   
   </section>-->
 
-  <section class="bottom-action-banners">
+  <!-- 메일링 <section class="bottom-action-banners">
     
     <div class="action-box newsletter-box">
       <h2 class="action-title">Monthly Prop Story</h2>
@@ -156,7 +162,7 @@ description: 정성스럽게 지은 패브릭 소품 제작 과정과 따뜻한 
       <a href="https://nalmadasopum.kr/" target="_blank" class="btn-underline">ENTER SHOPPINGMALL</a>
     </div>
 
-  </section>
+  </section>-->
 
   <!--<div class="ad-space ad-bottom"> 광고
     <span class="ad-text">Advertisement</span>

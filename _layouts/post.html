@@ -40,7 +40,8 @@ layout: default
 
   <footer class="post-footer" style="display: flex; gap: 15px; justify-content: center; margin-top: 40px; flex-wrap: wrap; letter-spacing: 0.1em;">
     
-  {% if page.categories.size > 0 %}
+  {% comment %} <!--주석처리 시작-->
+{% if page.categories.size > 0 %}
     {% assign base_url = '/category/' | append: page.categories.first | append: '/' %}
     
     {% if page.tags.size > 0 %}
@@ -54,6 +55,7 @@ layout: default
       ← <b>{{ page.main_menu | default: '카테고리' }}</b> VIEW
     </a>
   {% endif %}
+{% endcomment %}<!--주석처리 끝-->
 
   <!--<a href="{{ '/' | relative_url }}" class="back-to-list">Home</a>-->
   

@@ -9,6 +9,12 @@ permalink: /archive/
   
   <div class="archive-grid" id="archive-grid">
     {% for post in site.posts %}
+    
+    <!-- 💡 health 카테고리나 폴더에 속한 글은 화면에 그리지 않고 다음 글로 건너뜁니다 -->
+    {% if post.categories contains 'health' or post.url contains '/health/' %}
+      {% continue %}
+    {% endif %}
+
     <div class="archive-card">
       <a href="{{ post.url }}">
         <div class="archive-img-wrap">
