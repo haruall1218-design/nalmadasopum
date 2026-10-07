@@ -1,146 +1,92 @@
 ---
 layout: post
-title: "[대구 가볼 만한 곳] 하얀 샤스타 데이지가 반겨주는 이현공원 주말 산책"
+title: "[대구 가볼 만한 곳] 이현공원 샤스타 데이지와 삼색버들, 5월 주말 산책"
+description: "대구 서구 이현공원을 2026년 5월에 직접 걸어본 주말 산책 후기입니다. 삼색버들과 샤스타 데이지 꽃밭, 어린이 물놀이장, 숲 둘레길 그린웨이까지 실제 방문하면서 둘러본 공원 풍경을 기록했습니다."
 date: 2026-05-16
 categories: travel-reviews
 main_menu: "소소한 일상"
-tags: [오늘의 단상, 일상, 이현공원, 대구산책, 샤스타데이지, 화이트 핑크 셀릭스, 삼색버들, 그린웨이, 물놀이장, 대구 가볼 만한 곳]
+tags: [오늘의 단상, 이현공원, 대구 산책로, 샤스타데이지, 삼색버들, 화이트 핑크 셀릭스, 그린웨이, 대구 가볼 만한 곳, 주말 나들이, 날마다 소품]
 image: "/assets/images/travel-reviews/260516-ihyeon-park-main.jpg"
 ---
 
-안녕하세요! 평범한 일상 속에서 소소한 행복을 찾아가는 **'날마다 소품'**입니다. 😊
+안녕하세요! 평범한 일상 속에서 소소한 행복을 찾아가는 '날마다 소품'입니다. 😊
 
-날씨가 참 좋은 주말, 하얀 샤스타 데이지가 예쁘게 피었다는 소식을 듣고 대구 서구에 위치한 **이현공원**에 다녀왔습니다. 가벼운 마음으로 나선 길이었는데, 생각보다 훨씬 크고 조경이 아름다워서 걷는 내내 감탄이 절로 나왔어요.
+화창한 주말을 맞아 하얀 샤스타 데이지가 예쁘게 피어났다는 소식을 듣고 대구 서구에 위치한 이현공원으로 발걸음을 옮겼습니다. 가벼운 마음으로 나선 동네 산책길이었는데, 막상 가보니 규모도 생각보다 훨씬 크고 아기자기한 조경이 잘 가꾸어져 있어 걷는 내내 감탄이 절로 나왔습니다.
+
+나지막한 야산의 지형을 따라 숲길과 꽃밭이 이어져 있어 평지 공원과는 또 다른 느낌으로 걸을 수 있었습니다.
 
 ![이현공원에 예쁘게 피어난 샤스타 데이지]({{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-main.jpg)
 
----
+### 자연 지형을 살린 다채로운 두 가지 매력
 
-## 🌳 나지막한 언덕 지형을 살린 다채로운 공원
+이현공원에 들어서서 천천히 둘러보니 구민운동장을 비롯해 예쁜 꽃밭이 펼쳐진 동원, 청소년수련관, 숲체험원, 각종 체육시설, 그리고 여름철 명물인 어린이 물놀이장까지 알차게 갖추어져 있었습니다.
 
-이현공원은 평지공원이 아니라 나지막한 야산의 지형을 그대로 살려 만든 곳이라 걷는 내내 지루하지 않고 자연스러운 매력이 느껴졌습니다. 
+특히 이 공원은 걸음을 옮길 때마다 전혀 다른 두 가지 분위기를 느낄 수 있어 매력적이었습니다.
 
-실제로 가보니 구민운동장을 비롯해 예쁜 꽃밭이 있는 동원, 청소년 수련관, 숲체험원, 체육시설, 그리고 끝자락의 어린이 물놀이장까지 갖춘 꽤 큰 규모의 공원이더라고요. 공원 한쪽에는 물줄기를 뿜어내는 작은 분수도 있어서 경관이 참 아름다웠습니다.
+* **화사한 정원 구역 (동원 및 물놀이장 부근):** 아기자기한 꽃밭과 조경수들이 정갈하게 꾸며져 있어 꽃구경을 하거나 예쁜 사진을 남기기에 제격이었습니다. 옆으로는 푸른 잔디밭과 작은 어린이 놀이터도 있어 가족단위 방문객들도 많이 보였습니다.
 
-특히 이 공원은 걷다 보니 서로 다른 매력을 가진 두 공간으로 나뉘어 있어서 참 좋았습니다.
-* **화사한 정원 쪽 (동원 & 물놀이장 부근):** 아기자기하고 예쁜 정원처럼 꾸며져 있어서 천천히 산책하며 사진을 남기거나 아이들과 함께 놀기에 딱 좋은 곳이었습니다. 조금 더 가면 넓은 잔디도 있고, 조그마한 놀이터도 있었어요.
-* **한적한 숲 쪽 (반대편):** 반대쪽은 울창한 숲속에 군데군데 정자와 의자가 잘 갖춰져 있었어요. 앞쪽 정원에 비해 상대적으로 조용하고 한적해서 가만히 앉아 숲을 느끼며 쉬어가기에 아주 좋았습니다. 
-마침 물을 주는 시간이라 기계에서 물이 뿜어져 나오니 새들이 그 물에 맞춰 시원한 물줄기를 맞고 있더라구요. 동영상을 남기려고 했는데 다가가니 낌새를 느꼈는지 나무 위로 올라가 버려서 아쉬웠어요.
+* **한적한 숲길 구역 (반대편 숲):** 정원 쪽을 벗어나 반대편으로 넘어가면 울창한 나무들이 우거진 깊은 숲길이 나타납니다. 숲속 곳곳에 쉼터 정자와 벤치가 넉넉하게 놓여 있어 조용히 산바람을 맞으며 잔디밭과 놀이터 주변에서 잠시 쉬어가는 모습도 볼 수 있었습니다.
 
----
+저 또한 숲길 쪽은 상대적으로 조용해서 저는 이쪽에서 잠시 걸음을 늦추고 쉬어갔습니다.
 
-## 🌼 눈꽃을 닮은 삼색버들과 화사한 샤스타 데이지
+마침 나무에 물을 주는 시간이었는지 스프링클러에서 시원한 물줄기가 뿜어져 나오고 있었는데, 작은 산새들이 날아와 그 물방울에 몸을 적시며 더위를 식히는 귀여운 모습을 보았습니다. 살며시 다가가 카메라에 담아보려 했지만 낌새를 눈치챘는지 포르르 나무 위로 날아가 버려 아쉬운 미소를 지었습니다.
 
-공원 곳곳이 예쁜 조경으로 가득 차 있었지만, 유독 오래 머물게 만든 예쁜 곳들이 있었어요.
+### 눈꽃을 닮은 삼색버들과 화사한 샤스타 데이지
 
-### 마치 흰 꽃이 핀 것 같은 삼색버들
-공원 한쪽에 삼색버들 여러 그루가 동그랗게 모여 심겨 있었는데, 멀리서 볼 때는 나무에 온통 하얀 눈꽃이나 흰 꽃이 만개한 것처럼 보여서 눈을 뗄 수 없을 만큼 너무나 예뻤답니다. 나중에 정원이 딸린 집에 산다면 꼭 심고 싶은 삼색버들이에요.
+공원 안쪽으로 더 들어가니 유독 발길을 오래 머물게 만든 특별한 꽃과 나무들이 반겨주었습니다.
 
-<div class="checkerboard-grid">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-white-pink-salix-01.jpg" alt="이현공원 삼색버들 풍경 1">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-white-pink-salix-02.jpg" alt="이현공원 삼색버들 풍경 2">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-white-pink-salix-03.jpg" alt="이현공원 삼색버들 풍경 3">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-white-pink-salix-04.jpg" alt="이현공원 삼색버들 풍경 4">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-white-pink-salix-05.jpg" alt="이현공원 삼색버들 풍경 5">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-white-pink-salix-06.jpg" alt="이현공원 삼색버들 풍경 6">
-</div>
+가장 먼저 감탄을 자아낸 곳은 둥글게 모여 심겨 있던 '삼색버들' 군락지였습니다. 멀리서 바라보았을 때는 초여름 나뭇가지 위에 하얀 눈꽃이나 흰 꽃이 탐스럽게 핀 줄 알고 깜짝 놀랐습니다. 
 
-> **삼색버들**은 다른 이름으로 화이트 핑크 셀릭스(White Pink Salix)라고도 불리는 식물입니다.
-> 봄에 새로 돋아나는 잎이 분홍색, 하얀색, 초록색의 세 가지 색상을 띠어 매우 화사하고 아름답기 때문에 조경수나 정원수로 아주 인기가 많습니다.
-> 봄철에 가장 화려한 색을 뽐내다가, 여름이 가까워지고 날씨가 더워지면 잎이 점차 초록색으로 변하는 특징을 가지고 있습니다.
+안내판을 보니 이 나무는 '화이트 핑크 셀릭스'라고도 불리는 삼색버들이었습니다. 봄에 새로 돋는 잎이 흰색과 분홍색, 초록색을 띠어 멀리서 보면 마치 하얀 꽃이 핀 것처럼 보였습니다. 날이 더워질수록 점차 짙은 초록색으로 변해간다고 합니다. 그래서 5월에 방문하니 흰색과 분홍빛이 섞인 잎을 가장 선명하게 볼 수 있었던 것 같습니다.
 
-### 초여름의 전령사, 샤스타 데이지
-지난번 영천에서도 보았지만 새하얗게 피어난 샤스타 데이지는 기대를 저버리지 않고 너무나 아름다웠습니다. 하얀 데이지 꽃들이 앞줄에 가득 피어 있고, 그 뒤쪽으로 여러 가지 다채로운 꽃들이 줄을 맞춰 정갈하게 심겨 있는 모습이 참 조화로웠어요.
+![이현공원 삼색버들 풍경 1]({{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-white-pink-salix-01.jpg)
 
-<div class="checkerboard-grid">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-01.jpg" alt="이현공원 샤스타 데이지 1">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-02.jpg" alt="이현공원 샤스타 데이지 2">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-03.jpg" alt="이현공원 여러 가지 꽃들 1">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-04.jpg" alt="이현공원 금계국">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-05.jpg" alt="이현공원 여러 가지 꽃들 3">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-06.jpg" alt="이현공원 꽃밭 풍경 1">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-07.jpg" alt="이현공원 꽃밭 풍경 2">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-08.jpg" alt="이현공원 꽃밭 풍경 3">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-09.jpg" alt="이현공원 꽃밭 풍경 4">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-10.jpg" alt="이현공원 작은 분수">
-</div>
+![이현공원 삼색버들 풍경 2]({{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-white-pink-salix-02.jpg)
 
----
+삼색버들을 지나 꽃밭 쪽으로 가니 오늘의 주인공인 샤스타 데이지가 환한 얼굴로 반겨주었습니다. 
 
-## 💦 아이들과의 추억이 방울방울, 어린이 물놀이장
+노란 꽃술 둘레로 새하얀 꽃잎을 활짝 펼친 데이지 꽃들이 앞줄을 가득 채우고, 그 뒤편으로 노란 금계국과 다른 계절 꽃들이 함께 피어 있어 색감이 꽤 풍성했습니다. 꽃밭 한가운데에서 시원한 물줄기를 뿜어 올리는 작은 분수대까지 더해져 아름다웠습니다.
 
-발길을 돌려 공원 끝자락에 있는 물놀이장 쪽으로 가보았습니다. 이 물놀이장은 우리 아이들이 아주 어릴 때 한번 데리고 왔던 기억이 있는 곳이에요. 아이들이 물속에서 참 재미있게 놀았던 기억이 새록새록 떠올라 그 시절이 그리웠어요.
+![이현공원 샤스타 데이지 1]({{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-01.jpg)
 
-오랜만에 다시 마주한 물놀이장은 그때보다 규모도 더 크게 확장되어 있고, 주변도 아주 깔끔하게 정돈되어 있더라고요. 다가올 여름에 아이들의 까르르 웃는 웃음소리로 가득 찰 풍경이 그려지네요.
+![이현공원 샤스타 데이지 2]({{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-02.jpg)
 
-<div class="photo-dual-container">
-  
-  <div class="photo-dual-item">
-    <img src="/assets/images/travel-reviews/260516-ihyeon-park-water-playground-01.jpg" alt="어린이 물놀이장" class="photo-dual-img">
-  </div>
+![이현공원 금계국]({{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-04.jpg)
 
-  <div class="photo-dual-item">
-    <img src="/assets/images/travel-reviews/260516-ihyeon-park-water-playground-02.jpg" alt="축구장 넘어로 보이는 물놀이장" class="photo-dual-img">
-  </div>
+![이현공원 작은 분수]({{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-flowers-10.jpg)
 
-</div>
+### 옛 추억이 방울방울 떠오르는 어린이 물놀이장
 
-> **💡 이현공원 어린이 물놀이장 운영 정보 (2025년 기준)**
-> * **운영 기간:** 7월 17일 ~ 8월 24일 (매주 월요일 휴장, 우천 시 미운영)
-> * **운영 시간:** 11:00 ~ 17:00 (주말 및 공휴일은 18:00까지)
-> * **운영 방식:** 40분 가동 후 20분간 청소 및 휴식 진행
+꽃길을 따라 공원 끝자락으로 걸어가니 널찍한 어린이 물놀이장이 나타났습니다. 
 
----
+우리 아이들이 아주 어릴 때 손을 잡고 와서 함께 물장구를 치며 놀아주었던 소중한 기억이 고스란히 묻어있는 곳입니다. 아이들의 까르르 웃던 해맑은 얼굴이 떠올라 잠시 발걸음을 멈추고 아련한 추억에 젖어보았습니다.
 
-## 🅿️ 주차장
+오랜만에 다시 마주한 물놀이장은 예전에 왔을 때보다 시설이 더 넓고 깔끔해진 것처럼 느껴졌고, 주변 편의시설도 깔끔하게 정돈되어 있었습니다. 여름철이면 이곳도 어린이 물놀이장으로 다시 활기를 띠겠지요. 제가 방문한 5월에는 아직 물놀이 시즌 전이라 한산한 모습이었습니다.
 
-구민운동장 쪽 입구에 규모가 좀 작지만 주차장이 마련되어 있습니다.
+![어린이 물놀이장]({{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-water-playground-01.jpg)
 
-<div class="photo-dual-container">
-  
-  <div class="photo-dual-item">
-    <img src="/assets/images/travel-reviews/260516-ihyeon-park-parking-01.jpg" alt="주차장 1" class="photo-dual-img">
-  </div>
+![축구장 넘어로 보이는 물놀이장]({{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-water-playground-02.jpg)
 
-  <div class="photo-dual-item">
-    <img src="/assets/images/travel-reviews/260516-ihyeon-park-parking-02.jpg" alt="주차장 2" class="photo-dual-img">
-  </div>
+### 걷기 좋은 둘레길 그린웨이와 주차 팁
 
-</div>
+공원 외곽을 크게 한 바퀴 감싸며 도는 둘레길인 '그린웨이'도 산책로가 아주 정갈하게 닦여 있었습니다. 
 
----
+안내판을 살펴보니 전체 코스를 한 바퀴 완주하면 약 7,000m(7km)에 달하는 긴 산책로였습니다. 제가 걸어본 구간은 완만한 흙길과 나무 그늘이 이어져 있어 천천히 걷기에 부담이 크지 않았습니다. 언덕 정상 부근에는 가볍게 몸을 풀 수 있는 야외 체육시설도 잘 갖추어져 있었습니다.
 
-## 🚶‍♀️ 걸음을 재촉하게 만드는 둘레길, 그린웨이
+이현공원 주차는 서구민운동장 쪽 입구에 마련된 전용 주차장을 이용하시면 됩니다. 주차 공간이 그리 넓은 편은 아니라서 제가 방문한 토요일에는 주차장에 차량이 꽤 있어 빈자리를 찾는 데 시간이 조금 걸렸습니다.
 
-공원 외곽을 크게 돌 수 있는 둘레길인 '그린웨이'도 조성이 잘 되어 있었는데요. 안내판을 보니 전체 코스를 쭉 걸을 경우 약 7,000m(7km)쯤 되는 것 같았습니다. 풍경을 감상하며 조금 빠른 걸음으로 걸으면 훌륭한 유산소 운동이 될 것 같더라고요. 
-
-정상쪽엔 체육시설이 자리하고 있어서 이용해 보면 좋을 것 같아요.
-
-집이 이 근처였다면 자주 찾아와 산책했을 텐데, 거리가 조금 있어서 자주 오지 못한다는 게 못내 아쉽게 느껴지네요. 
-
-초록 가득한 자연과 화사한 꽃들이 예쁘게 어우러진 이현공원, 주말에 가족들과 조용히 산책할 곳을 찾으신다면 꼭 한번 방문해 보시길 추천해 드립니다. 😊
+![주차장 1]({{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-parking-01.jpg)
 
 ![이현공원 종합 안내도]({{ site.kor_url }}/assets/images/travel-reviews/260516-ihyeon-park-information.jpg)
 
+집 근처에 이런 공원이 있다면 매일 아침저녁으로 산책하러 나왔을 텐데, 거리가 조금 떨어져 있어 자주 찾지 못한다는 점이 아쉬웠습니다. 다음에는 꽃이 다른 계절의 이현공원도 한번 걸어보고 싶습니다.
+
 ---
 
-## 이현공원 지도
+### 대구 이현공원 위치 안내
 
-<!-- 📍 이현공원 지도 영역 -->
+대구광역시 서구 이현동 산119
 
 <div class="blog-map-container">
-  <p class="blog-map-title">🌼 오늘 다녀온 곳 : <span class="blog-map-place">이현공원</span> <br> <span class="blog-map-address">대구 서구 이현동 산119</span></p>
-  <div class="blog-map-wrapper">
-    <iframe src="https://maps.google.com/maps?q=대구%20서구%20이현동%20산119&t=&z=15&ie=UTF8&iwloc=&output=embed" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-  </div>
-</div>
-
----
-
->💡 [날마다 소품]의 산책 기록 더 보기
-
-<div class="post-card-grid">
-  {% include post-card.html url="/daily/2026/05/16/igok-rose-park.html" %}
-  {% include post-card.html url="/daily/2026/05/09/yeongcheon-purple-canola.html" %}
-  {% include post-card.html url="/daily/2026/05/01/gyohang-ri-lee-pop.html" %}
+  <iframe src="https://maps.google.com/maps?q=대구%20서구%20이현동%20산119&t=&z=15&ie=UTF8&iwloc=&output=embed" allowfullscreen="" aria-hidden="false" tabindex="0" style="width:100%; height:360px; border:0; border-radius:8px;"></iframe>
 </div>

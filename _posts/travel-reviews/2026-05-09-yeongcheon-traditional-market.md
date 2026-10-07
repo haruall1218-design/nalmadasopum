@@ -1,95 +1,73 @@
 ---
 layout: post
-title: "[대구 근교 나들이] 영천공설시장에서 소머리곰탕을 사오다"
+title: "[대구 근교 나들이] 꽃구경 뒤 찾은 영천공설시장, 곰탕과 쑥떡을 사 온 날"
+description: "영천생태지구공원 나들이 후 찾은 영천공설시장 방문기입니다. 현대식으로 깔끔해진 재래시장 풍경부터 유명한 곰탕 골목 한우 살코기 곰탕 포장, 달콤한 식혜와 쑥떡, 주차 및 휴무일 팁까지 전합니다."
 date: 2026-05-09
 categories: travel-reviews
-main_menu: "소소한 일상"      
-tags: [오늘의 단상, 영천, 영천공설시장, 전통시장, 시장투어, 곰탕골목, 한우곰탕, 소머리곰탕, 일상기록, 영천여행, 대구 근교 나들이]  
-image: "/assets/images/travel-reviews/260509-yeongcheon-traditional-market-main.jpg"   
+main_menu: "소소한 일상"
+tags: [오늘의 단상, 영천, 영천공설시장, 전통시장, 시장투어, 곰탕골목, 한우곰탕, 소머리곰탕, 영천여행, 대구 근교 나들이, 날마다 소품]
+image: "/assets/images/travel-reviews/260509-yeongcheon-traditional-market-main.jpg"
 ---
 
-영천생태지구공원의 보라 유채꽃을 보고 난 뒤, 영천시장으로 향했어요.
-다른 지역을 방문하면 근처 시장을 둘러보는 것이 어느새 저만의 하나의 룰이 되었네요.
-내가 사는 곳과는 또 다른, 색다른 풍경을 구경하는 재미가 있다고나 할까요?
-
----
-
-## 현대식으로 깔끔해진 영천 재래시장
+영천생태지구공원에서 꽃구경을 마친 뒤 가까운 영천공설시장으로 향했습니다. 다른 지역으로 나들이를 가면 그 지역 전통시장을 한 번쯤 둘러보고 오는 것이 제 여행 습관이기도 합니다.
 
 ![현대식으로 정비된 영천공설시장 전경]({{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-main.jpg)
 
-영천 시장은 안으로 들어가 보니 무척 깔끔한 현대식으로 바뀌어 있었어요.
-제가 간 날은 아쉽게도 많은 곳이 쉬는 날이어서 문을 닫아 놓았더라고요.
-그렇게 아쉬운 마음을 달래며 구경을 하다 보니 어느새 **곰탕 골목**이 나타났습니다.
+### 현대식 아케이드로 깔끔하게 단장된 영천 재래시장
 
-시장 안에 이렇게 많은 곰탕 가게가 모여 있는지는 모르고 갔었는데, 솥에서 끓고 있는 엄청난 양의 곰탕을 보고 정말 깜짝 놀랐어요.
+시장 입구에 다다르니 예전 시골 장터의 무질서하고 낡은 모습 대신, 비가 와도 끄떡없을 만큼 높은 천장 아케이드 지붕이 씌워진 현대식 시장 풍경이 시원스레 펼쳐졌습니다.
 
-<br>
+바닥이 잘 포장되어 있고 점포 구획도 정돈되어 있어 시장 안을 걸어 다니기 편했습니다. 다만 제가 방문했던 날은 마침 많은 가게들이 쉬어가는 날이었는지, 셔터를 내려놓은 점포들이 꽤 많아서 장터 특유의 왁자지껄한 인파를 온전히 느끼지는 못해 조금 아쉬웠습니다.
 
-**📸 영천공설시장 풍경**
+하지만 그 덕분에 한적한 골목길을 느긋하게 산책하듯 걸으며 점포 구석구석을 더 찬찬히 들여다볼 수 있었습니다. 골목을 지나며 과일이며 채소, 건어물을 파는 상점들을 둘러보던 중, 구수한 고기 육수 냄새가 코끝을 스치기 시작했습니다.
 
-<div class="checkerboard-grid">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-01.jpg" alt="영천공설시장 입구">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-02.jpg" alt="현대식으로 정비된 시장 아케이드">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-03.jpg" alt="시장 내부 풍경">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-04.jpg" alt="쉬는 날이라 닫힌 점포들">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-05.jpg" alt="정겨운 시장 골목">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-06.jpg" alt="시장 구경하는 사람들">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-07.jpg" alt="다양한 물건을 파는 상점">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-08.jpg" alt="영천시장 골목 풍경">
-</div>
+![영천공설시장 입구]({{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-01.jpg)
 
----
 
-## 영천시장 내 명물, 곰탕 골목
+![시장 내부 풍경]({{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-03.jpg)
 
-곰탕 골목 입구에 있는 가게에서 한우 살코기 곰탕을 사 가지고 집에 왔어요.
-포장용은 따로 고기와 국물을 넉넉하게 담아서 냉장 보관을 하고 있더라고요.
-인심 좋은 시장답게 시원하고 달달한 식혜도 한 잔 마셨습니다.
+![쉬는 날이라 닫힌 점포들]({{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-04.jpg)
 
-집에 와서 먹어보니 곰탕 맛이 아주 좋았어요. 국물이 진하고 고기도 부드러워서, 다음엔 소머리 곰탕으로도 꼭 사 봐야겠다고 다짐했습니다.
+![정겨운 시장 골목]({{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-05.jpg)
 
-민속떡집에서 쑥떡과 콩고물도 사왔는데, 쑥이 많이 들어갔는지 향이 아주 좋았어요.
-가족 중에 쑥떡을 좋아하는 사람이 있어 사왔는데 아주 대만족 하더라고요.
-<br>
 
-**🍲 맛있는 곰탕과 먹거리들**
+### 구수한 냄새가 이끄는 곳, 영천의 명물 곰탕 골목
 
-<div class="checkerboard-grid">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-09.jpg" alt="곰탕 골목 간판">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-10.jpg" alt="가마솥에서 끓고 있는 곰탕">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-11.jpg" alt="곰탕 가게 외부 풍경">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-12.jpg" alt="먹음직스러운 한우 곰탕">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-13.jpg" alt="깔끔하게 포장된 곰탕">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-14.jpg" alt="살코기가 듬뿍 들어간 모습">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-15.jpg" alt="시원하고 달달한 식혜">
-    <img src="{{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-16.jpg" alt="영천공설시장 나들이 완료">
-</div>
+시장 안쪽으로 들어가니 곰탕집들이 모여 있는 골목이 눈에 들어왔습니다.
 
----
+사전에 큰 정보 없이 들렀던 터라 시장 안쪽에 이렇게 전문적인 곰탕 가게들이 길게 모여있는 줄은 전혀 몰랐습니다. 골목 안으로 들어서자마자 커다란 무쇠 가마솥마다 뽀얀 육수가 하얀 김을 뿜으며 펄펄 끓고 있었는데, 그 엄청난 양과 진한 냄새에 절로 감탄이 나왔습니다. 
 
-## 주차 및 휴무일 정보
+솥 앞을 지키는 상인분들의 정성스러운 손길을 보고 있으니 그냥 지나칠 수가 없겠더라고요. 골목 입구에 자리한 가게에 들러 집에서 가족들과 함께 먹을 한우 살코기 곰탕을 넉넉하게 포장 주문했습니다. 
 
-주차는 시장의 2층과 3층에 주차장이 잘 정비되어 있어 아주 편리할 것 같았어요.
-저는 주차장이 이렇게 잘 되어 있는지 모르고, 영천생태지구공원에 차를 그대로 주차해 둔 채 조금 걸어왔답니다.
+포장해 달라고 말씀드리니 고기와 육수를 따로 넉넉하게 담아주셨습니다. 계산을 마치고 돌아서려는데 인심 좋은 사장님께서 건네주신 시원하고 달콤한 살얼음 식혜 한 잔을 마시니, 걷느라 말랐던 목이 시원하게 풀리며 기분이 참 좋아졌습니다. 
 
-**💡 방문 전 꼭 확인하세요!**
-영천공설시장은 **매월 1일과 15일이 정기 휴무일**이라 모든 시장이 문을 닫는다고 하니, 방문하실 분들은 꼭 참고하시길 바랍니다.
+곰탕을 챙긴 뒤 근처 민속떡집에서 진한 초록빛 쑥떡과 고소한 콩고물도 한 팩 사 들었습니다. 포장을 뜯기도 전부터 쑥 향기가 진하게 풍겨왔는데, 집에 돌아와 쑥떡을 좋아하는 가족에게 건네주니 쫄깃하고 향이 깊다며 연신 칭찬을 아끼지 않았습니다.
+
+집에 돌아와 냄비에 곰탕을 넣고 다시 끓여 밥을 말아 먹었습니다. 국물은 진한 편이었지만 짜다는 느낌은 없었고, 포장할 때 함께 담아준 살코기도 생각보다 넉넉했습니다. 시장에서 바로 먹지 않고 집에서 다시 끓여 먹으니 한 끼 식사로 든든했습니다.다음번 장날에 다시 오게 된다면 쫀득한 식감이 일품인 소머리 곰탕도 꼭 맛보고 싶어졌습니다.
+
+![곰탕 골목 간판]({{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-09.jpg)
+
+![먹음직스러운 한우 곰탕]({{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-12.jpg)
+
+![살코기가 듬뿍 들어간 모습]({{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-14.jpg)
+
+![시원하고 달달한 식혜]({{ site.kor_url }}/assets/images/travel-reviews/260509-yeongcheon-traditional-market-15.jpg)
+
+### 영천공설시장 주차 팁과 정기 휴무일 안내
+
+* **위치**: 경북 영천시 시장4길 52 (영천공설시장)
+* **주차 정보**: 시장 건물 2층과 3층에 넓은 공영주차타워가 완비되어 있어 주차가 매우 수월합니다. 저는 주차 시설이 이렇게 잘 갖춰져 있는지 모르고 앞서 들렀던 영천생태지구공원에 차를 둔 채 걸어왔는데, 짐이 많거나 어르신을 동반하신다면 시장 주차장으로 바로 진입하시는 편이 훨씬 편리합니다.
+* **휴무일 주의사항**: 제가 방문한 날에는 쉬는 점포가 꽤 많았습니다. 시장을 찾기 전 방문하려는 점포의 영업 여부와 장날을 미리 확인하면 좋겠습니다. 현장 안내문에 따르면 영천공설시장은 매월 1일과 15일을 정기 휴무일로 안내하고 있었습니다. 방문 전에는 변경 여부를 한 번 더 확인하는 것이 좋겠습니다.
+* **장날 정보**: 영천 오일장은 끝자리가 2일, 7일(2, 7, 12, 17, 22, 27일)일장이 열리는 것으로 안내되어 있습니다. 더 활기차고 북적이는 시골 오일장의 정취를 느끼고 싶으시다면 장날에 맞춰 들러보시는 것도 좋은 선택입니다.
+
+봄날의 화사한 꽃구경 뒤에 만난 묵직하고 따스한 곰탕 한 그릇 덕분에 몸도 마음도 든든하게 채워진 주말 나들이였습니다. 봄날의 꽃구경 뒤에 들른 시장에서 곰탕과 쑥떡까지 챙겨 오니 하루 나들이가 꽤 알차게 마무리되었습니다. 다음에 영천을 다시 찾는다면 이번에는 오일장이 서는 날에 맞춰 시장의 조금 더 활기찬 모습을 보고 싶습니다.
 
 ---
 
-## 영천공설시장 위치
+### 영천공설시장 찾아가는 길
+
+경북 영천시 시장4길 52
 
 <div class="blog-map-container">
-  <p class="blog-map-title">🛒 오늘 다녀온 곳 : <span class="blog-map-place">영천공설시장</span> <br> <span class="blog-map-address">경북 영천시 시장4길 52</span></p>
-  <div class="blog-map-wrapper">
-    <iframe src="https://maps.google.com/maps?q=경북 영천시 시장4길 52&t=&z=15&ie=UTF8&iwloc=&output=embed" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-  </div>
+  <iframe src="https://maps.google.com/maps?q=경북%20영천시%20시장4길%2052&t=&z=15&ie=UTF8&iwloc=&output=embed" allowfullscreen="" aria-hidden="false" tabindex="0" style="width:100%; height:360px; border:0; border-radius:8px;"></iframe>
 </div>
-
-<br>
-지역의 정취를 흠뻑 느낄 수 있었던 영천공설시장 나들이! 진하게 우러난 곰탕 한 그릇 덕분에 집으로 돌아오는 길이 더욱 든든하고 기분 좋았습니다. 매일 사부작사부작 일상을 지어내는 '날마다 소품'의 소소한 시장 구경 기록이었습니다.
-
-그리고 같은 날 다녀온, 보라빛 물결이 장관이었던 유채꽃 향연의 기록이 궁금하시다면 아래 버튼을 클릭해 주세요! 😊
-
-#### [🌸 황홀한 영천 보라 유채꽃 구경 가기](/daily/2026/05/09/yeongcheon-purple-canola.html)
